@@ -6,9 +6,9 @@
 # Note that environment variables can be set in several places
 # See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
 stages:
-- test
-- staging
-- production
+  - test
+  - staging
+  - production
 
 image: registry.gitlab.com/pages/hugo/hugo:0.92.2
 
