@@ -1,0 +1,19 @@
+---
+title: The Danesh Project is now PR4
+author: Danesh
+date: 2007-11-06T23:11:21+00:00
+url: /posts/the-danesh-project-is-now-pr4/
+pvc_views:
+  - 1928
+dsq_thread_id:
+  - 889737983
+
+---
+Woo hoo!! The Danesh Project is now PR4.
+
+[<img src="http://i62.photobucket.com/albums/h100/vwvr9/pr4.png" border="0" />][1]
+
+Need to check your page rank? [Go here][2].
+
+ [1]: http://www.iwebtool.com/pagerank_checker?domain=http%3A%2F%2Fthedaneshproject.com
+ [2]: http://www.iwebtool.com/pagerank_checker

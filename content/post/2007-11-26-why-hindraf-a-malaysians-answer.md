@@ -1,0 +1,33 @@
+---
+title: Why HINDRAF? A Malaysians’ answer!
+author: Danesh
+date: 2007-11-26T15:22:00+00:00
+url: /posts/why-hindraf-a-malaysians-answer/
+pvc_views:
+  - 4690
+dsq_thread_id:
+  - 889737642
+
+---
+Before I begin, this is my first official post in my bro&#8217;s blog. Just for the record, I am Azlina Manoharan and my bro is Danesh Manoharan. I guess you see the MUHIBAH-ness of my family mirrored through our names!
+
+Okay, back to my view.
+
+I share the same view as you [Abi][1]! We can already see that everyone who was not in support of this rally blaming HINDRAF and their supporters for causing chaos on a calm and peaceful country.
+
+We are accused of being racial! Come on. Grow up! Find some other reasons to look down on us. We are not fighting for Indian rites you fools. Its about the rights of Malaysians. It is not only Indians that are suffering in this country. Everyone who has got no contacts or strings to pull in the government are basically citizens who are non-existent in the this country.
+
+Yes, there are things done to benefit the poor but in the process of giving to the poor, 3/4 of the funds are lost midway, and we know where it all goes. Everyone knows this as a fact but no one wants to question this. Why? Because those who are in the position to ask and be heard don&#8217;t want to loose their income and position in society. On the other hand, those who are willing to ask don&#8217;t have anyone who is willing to take them seriously. How then are we to ask for our rights. A simple example, we asked for a permit to just hand in this Petition, but no, we were refused. I wonder what would have happened if Azalina would have wanted to organize a rally in a similar nature to make a request to the British Govt to allow the development of the sports complex for the training of our athletes. That would have been allowed rite? No chaos would have been caused isn&#8217;t it?
+
+<!--more-->Let&#8217;s see whether this HINDRAF gathering was racial in nature or was is it an attempt to voice out the grievances of people who have been long neglected! The BERSIH rally was mainly composed of Malays and HINDRAF was mainly Indians. In both these rallies there were other races involved too though not many. Both this rallies were treated the same by the govt and police. But when Khairy had a rally for God knows what, FRU was present but no water cannons or tear gas was used. Nothing was done to break this gathering. To my knowledge no permit was given for this gathering though there have been those that have said that permit was given. When Johari was questioned about this, he said he has to check. So, I am pretty sure no permit was given. However, there was no force used to dis[erse the crowd because they were people in power. Not only that, those attending the gathering also had some kind of power. But those involved in the BERSIH and HINDRAF rallies were ordinary people with no power wahtsoever, opposition members who in the eyes of the govt are trouble causers and have supporters who are good for nothing other than creating unrest and chaos in the country. Isn&#8217;t this clear to those of you out there! We don&#8217;t have a racial problem. It is purely a problem caused by greed for power and fame. You can be a Malay, Indian, Chinese, Sikh, Bajau or anything. You are all insignificant unless you can make those in power more popular or you have the money to give them to develop themselves.
+
+It has always been the politicians using racism as their stronghold. Those in power use the police like puppets. The integrity of the police force itself is tarnished. We have a very good police force actually but today we do not respect them at all. Why? Because of this politicians. These police officers are forced to follow orders from these people of power. If they do not do as ordered, they have to suffer the severe consequences. They are not rich people. They also have their families to take care. End of the day, every decision made by them is influenced by their family. They had succumbed to bribery. Who is to be blamed? Thonk before you answer?
+
+The hard work and good intentions of our fore fathers have been forgotten. During my father&#8217;s generation, no one use to talk about racial harmony and neither was there the need to tell a Muslim friend that the food was halal or inform their Hindu friend that beef was not served. It was a general and common knowledge that when a person of a different religion was invited, he need to be taken care and first class treatment was given. Today, everything has to be asked, informed and sometimes a big issue is made if beef or non-halal food is served. A complaint that the host was insensitive to their religion becomes an issue. Guess who makes these remarks? The more we talk about racial harmony the more we are growing apart. Look here. If I invite you to my home, you are my guest and rest assured you will be well take care off. The only important thing for those in power is money and fame. They will do anything for that.
+
+These people have forgotten what is humanity. They have no feelings any more. How could one spray tear gas and use chemical laced water cannons on people who have not caused any harm at all. Fine. The authorities said it was used to disperse the crowd. It was an illegal rally and thus had to disperse the crowd before it got unruly. That is just crap! Devamany, in answering the interviewer from AlJazeera said it was &#8220;the type of crowd&#8221;. I wonder what he meant by that?
+
+Just take a second and think, what would have happened if permit was granted by the police for the gathering. A bunch of people would have gathered in front of the embassy, handed over the petition and crowd dispersed. Everything would have been over in less than 2 hours. But guess what, all this so called chaos that our government and police accused HINDRAF of was caused by their own doing and not HINDRAF. They gave free publicity of the whole event.  
+When I got an SMS 3 weeks ago about this rally, I just ignored it. I told my bro n dad that it must be a hoax. Only a week ago, when I read it in the papers and how worked up the government and their puppets&#8230;ie the police got&#8230;..that it finally hit me that it was all for real. I would like to take this opportunity to thank the govt and police for their &#8220;charitable action&#8221; of spreading the news. You were the reason why so many people turned up. Thanks!!!!!!
+
+ [1]: http://www.abinesh.com/delirium/posts/hindraf-rally-the-way-i-see-it/
