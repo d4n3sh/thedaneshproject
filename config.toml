@@ -1,4 +1,4 @@
-baseURL = "https://d4n3sh.gitlab.io/thedaneshproject/"
+baseURL = "https://d4n3sh.gitlab.io"
 languageCode = "en-us"
 title = "The Danesh Project"
 theme = "minimal-bootstrap-hugo-theme"
