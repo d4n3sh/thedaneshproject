@@ -17,7 +17,7 @@ variables:
 testing:
   stage: testing
   script:
-    - hugo
+    - hugoo
   artifacts:
     paths:
       - public
