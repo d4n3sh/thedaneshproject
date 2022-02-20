@@ -6,7 +6,7 @@
 # Note that environment variables can be set in several places
 # See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
 stages:
-  - test
+  - testing
   - staging
   - production
 
@@ -16,13 +16,13 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 testing:
-  stage: test
+  stage: testing
   script:
     - hugo
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
 sast:
-  stage: test
+  stage: testing
 include:
 - template: Security/SAST.gitlab-ci.yml
