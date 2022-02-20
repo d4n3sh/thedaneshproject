@@ -7,7 +7,6 @@
 # See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
 stages:
   - testing
-  - staging
   - production
 
 image: registry.gitlab.com/pages/hugo/hugo:0.92.2
@@ -21,6 +20,16 @@ testing:
     - hugo
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+
+pages:
+  stage: production
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
 
 sast:
   stage: testing
