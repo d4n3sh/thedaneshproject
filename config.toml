@@ -13,7 +13,7 @@ relativeurls = true
   category = "categories"
 
 [permalinks]
-  post = "/:section/:title/"
+  post = "/posts/:title/"
 
 [params]
   description = "Linux and FOSS loving techie."
