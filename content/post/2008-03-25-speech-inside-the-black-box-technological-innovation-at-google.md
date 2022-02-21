@@ -2,7 +2,6 @@
 title: 'Speech: Inside the Black Box, Technological Innovation at Google'
 author: Danesh
 date: 2008-03-24T16:42:51+00:00
-url: /posts/speech-inside-the-black-box-technological-innovation-at-google/
 pvc_views:
   - 2626
 dsq_thread_id:

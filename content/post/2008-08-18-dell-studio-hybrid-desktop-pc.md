@@ -2,7 +2,6 @@
 title: DELL Studio Hybrid Desktop PC
 author: Danesh
 date: 2008-08-18T12:32:02+00:00
-url: /posts/dell-studio-hybrid-desktop-pc/
 robotsmeta:
   - index,follow
 pvc_views:

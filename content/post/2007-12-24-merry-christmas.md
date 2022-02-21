@@ -2,7 +2,6 @@
 title: Merry Christmas
 author: Danesh
 date: 2007-12-24T12:00:29+00:00
-url: /posts/merry-christmas/
 pvc_views:
   - 2214
 dsq_thread_id:

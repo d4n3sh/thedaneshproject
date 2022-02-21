@@ -2,7 +2,6 @@
 title: Major Skype outage
 author: Danesh
 date: 2007-08-16T19:04:44+00:00
-url: /posts/major-skype-outage/
 pvc_views:
   - 4085
 dsq_thread_id:

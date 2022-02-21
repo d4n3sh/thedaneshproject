@@ -2,7 +2,6 @@
 title: The Internet Bus Project by Google
 author: Danesh
 date: 2009-02-04T09:38:27+00:00
-url: /posts/the-internet-bus-project-by-google/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Sleep sleep
 author: Danesh
 date: 2007-07-09T22:25:50+00:00
-url: /posts/sleep-sleep/
 pvc_views:
   - 1901
 dsq_thread_id:

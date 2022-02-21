@@ -2,7 +2,6 @@
 title: Welcoming the new author Raja
 author: Danesh
 date: 2007-11-12T05:06:20+00:00
-url: /posts/welcoming-the-new-author-raja/
 pvc_views:
   - 2638
 dsq_thread_id:

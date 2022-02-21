@@ -2,7 +2,6 @@
 title: The Danesh Project is now PR4
 author: Danesh
 date: 2007-11-06T23:11:21+00:00
-url: /posts/the-danesh-project-is-now-pr4/
 pvc_views:
   - 1928
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: support.microsoft.com not working behind Squid
 author: Danesh
 date: 2008-04-25T23:34:08+00:00
-url: /posts/supportmicrosoftcom-not-working-behind-squid/
 pvc_views:
   - 19641
 dsq_thread_id:

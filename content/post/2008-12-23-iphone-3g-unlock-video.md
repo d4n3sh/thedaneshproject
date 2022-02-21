@@ -2,7 +2,6 @@
 title: iPhone 3G Unlock Video
 author: Danesh
 date: 2008-12-23T02:00:48+00:00
-url: /posts/iphone-3g-unlock-video/
 pvc_views:
   - 3620
 robotsmeta:

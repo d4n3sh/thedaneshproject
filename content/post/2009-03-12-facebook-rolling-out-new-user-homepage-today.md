@@ -2,7 +2,6 @@
 title: Facebook rolling out new user homepage today
 author: Danesh
 date: 2009-03-12T04:36:28+00:00
-url: /posts/facebook-rolling-out-new-user-homepage-today/
 robotsmeta:
   - index,follow
 pvc_views:

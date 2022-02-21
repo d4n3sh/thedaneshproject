@@ -2,7 +2,6 @@
 title: WordPress 2.5 Released
 author: Danesh
 date: 2008-03-29T19:31:15+00:00
-url: /posts/wordpress-25-released/
 pvc_views:
   - 7550
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Wal-Mart drops gPC from it’s stores
 author: Danesh
 date: 2008-03-17T09:03:18+00:00
-url: /posts/wal-mart-drops-gpc-from-its-stores/
 pvc_views:
   - 2517
 dsq_thread_id:

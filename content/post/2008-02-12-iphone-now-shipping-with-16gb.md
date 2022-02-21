@@ -2,7 +2,6 @@
 title: iPhone now shipping with 16GB
 author: Danesh
 date: 2008-02-12T03:14:52+00:00
-url: /posts/iphone-now-shipping-with-16gb/
 pvc_views:
   - 3168
 dsq_thread_id:

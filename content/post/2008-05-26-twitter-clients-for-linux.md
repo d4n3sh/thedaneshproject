@@ -2,7 +2,6 @@
 title: Twitter clients for Linux
 author: Danesh
 date: 2008-05-26T12:29:33+00:00
-url: /posts/twitter-clients-for-linux/
 pvc_views:
   - 4681
 dsq_thread_id:

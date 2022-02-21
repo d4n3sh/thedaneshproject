@@ -2,7 +2,6 @@
 title: Running previous commands in Linux
 author: Danesh
 date: 2007-10-17T16:38:53+00:00
-url: /posts/running-previous-commands-in-linux/
 pvc_views:
   - 14300
 dsq_thread_id:

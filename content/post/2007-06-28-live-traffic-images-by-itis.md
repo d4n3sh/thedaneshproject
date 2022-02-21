@@ -2,7 +2,6 @@
 title: Live traffic images by ITIS
 author: Danesh
 date: 2007-06-28T14:44:35+00:00
-url: /posts/live-traffic-images-by-itis/
 pvc_views:
   - 8473
 dsq_thread_id:

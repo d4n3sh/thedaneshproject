@@ -2,7 +2,6 @@
 title: How to increase file descriptors max limit on Linux
 author: Danesh
 date: 2008-02-27T11:55:32+00:00
-url: /posts/how-to-increase-total-file-descriptors-count-on-linux/
 pvc_views:
   - 67569
 dsq_thread_id:

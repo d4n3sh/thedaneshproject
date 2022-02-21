@@ -2,7 +2,6 @@
 title: Torrentspy shuts down
 author: Danesh
 date: 2008-03-27T12:45:17+00:00
-url: /posts/torrentspy-shuts-down/
 pvc_views:
   - 3567
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Whoops, my Gmail’s down
 author: Danesh
 date: 2008-07-17T06:01:26+00:00
-url: /posts/whoops-my-gmails-down/
 robotsmeta:
   - index,follow
 pvc_views:

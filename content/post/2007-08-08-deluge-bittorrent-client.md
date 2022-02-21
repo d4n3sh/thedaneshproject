@@ -2,7 +2,6 @@
 title: Deluge BitTorrent Client
 author: Danesh
 date: 2007-08-08T09:02:16+00:00
-url: /posts/deluge-bittorrent-client/
 pvc_views:
   - 4380
 dsq_thread_id:

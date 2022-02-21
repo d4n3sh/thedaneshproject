@@ -2,7 +2,6 @@
 title: Flipboard for Android. It’s here.
 author: Danesh
 date: 2012-06-22T10:26:10+00:00
-url: /posts/flipboard-for-android-its-here/
 pvc_views:
   - 1470
 dsq_thread_id:

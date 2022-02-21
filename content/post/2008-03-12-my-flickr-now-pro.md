@@ -2,7 +2,6 @@
 title: My Flickr now Pro
 author: Danesh
 date: 2008-03-12T12:05:18+00:00
-url: /posts/my-flickr-now-pro/
 pvc_views:
   - 2765
 dsq_thread_id:

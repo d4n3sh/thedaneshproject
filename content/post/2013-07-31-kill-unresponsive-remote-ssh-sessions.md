@@ -2,7 +2,6 @@
 title: Kill Unresponsive remote SSH Sessions
 author: Danesh
 date: 2013-07-31T11:13:53+00:00
-url: /posts/kill-unresponsive-remote-ssh-sessions/
 dsq_thread_id:
   - 1550775904
 

@@ -2,7 +2,6 @@
 title: Do The Evolution by downrodeo
 author: Danesh
 date: 2007-08-15T20:46:00+00:00
-url: /posts/do-the-evolution-by-downrodeo/
 pvc_views:
   - 27562
 dsq_thread_id:

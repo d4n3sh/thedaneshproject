@@ -2,7 +2,6 @@
 title: England’s bid to host the 2018 FIFA World Cup
 author: Danesh
 date: 2010-05-18T02:51:47+00:00
-url: /posts/englands-bid-to-host-the-2018-fifa-world-cup/
 pvc_views:
   - 1796
 dsq_thread_id:

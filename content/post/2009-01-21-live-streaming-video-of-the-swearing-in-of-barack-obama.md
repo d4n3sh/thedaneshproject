@@ -2,7 +2,6 @@
 title: Live Streaming Video of the Swearing-in of Barack Obama
 author: Danesh
 date: 2009-01-20T16:36:53+00:00
-url: /posts/live-streaming-video-of-the-swearing-in-of-barack-obama/
 pvc_views:
   - 3471
 robotsmeta:

@@ -2,7 +2,6 @@
 title: PS3 meets Facebook in PS3 update 3.10
 author: Danesh
 date: 2009-11-17T14:14:41+00:00
-url: /posts/ps3-meet-facebook-in-ps3-update-3-10/
 pvc_views:
   - 4400
 dsq_thread_id:

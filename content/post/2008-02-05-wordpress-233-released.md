@@ -2,7 +2,6 @@
 title: WordPress 2.3.3 released
 author: Danesh
 date: 2008-02-05T13:14:15+00:00
-url: /posts/wordpress-233-released/
 pvc_views:
   - 4347
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 'LPI 101 & 102 Training , I-WORLD'
 author: Danesh
 date: 2010-10-19T05:25:30+00:00
-url: /posts/lpi-101-102-training-i-world/
 pvc_views:
   - 2010
 dsq_thread_id:

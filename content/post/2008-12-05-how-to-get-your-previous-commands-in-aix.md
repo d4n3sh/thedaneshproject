@@ -2,7 +2,6 @@
 title: How to get your previous commands in AIX
 author: Danesh
 date: 2008-12-05T01:45:52+00:00
-url: /posts/how-to-get-your-previous-commands-in-aix/
 pvc_views:
   - 6238
 robotsmeta:

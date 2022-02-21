@@ -2,7 +2,6 @@
 title: Google Android debuts through T-Mobile’s G1
 author: Danesh
 date: 2008-09-23T15:39:03+00:00
-url: /posts/google-android-debuts-through-t-mobiles-g1/
 robotsmeta:
   - index,follow
 pvc_views:

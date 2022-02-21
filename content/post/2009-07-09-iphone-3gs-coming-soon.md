@@ -2,7 +2,6 @@
 title: iPhone 3Gs coming soon
 author: Danesh
 date: 2009-07-09T09:31:06+00:00
-url: /posts/iphone-3gs-coming-soon/
 aktt_notify_twitter:
   - no
 pvc_views:

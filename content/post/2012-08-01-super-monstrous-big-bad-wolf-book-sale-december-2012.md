@@ -2,7 +2,6 @@
 title: Super Monstrous Big Bad Wolf Book Sale December 2012
 author: Danesh
 date: 2012-08-01T10:40:18+00:00
-url: /posts/super-monstrous-big-bad-wolf-book-sale-december-2012/
 pvc_views:
   - 2043
 dsq_thread_id:

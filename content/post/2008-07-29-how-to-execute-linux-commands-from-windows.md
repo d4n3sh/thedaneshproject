@@ -2,7 +2,6 @@
 title: How To Execute Linux commands from Windows
 author: Danesh
 date: 2008-07-28T16:35:11+00:00
-url: /posts/how-to-execute-linux-commands-from-windows/
 robotsmeta:
   - index,follow
 pvc_views:

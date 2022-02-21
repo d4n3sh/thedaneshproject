@@ -2,7 +2,6 @@
 title: Firefox 3.1 beta 1 is out
 author: Danesh
 date: 2008-10-23T03:02:54+00:00
-url: /posts/firefox-31-beta-1-is-out/
 robotsmeta:
   - index,follow
 pvc_views:

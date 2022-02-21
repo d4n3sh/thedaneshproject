@@ -2,7 +2,6 @@
 title: 25 most popular Firefox search engine plugins
 author: Danesh
 date: 2008-06-18T02:00:25+00:00
-url: /posts/25-most-popular-firefox-search-engine-plugins/
 pvc_views:
   - 9027
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Linux is like religion
 author: Danesh
 date: 2008-05-19T02:10:04+00:00
-url: /posts/linux-is-like-religion/
 pvc_views:
   - 2495
 dsq_thread_id:

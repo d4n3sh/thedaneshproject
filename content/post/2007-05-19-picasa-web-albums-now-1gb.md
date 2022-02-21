@@ -2,7 +2,6 @@
 title: Picasa Web Albums now 1GB
 author: Danesh
 date: 2007-05-19T11:25:09+00:00
-url: /posts/picasa-web-albums-now-1gb/
 pvc_views:
   - 1996
 dsq_thread_id:

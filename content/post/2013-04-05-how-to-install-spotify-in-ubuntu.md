@@ -2,7 +2,6 @@
 title: How To Install Spotify In Ubuntu
 author: Danesh
 date: 2013-04-05T15:31:03+00:00
-url: /posts/how-to-install-spotify-in-ubuntu/
 dsq_thread_id:
   - 1188807914
 

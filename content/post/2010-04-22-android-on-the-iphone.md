@@ -2,7 +2,6 @@
 title: Android on the iPhone
 author: Danesh
 date: 2010-04-22T09:41:19+00:00
-url: /posts/android-on-the-iphone/
 pvc_views:
   - 2721
 dsq_thread_id:

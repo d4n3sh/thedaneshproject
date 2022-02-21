@@ -2,7 +2,6 @@
 title: Full Circle Magazine Issue 20
 author: Danesh
 date: 2008-12-30T15:31:36+00:00
-url: /posts/full-circle-magazine-issue-20/
 pvc_views:
   - 3053
 robotsmeta:

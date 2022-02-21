@@ -2,7 +2,6 @@
 title: Streamyx Merdeka Bash 2007 Promotion
 author: Danesh
 date: 2007-07-31T12:09:40+00:00
-url: /posts/streamyx-merdeka-bash-2007-promotion/
 pvc_views:
   - 2987
 dsq_thread_id:

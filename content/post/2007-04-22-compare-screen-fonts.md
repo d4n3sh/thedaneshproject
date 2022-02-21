@@ -2,7 +2,6 @@
 title: Compare Screen Fonts
 author: Danesh
 date: 2007-04-22T15:44:57+00:00
-url: /posts/compare-screen-fonts/
 pvc_views:
   - 1568
 dsq_thread_id:

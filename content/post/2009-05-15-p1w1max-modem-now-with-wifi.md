@@ -2,7 +2,6 @@
 title: P1W1MAX modem now with WIFI
 author: Danesh
 date: 2009-05-14T17:03:34+00:00
-url: /posts/p1w1max-modem-now-with-wifi/
 aktt_notify_twitter:
   - no
 pvc_views:

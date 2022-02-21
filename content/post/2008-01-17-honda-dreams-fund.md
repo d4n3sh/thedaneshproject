@@ -2,7 +2,6 @@
 title: Honda Dreams Fund
 author: Danesh
 date: 2008-01-17T12:35:21+00:00
-url: /posts/honda-dreams-fund/
 pvc_views:
   - 32450
 dsq_thread_id:

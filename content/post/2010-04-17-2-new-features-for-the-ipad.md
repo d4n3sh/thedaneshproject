@@ -2,7 +2,6 @@
 title: 2 new features for the iPad
 author: Danesh
 date: 2010-04-17T08:11:57+00:00
-url: /posts/2-new-features-for-the-ipad/
 pvc_views:
   - 3044
 dsq_thread_id:

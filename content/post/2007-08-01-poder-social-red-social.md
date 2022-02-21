@@ -2,7 +2,6 @@
 title: Poder Social / Red Social
 author: Danesh
 date: 2007-07-31T18:07:26+00:00
-url: /posts/poder-social-red-social/
 pvc_views:
   - 4987
 dsq_thread_id:

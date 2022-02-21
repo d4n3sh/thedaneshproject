@@ -2,7 +2,6 @@
 title: Tattoo made for a player
 author: Danesh
 date: 2007-04-22T16:39:45+00:00
-url: /posts/tattoo-made-for-a-player/
 pvc_views:
   - 6962
 dsq_thread_id:

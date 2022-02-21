@@ -2,7 +2,6 @@
 title: 'Google: Cool message'
 author: Danesh
 date: 2007-01-10T06:33:43+00:00
-url: /posts/google-cool-message/
 pvc_views:
   - 1099
 dsq_thread_id:

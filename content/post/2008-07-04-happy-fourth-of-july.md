@@ -2,7 +2,6 @@
 title: Happy Fourth Of July
 author: Danesh
 date: 2008-07-04T09:09:57+00:00
-url: /posts/happy-fourth-of-july/
 robotsmeta:
   - index,follow
 pvc_views:

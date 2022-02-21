@@ -2,7 +2,6 @@
 title: Mozilla Firefox 3.5 RC3 released
 author: Danesh
 date: 2009-06-26T04:48:26+00:00
-url: /posts/mozilla-firefox-3-5-rc3-released/
 aktt_notify_twitter:
   - no
 pvc_views:

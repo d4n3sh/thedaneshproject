@@ -2,7 +2,6 @@
 title: Videos now on Flickr
 author: Danesh
 date: 2008-04-14T07:26:36+00:00
-url: /posts/videos-now-on-flickr/
 pvc_views:
   - 4461
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: How to enable DMA in Linux
 author: Danesh
 date: 2007-09-20T17:06:16+00:00
-url: /posts/how-to-enable-dma-in-linux/
 pvc_views:
   - 16899
 dsq_thread_id:

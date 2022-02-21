@@ -2,7 +2,6 @@
 title: More XWilling than meets the eye…
 author: Danesh
 date: 2007-11-15T14:57:46+00:00
-url: /posts/more-xwilling-than-meets-the-eye/
 pvc_views:
   - 4151
 dsq_thread_id:

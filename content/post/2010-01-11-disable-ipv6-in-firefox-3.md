@@ -2,7 +2,6 @@
 title: Disable IPv6 in Firefox 3
 author: Danesh
 date: 2010-01-10T18:33:44+00:00
-url: /posts/disable-ipv6-in-firefox-3/
 pvc_views:
   - 20902
 dsq_thread_id:

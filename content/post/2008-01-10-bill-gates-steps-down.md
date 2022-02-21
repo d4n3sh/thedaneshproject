@@ -2,7 +2,6 @@
 title: Bill Gates Steps Down
 author: Danesh
 date: 2008-01-10T02:10:43+00:00
-url: /posts/bill-gates-steps-down/
 pvc_views:
   - 3485
 dsq_thread_id:

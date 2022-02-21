@@ -2,7 +2,6 @@
 title: ImageShack starts torrent service
 author: Danesh
 date: 2008-04-16T15:32:54+00:00
-url: /posts/imageshack-starts-torrent-service/
 pvc_views:
   - 20581
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Malaysian Ubuntu repository
 author: Danesh
 date: 2007-08-24T04:22:50+00:00
-url: /posts/malaysian-ubuntu-repository/
 pvc_views:
   - 2943
 dsq_thread_id:

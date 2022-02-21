@@ -2,7 +2,6 @@
 title: Bee En Downfall Parody by Kavilan
 author: Danesh
 date: 2008-09-22T12:56:59+00:00
-url: /posts/bee-en-downfall-parody-by-kavilan/
 robotsmeta:
   - index,follow
 pvc_views:

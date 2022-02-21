@@ -2,7 +2,6 @@
 title: VirtualBox 3.1.0 Beta 1 released
 author: Danesh
 date: 2009-11-15T14:20:36+00:00
-url: /posts/virtualbox-3-1-0-beta-1-released/
 pvc_views:
   - 1517
 dsq_thread_id:

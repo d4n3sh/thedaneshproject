@@ -2,7 +2,6 @@
 title: Earth Hour Malaysia 2009, One more day!!
 author: Danesh
 date: 2009-03-27T03:29:16+00:00
-url: /posts/earth-hour-malaysia-2009-one-more-day/
 robotsmeta:
   - index,follow
 pvc_views:

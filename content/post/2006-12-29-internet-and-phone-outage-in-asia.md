@@ -2,7 +2,6 @@
 title: Internet and Phone outage in Asia
 author: Danesh
 date: 2006-12-28T18:01:14+00:00
-url: /posts/internet-and-phone-outage-in-asia/
 pvc_views:
   - 2292
 dsq_thread_id:

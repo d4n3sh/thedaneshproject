@@ -2,7 +2,6 @@
 title: Installing nVidia driver on openSUSE 10.2 | Linux
 author: Danesh
 date: 2007-03-19T15:43:26+00:00
-url: /posts/installing-nvidia-driver-on-opensuse-102-linux/
 pvc_views:
   - 3738
 dsq_thread_id:

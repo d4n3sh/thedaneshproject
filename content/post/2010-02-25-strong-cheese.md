@@ -2,7 +2,6 @@
 title: Strong Cheese
 author: Danesh
 date: 2010-02-25T00:00:21+00:00
-url: /posts/strong-cheese/
 pvc_views:
   - 2593
 dsq_thread_id:

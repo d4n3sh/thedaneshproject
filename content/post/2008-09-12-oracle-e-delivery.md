@@ -2,7 +2,6 @@
 title: Oracle E-Delivery
 author: Danesh
 date: 2008-09-12T16:39:51+00:00
-url: /posts/oracle-e-delivery/
 robotsmeta:
   - index,follow
 pvc_views:

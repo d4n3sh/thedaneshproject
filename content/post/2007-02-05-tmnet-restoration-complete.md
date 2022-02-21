@@ -2,7 +2,6 @@
 title: TMNET restoration complete
 author: Danesh
 date: 2007-02-04T16:30:49+00:00
-url: /posts/tmnet-restoration-complete/
 pvc_views:
   - 19579
 dsq_thread_id:

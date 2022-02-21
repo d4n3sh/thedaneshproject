@@ -2,7 +2,6 @@
 title: Nikon D7000 User Manual
 author: Danesh
 date: 2011-05-19T09:31:51+00:00
-url: /posts/nikon-d7000-user-manual/
 pvc_views:
   - 12513
 dsq_thread_id:

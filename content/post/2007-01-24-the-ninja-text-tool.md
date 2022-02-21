@@ -2,7 +2,6 @@
 title: The Ninja text tool
 author: Danesh
 date: 2007-01-24T11:08:09+00:00
-url: /posts/the-ninja-text-tool/
 pvc_views:
   - 6478
 dsq_thread_id:

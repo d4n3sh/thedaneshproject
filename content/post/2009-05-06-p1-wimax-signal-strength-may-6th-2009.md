@@ -2,7 +2,6 @@
 title: P1 WiMAX Signal Strength – May 6th 2009
 author: Danesh
 date: 2009-05-05T18:09:01+00:00
-url: /posts/p1-wimax-signal-strength-may-6th-2009/
 aktt_notify_twitter:
   - no
 pvc_views:

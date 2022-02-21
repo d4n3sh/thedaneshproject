@@ -2,7 +2,6 @@
 title: Facebook adds usernames
 author: Danesh
 date: 2009-06-16T17:52:30+00:00
-url: /posts/facebook-adds-usernames/
 aktt_notify_twitter:
   - no
 pvc_views:

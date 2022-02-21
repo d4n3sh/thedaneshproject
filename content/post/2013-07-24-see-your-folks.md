@@ -2,7 +2,6 @@
 title: See Your Folks
 author: Danesh
 date: 2013-07-23T16:42:56+00:00
-url: /posts/see-your-folks/
 dsq_thread_id:
   - 1523642858
 

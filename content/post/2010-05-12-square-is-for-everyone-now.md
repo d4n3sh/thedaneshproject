@@ -2,7 +2,6 @@
 title: Square is for everyone now
 author: Danesh
 date: 2010-05-11T17:08:29+00:00
-url: /posts/square-is-for-everyone-now/
 pvc_views:
   - 2683
 dsq_thread_id:

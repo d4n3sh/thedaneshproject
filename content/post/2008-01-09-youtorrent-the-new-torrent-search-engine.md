@@ -2,7 +2,6 @@
 title: YouTorrent the new torrent search engine
 author: Danesh
 date: 2008-01-09T02:10:12+00:00
-url: /posts/youtorrent-the-new-torrent-search-engine/
 pvc_views:
   - 9981
 dsq_thread_id:

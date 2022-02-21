@@ -2,7 +2,6 @@
 title: Hijackers using eggs.
 author: Danesh
 date: 2007-05-14T03:14:12+00:00
-url: /posts/hijackers-using-eggs/
 pvc_views:
   - 2094
 dsq_thread_id:

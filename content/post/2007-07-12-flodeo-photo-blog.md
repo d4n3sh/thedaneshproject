@@ -2,7 +2,6 @@
 title: Flodeo photo blog
 author: Danesh
 date: 2007-07-12T00:00:48+00:00
-url: /posts/flodeo-photo-blog/
 pvc_views:
   - 4613
 dsq_thread_id:

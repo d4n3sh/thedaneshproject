@@ -2,7 +2,6 @@
 title: Sneak Peak at Amarok 2
 author: Danesh
 date: 2007-08-02T08:50:22+00:00
-url: /posts/sneak-peak-at-amarok-2/
 robotsmeta:
   - index,follow
 pvc_views:

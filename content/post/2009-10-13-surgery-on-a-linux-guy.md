@@ -2,7 +2,6 @@
 title: Surgery on a Linux guy
 author: Danesh
 date: 2009-10-13T05:53:22+00:00
-url: /posts/surgery-on-a-linux-guy/
 pvc_views:
   - 2273
 dsq_thread_id:

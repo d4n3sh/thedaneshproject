@@ -2,7 +2,6 @@
 title: OpenDNS hits 14billion requests a day!
 author: Danesh
 date: 2009-06-26T00:00:08+00:00
-url: /posts/opendns-hits-14billion-requests-a-day/
 aktt_notify_twitter:
   - no
 pvc_views:

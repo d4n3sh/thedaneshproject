@@ -2,7 +2,6 @@
 title: Design Coding Rap by The Poetic Prophet
 author: Danesh
 date: 2009-01-15T12:33:28+00:00
-url: /posts/design-coding-rap-by-the-poetic-prophet/
 robotsmeta:
   - index,follow
 pvc_views:

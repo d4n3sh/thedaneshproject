@@ -2,7 +2,6 @@
 title: Aussie Beer Commercial – It’s a big Ad
 author: Danesh
 date: 2009-06-22T09:09:11+00:00
-url: /posts/aussie-beer-commercial-its-a-big-ad/
 aktt_notify_twitter:
   - no
 pvc_views:

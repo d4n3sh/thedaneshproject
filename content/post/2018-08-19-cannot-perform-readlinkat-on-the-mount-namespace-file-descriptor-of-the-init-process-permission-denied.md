@@ -2,7 +2,6 @@
 title: 'cannot perform readlinkat() on the mount namespace file descriptor of the init process: Permission denied'
 author: Danesh
 date: 2018-08-18T19:00:48+00:00
-url: /posts/cannot-perform-readlinkat-on-the-mount-namespace-file-descriptor-of-the-init-process-permission-denied/
 
 ---
 Installed kernel 4.18 on my Ubuntu recently, since then snap packages broke with the following error.

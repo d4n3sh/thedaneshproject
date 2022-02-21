@@ -2,7 +2,6 @@
 title: Super speed = smile on my face
 author: Danesh
 date: 2008-02-06T16:39:47+00:00
-url: /posts/super-speed-smile-on-my-face/
 pvc_views:
   - 4014
 dsq_thread_id:

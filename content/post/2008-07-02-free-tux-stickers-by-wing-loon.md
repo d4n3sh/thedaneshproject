@@ -2,7 +2,6 @@
 title: Free TUX stickers by Wing Loon
 author: Danesh
 date: 2008-07-01T22:47:16+00:00
-url: /posts/free-tux-stickers-by-wing-loon/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Google Public DNS down?
 author: Danesh
 date: 2009-12-27T05:38:04+00:00
-url: /posts/google-public-dns-down/
 pvc_views:
   - 2785
 dsq_thread_id:

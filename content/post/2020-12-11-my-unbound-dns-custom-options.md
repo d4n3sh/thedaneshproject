@@ -2,7 +2,6 @@
 title: My Unbound DNS custom options
 author: Danesh
 date: 2020-12-12T04:55:57+00:00
-url: /posts/my-unbound-dns-custom-options/
 
 ---
 I&#8217;m running Unbound DNS on OPNsense at home. This covers my local PLEX server and DOH (DNS OVER HTTPs) setup. All my devices point to my PiHole server which then forwards them to the unbound server. 

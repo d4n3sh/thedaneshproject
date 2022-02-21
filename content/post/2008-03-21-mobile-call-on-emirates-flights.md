@@ -2,7 +2,6 @@
 title: Mobile call on Emirates flights
 author: Danesh
 date: 2008-03-21T04:49:21+00:00
-url: /posts/mobile-call-on-emirates-flights/
 pvc_views:
   - 4834
 dsq_thread_id:

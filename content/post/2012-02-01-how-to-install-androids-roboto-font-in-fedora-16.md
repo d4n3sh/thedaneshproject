@@ -2,7 +2,6 @@
 title: How to install Android’s Roboto font in Fedora 16
 author: Danesh
 date: 2012-01-31T17:16:36+00:00
-url: /posts/how-to-install-androids-roboto-font-in-fedora-16/
 pvc_views:
   - 3978
 dsq_thread_id:

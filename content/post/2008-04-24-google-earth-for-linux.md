@@ -2,7 +2,6 @@
 title: Google Earth for Linux
 author: Danesh
 date: 2008-04-24T03:10:47+00:00
-url: /posts/google-earth-for-linux/
 pvc_views:
   - 9916
 dsq_thread_id:

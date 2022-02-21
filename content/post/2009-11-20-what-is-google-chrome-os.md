@@ -2,7 +2,6 @@
 title: What is Google Chrome OS?
 author: Danesh
 date: 2009-11-20T10:07:53+00:00
-url: /posts/what-is-google-chrome-os/
 pvc_views:
   - 7635
 dsq_thread_id:

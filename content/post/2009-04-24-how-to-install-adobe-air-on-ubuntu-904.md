@@ -2,7 +2,6 @@
 title: How to install Adobe AIR on Ubuntu 9.04
 author: Danesh
 date: 2009-04-24T06:32:05+00:00
-url: /posts/how-to-install-adobe-air-on-ubuntu-904/
 robotsmeta:
   - index,follow
 pvc_views:

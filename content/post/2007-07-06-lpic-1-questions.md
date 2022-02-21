@@ -2,7 +2,6 @@
 title: LPIC-1 Questions
 author: Danesh
 date: 2007-07-06T06:18:22+00:00
-url: /posts/lpic-1-questions/
 pvc_views:
   - 6459
 dsq_thread_id:

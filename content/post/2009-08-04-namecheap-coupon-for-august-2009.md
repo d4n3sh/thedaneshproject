@@ -2,7 +2,6 @@
 title: Namecheap Coupon for August 2009
 author: Danesh
 date: 2009-08-03T17:50:49+00:00
-url: /posts/namecheap-coupon-for-august-2009/
 aktt_notify_twitter:
   - no
 pvc_views:

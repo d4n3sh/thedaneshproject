@@ -2,7 +2,6 @@
 title: iPhone 5 launch coverage – Live blogs
 author: Danesh
 date: 2012-09-12T09:51:01+00:00
-url: /posts/iphone-5-launch-coverage-live-blogs/
 pvc_views:
   - 1552
 dsq_thread_id:

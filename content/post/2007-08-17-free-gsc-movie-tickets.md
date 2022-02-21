@@ -2,7 +2,6 @@
 title: Free GSC movie tickets
 author: Danesh
 date: 2007-08-17T14:59:31+00:00
-url: /posts/free-gsc-movie-tickets/
 pvc_views:
   - 16561
 dsq_thread_id:

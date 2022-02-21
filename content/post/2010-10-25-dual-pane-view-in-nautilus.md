@@ -2,7 +2,6 @@
 title: Dual pane view in Nautilus
 author: Danesh
 date: 2010-10-24T17:10:33+00:00
-url: /posts/dual-pane-view-in-nautilus/
 pvc_views:
   - 2199
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Alan Bernard’s F’kn Mayhem featured at WSMY
 author: Danesh
 date: 2007-12-26T02:00:26+00:00
-url: /posts/alan-bernards-fkn-mayhem-featured-at-wsmy/
 pvc_views:
   - 5688
 dsq_thread_id:

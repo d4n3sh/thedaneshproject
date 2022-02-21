@@ -2,7 +2,6 @@
 title: YouTube does music discovery
 author: Danesh
 date: 2010-01-22T03:37:21+00:00
-url: /posts/youtube-does-music-discovery/
 pvc_views:
   - 6131
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Pictures from the recent Hindraf gathering
 author: Danesh
 date: 2007-11-26T08:41:20+00:00
-url: /posts/pictures-from-the-recent-hindraf-gathering/
 pvc_views:
   - 3593
 dsq_thread_id:

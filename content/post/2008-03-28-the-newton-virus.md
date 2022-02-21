@@ -2,7 +2,6 @@
 title: The Newton Virus
 author: Danesh
 date: 2008-03-28T12:31:12+00:00
-url: /posts/the-newton-virus/
 pvc_views:
   - 5558
 dsq_thread_id:

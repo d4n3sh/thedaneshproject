@@ -2,7 +2,6 @@
 title: WordPress 2.9 is out
 author: Danesh
 date: 2009-12-19T03:09:47+00:00
-url: /posts/wordpress-2-9-is-out/
 pvc_views:
   - 1923
 dsq_thread_id:

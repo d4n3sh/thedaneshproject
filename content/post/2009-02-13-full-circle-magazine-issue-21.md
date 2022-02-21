@@ -2,7 +2,6 @@
 title: Full Circle Magazine Issue 21
 author: Danesh
 date: 2009-02-13T02:00:43+00:00
-url: /posts/full-circle-magazine-issue-21/
 robotsmeta:
   - index,follow
 pvc_views:

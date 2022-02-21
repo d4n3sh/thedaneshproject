@@ -2,7 +2,6 @@
 title: Malaysia Salary Guide 2008
 author: Danesh
 date: 2009-03-09T18:45:45+00:00
-url: /posts/malaysia-salary-guide-2008/
 robotsmeta:
   - index,follow
 pvc_views:

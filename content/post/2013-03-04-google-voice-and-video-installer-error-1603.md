@@ -2,7 +2,6 @@
 title: Google voice and video installer error 1603
 author: Danesh
 date: 2013-03-04T09:16:21+00:00
-url: /posts/google-voice-and-video-installer-error-1603/
 dsq_thread_id:
   - 1116265137
 

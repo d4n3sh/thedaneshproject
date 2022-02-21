@@ -2,7 +2,6 @@
 title: Up for a game of MACOPOLY?
 author: Danesh
 date: 2009-11-06T03:26:41+00:00
-url: /posts/up-for-a-game-of-macopoly/
 pvc_views:
   - 3110
 dsq_thread_id:

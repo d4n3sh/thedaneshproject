@@ -2,7 +2,6 @@
 title: F’kn Mischief had a makeover
 author: Danesh
 date: 2007-07-05T16:32:14+00:00
-url: /posts/fkn-mischief-had-a-makeover/
 pvc_views:
   - 1468
 dsq_thread_id:

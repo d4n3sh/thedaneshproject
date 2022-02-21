@@ -2,7 +2,6 @@
 title: ipvee.com your system info in style
 author: Danesh
 date: 2009-07-06T09:01:37+00:00
-url: /posts/ipvee-com-your-system-info-in-style/
 aktt_notify_twitter:
   - no
 pvc_views:

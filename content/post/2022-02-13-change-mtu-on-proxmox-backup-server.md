@@ -4,7 +4,6 @@ author: Danesh
 date: 2022-02-13T19:24:06+00:00
 publishdate: 2022-02-13
 lastmod: 2022-02-13
-url: /posts/change-mtu-on-proxmox-backup-server/
 draft: false
 tags: [proxmox]
 categories: []

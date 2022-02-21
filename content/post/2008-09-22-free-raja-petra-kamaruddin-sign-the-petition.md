@@ -2,7 +2,6 @@
 title: Free Raja Petra Kamaruddin, Sign the petition
 author: Danesh
 date: 2008-09-21T16:01:04+00:00
-url: /posts/free-raja-petra-kamaruddin-sign-the-petition/
 robotsmeta:
   - index,follow
 pvc_views:

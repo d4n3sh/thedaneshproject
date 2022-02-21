@@ -2,7 +2,6 @@
 title: Setting the root password on MySQL
 author: Danesh
 date: 2007-01-23T15:55:54+00:00
-url: /posts/setting-the-root-password-on-mysql/
 pvc_views:
   - 20157
 dsq_thread_id:

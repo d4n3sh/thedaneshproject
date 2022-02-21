@@ -2,7 +2,6 @@
 title: Burger King Supreme Angus Steakhouse for RM5
 author: Danesh
 date: 2012-02-22T20:00:14+00:00
-url: /posts/burger-king-supreme-angus-steakhouse-for-rm5/
 pvc_views:
   - 2331
 dsq_thread_id:

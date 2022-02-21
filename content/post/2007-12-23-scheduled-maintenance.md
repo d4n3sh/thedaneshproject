@@ -2,7 +2,6 @@
 title: Scheduled Maintenance
 author: Danesh
 date: 2007-12-23T15:59:26+00:00
-url: /posts/scheduled-maintenance/
 pvc_views:
   - 4363
 dsq_thread_id:

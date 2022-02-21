@@ -2,7 +2,6 @@
 title: WordPress 2.1.3 released | WordPress
 author: Danesh
 date: 2007-04-04T01:50:53+00:00
-url: /posts/wordpress-213-released-wordpress/
 pvc_views:
   - 1055
 dsq_thread_id:

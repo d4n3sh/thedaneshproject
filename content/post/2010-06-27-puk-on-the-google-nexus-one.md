@@ -2,7 +2,6 @@
 title: PUK on the Google Nexus One
 author: Danesh
 date: 2010-06-27T01:51:35+00:00
-url: /posts/puk-on-the-google-nexus-one/
 pvc_views:
   - 8951
 dsq_thread_id:

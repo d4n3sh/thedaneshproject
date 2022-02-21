@@ -2,7 +2,6 @@
 title: Lively by Google
 author: Danesh
 date: 2008-07-12T10:35:46+00:00
-url: /posts/lively-by-google/
 robotsmeta:
   - index,follow
 pvc_views:

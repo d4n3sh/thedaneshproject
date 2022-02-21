@@ -2,7 +2,6 @@
 title: Yahoo! Open Hack Day (USA) for one lucky Malaysian
 author: Danesh
 date: 2008-08-19T17:58:17+00:00
-url: /posts/yahoo-open-hack-day-usa-for-one-lucky-malaysian/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: How to find recently installed RPMs
 author: Danesh
 date: 2008-05-05T03:03:38+00:00
-url: /posts/how-to-find-recently-installed-rpms/
 pvc_views:
   - 9710
 dsq_thread_id:

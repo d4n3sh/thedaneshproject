@@ -2,7 +2,6 @@
 title: rlslog down for now
 author: Danesh
 date: 2010-04-26T20:42:45+00:00
-url: /posts/rlslog-down-for-now/
 pvc_views:
   - 2184
 dsq_thread_id:

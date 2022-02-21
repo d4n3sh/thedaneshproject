@@ -2,7 +2,6 @@
 title: How to find files in linux
 author: Danesh
 date: 2008-01-15T20:23:25+00:00
-url: /posts/how-to-find-files-in-linux/
 pvc_views:
   - 12233
 dsq_thread_id:

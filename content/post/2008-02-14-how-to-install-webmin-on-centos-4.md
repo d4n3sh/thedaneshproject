@@ -2,7 +2,6 @@
 title: How to install webmin on CentOS 4
 author: Danesh
 date: 2008-02-14T13:51:00+00:00
-url: /posts/how-to-install-webmin-on-centos-4/
 pvc_views:
   - 37950
 dsq_thread_id:

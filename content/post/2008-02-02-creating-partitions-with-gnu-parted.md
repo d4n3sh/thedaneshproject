@@ -2,7 +2,6 @@
 title: Creating Partitions with GNU Parted
 author: Danesh
 date: 2008-02-01T18:55:11+00:00
-url: /posts/creating-partitions-with-gnu-parted/
 pvc_views:
   - 2561
 dsq_thread_id:

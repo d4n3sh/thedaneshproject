@@ -2,7 +2,6 @@
 title: Web Hosting in Malaysia
 author: Danesh
 date: 2008-05-07T02:00:27+00:00
-url: /posts/web-hosting-in-malaysia/
 robotsmeta:
   - index,follow
 pvc_views:

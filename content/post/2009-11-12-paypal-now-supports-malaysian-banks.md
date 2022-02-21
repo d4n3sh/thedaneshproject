@@ -2,7 +2,6 @@
 title: PayPal now supports Malaysian Banks
 author: Danesh
 date: 2009-11-12T10:10:37+00:00
-url: /posts/paypal-now-supports-malaysian-banks/
 pvc_views:
   - 1968
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Users, Shutdowns and Reboots
 author: Danesh
 date: 2007-10-24T09:29:45+00:00
-url: /posts/users-shutdowns-and-reboots/
 pvc_views:
   - 6133
 dsq_thread_id:

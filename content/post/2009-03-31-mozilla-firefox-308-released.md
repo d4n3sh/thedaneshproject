@@ -2,7 +2,6 @@
 title: Mozilla Firefox 3.0.8 released
 author: Danesh
 date: 2009-03-31T01:46:47+00:00
-url: /posts/mozilla-firefox-308-released/
 robotsmeta:
   - index,follow
 pvc_views:

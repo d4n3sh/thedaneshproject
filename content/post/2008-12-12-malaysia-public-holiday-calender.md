@@ -2,7 +2,6 @@
 title: Malaysia Public Holiday Calender
 author: Danesh
 date: 2008-12-11T19:13:49+00:00
-url: /posts/malaysia-public-holiday-calender/
 pvc_views:
   - 10733
 robotsmeta:

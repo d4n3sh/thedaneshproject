@@ -2,7 +2,6 @@
 title: 10 Things a Linux person will not tell you
 author: Danesh
 date: 2007-05-15T06:20:18+00:00
-url: /posts/10-things-a-linux-person-will-not-tell-you/
 pvc_views:
   - 2275
 dsq_thread_id:

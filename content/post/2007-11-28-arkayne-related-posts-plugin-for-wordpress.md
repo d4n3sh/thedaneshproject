@@ -2,7 +2,6 @@
 title: Arkayne related posts plugin for WordPress
 author: Danesh
 date: 2007-11-27T17:49:01+00:00
-url: /posts/arkayne-related-posts-plugin-for-wordpress/
 pvc_views:
   - 6913
 dsq_thread_id:

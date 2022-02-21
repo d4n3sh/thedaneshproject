@@ -2,7 +2,6 @@
 title: Firefox 3 world record is official
 author: Danesh
 date: 2008-07-03T10:01:48+00:00
-url: /posts/firefox-3-world-record-is-official/
 robotsmeta:
   - index,follow
 pvc_views:

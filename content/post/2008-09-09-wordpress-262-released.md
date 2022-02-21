@@ -2,7 +2,6 @@
 title: WordPress 2.6.2 released
 author: Danesh
 date: 2008-09-09T07:31:18+00:00
-url: /posts/wordpress-262-released/
 robotsmeta:
   - index,follow
 pvc_views:

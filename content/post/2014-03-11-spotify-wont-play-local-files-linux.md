@@ -2,7 +2,6 @@
 title: Spotify won’t play local files on Linux
 author: Danesh
 date: 2014-03-10T16:19:17+00:00
-url: /posts/spotify-wont-play-local-files-linux/
 dsq_thread_id:
   - 2401860040
 

@@ -2,7 +2,6 @@
 title: WordPress is_home() conditional tag
 author: Danesh
 date: 2008-08-14T09:04:11+00:00
-url: /posts/wordpress-is_home-conditional-tag/
 robotsmeta:
   - index,follow
 pvc_views:

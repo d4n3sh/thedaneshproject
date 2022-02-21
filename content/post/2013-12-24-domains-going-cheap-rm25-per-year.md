@@ -2,7 +2,6 @@
 title: .my domains going cheap @ RM25 per year
 author: Danesh
 date: 2013-12-23T17:11:43+00:00
-url: /posts/domains-going-cheap-rm25-per-year/
 dsq_thread_id:
   - 2069052664
 

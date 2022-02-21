@@ -2,7 +2,6 @@
 title: Skateboarding comps for December
 author: Danesh
 date: 2008-12-01T08:49:37+00:00
-url: /posts/skateboarding-comps-for-december/
 pvc_views:
   - 10860
 robotsmeta:

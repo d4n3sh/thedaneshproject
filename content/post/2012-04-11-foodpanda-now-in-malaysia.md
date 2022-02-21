@@ -2,7 +2,6 @@
 title: FoodPanda now in Malaysia
 author: Danesh
 date: 2012-04-10T18:48:47+00:00
-url: /posts/foodpanda-now-in-malaysia/
 pvc_views:
   - 2029
 dsq_thread_id:

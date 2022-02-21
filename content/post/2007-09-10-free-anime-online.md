@@ -2,7 +2,6 @@
 title: Free anime online at AnimeMafia
 author: Danesh
 date: 2007-09-10T12:46:16+00:00
-url: /posts/free-anime-online/
 pvc_views:
   - 5273
 dsq_thread_id:

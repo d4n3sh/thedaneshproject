@@ -2,7 +2,6 @@
 title: How to add route in Linux
 author: Danesh
 date: 2008-06-30T08:53:23+00:00
-url: /posts/how-to-add-route-in-linux/
 robotsmeta:
   - index,follow
 pvc_views:

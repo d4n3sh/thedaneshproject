@@ -2,7 +2,6 @@
 title: Good Password advice
 author: Danesh
 date: 2011-02-21T09:53:06+00:00
-url: /posts/good-password-advice/
 pvc_views:
   - 2673
 dsq_thread_id:

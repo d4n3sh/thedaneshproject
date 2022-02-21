@@ -2,7 +2,6 @@
 title: OpenSSH 5.1 released
 author: Danesh
 date: 2008-07-24T18:17:34+00:00
-url: /posts/openssh-51-released/
 robotsmeta:
   - index,follow
 pvc_views:

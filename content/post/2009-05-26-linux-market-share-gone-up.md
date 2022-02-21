@@ -2,7 +2,6 @@
 title: Linux market share gone up!
 author: Danesh
 date: 2009-05-26T05:56:13+00:00
-url: /posts/linux-market-share-gone-up/
 aktt_notify_twitter:
   - no
 pvc_views:

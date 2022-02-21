@@ -2,7 +2,6 @@
 title: Halal by Liew Seng Tat
 author: Danesh
 date: 2009-08-26T03:34:57+00:00
-url: /posts/halal-by-liew-seng-tat/
 aktt_notify_twitter:
   - no
 pvc_views:

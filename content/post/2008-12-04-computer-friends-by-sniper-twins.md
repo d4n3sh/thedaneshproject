@@ -2,7 +2,6 @@
 title: Computer Friends by Sniper Twins
 author: Danesh
 date: 2008-12-04T02:33:21+00:00
-url: /posts/computer-friends-by-sniper-twins/
 pvc_views:
   - 3160
 robotsmeta:

@@ -2,7 +2,6 @@
 title: Shoutout at cheques gallery
 author: Danesh
 date: 2007-04-08T14:48:50+00:00
-url: /posts/shoutout-at-cheques-gallery/
 pvc_views:
   - 1471
 dsq_thread_id:

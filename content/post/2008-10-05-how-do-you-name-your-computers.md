@@ -2,7 +2,6 @@
 title: How do you name your computers?
 author: Danesh
 date: 2008-10-05T09:45:45+00:00
-url: /posts/how-do-you-name-your-computers/
 robotsmeta:
   - index,follow
 pvc_views:

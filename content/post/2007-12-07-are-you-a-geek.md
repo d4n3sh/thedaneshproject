@@ -2,7 +2,6 @@
 title: Are you a geek?
 author: Danesh
 date: 2007-12-07T04:10:00+00:00
-url: /posts/are-you-a-geek/
 pvc_views:
   - 7517
 dsq_thread_id:

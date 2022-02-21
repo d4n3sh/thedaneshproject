@@ -2,7 +2,6 @@
 title: openSUSE 11.0 , it’s out
 author: Danesh
 date: 2008-06-19T16:53:05+00:00
-url: /posts/opensuse-110-its-out/
 pvc_views:
   - 9324
 

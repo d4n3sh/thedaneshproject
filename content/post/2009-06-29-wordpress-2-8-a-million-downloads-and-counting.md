@@ -2,7 +2,6 @@
 title: WordPress 2.8, a million downloads and counting
 author: Danesh
 date: 2009-06-29T00:00:30+00:00
-url: /posts/wordpress-2-8-a-million-downloads-and-counting/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: How to configure a static IP interface on Arch Linux
 author: Danesh
 date: 2014-01-10T14:58:48+00:00
-url: /posts/configure-static-ip-interface-arch-linux/
 dsq_thread_id:
   - 2104948257
 

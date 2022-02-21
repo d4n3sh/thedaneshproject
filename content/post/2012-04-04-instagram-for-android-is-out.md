@@ -2,7 +2,6 @@
 title: Instagram for Android is out
 author: Danesh
 date: 2012-04-04T12:59:27+00:00
-url: /posts/instagram-for-android-is-out/
 pvc_views:
   - 1647
 dsq_thread_id:

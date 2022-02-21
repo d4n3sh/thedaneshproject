@@ -2,7 +2,6 @@
 title: Alan Bernard’s awesome Ts
 author: Danesh
 date: 2007-01-22T07:41:12+00:00
-url: /posts/alan-bernards-awesome-ts/
 pvc_views:
   - 2195
 dsq_thread_id:

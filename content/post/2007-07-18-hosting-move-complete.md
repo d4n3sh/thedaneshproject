@@ -2,7 +2,6 @@
 title: Hosting move complete.
 author: Danesh
 date: 2007-07-18T08:53:57+00:00
-url: /posts/hosting-move-complete/
 pvc_views:
   - 1857
 dsq_thread_id:

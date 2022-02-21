@@ -2,7 +2,6 @@
 title: Transformers USB Flash Drive
 author: Danesh
 date: 2009-05-25T13:40:40+00:00
-url: /posts/transformers-usb-flash-drive/
 aktt_notify_twitter:
   - no
 pvc_views:

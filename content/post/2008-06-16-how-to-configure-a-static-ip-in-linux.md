@@ -2,7 +2,6 @@
 title: How to configure a static ip in Linux
 author: Danesh
 date: 2008-06-16T14:56:20+00:00
-url: /posts/how-to-configure-a-static-ip-in-linux/
 pvc_views:
   - 71614
 dsq_thread_id:

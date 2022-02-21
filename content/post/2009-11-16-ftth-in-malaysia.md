@@ -2,7 +2,6 @@
 title: FTTH in Malaysia
 author: Danesh
 date: 2009-11-16T09:25:26+00:00
-url: /posts/ftth-in-malaysia/
 pvc_views:
   - 5762
 dsq_thread_id:

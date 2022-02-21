@@ -2,7 +2,6 @@
 title: Cheap hosting at Shinjiru
 author: Danesh
 date: 2008-05-02T13:21:18+00:00
-url: /posts/cheap-hosting-at-shinjiru/
 pvc_views:
   - 10731
 dsq_thread_id:

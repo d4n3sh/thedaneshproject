@@ -2,7 +2,6 @@
 title: Hot Ubuntu Wallpapers
 author: Danesh
 date: 2007-09-18T16:53:57+00:00
-url: /posts/hot-ubuntu-wallpapers/
 pvc_views:
   - 36364
 dsq_thread_id:

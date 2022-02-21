@@ -2,7 +2,6 @@
 title: Best Nexus One Unboxing Video
 author: Danesh
 date: 2010-02-24T00:00:04+00:00
-url: /posts/best-nexus-one-unboxing-video/
 pvc_views:
   - 2014
 dsq_thread_id:

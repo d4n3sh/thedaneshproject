@@ -2,7 +2,6 @@
 title: I’m a registered voter now.
 author: Danesh
 date: 2007-12-24T12:05:20+00:00
-url: /posts/im-a-registered-voter-now/
 pvc_views:
   - 3421
 dsq_thread_id:

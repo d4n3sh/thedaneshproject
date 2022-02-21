@@ -2,7 +2,6 @@
 title: openSUSE 11.1 almost here
 author: Danesh
 date: 2008-12-18T01:46:29+00:00
-url: /posts/opensuse-111-almost-here/
 robotsmeta:
   - index,follow
 pvc_views:

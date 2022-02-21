@@ -2,7 +2,6 @@
 title: Moving again, this time to VPS from ServerFreak
 author: Danesh
 date: 2009-01-23T20:11:18+00:00
-url: /posts/moving-again-this-time-to-vps-from-serverfreak/
 robotsmeta:
   - index,follow
 pvc_views:

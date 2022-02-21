@@ -2,7 +2,6 @@
 title: What does your email address say about you?
 author: Danesh
 date: 2010-06-02T11:31:41+00:00
-url: /posts/what-does-your-email-address-say-about-you/
 pvc_views:
   - 4474
 dsq_thread_id:

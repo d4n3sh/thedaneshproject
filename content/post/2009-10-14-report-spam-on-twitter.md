@@ -2,7 +2,6 @@
 title: Report spam on Twitter
 author: Danesh
 date: 2009-10-14T08:51:34+00:00
-url: /posts/report-spam-on-twitter/
 pvc_views:
   - 4166
 dsq_thread_id:

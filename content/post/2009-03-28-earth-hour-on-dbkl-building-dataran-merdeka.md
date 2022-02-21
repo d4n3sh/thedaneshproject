@@ -2,7 +2,6 @@
 title: Earth Hour on DBKL Building @ Dataran Merdeka
 author: Danesh
 date: 2009-03-28T08:07:50+00:00
-url: /posts/earth-hour-on-dbkl-building-dataran-merdeka/
 robotsmeta:
   - index,follow
 pvc_views:

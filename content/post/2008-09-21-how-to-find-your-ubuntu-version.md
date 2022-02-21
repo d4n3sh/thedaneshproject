@@ -2,7 +2,6 @@
 title: How to find your Ubuntu version
 author: Danesh
 date: 2008-09-21T04:34:41+00:00
-url: /posts/how-to-find-your-ubuntu-version/
 robotsmeta:
   - index,follow
 pvc_views:

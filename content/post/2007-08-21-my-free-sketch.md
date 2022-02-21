@@ -2,7 +2,6 @@
 title: My free sketch
 author: Danesh
 date: 2007-08-20T16:34:23+00:00
-url: /posts/my-free-sketch/
 pvc_views:
   - 5354
 dsq_thread_id:

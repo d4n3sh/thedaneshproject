@@ -2,7 +2,6 @@
 title: 'Linux Tip #6: Download with cURL'
 author: Danesh
 date: 2009-04-24T01:00:31+00:00
-url: /posts/linux-tip-6-download-with-curl/
 robotsmeta:
   - index,follow
 pvc_views:

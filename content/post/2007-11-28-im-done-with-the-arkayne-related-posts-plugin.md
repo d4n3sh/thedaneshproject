@@ -2,7 +2,6 @@
 title: I’m done with the Arkayne Related Posts plugin
 author: Danesh
 date: 2007-11-28T13:47:07+00:00
-url: /posts/im-done-with-the-arkayne-related-posts-plugin/
 pvc_views:
   - 3193
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Oracle now has a Wiki
 author: Danesh
 date: 2008-01-30T13:25:38+00:00
-url: /posts/oracle-now-has-a-wiki/
 pvc_views:
   - 6973
 dsq_thread_id:

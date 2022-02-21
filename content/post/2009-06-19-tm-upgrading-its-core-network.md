@@ -2,7 +2,6 @@
 title: TM upgrading it’s core network
 author: Danesh
 date: 2009-06-18T17:07:18+00:00
-url: /posts/tm-upgrading-its-core-network/
 aktt_notify_twitter:
   - no
 pvc_views:

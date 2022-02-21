@@ -2,7 +2,6 @@
 title: Bug in the new Defensio plugin for WordPress
 author: Danesh
 date: 2007-11-21T17:40:47+00:00
-url: /posts/bug-in-the-new-defensio-plugin-for-wordpress/
 pvc_views:
   - 4619
 dsq_thread_id:

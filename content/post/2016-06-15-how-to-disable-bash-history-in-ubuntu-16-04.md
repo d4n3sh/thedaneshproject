@@ -2,7 +2,6 @@
 title: How to disable bash history in Ubuntu 16.04
 author: Danesh
 date: 2016-06-15T05:16:04+00:00
-url: /posts/how-to-disable-bash-history-in-ubuntu-16-04/
 dsq_thread_id:
   - 4911357169
 

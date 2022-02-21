@@ -2,7 +2,6 @@
 title: Ubuntu 11.04 blank screen on boot. SOLVED
 author: Danesh
 date: 2011-05-25T06:40:15+00:00
-url: /posts/ubuntu-11-04-blank-screen-on-boot-solved/
 pvc_views:
   - 90238
 dsq_thread_id:

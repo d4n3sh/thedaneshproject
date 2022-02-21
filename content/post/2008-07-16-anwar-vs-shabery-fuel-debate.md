@@ -2,7 +2,6 @@
 title: Anwar vs Shabery fuel debate
 author: Danesh
 date: 2008-07-16T02:13:17+00:00
-url: /posts/anwar-vs-shabery-fuel-debate/
 robotsmeta:
   - index,follow
 pvc_views:

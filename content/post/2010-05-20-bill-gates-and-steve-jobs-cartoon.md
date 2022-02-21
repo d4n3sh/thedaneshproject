@@ -2,7 +2,6 @@
 title: Bill Gates And Steve Jobs Cartoon
 author: Danesh
 date: 2010-05-20T10:02:41+00:00
-url: /posts/bill-gates-and-steve-jobs-cartoon/
 pvc_views:
   - 6154
 dsq_thread_id:

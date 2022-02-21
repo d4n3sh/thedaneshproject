@@ -2,7 +2,6 @@
 title: Inter-generational tattoos
 author: Danesh
 date: 2007-01-30T23:53:10+00:00
-url: /posts/inter-generational-tattoos/
 pvc_views:
   - 3861
 dsq_thread_id:

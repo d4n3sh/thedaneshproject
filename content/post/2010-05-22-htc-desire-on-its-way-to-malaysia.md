@@ -2,7 +2,6 @@
 title: HTC Desire on it’s way to Malaysia
 author: Danesh
 date: 2010-05-21T23:59:13+00:00
-url: /posts/htc-desire-on-its-way-to-malaysia/
 pvc_views:
   - 7682
 dsq_thread_id:

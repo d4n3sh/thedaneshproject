@@ -2,7 +2,6 @@
 title: openSUSE X.Org patch released
 author: Danesh
 date: 2008-01-26T15:07:48+00:00
-url: /posts/opensuse-xorg-patch-released/
 pvc_views:
   - 1628
 dsq_thread_id:

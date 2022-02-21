@@ -2,7 +2,6 @@
 title: WordPress Stickers giveaway
 author: Danesh
 date: 2008-01-11T02:00:13+00:00
-url: /posts/wordpress-stickers-giveaway/
 pvc_views:
   - 8062
 dsq_thread_id:

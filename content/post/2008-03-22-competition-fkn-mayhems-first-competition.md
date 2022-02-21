@@ -2,7 +2,6 @@
 title: 'Competition: F’kn Mayhem’s first competition'
 author: Danesh
 date: 2008-03-22T15:57:51+00:00
-url: /posts/competition-fkn-mayhems-first-competition/
 pvc_views:
   - 1637
 dsq_thread_id:

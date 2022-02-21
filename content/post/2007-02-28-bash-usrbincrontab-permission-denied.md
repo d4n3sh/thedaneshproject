@@ -2,7 +2,6 @@
 title: '-bash: /usr/bin/crontab: Permission denied'
 author: Danesh
 date: 2007-02-27T16:36:32+00:00
-url: /posts/bash-usrbincrontab-permission-denied/
 pvc_views:
   - 18630
 dsq_thread_id:

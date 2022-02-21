@@ -2,7 +2,6 @@
 title: My Astro gold smart card upgrade experince
 author: Danesh
 date: 2008-04-17T16:08:56+00:00
-url: /posts/my-astro-gold-smart-card-upgrade-experince/
 pvc_views:
   - 9894
 dsq_thread_id:

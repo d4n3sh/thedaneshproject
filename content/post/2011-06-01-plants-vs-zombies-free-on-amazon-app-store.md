@@ -2,7 +2,6 @@
 title: Plants vs. Zombies FREE on Amazon App Store
 author: Danesh
 date: 2011-06-01T01:32:27+00:00
-url: /posts/plants-vs-zombies-free-on-amazon-app-store/
 pvc_views:
   - 3412
 dsq_thread_id:

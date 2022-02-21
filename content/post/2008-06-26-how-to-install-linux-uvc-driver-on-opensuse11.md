@@ -2,7 +2,6 @@
 title: How to install Linux UVC driver on openSUSE11
 author: Danesh
 date: 2008-06-26T15:54:55+00:00
-url: /posts/how-to-install-linux-uvc-driver-on-opensuse11/
 pvc_views:
   - 16385
 dsq_thread_id:

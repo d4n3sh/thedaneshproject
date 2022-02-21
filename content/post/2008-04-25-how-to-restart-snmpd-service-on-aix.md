@@ -2,7 +2,6 @@
 title: How to restart snmpd service on AIX
 author: Danesh
 date: 2008-04-25T07:35:21+00:00
-url: /posts/how-to-restart-snmpd-service-on-aix/
 pvc_views:
   - 30543
 dsq_thread_id:

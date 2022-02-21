@@ -2,7 +2,6 @@
 title: Skype’s recent outage explained
 author: Danesh
 date: 2007-08-26T18:28:23+00:00
-url: /posts/skypes-recent-outage-explained/
 pvc_views:
   - 2394
 dsq_thread_id:

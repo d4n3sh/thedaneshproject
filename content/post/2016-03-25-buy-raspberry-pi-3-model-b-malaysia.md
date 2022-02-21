@@ -2,7 +2,6 @@
 title: Where to buy the RASPBERRY PI 3 MODEL B in Malaysia
 author: Danesh
 date: 2016-03-24T21:51:00+00:00
-url: /posts/buy-raspberry-pi-3-model-b-malaysia/
 dsq_thread_id:
   - 4690778120
 

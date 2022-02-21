@@ -2,7 +2,6 @@
 title: Full Circle Magazine Issue 23
 author: Danesh
 date: 2009-03-28T19:17:14+00:00
-url: /posts/full-circle-magazine-issue-23/
 robotsmeta:
   - index,follow
 pvc_views:

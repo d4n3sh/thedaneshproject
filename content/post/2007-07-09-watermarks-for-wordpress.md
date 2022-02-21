@@ -2,7 +2,6 @@
 title: Watermarks for WordPress
 author: Danesh
 date: 2007-07-09T04:15:06+00:00
-url: /posts/watermarks-for-wordpress/
 pvc_views:
   - 1595
 dsq_thread_id:

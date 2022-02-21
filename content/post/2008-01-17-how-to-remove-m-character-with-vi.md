@@ -2,7 +2,6 @@
 title: How to remove ^M character with VI
 author: Danesh
 date: 2008-01-17T09:09:05+00:00
-url: /posts/how-to-remove-m-character-with-vi/
 pvc_views:
   - 86698
 dsq_thread_id:

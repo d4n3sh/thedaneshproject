@@ -2,7 +2,6 @@
 title: Adobe Flash Player 10.2 released
 author: Danesh
 date: 2011-02-11T04:03:38+00:00
-url: /posts/adobe-flash-player-10-2-released/
 pvc_views:
   - 2858
 dsq_thread_id:

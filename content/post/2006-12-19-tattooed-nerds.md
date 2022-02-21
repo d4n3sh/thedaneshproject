@@ -2,7 +2,6 @@
 title: Tattooed Nerds?
 author: Danesh
 date: 2006-12-19T15:31:23+00:00
-url: /posts/tattooed-nerds/
 tags: [tattoos]
 ---
 Tattooed Nerds? Yes yes, not just the cool dudes have tattoos anymore. Nerdy tattoos actually do look good. I&#8217;ve been thinkin of getting my 4th tattoo of maybe a tribal tux&#8230;maybe 🙂

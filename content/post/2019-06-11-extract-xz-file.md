@@ -2,7 +2,6 @@
 title: Extract .xz file
 author: Danesh
 date: 2019-06-10T22:20:49+00:00
-url: /posts/extract-xz-file/
 
 ---
 I generally just use the tar utility to extract files from a [.xz][1] archive.

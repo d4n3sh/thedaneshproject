@@ -2,7 +2,6 @@
 title: Why queue for your rebate?
 author: Danesh
 date: 2008-08-04T08:29:50+00:00
-url: /posts/why-queue-for-your-rebate/
 robotsmeta:
   - index,follow
 pvc_views:

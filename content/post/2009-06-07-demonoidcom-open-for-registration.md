@@ -2,7 +2,6 @@
 title: Demonoid.com open for registration
 author: Danesh
 date: 2009-06-07T09:39:18+00:00
-url: /posts/demonoidcom-open-for-registration/
 aktt_notify_twitter:
   - no
 pvc_views:

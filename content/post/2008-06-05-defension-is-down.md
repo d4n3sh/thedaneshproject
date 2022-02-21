@@ -2,7 +2,6 @@
 title: Defension is down
 author: Danesh
 date: 2008-06-05T03:07:24+00:00
-url: /posts/defension-is-down/
 pvc_views:
   - 4441
 dsq_thread_id:

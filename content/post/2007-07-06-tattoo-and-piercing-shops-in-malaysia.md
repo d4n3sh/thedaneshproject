@@ -2,7 +2,6 @@
 title: Tattoo and piercing shops in Malaysia
 author: Danesh
 date: 2007-07-06T12:21:16+00:00
-url: /posts/tattoo-and-piercing-shops-in-malaysia/
 pvc_views:
   - 31986
 dsq_thread_id:

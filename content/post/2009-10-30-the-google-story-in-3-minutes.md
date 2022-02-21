@@ -2,7 +2,6 @@
 title: The Google Story in 3 Minutes
 author: Danesh
 date: 2009-10-30T06:26:47+00:00
-url: /posts/the-google-story-in-3-minutes/
 pvc_views:
   - 1978
 dsq_thread_id:

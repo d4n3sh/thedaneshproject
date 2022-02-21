@@ -2,7 +2,6 @@
 title: wordpress 2.9.2 released
 author: Danesh
 date: 2010-02-16T05:30:31+00:00
-url: /posts/wordpress-2-9-2-released/
 pvc_views:
   - 3413
 dsq_thread_id:

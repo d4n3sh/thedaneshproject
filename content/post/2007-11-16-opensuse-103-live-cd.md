@@ -2,7 +2,6 @@
 title: openSUSE 10.3 live cd
 author: Danesh
 date: 2007-11-16T06:58:50+00:00
-url: /posts/opensuse-103-live-cd/
 pvc_views:
   - 5215
 dsq_thread_id:

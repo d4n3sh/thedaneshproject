@@ -2,7 +2,6 @@
 title: How to upgrade MySQL 4 to MySQL 5 on CentOS 4
 author: Danesh
 date: 2008-04-22T07:29:04+00:00
-url: /posts/how-to-upgrade-mysql-4-to-mysql-5-on-centos-4/
 pvc_views:
   - 7971
 dsq_thread_id:

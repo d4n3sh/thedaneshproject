@@ -2,7 +2,6 @@
 title: Red Hat updated RCHT and RCHE exams
 author: Danesh
 date: 2009-06-02T17:06:35+00:00
-url: /posts/red-hat-updated-rcht-and-rche-exams/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: RPK detained under ISA
 author: Danesh
 date: 2008-09-12T09:56:40+00:00
-url: /posts/rpk-detained-under-isa/
 robotsmeta:
   - index,follow
 pvc_views:

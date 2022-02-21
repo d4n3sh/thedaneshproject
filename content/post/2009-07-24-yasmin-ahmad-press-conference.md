@@ -2,7 +2,6 @@
 title: 'Yasmin Ahmad : Press Conference'
 author: Danesh
 date: 2009-07-24T04:09:13+00:00
-url: /posts/yasmin-ahmad-press-conference/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: Delirium Short Story Contest
 author: Danesh
 date: 2008-01-30T17:17:48+00:00
-url: /posts/delirium-short-story-contest/
 pvc_views:
   - 4131
 dsq_thread_id:

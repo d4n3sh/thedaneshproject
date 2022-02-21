@@ -2,7 +2,6 @@
 title: Auto upgrade Firefox 2 to Firefox 3
 author: Danesh
 date: 2008-08-26T08:24:12+00:00
-url: /posts/auto-upgrade-firefox-2-to-firefox-3/
 robotsmeta:
   - index,follow
 pvc_views:

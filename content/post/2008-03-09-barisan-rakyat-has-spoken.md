@@ -2,7 +2,6 @@
 title: Barisan Rakyat has spoken
 author: Danesh
 date: 2008-03-09T08:07:39+00:00
-url: /posts/barisan-rakyat-has-spoken/
 pvc_views:
   - 3177
 dsq_thread_id:

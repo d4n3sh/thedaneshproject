@@ -2,7 +2,6 @@
 title: alanbernard presents F’KN MISCHIEF
 author: Danesh
 date: 2007-04-09T15:41:44+00:00
-url: /posts/alanbernard-presents-fkn-mischief/
 pvc_views:
   - 1027
 dsq_thread_id:

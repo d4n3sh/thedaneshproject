@@ -2,7 +2,6 @@
 title: Automount
 author: Danesh
 date: 2007-08-13T18:02:40+00:00
-url: /posts/automount/
 pvc_views:
   - 6276
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Firefox 3.0.5 release
 author: Danesh
 date: 2008-12-18T00:46:03+00:00
-url: /posts/firefox-305-release/
 robotsmeta:
   - index,follow
 pvc_views:

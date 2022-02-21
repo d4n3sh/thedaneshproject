@@ -2,7 +2,6 @@
 title: How to configure Gtalk in Kopete
 author: Danesh
 date: 2007-09-02T17:53:40+00:00
-url: /posts/how-to-configure-gtalk-in-kopete/
 pvc_views:
   - 21375
 dsq_thread_id:

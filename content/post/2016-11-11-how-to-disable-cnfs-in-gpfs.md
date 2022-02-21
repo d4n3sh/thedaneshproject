@@ -2,7 +2,6 @@
 title: How to disable cnfs in GPFS
 author: Danesh
 date: 2016-11-11T08:44:04+00:00
-url: /posts/how-to-disable-cnfs-in-gpfs/
 dsq_thread_id:
   - 5295593831
 

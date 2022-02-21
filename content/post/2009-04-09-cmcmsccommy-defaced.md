@@ -2,7 +2,6 @@
 title: cmc.msc.com.my defaced
 author: Danesh
 date: 2009-04-09T04:20:54+00:00
-url: /posts/cmcmsccommy-defaced/
 robotsmeta:
   - index,follow
 pvc_views:

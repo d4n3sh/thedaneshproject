@@ -2,7 +2,6 @@
 title: Mozilla Firefox 3.5 is out!!
 author: Danesh
 date: 2009-06-30T17:00:03+00:00
-url: /posts/mozilla-firefox-3-5-is-out/
 aktt_notify_twitter:
   - no
 pvc_views:

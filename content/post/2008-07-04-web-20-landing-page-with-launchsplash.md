@@ -2,7 +2,6 @@
 title: Web 2.0 landing page with LaunchSplash
 author: Danesh
 date: 2008-07-03T20:16:48+00:00
-url: /posts/web-20-landing-page-with-launchsplash/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: How to flush the dns cache in windows
 author: Danesh
 date: 2009-01-07T20:55:02+00:00
-url: /posts/how-to-flush-the-dns-cache-in-windows/
 robotsmeta:
   - index,follow
 pvc_views:

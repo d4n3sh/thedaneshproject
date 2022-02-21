@@ -2,7 +2,6 @@
 title: 'Phishing Alert: HSBC scheduled maintenance'
 author: Danesh
 date: 2008-03-21T08:16:34+00:00
-url: /posts/phishing-alert-hsbc-scheduled-maintenance/
 pvc_views:
   - 1556
 dsq_thread_id:

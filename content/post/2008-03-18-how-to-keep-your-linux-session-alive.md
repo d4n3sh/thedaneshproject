@@ -2,7 +2,6 @@
 title: How to keep your Linux session alive
 author: Danesh
 date: 2008-03-18T13:43:37+00:00
-url: /posts/how-to-keep-your-linux-session-alive/
 pvc_views:
   - 5315
 dsq_thread_id:

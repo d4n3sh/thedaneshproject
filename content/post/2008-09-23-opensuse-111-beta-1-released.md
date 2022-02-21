@@ -2,7 +2,6 @@
 title: openSUSE 11.1 Beta 1 released
 author: Danesh
 date: 2008-09-22T19:02:32+00:00
-url: /posts/opensuse-111-beta-1-released/
 robotsmeta:
   - index,follow
 pvc_views:

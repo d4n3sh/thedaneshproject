@@ -2,7 +2,6 @@
 title: Permatang Pauh by-election results soon
 author: Danesh
 date: 2008-08-26T11:49:33+00:00
-url: /posts/permatang-pauh-by-election-results-soon/
 robotsmeta:
   - index,follow
 pvc_views:

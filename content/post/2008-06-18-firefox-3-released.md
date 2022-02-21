@@ -2,7 +2,6 @@
 title: Firefox 3 released
 author: Danesh
 date: 2008-06-18T01:29:57+00:00
-url: /posts/firefox-3-released/
 pvc_views:
   - 2942
 dsq_thread_id:

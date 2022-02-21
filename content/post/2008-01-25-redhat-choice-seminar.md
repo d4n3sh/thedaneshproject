@@ -2,7 +2,6 @@
 title: Redhat Choice Seminar
 author: Danesh
 date: 2008-01-24T17:48:56+00:00
-url: /posts/redhat-choice-seminar/
 pvc_views:
   - 1962
 dsq_thread_id:

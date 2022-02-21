@@ -2,7 +2,6 @@
 title: The Danesh Project 2D Code
 author: Danesh
 date: 2008-10-29T09:40:44+00:00
-url: /posts/the-danesh-project-2d-code/
 robotsmeta:
   - index,follow
 pvc_views:

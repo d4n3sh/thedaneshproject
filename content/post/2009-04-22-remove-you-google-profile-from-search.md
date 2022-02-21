@@ -2,7 +2,6 @@
 title: Remove you Google profile from search
 author: Danesh
 date: 2009-04-22T04:20:19+00:00
-url: /posts/remove-you-google-profile-from-search/
 robotsmeta:
   - index,follow
 pvc_views:

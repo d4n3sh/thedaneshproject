@@ -2,7 +2,6 @@
 title: candy.com the 3 million dollar domain
 author: Danesh
 date: 2009-07-22T00:00:07+00:00
-url: /posts/candy-com-the-3-million-dollar-domain/
 aktt_notify_twitter:
   - no
 pvc_views:

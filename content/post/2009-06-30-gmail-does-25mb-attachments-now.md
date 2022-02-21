@@ -2,7 +2,6 @@
 title: Gmail does 25MB attachments now
 author: Danesh
 date: 2009-06-30T00:00:23+00:00
-url: /posts/gmail-does-25mb-attachments-now/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: Grab Ubuntu 9.04 whilst it’s still hot!!
 author: Danesh
 date: 2009-04-24T05:24:45+00:00
-url: /posts/grab-ubuntu-904-whilst-its-still-hot/
 robotsmeta:
   - index,follow
 pvc_views:

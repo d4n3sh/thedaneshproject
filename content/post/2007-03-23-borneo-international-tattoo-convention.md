@@ -2,7 +2,6 @@
 title: Borneo International Tattoo Convention
 author: Danesh
 date: 2007-03-23T03:27:37+00:00
-url: /posts/borneo-international-tattoo-convention/
 pvc_views:
   - 6743
 dsq_thread_id:

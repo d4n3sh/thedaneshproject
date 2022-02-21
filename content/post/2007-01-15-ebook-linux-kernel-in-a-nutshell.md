@@ -2,7 +2,6 @@
 title: 'eBook: Linux Kernel in a Nutshell'
 author: Danesh
 date: 2007-01-15T02:22:10+00:00
-url: /posts/ebook-linux-kernel-in-a-nutshell/
 pvc_views:
   - 2827
 dsq_thread_id:

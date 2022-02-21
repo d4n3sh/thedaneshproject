@@ -2,7 +2,6 @@
 title: Mounting CIFS shares
 author: Danesh
 date: 2007-08-12T18:26:06+00:00
-url: /posts/mounting-cifs-shares/
 pvc_views:
   - 6795
 dsq_thread_id:

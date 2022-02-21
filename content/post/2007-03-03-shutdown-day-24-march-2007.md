@@ -2,7 +2,6 @@
 title: Shutdown Day 24 March 2007
 author: Danesh
 date: 2007-03-02T17:13:42+00:00
-url: /posts/shutdown-day-24-march-2007/
 pvc_views:
   - 2189
 dsq_thread_id:

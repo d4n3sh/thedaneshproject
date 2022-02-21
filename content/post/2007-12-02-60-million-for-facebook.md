@@ -2,7 +2,6 @@
 title: $60 Million for Facebook
 author: Danesh
 date: 2007-12-02T09:53:29+00:00
-url: /posts/60-million-for-facebook/
 pvc_views:
   - 2081
 dsq_thread_id:

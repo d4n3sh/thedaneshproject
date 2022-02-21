@@ -2,7 +2,6 @@
 title: Fastest Firefox, the community shows off
 author: Danesh
 date: 2009-07-23T04:30:55+00:00
-url: /posts/fastest-firefox-the-community-shows-off/
 aktt_notify_twitter:
   - no
 pvc_views:

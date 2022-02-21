@@ -2,7 +2,6 @@
 title: Won myself some WordPress stickers
 author: Danesh
 date: 2008-01-13T23:43:03+00:00
-url: /posts/won-myself-some-wordpress-stickers/
 pvc_views:
   - 4060
 dsq_thread_id:

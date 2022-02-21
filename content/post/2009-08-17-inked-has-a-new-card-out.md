@@ -2,7 +2,6 @@
 title: Inked has a new card out…
 author: Danesh
 date: 2009-08-17T02:02:18+00:00
-url: /posts/inked-has-a-new-card-out/
 aktt_notify_twitter:
   - no
 pvc_views:

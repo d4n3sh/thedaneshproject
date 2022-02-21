@@ -2,7 +2,6 @@
 title: How to exclude a package when running DNF
 author: Danesh
 date: 2022-01-24T15:44:22+00:00
-url: /posts/how-to-exclude-a-package-when-running-dnf/
 publishdate: 2022-01-24
 lastmod: 2022-01-24
 draft: false

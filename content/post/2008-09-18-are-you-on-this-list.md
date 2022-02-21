@@ -2,7 +2,6 @@
 title: Are you on this list?
 author: Danesh
 date: 2008-09-18T04:47:42+00:00
-url: /posts/are-you-on-this-list/
 pvc_views:
   - 2008
 robotsmeta:

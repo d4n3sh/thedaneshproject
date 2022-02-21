@@ -2,7 +2,6 @@
 title: Streamyx International access down
 author: Danesh
 date: 2008-01-30T18:47:20+00:00
-url: /posts/streamyx-international-access-down/
 pvc_views:
   - 3169
 dsq_thread_id:

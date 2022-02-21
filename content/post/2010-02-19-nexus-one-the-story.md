@@ -2,7 +2,6 @@
 title: 'Nexus One: The Story'
 author: Danesh
 date: 2010-02-19T07:07:06+00:00
-url: /posts/nexus-one-the-story/
 pvc_views:
   - 3563
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Gmail powered by humans
 author: Danesh
 date: 2008-03-10T17:09:16+00:00
-url: /posts/gmail-powered-by-humans/
 pvc_views:
   - 5099
 dsq_thread_id:

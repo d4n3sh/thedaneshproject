@@ -2,7 +2,6 @@
 title: Amarok 2.0 Alpha 2 (Aulanerk) released
 author: Danesh
 date: 2008-07-22T18:52:55+00:00
-url: /posts/amarok-20-alpha-2-aulanerk-released/
 robotsmeta:
   - index,follow
 pvc_views:

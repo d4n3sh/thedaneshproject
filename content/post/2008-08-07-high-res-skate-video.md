@@ -2,7 +2,6 @@
 title: High-Res skate video
 author: Danesh
 date: 2008-08-07T10:01:03+00:00
-url: /posts/high-res-skate-video/
 robotsmeta:
   - index,follow
 pvc_views:

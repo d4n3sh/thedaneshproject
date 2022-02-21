@@ -2,7 +2,6 @@
 title: Pot Holder
 author: Danesh
 date: 2010-02-23T00:00:22+00:00
-url: /posts/pot-holder/
 pvc_views:
   - 3499
 dsq_thread_id:

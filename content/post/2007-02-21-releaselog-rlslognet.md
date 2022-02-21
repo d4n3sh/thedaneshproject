@@ -2,7 +2,6 @@
 title: Releaselog | RLSLOG.net
 author: Danesh
 date: 2007-02-21T11:03:18+00:00
-url: /posts/releaselog-rlslognet/
 pvc_views:
   - 18947
 dsq_thread_id:

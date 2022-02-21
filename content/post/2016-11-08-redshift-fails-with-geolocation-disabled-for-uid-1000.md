@@ -2,7 +2,6 @@
 title: redshift fails with Geolocation disabled for UID 1000
 author: Danesh
 date: 2016-11-08T15:15:52+00:00
-url: /posts/redshift-fails-with-geolocation-disabled-for-uid-1000/
 dsq_thread_id:
   - 5288533538
 

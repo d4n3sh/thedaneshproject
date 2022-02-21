@@ -2,7 +2,6 @@
 title: 'Movie: Free Movie Screening'
 author: Danesh
 date: 2007-01-18T15:52:19+00:00
-url: /posts/movie-free-movie-screening/
 pvc_views:
   - 5105
 dsq_thread_id:

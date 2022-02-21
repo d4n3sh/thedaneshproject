@@ -2,7 +2,6 @@
 title: Get to know your tire.
 author: Danesh
 date: 2012-06-19T16:30:26+00:00
-url: /posts/get-to-know-your-tire/
 pvc_views:
   - 1475
 dsq_thread_id:

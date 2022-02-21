@@ -2,7 +2,6 @@
 title: Live traffic cams from around Malaysia
 author: Danesh
 date: 2008-01-29T14:23:21+00:00
-url: /posts/live-traffic-cams-from-around-malaysia/
 pvc_views:
   - 32660
 dsq_thread_id:

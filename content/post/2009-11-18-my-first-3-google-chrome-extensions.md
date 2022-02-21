@@ -2,7 +2,6 @@
 title: My first 3 Google Chrome extensions
 author: Danesh
 date: 2009-11-18T00:00:36+00:00
-url: /posts/my-first-3-google-chrome-extensions/
 pvc_views:
   - 1435
 dsq_thread_id:

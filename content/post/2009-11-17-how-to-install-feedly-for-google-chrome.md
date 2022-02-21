@@ -2,7 +2,6 @@
 title: How to install Feedly for Google Chrome
 author: Danesh
 date: 2009-11-17T05:37:40+00:00
-url: /posts/how-to-install-feedly-for-google-chrome/
 pvc_views:
   - 4765
 dsq_thread_id:

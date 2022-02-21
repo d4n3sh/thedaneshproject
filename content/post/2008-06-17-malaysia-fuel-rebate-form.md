@@ -2,7 +2,6 @@
 title: Malaysia fuel rebate form
 author: Danesh
 date: 2008-06-17T03:39:17+00:00
-url: /posts/malaysia-fuel-rebate-form/
 pvc_views:
   - 8783
 dsq_thread_id:

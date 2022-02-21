@@ -2,7 +2,6 @@
 title: Ubuntu countdown android widget
 author: Danesh
 date: 2011-02-02T09:17:55+00:00
-url: /posts/ubuntu-countdown-android-widget/
 pvc_views:
   - 2464
 dsq_thread_id:

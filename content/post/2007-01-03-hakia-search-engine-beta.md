@@ -2,7 +2,6 @@
 title: hakia Search Engine Beta
 author: Danesh
 date: 2007-01-03T03:32:05+00:00
-url: /posts/hakia-search-engine-beta/
 pvc_views:
   - 1112
 dsq_thread_id:

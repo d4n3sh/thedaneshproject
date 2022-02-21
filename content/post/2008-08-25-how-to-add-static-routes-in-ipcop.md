@@ -2,7 +2,6 @@
 title: How to add static routes in IPCop
 author: Danesh
 date: 2008-08-25T03:45:53+00:00
-url: /posts/how-to-add-static-routes-in-ipcop/
 robotsmeta:
   - index,follow
 pvc_views:

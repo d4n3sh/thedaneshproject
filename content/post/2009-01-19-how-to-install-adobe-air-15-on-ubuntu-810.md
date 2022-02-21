@@ -2,7 +2,6 @@
 title: How to install Adobe AIR 1.5 on Ubuntu 8.10
 author: Danesh
 date: 2009-01-19T01:00:52+00:00
-url: /posts/how-to-install-adobe-air-15-on-ubuntu-810/
 pvc_views:
   - 3603
 robotsmeta:

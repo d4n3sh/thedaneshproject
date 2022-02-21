@@ -2,7 +2,6 @@
 title: Ubuntu 8.10 CD/DVD label pack
 author: Danesh
 date: 2008-11-25T15:36:36+00:00
-url: /posts/ubuntu-810-cddvd-label-pack/
 robotsmeta:
   - index,follow
 pvc_views:

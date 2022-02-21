@@ -2,7 +2,6 @@
 title: Extract ZIP files in Linux
 author: Danesh
 date: 2007-09-05T17:12:59+00:00
-url: /posts/extract-zip-files-in-linux/
 pvc_views:
   - 35901
 dsq_thread_id:

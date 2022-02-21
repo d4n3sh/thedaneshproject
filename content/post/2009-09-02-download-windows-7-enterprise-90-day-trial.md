@@ -2,7 +2,6 @@
 title: Download Windows 7 Enterprise 90-day Trial
 author: Danesh
 date: 2009-09-02T20:06:21+00:00
-url: /posts/download-windows-7-enterprise-90-day-trial/
 aktt_notify_twitter:
   - no
 pvc_views:

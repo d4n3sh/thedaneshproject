@@ -2,7 +2,6 @@
 title: Malaysian Proxy Servers
 author: Danesh
 date: 2010-05-11T06:18:39+00:00
-url: /posts/malaysian-proxy-servers/
 pvc_views:
   - 8918
 dsq_thread_id:

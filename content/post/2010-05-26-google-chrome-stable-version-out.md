@@ -2,7 +2,6 @@
 title: Google Chrome stable version out
 author: Danesh
 date: 2010-05-25T18:09:49+00:00
-url: /posts/google-chrome-stable-version-out/
 pvc_views:
   - 3602
 dsq_thread_id:

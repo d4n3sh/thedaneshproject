@@ -2,7 +2,6 @@
 title: 3 more days till FOSS.my 2008
 author: Danesh
 date: 2008-11-05T03:11:21+00:00
-url: /posts/3-more-days-till-fossmy-2008/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: My openSUSE 11 repositories
 author: Danesh
 date: 2008-08-10T09:15:08+00:00
-url: /posts/my-opensuse-11-repositories/
 robotsmeta:
   - index,follow
 pvc_views:

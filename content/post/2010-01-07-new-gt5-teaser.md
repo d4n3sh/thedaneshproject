@@ -2,7 +2,6 @@
 title: New GT5 Teaser
 author: Danesh
 date: 2010-01-07T01:50:03+00:00
-url: /posts/new-gt5-teaser/
 pvc_views:
   - 1935
 

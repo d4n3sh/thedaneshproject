@@ -2,7 +2,6 @@
 title: I want the Wii!!
 author: Danesh
 date: 2007-05-17T05:42:19+00:00
-url: /posts/i-want-the-wii/
 pvc_views:
   - 2331
 dsq_thread_id:

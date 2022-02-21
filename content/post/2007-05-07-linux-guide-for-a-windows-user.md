@@ -2,7 +2,6 @@
 title: Linux guide for a windows user
 author: Danesh
 date: 2007-05-07T07:02:44+00:00
-url: /posts/linux-guide-for-a-windows-user/
 pvc_views:
   - 2920
 dsq_thread_id:

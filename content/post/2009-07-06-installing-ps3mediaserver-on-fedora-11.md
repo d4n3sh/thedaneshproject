@@ -2,7 +2,6 @@
 title: Installing ps3mediaserver on Fedora 11
 author: Danesh
 date: 2009-07-06T00:00:36+00:00
-url: /posts/installing-ps3mediaserver-on-fedora-11/
 aktt_notify_twitter:
   - no
 pvc_views:

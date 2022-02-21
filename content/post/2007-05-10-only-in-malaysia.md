@@ -2,7 +2,6 @@
 title: Only in Malaysia
 author: Danesh
 date: 2007-05-10T07:37:41+00:00
-url: /posts/only-in-malaysia/
 robotsmeta:
   - index,follow
 pvc_views:

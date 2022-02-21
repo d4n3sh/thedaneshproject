@@ -2,7 +2,6 @@
 title: Pirated vs. Legal DVD
 author: Danesh
 date: 2010-02-21T04:13:33+00:00
-url: /posts/pirated-vs-legal-dvd/
 pvc_views:
   - 2423
 dsq_thread_id:

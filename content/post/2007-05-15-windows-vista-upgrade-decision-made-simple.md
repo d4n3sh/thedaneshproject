@@ -2,7 +2,6 @@
 title: Windows Vista Upgrade Decision made simple
 author: Danesh
 date: 2007-05-15T19:37:38+00:00
-url: /posts/windows-vista-upgrade-decision-made-simple/
 pvc_views:
   - 2795
 dsq_thread_id:

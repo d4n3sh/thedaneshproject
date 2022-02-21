@@ -2,7 +2,6 @@
 title: Enable Medibuntu in Ubuntu 8.10
 author: Danesh
 date: 2008-11-25T06:37:13+00:00
-url: /posts/enable-medibuntu-in-ubuntu-810/
 pvc_views:
   - 11822
 robotsmeta:

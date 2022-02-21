@@ -2,7 +2,6 @@
 title: Firefox 3.5 , it’s almost here.
 author: Danesh
 date: 2009-06-30T01:36:51+00:00
-url: /posts/firefox-3-5-its-almost-here/
 aktt_notify_twitter:
   - no
 pvc_views:

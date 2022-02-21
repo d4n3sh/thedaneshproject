@@ -2,7 +2,6 @@
 title: How to disable selinux in CentOS 5.2
 author: Danesh
 date: 2008-12-16T15:24:11+00:00
-url: /posts/how-to-disable-selinux-in-centos-52/
 robotsmeta:
   - index,follow
 pvc_views:

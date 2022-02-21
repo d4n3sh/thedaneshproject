@@ -2,7 +2,6 @@
 title: Server time slow
 author: Danesh
 date: 2007-12-16T18:43:15+00:00
-url: /posts/server-time-slow/
 pvc_views:
   - 9175
 dsq_thread_id:

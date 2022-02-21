@@ -2,7 +2,6 @@
 title: SengHeng.com.my got hacked!!
 author: Danesh
 date: 2010-05-29T14:34:39+00:00
-url: /posts/sengheng-com-my-got-hacked/
 pvc_views:
   - 2304
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: How to install ClamAV
 author: Danesh
 date: 2008-08-20T13:28:37+00:00
-url: /posts/how-to-install-clamav/
 robotsmeta:
   - index,follow
 pvc_views:

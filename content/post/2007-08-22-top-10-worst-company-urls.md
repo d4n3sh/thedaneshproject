@@ -2,7 +2,6 @@
 title: Top 10 Worst Company URLs
 author: Danesh
 date: 2007-08-21T22:05:11+00:00
-url: /posts/top-10-worst-company-urls/
 pvc_views:
   - 9347
 dsq_thread_id:

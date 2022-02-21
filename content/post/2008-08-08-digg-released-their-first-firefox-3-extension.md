@@ -2,7 +2,6 @@
 title: Digg released their first Firefox 3 extension
 author: Danesh
 date: 2008-08-08T02:00:17+00:00
-url: /posts/digg-released-their-first-firefox-3-extension/
 robotsmeta:
   - index,follow
 pvc_views:

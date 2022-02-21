@@ -2,7 +2,6 @@
 title: Malaysia Today blocked by TMNET
 author: Danesh
 date: 2008-08-26T17:44:24+00:00
-url: /posts/malaysia-today-blocked-by-tmnet/
 robotsmeta:
   - index,follow
 pvc_views:

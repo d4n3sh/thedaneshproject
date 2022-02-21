@@ -2,7 +2,6 @@
 title: Free computer eBooks from Computer-Books.us
 author: Danesh
 date: 2009-02-06T03:44:02+00:00
-url: /posts/free-computer-ebooks-from-computer-booksus/
 robotsmeta:
   - index,follow
 pvc_views:

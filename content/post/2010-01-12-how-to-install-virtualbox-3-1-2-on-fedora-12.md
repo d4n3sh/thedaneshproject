@@ -2,7 +2,6 @@
 title: How to install VirtualBox 3.1.2 on Fedora 12
 author: Danesh
 date: 2010-01-11T17:45:29+00:00
-url: /posts/how-to-install-virtualbox-3-1-2-on-fedora-12/
 pvc_views:
   - 6806
 dsq_thread_id:

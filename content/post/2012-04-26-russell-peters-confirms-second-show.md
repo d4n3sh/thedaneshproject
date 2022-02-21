@@ -2,7 +2,6 @@
 title: Russell Peters confirms second show.
 author: Danesh
 date: 2012-04-26T10:11:32+00:00
-url: /posts/russell-peters-confirms-second-show/
 pvc_views:
   - 2705
 dsq_thread_id:

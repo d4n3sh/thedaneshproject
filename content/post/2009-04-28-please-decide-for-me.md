@@ -2,7 +2,6 @@
 title: Please decide for me
 author: Danesh
 date: 2009-04-28T04:49:12+00:00
-url: /posts/please-decide-for-me/
 pvc_views:
   - 6132
 robotsmeta:

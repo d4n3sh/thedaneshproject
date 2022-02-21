@@ -2,7 +2,6 @@
 title: 'Protocol major versions differ: 1 vs. 2'
 author: Danesh
 date: 2009-02-05T01:50:59+00:00
-url: /posts/protocol-major-versions-differ-1-vs-2/
 robotsmeta:
   - index,follow
 pvc_views:

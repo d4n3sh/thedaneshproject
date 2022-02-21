@@ -2,7 +2,6 @@
 title: Malaysian broadband providers
 author: Danesh
 date: 2007-12-26T02:00:57+00:00
-url: /posts/malaysian-broadband-providers/
 pvc_views:
   - 49174
 robotsmeta:

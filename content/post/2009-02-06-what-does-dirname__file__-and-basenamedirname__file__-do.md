@@ -2,7 +2,6 @@
 title: What does dirname(__FILE__) and basename(dirname(__FILE__)) do?
 author: Danesh
 date: 2009-02-06T09:44:06+00:00
-url: /posts/what-does-dirname__file__-and-basenamedirname__file__-do/
 pvc_views:
   - 32501
 robotsmeta:

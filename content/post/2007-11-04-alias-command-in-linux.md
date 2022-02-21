@@ -2,7 +2,6 @@
 title: Alias command in Linux
 author: Danesh
 date: 2007-11-04T14:32:34+00:00
-url: /posts/alias-command-in-linux/
 pvc_views:
   - 7681
 dsq_thread_id:

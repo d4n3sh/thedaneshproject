@@ -2,7 +2,6 @@
 title: Defensio a week later
 author: Danesh
 date: 2007-11-20T04:06:41+00:00
-url: /posts/defensio-a-week-later/
 pvc_views:
   - 1819
 dsq_thread_id:

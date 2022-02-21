@@ -2,7 +2,6 @@
 title: Free WiFi HotSpots
 author: Danesh
 date: 2008-01-15T12:54:51+00:00
-url: /posts/free-wifi-hotspots/
 pvc_views:
   - 7695
 dsq_thread_id:

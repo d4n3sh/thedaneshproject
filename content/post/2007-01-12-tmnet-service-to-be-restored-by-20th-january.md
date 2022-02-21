@@ -2,7 +2,6 @@
 title: 'TMNET: Service to be restored by 20th January'
 author: Danesh
 date: 2007-01-12T08:33:57+00:00
-url: /posts/tmnet-service-to-be-restored-by-20th-january/
 pvc_views:
   - 2254
 dsq_thread_id:

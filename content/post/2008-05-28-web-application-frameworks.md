@@ -2,7 +2,6 @@
 title: Web Application Frameworks
 author: Danesh
 date: 2008-05-28T06:54:56+00:00
-url: /posts/web-application-frameworks/
 pvc_views:
   - 3804
 dsq_thread_id:

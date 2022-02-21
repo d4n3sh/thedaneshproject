@@ -2,7 +2,6 @@
 title: WordPress Visual Cheat Sheet
 author: Danesh
 date: 2009-11-02T03:18:45+00:00
-url: /posts/wordpress-visual-cheat-sheet/
 pvc_views:
   - 2334
 dsq_thread_id:

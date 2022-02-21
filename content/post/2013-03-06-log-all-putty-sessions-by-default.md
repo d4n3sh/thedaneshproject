@@ -2,7 +2,6 @@
 title: Log all Putty sessions by default
 author: Danesh
 date: 2013-03-05T22:59:25+00:00
-url: /posts/log-all-putty-sessions-by-default/
 dsq_thread_id:
   - 1120051936
 

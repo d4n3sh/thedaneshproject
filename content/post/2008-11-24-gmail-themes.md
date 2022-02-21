@@ -2,7 +2,6 @@
 title: Gmail Themes
 author: Danesh
 date: 2008-11-24T04:29:11+00:00
-url: /posts/gmail-themes/
 robotsmeta:
   - index,follow
 pvc_views:

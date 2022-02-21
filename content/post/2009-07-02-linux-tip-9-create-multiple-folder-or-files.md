@@ -2,7 +2,6 @@
 title: 'Linux Tip #9: Create multiple folder or files'
 author: Danesh
 date: 2009-07-02T00:00:00+00:00
-url: /posts/linux-tip-9-create-multiple-folder-or-files/
 aktt_notify_twitter:
   - no
 pvc_views:

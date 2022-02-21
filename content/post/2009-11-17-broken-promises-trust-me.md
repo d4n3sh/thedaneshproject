@@ -2,7 +2,6 @@
 title: Broken Promises , Trust Me
 author: Danesh
 date: 2009-11-17T14:00:43+00:00
-url: /posts/broken-promises-trust-me/
 pvc_views:
   - 2429
 dsq_thread_id:

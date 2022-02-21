@@ -2,7 +2,6 @@
 title: Moving host
 author: Danesh
 date: 2008-06-25T07:28:45+00:00
-url: /posts/moving-host/
 pvc_views:
   - 3602
 dsq_thread_id:

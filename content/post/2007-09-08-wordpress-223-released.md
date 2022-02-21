@@ -2,7 +2,6 @@
 title: WordPress 2.2.3 released
 author: Danesh
 date: 2007-09-08T14:06:28+00:00
-url: /posts/wordpress-223-released/
 pvc_views:
   - 1338
 dsq_thread_id:

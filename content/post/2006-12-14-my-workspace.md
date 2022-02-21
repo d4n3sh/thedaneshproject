@@ -2,7 +2,6 @@
 title: My Workspace
 author: Danesh
 date: 2006-12-14T08:29:08+00:00
-url: /posts/my-workspace/
 pvc_views:
   - 14237
 dsq_thread_id:

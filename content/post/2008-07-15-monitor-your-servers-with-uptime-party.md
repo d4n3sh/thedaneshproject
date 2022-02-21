@@ -2,7 +2,6 @@
 title: Monitor your servers with Uptime Party
 author: Danesh
 date: 2008-07-14T17:12:16+00:00
-url: /posts/monitor-your-servers-with-uptime-party/
 robotsmeta:
   - index,follow
 pvc_views:

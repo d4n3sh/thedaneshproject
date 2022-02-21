@@ -2,7 +2,6 @@
 title: Earth Hour Malaysia 2009 | Turn your lights off!
 author: Danesh
 date: 2009-03-16T16:32:15+00:00
-url: /posts/earth-hour-malaysia-2009-turn-your-lights-off/
 robotsmeta:
   - index,follow
 pvc_views:

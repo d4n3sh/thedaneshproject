@@ -2,7 +2,6 @@
 title: Skype service fully restored.
 author: Danesh
 date: 2007-08-19T08:46:17+00:00
-url: /posts/skype-service-fully-restaored/
 pvc_views:
   - 2758
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Install minikube on Ubuntu 20.10
 author: Danesh
 date: 2020-11-07T00:33:25+00:00
-url: /posts/install-minikube-on-ubuntu-20-10/
 
 ---
 I&#8217;m installing minikube on my shiny new Pop!OS 20.10 install which is based on Ubuntu 20.10.

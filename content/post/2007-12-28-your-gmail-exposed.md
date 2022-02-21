@@ -2,7 +2,6 @@
 title: Your Gmail Exposed
 author: Danesh
 date: 2007-12-28T02:00:28+00:00
-url: /posts/your-gmail-exposed/
 pvc_views:
   - 10096
 dsq_thread_id:

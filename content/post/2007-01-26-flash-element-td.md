@@ -2,7 +2,6 @@
 title: Flash Element TD
 author: Danesh
 date: 2007-01-26T07:44:25+00:00
-url: /posts/flash-element-td/
 pvc_views:
   - 7587
 dsq_thread_id:

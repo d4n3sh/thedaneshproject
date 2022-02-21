@@ -2,7 +2,6 @@
 title: Skribit , content suggestion for blogs
 author: Danesh
 date: 2008-05-08T02:10:52+00:00
-url: /posts/skribit-content-suggestion-for-blogs/
 pvc_views:
   - 5998
 dsq_thread_id:

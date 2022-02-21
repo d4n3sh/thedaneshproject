@@ -2,7 +2,6 @@
 title: Streamyx 4.0 mbps
 author: Danesh
 date: 2007-05-17T12:47:27+00:00
-url: /posts/streamyx-40-mbps/
 pvc_views:
   - 4253
 dsq_thread_id:

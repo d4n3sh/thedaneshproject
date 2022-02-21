@@ -2,7 +2,6 @@
 title: 'Linux Tip #2: Get your PID with $$'
 author: Danesh
 date: 2009-03-17T02:00:11+00:00
-url: /posts/linux-tip-2-get-your-pid-with/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Where to buy Google Nexus 7 in Malaysia
 author: Danesh
 date: 2012-09-25T03:36:10+00:00
-url: /posts/where-to-buy-google-nexus-7-in-malaysia/
 pvc_views:
   - 2176
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: openSUSE 10.2 Survey
 author: Danesh
 date: 2007-04-04T17:56:04+00:00
-url: /posts/opensuse-102-survey/
 pvc_views:
   - 1070
 dsq_thread_id:

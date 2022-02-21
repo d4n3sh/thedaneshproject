@@ -2,7 +2,6 @@
 title: Goodbye Sam from Comedy Court
 author: Danesh
 date: 2008-03-11T17:18:56+00:00
-url: /posts/goodbye-sam-from-comedy-court/
 pvc_views:
   - 5498
 dsq_thread_id:

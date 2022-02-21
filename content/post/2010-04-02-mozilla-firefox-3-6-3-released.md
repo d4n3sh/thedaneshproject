@@ -2,7 +2,6 @@
 title: Mozilla Firefox 3.6.3 released
 author: Danesh
 date: 2010-04-02T04:12:11+00:00
-url: /posts/mozilla-firefox-3-6-3-released/
 pvc_views:
   - 2652
 dsq_thread_id:

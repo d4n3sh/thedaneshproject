@@ -2,7 +2,6 @@
 title: Kickdefella is back!!
 author: Danesh
 date: 2008-09-20T16:47:31+00:00
-url: /posts/kickdefella-is-back/
 robotsmeta:
   - index,follow
 pvc_views:

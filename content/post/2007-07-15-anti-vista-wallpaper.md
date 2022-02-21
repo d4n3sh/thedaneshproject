@@ -2,7 +2,6 @@
 title: Anti Vista wallpaper
 author: Danesh
 date: 2007-07-15T06:24:32+00:00
-url: /posts/anti-vista-wallpaper/
 pvc_views:
   - 7778
 dsq_thread_id:

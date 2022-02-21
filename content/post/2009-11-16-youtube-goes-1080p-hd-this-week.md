@@ -2,7 +2,6 @@
 title: YouTube goes 1080p HD this week
 author: Danesh
 date: 2009-11-15T16:17:20+00:00
-url: /posts/youtube-goes-1080p-hd-this-week/
 pvc_views:
   - 2286
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: My free sketch is ready
 author: Danesh
 date: 2007-09-03T16:51:52+00:00
-url: /posts/my-free-sketch-is-ready/
 pvc_views:
   - 7949
 dsq_thread_id:

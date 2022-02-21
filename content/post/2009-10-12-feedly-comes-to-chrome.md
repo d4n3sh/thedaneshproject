@@ -2,7 +2,6 @@
 title: Feedly comes to Chrome
 author: Danesh
 date: 2009-10-12T09:22:50+00:00
-url: /posts/feedly-comes-to-chrome/
 pvc_views:
   - 3015
 dsq_thread_id:

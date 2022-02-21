@@ -2,7 +2,6 @@
 title: 'Firefox: Splash Screen for Firefox'
 author: Danesh
 date: 2007-01-18T20:28:14+00:00
-url: /posts/firefox-splash-screen-for-firefox/
 pvc_views:
   - 4285
 dsq_thread_id:

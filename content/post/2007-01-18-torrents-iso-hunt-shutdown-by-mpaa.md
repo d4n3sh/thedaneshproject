@@ -2,7 +2,6 @@
 title: 'Torrents: ISO Hunt shutdown by MPAA!!'
 author: Danesh
 date: 2007-01-17T20:39:23+00:00
-url: /posts/torrents-iso-hunt-shutdown-by-mpaa/
 pvc_views:
   - 7002
 dsq_thread_id:

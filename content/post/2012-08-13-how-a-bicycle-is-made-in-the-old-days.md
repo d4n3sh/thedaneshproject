@@ -2,7 +2,6 @@
 title: HOW A BICYCLE IS MADE in the old days.
 author: Danesh
 date: 2012-08-13T09:10:08+00:00
-url: /posts/how-a-bicycle-is-made-in-the-old-days/
 pvc_views:
   - 1803
 dsq_thread_id:

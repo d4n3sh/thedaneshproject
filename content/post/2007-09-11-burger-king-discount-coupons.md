@@ -2,7 +2,6 @@
 title: Burger King discount coupons
 author: Danesh
 date: 2007-09-11T13:45:17+00:00
-url: /posts/burger-king-discount-coupons/
 pvc_views:
   - 30484
 aktt_notify_twitter:

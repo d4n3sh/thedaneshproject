@@ -2,7 +2,6 @@
 title: The Son by Desmond Ng
 author: Danesh
 date: 2009-08-28T02:48:43+00:00
-url: /posts/the-son-by-desmond-ng/
 aktt_notify_twitter:
   - no
 pvc_views:

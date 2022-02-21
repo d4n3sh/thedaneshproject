@@ -2,7 +2,6 @@
 title: WordPress 2.3 Plugin Compatibility List
 author: Danesh
 date: 2007-09-17T05:46:45+00:00
-url: /posts/wordpress-23-plugin-compatibility-list/
 pvc_views:
   - 3001
 dsq_thread_id:

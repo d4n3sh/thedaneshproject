@@ -2,7 +2,6 @@
 title: How to control your TV with your Astro B.yond remote control
 author: Danesh
 date: 2013-09-17T00:00:01+00:00
-url: /posts/control-tv-astro-b-yond-remote-control/
 dsq_thread_id:
   - 1767781689
 

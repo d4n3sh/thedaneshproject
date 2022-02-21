@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.10 released
 author: Danesh
 date: 2007-11-28T07:55:20+00:00
-url: /posts/firefox-20010-released/
 pvc_views:
   - 2703
 dsq_thread_id:

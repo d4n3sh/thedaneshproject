@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.13 released
 author: Danesh
 date: 2008-03-26T03:01:42+00:00
-url: /posts/firefox-20013-released/
 pvc_views:
   - 4238
 dsq_thread_id:

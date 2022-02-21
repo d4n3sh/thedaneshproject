@@ -2,7 +2,6 @@
 title: Asus Transformer Prime user to receive USB dongle to attention GPS issues.
 author: Danesh
 date: 2012-04-12T13:12:48+00:00
-url: /posts/asus-transformer-prime-user-to-receive-usb-dongle-to-attention-gps-issues/
 pvc_views:
   - 2605
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: The Danesh Project outage
 author: Danesh
 date: 2007-09-07T03:56:40+00:00
-url: /posts/the-danesh-project-outage/
 pvc_views:
   - 2905
 dsq_thread_id:

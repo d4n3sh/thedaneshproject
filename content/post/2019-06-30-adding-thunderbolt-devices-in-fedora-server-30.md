@@ -2,7 +2,6 @@
 title: Adding thunderbolt devices in Fedora server 30
 author: Danesh
 date: 2019-06-29T21:04:52+00:00
-url: /posts/adding-thunderbolt-devices-in-fedora-server-30/
 
 ---
 I recently purchased a thunderbolt 3 to 10GbE adapter ( QNA-T310G1S ) for my homelab NUC ( NUC7i5BNH ) running Fedora server 30.

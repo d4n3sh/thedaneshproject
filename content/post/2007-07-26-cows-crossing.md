@@ -2,7 +2,6 @@
 title: Cows Crossing
 author: Danesh
 date: 2007-07-25T18:30:21+00:00
-url: /posts/cows-crossing/
 pvc_views:
   - 2347
 dsq_thread_id:

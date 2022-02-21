@@ -2,7 +2,6 @@
 title: Nathan Wyburn pays tribute to MJ through his art
 author: Danesh
 date: 2009-07-01T00:00:23+00:00
-url: /posts/nathan-wyburn-pays-tribute-to-mj-through-his-art/
 aktt_notify_twitter:
   - no
 pvc_views:

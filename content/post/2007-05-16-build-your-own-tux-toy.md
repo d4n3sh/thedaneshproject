@@ -2,7 +2,6 @@
 title: Build your own TUX toy
 author: Danesh
 date: 2007-05-16T03:23:30+00:00
-url: /posts/build-your-own-tux-toy/
 pvc_views:
   - 4510
 dsq_thread_id:

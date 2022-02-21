@@ -2,7 +2,6 @@
 title: Seesmic acquires Ping.fm
 author: Danesh
 date: 2010-01-06T01:48:33+00:00
-url: /posts/seesmic-acquires-ping-fm/
 pvc_views:
   - 1933
 dsq_thread_id:

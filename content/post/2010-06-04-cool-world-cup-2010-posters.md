@@ -2,7 +2,6 @@
 title: Cool World Cup 2010 Posters
 author: Danesh
 date: 2010-06-04T10:55:13+00:00
-url: /posts/cool-world-cup-2010-posters/
 pvc_views:
   - 3228
 dsq_thread_id:

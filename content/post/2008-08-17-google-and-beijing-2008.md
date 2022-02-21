@@ -2,7 +2,6 @@
 title: Google and Beijing 2008
 author: Danesh
 date: 2008-08-17T10:05:28+00:00
-url: /posts/google-and-beijing-2008/
 robotsmeta:
   - index,follow
 pvc_views:

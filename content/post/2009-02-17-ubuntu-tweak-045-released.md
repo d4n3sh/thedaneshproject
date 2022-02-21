@@ -2,7 +2,6 @@
 title: Ubuntu Tweak 0.4.5 released!
 author: Danesh
 date: 2009-02-16T17:10:40+00:00
-url: /posts/ubuntu-tweak-045-released/
 robotsmeta:
   - index,follow
 pvc_views:

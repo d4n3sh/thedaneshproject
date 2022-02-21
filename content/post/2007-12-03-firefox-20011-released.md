@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.11 released
 author: Danesh
 date: 2007-12-03T15:30:58+00:00
-url: /posts/firefox-20011-released/
 pvc_views:
   - 4924
 dsq_thread_id:

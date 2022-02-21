@@ -2,7 +2,6 @@
 title: Spotted Dick
 author: Danesh
 date: 2007-07-23T08:44:57+00:00
-url: /posts/spotted-dick/
 pvc_views:
   - 5023
 dsq_thread_id:

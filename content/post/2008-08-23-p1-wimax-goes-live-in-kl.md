@@ -2,7 +2,6 @@
 title: P1 WiMAX goes live in KL
 author: Danesh
 date: 2008-08-23T12:48:55+00:00
-url: /posts/p1-wimax-goes-live-in-kl/
 robotsmeta:
   - index,follow
 pvc_views:

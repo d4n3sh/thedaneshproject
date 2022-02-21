@@ -2,7 +2,6 @@
 title: 100 opensource applications
 author: Danesh
 date: 2008-04-22T00:58:03+00:00
-url: /posts/100-opensource-applications/
 pvc_views:
   - 1651
 dsq_thread_id:

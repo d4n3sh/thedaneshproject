@@ -2,7 +2,6 @@
 title: 'Linux Tip #4: Simple sort with the sort command'
 author: Danesh
 date: 2009-03-27T08:41:02+00:00
-url: /posts/linux-tip-4-simple-sort-with-the-sort-command/
 robotsmeta:
   - index,follow
 pvc_views:

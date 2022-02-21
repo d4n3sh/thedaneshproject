@@ -2,7 +2,6 @@
 title: Lenova issues Battery recall
 author: Danesh
 date: 2009-08-20T23:00:24+00:00
-url: /posts/lenova-issues-battery-recall/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: 20 free Linux eBooks by Linux Links
 author: Danesh
 date: 2009-04-07T04:19:02+00:00
-url: /posts/20-free-linux-ebooks/
 robotsmeta:
   - index,follow
 pvc_views:

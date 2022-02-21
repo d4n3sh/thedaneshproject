@@ -2,7 +2,6 @@
 title: How to install Deluge on openSUSE 11
 author: Danesh
 date: 2008-06-22T11:22:48+00:00
-url: /posts/how-to-install-deluge-on-opensuse-11/
 pvc_views:
   - 9671
 dsq_thread_id:

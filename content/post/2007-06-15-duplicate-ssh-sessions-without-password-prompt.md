@@ -2,7 +2,6 @@
 title: Duplicate ssh sessions without password prompt
 author: Danesh
 date: 2007-06-15T03:33:08+00:00
-url: /posts/duplicate-ssh-sessions-without-password-prompt/
 pvc_views:
   - 4191
 dsq_thread_id:

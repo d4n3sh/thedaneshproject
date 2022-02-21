@@ -2,7 +2,6 @@
 title: “My Life, My Way” Tattoo | ModBlog
 author: Danesh
 date: 2007-03-04T14:38:31+00:00
-url: /posts/my-life-my-way-tattoo-modblog/
 pvc_views:
   - 6364
 dsq_thread_id:

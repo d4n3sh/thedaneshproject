@@ -2,7 +2,6 @@
 title: Happy 50th birthday Malaysia
 author: Danesh
 date: 2007-09-01T18:48:56+00:00
-url: /posts/happy-50th-birthday-malaysia/
 pvc_views:
   - 2255
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Malaysiakini mirrors
 author: Danesh
 date: 2013-05-02T16:01:37+00:00
-url: /posts/malaysiakini-mirrors/
 dsq_thread_id:
   - 1254988921
 

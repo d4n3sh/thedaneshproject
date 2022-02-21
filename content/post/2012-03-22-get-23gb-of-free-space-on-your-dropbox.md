@@ -2,7 +2,6 @@
 title: Get 23GB Of Free Space On Your Dropbox
 author: Danesh
 date: 2012-03-22T09:44:11+00:00
-url: /posts/get-23gb-of-free-space-on-your-dropbox/
 pvc_views:
   - 2444
 dsq_thread_id:

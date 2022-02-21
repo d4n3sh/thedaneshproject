@@ -2,7 +2,6 @@
 title: Ubuntu 9.10 released
 author: Danesh
 date: 2009-11-01T16:51:57+00:00
-url: /posts/ubuntu-9-10-released/
 pvc_views:
   - 2033
 

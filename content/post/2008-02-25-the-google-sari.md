@@ -2,7 +2,6 @@
 title: The Google Sari
 author: Danesh
 date: 2008-02-24T17:09:49+00:00
-url: /posts/the-google-sari/
 pvc_views:
   - 9665
 dsq_thread_id:

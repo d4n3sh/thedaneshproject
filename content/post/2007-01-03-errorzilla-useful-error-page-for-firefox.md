@@ -2,7 +2,6 @@
 title: ErrorZilla – Useful error page for Firefox
 author: Danesh
 date: 2007-01-03T03:50:31+00:00
-url: /posts/errorzilla-useful-error-page-for-firefox/
 pvc_views:
   - 1389
 dsq_thread_id:

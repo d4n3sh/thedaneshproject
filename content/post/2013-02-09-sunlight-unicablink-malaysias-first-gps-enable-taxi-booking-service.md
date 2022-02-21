@@ -2,7 +2,6 @@
 title: Sunlight Unicablink. Malaysia’s first GPS enable taxi booking service.
 author: Danesh
 date: 2013-02-08T17:02:44+00:00
-url: /posts/sunlight-unicablink-malaysias-first-gps-enable-taxi-booking-service/
 dsq_thread_id:
   - 1072484845
 

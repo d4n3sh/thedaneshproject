@@ -2,7 +2,6 @@
 title: Teresa Kok is out
 author: Danesh
 date: 2008-09-19T07:15:18+00:00
-url: /posts/teresa-kok-is-out/
 pvc_views:
   - 1151
 robotsmeta:

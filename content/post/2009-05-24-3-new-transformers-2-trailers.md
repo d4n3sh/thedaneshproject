@@ -2,7 +2,6 @@
 title: 3 new “Transformers 2” trailers
 author: Danesh
 date: 2009-05-23T20:28:36+00:00
-url: /posts/3-new-transformers-2-trailers/
 aktt_notify_twitter:
   - no
 pvc_views:

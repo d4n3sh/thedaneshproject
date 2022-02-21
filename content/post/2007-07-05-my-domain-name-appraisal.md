@@ -2,7 +2,6 @@
 title: My domain name appraisal
 author: Danesh
 date: 2007-07-05T03:24:53+00:00
-url: /posts/my-domain-name-appraisal/
 pvc_views:
   - 2078
 dsq_thread_id:

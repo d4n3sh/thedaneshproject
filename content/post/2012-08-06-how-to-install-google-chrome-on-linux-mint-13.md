@@ -2,7 +2,6 @@
 title: How to install Google Chrome on Linux Mint 13
 author: Danesh
 date: 2012-08-06T15:22:14+00:00
-url: /posts/how-to-install-google-chrome-on-linux-mint-13/
 pvc_views:
   - 3381
 dsq_thread_id:

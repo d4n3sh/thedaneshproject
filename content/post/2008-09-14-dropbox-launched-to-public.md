@@ -2,7 +2,6 @@
 title: Dropbox launched to public
 author: Danesh
 date: 2008-09-14T23:38:59+00:00
-url: /posts/dropbox-launched-to-public/
 robotsmeta:
   - index,follow
 pvc_views:

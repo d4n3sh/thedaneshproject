@@ -2,7 +2,6 @@
 title: Ubuntu mirrors up and improved!
 author: Danesh
 date: 2010-04-29T05:03:44+00:00
-url: /posts/ubuntu-mirrors-up-and-improved/
 pvc_views:
   - 1662
 dsq_thread_id:

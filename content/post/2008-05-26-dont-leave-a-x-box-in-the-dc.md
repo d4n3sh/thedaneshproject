@@ -2,7 +2,6 @@
 title: Don’t leave a X-Box in the DC
 author: Danesh
 date: 2008-05-25T17:18:48+00:00
-url: /posts/dont-leave-a-x-box-in-the-dc/
 pvc_views:
   - 5831
 dsq_thread_id:

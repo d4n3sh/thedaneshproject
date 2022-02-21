@@ -2,7 +2,6 @@
 title: Tattoo Convention Kuala Lumpur 2009
 author: Danesh
 date: 2009-05-02T04:26:21+00:00
-url: /posts/tattoo-convention-kuala-lumpur-2009/
 aktt_notify_twitter:
   - no
 pvc_views:

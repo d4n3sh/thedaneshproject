@@ -2,7 +2,6 @@
 title: How to install Flash 11 64-bit on Fedora 16
 author: Danesh
 date: 2011-11-09T12:54:04+00:00
-url: /posts/how-to-install-flash-11-64-bit-on-fedora-16/
 pvc_views:
   - 10027
 dsq_thread_id:

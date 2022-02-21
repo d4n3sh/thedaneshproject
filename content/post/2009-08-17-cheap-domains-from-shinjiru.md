@@ -2,7 +2,6 @@
 title: Cheap domains from Shinjiru
 author: Danesh
 date: 2009-08-17T14:00:04+00:00
-url: /posts/cheap-domains-from-shinjiru/
 aktt_notify_twitter:
   - no
 pvc_views:

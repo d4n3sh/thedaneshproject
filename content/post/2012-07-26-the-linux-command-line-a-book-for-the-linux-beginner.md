@@ -2,7 +2,6 @@
 title: The Linux Command Line a book for the Linux beginner
 author: Danesh
 date: 2012-07-26T09:13:34+00:00
-url: /posts/the-linux-command-line-a-book-for-the-linux-beginner/
 pvc_views:
   - 1236
 dsq_thread_id:

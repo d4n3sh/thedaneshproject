@@ -2,7 +2,6 @@
 title: lowyat.net down
 author: Danesh
 date: 2009-12-29T05:23:14+00:00
-url: /posts/lowyat-net-down/
 pvc_views:
   - 1757
 dsq_thread_id:

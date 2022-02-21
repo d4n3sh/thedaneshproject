@@ -2,7 +2,6 @@
 title: Upgraded to WordPress 2.6.1
 author: Danesh
 date: 2008-08-16T12:24:30+00:00
-url: /posts/upgraded-to-wordpress-261/
 robotsmeta:
   - index,follow
 pvc_views:

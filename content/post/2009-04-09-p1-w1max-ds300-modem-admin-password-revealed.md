@@ -2,7 +2,6 @@
 title: P1 W1MAX DS300 Modem admin password revealed
 author: Danesh
 date: 2009-04-08T17:06:29+00:00
-url: /posts/p1-w1max-ds300-modem-admin-password-revealed/
 pvc_views:
   - 76867
 robotsmeta:

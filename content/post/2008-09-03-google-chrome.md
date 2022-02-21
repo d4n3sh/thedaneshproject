@@ -2,7 +2,6 @@
 title: Google Chrome
 author: Danesh
 date: 2008-09-04T01:51:25+00:00
-url: /posts/google-chrome/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Making money online. Need proof?
 author: Danesh
 date: 2007-03-01T15:23:48+00:00
-url: /posts/making-money-online-need-proof/
 pvc_views:
   - 3501
 dsq_thread_id:

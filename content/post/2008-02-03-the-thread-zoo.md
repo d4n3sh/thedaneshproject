@@ -2,7 +2,6 @@
 title: The Thread Zoo
 author: Danesh
 date: 2008-02-02T19:13:26+00:00
-url: /posts/the-thread-zoo/
 pvc_views:
   - 63425
 dsq_thread_id:

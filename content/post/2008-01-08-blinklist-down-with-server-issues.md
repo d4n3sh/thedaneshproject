@@ -2,7 +2,6 @@
 title: BlinkList down with server issues
 author: Danesh
 date: 2008-01-08T12:23:30+00:00
-url: /posts/blinklist-down-with-server-issues/
 pvc_views:
   - 3024
 dsq_thread_id:

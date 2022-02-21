@@ -2,7 +2,6 @@
 title: Remove the OBS virtual webcam device on Mac
 author: Danesh
 date: 2021-06-23T02:44:23+00:00
-url: /posts/remove-the-obs-virtual-webcam-device-on-mac/
 featured_image: /wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img4.png
 advanced_seo_description:
   - Remove the OBS virtual webcam device on Mac

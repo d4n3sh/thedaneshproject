@@ -2,7 +2,6 @@
 title: Twitter Tees By Threadless
 author: Danesh
 date: 2009-05-19T18:31:51+00:00
-url: /posts/twitter-tees-by-threadless/
 aktt_notify_twitter:
   - no
 pvc_views:

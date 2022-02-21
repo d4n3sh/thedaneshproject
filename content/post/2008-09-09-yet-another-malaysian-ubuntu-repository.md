@@ -2,7 +2,6 @@
 title: Yet another Malaysian Ubuntu repository
 author: Danesh
 date: 2008-09-08T17:06:48+00:00
-url: /posts/yet-another-malaysian-ubuntu-repository/
 robotsmeta:
   - index,follow
 pvc_views:

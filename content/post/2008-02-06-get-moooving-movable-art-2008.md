@@ -2,7 +2,6 @@
 title: Get Moooving Movable Art 2008
 author: Danesh
 date: 2008-02-05T18:14:17+00:00
-url: /posts/get-moooving-movable-art-2008/
 pvc_views:
   - 3529
 dsq_thread_id:

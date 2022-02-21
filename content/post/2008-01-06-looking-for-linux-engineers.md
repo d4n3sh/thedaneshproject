@@ -2,7 +2,6 @@
 title: Looking for Linux Engineers
 author: Danesh
 date: 2008-01-06T02:10:32+00:00
-url: /posts/looking-for-linux-engineers/
 pvc_views:
   - 3535
 dsq_thread_id:

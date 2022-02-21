@@ -2,7 +2,6 @@
 title: RIP Yasmin Ahmad, you will be missed
 author: Danesh
 date: 2009-07-25T21:49:20+00:00
-url: /posts/rip-yasmin-ahmad-you-will-be-missed/
 aktt_notify_twitter:
   - no
 pvc_views:

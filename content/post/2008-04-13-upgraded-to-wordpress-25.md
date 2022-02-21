@@ -2,7 +2,6 @@
 title: Upgraded to WordPress 2.5
 author: Danesh
 date: 2008-04-13T04:13:04+00:00
-url: /posts/upgraded-to-wordpress-25/
 pvc_views:
   - 11709
 dsq_thread_id:

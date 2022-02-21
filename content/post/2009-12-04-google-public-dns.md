@@ -2,7 +2,6 @@
 title: Google Public DNS
 author: Danesh
 date: 2009-12-04T01:34:58+00:00
-url: /posts/google-public-dns/
 pvc_views:
   - 3290
 dsq_thread_id:

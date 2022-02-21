@@ -2,7 +2,6 @@
 title: How to set the default currency on eBay
 author: Danesh
 date: 2010-02-22T00:00:20+00:00
-url: /posts/how-to-set-the-default-currency-on-ebay/
 pvc_views:
   - 6305
 dsq_thread_id:

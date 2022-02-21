@@ -2,7 +2,6 @@
 title: How to turn off the beep in Ubuntu 8.10 Interpid
 author: Danesh
 date: 2008-11-13T02:29:23+00:00
-url: /posts/how-to-turn-off-the-beep-in-ubuntu-810-interpid/
 pvc_views:
   - 4439
 robotsmeta:

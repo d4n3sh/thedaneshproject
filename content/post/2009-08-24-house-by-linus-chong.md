@@ -2,7 +2,6 @@
 title: HOUSE by Linus Chung
 author: Danesh
 date: 2009-08-24T13:14:03+00:00
-url: /posts/house-by-linus-chong/
 aktt_notify_twitter:
   - no
 pvc_views:

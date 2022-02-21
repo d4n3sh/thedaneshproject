@@ -2,7 +2,6 @@
 title: Freaking slow internet
 author: Danesh
 date: 2008-04-15T15:19:18+00:00
-url: /posts/freaking-slow-internet/
 pvc_views:
   - 12463
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Happy Malaysia Day 2008
 author: Danesh
 date: 2008-09-16T02:52:00+00:00
-url: /posts/happy-malaysia-day-2008/
 pvc_views:
   - 1828
 robotsmeta:

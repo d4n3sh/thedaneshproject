@@ -2,7 +2,6 @@
 title: How to install Adobe AIR on Fedora 11
 author: Danesh
 date: 2009-07-16T17:24:17+00:00
-url: /posts/how-to-install-adobe-air-on-fedora-11/
 aktt_notify_twitter:
   - no
 pvc_views:

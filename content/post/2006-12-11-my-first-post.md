@@ -2,7 +2,6 @@
 title: My first post;
 author: Danesh
 date: 2006-12-12T05:29:54+00:00
-url: /posts/my-first-post/
 pvc_views:
   - 16824
 dsq_thread_id:

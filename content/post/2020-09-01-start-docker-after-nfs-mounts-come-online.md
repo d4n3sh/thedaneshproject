@@ -2,7 +2,6 @@
 title: Start docker after NFS mounts come online
 author: Danesh
 date: 2020-09-01T02:28:16+00:00
-url: /posts/start-docker-after-nfs-mounts-come-online/
 
 ---
 <div class="wp-block-jetpack-markdown">

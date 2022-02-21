@@ -2,7 +2,6 @@
 title: 'How Do I Check In [Off the Grid] in FourSquare'
 author: Danesh
 date: 2010-06-05T18:55:10+00:00
-url: /posts/how-do-i-check-in-off-the-grid-in-foursquare/
 pvc_views:
   - 3909
 dsq_thread_id:

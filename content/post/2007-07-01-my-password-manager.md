@@ -2,7 +2,6 @@
 title: My password manager
 author: Danesh
 date: 2007-06-30T21:18:48+00:00
-url: /posts/my-password-manager/
 pvc_views:
   - 5239
 dsq_thread_id:

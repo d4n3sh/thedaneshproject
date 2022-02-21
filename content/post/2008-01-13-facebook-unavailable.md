@@ -2,7 +2,6 @@
 title: Facebook unavailable
 author: Danesh
 date: 2008-01-13T10:38:42+00:00
-url: /posts/facebook-unavailable/
 pvc_views:
   - 10931
 dsq_thread_id:

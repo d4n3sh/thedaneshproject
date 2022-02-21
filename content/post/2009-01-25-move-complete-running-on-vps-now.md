@@ -2,7 +2,6 @@
 title: Move complete, running on VPS now
 author: Danesh
 date: 2009-01-25T02:03:15+00:00
-url: /posts/move-complete-running-on-vps-now/
 robotsmeta:
   - index,follow
 pvc_views:

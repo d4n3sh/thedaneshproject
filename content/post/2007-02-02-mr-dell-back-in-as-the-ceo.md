@@ -2,7 +2,6 @@
 title: Mr. Dell back in as the CEO
 author: Danesh
 date: 2007-02-02T05:32:41+00:00
-url: /posts/mr-dell-back-in-as-the-ceo/
 pvc_views:
   - 3196
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Get your Linux counted
 author: Danesh
 date: 2008-03-29T13:16:43+00:00
-url: /posts/get-your-linux-counted/
 pvc_views:
   - 8550
 dsq_thread_id:

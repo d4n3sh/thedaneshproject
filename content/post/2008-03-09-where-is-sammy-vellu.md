@@ -2,7 +2,6 @@
 title: Where is Sammy Vellu?
 author: Danesh
 date: 2008-03-09T13:32:13+00:00
-url: /posts/where-is-sammy-vellu/
 pvc_views:
   - 4727
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 2 job openings, Linux admin and PeopleSoft admin
 author: Danesh
 date: 2009-07-07T16:58:44+00:00
-url: /posts/2-job-openings-linux-admin-and-peoplesoft-admin/
 aktt_notify_twitter:
   - no
 pvc_views:

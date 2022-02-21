@@ -2,7 +2,6 @@
 title: How to install Adobe AIR on Fedora 12
 author: Danesh
 date: 2010-04-27T23:30:37+00:00
-url: /posts/how-to-install-adobe-air-on-fedora-12/
 pvc_views:
   - 3027
 dsq_thread_id:

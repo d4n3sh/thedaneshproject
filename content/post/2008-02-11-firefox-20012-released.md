@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.12 released
 author: Danesh
 date: 2008-02-11T09:31:09+00:00
-url: /posts/firefox-20012-released/
 pvc_views:
   - 3286
 dsq_thread_id:

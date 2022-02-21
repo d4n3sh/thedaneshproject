@@ -2,7 +2,6 @@
 title: WordPress 2.2 “Getz” released
 author: Danesh
 date: 2007-05-16T08:57:06+00:00
-url: /posts/wordpress-22-getz-released/
 pvc_views:
   - 1694
 dsq_thread_id:

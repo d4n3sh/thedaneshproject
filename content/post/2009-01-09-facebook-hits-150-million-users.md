@@ -2,7 +2,6 @@
 title: Facebook hits 150 million users
 author: Danesh
 date: 2009-01-09T05:28:59+00:00
-url: /posts/facebook-hits-150-million-users/
 robotsmeta:
   - index,follow
 pvc_views:

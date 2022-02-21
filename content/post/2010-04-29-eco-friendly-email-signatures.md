@@ -2,7 +2,6 @@
 title: eco friendly eMail signatures
 author: Danesh
 date: 2010-04-28T18:50:04+00:00
-url: /posts/eco-friendly-email-signatures/
 pvc_views:
   - 14839
 dsq_thread_id:

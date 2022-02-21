@@ -2,7 +2,6 @@
 title: 'Adobe: Flash 9 released for Linux'
 author: Danesh
 date: 2007-01-18T20:56:38+00:00
-url: /posts/adobe-flash-9-released-for-linux/
 pvc_views:
   - 2505
 

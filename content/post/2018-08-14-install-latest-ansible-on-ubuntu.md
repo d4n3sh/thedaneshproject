@@ -2,7 +2,6 @@
 title: Install latest Ansible on Ubuntu
 author: Danesh
 date: 2018-08-14T17:48:08+00:00
-url: /posts/install-latest-ansible-on-ubuntu/
 
 ---
 Steps to get the latest version of Ansible installed on Ubuntu or any Ubuntu variant. In my case Kubuntu 18.04.1.

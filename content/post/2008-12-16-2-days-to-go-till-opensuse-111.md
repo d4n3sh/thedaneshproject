@@ -2,7 +2,6 @@
 title: 2 days to go till openSUSE 11.1
 author: Danesh
 date: 2008-12-16T05:01:44+00:00
-url: /posts/2-days-to-go-till-opensuse-111/
 pvc_views:
   - 2588
 robotsmeta:

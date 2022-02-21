@@ -2,7 +2,6 @@
 title: quick access to your environment variables
 author: Danesh
 date: 2008-07-11T06:54:20+00:00
-url: /posts/quick-access-to-your-environment-variables/
 robotsmeta:
   - index,follow
 pvc_views:

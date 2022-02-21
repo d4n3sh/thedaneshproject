@@ -2,7 +2,6 @@
 title: 'Free eBook: The Art & Science of CSS'
 author: Danesh
 date: 2008-11-23T16:17:45+00:00
-url: /posts/free-ebook-the-art-science-of-css/
 robotsmeta:
   - index,follow
 pvc_views:

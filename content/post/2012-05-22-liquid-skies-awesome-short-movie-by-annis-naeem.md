@@ -2,7 +2,6 @@
 title: 'Liquid Skies , awesome short movie by  Annis Naeem'
 author: Danesh
 date: 2012-05-22T08:20:01+00:00
-url: /posts/liquid-skies-awesome-short-movie-by-annis-naeem/
 pvc_views:
   - 3591
 dsq_thread_id:

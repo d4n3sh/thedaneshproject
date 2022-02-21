@@ -2,7 +2,6 @@
 title: Stroke Indicators
 author: Danesh
 date: 2011-05-27T01:39:55+00:00
-url: /posts/stroke-indicators/
 pvc_views:
   - 5881
 dsq_thread_id:

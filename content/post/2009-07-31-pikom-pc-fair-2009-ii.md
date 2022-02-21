@@ -2,7 +2,6 @@
 title: PIKOM PC FAIR 2009 (II)
 author: Danesh
 date: 2009-07-30T17:39:08+00:00
-url: /posts/pikom-pc-fair-2009-ii/
 aktt_notify_twitter:
   - no
 pvc_views:

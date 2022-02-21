@@ -2,7 +2,6 @@
 title: openSUSE 11.1 released!!
 author: Danesh
 date: 2008-12-18T16:12:31+00:00
-url: /posts/opensuse-111-released/
 robotsmeta:
   - index,follow
 pvc_views:

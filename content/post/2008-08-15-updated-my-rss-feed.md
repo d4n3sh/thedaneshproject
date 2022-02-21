@@ -2,7 +2,6 @@
 title: Updated my RSS feed
 author: Danesh
 date: 2008-08-15T13:10:35+00:00
-url: /posts/updated-my-rss-feed/
 robotsmeta:
   - index,follow
 pvc_views:

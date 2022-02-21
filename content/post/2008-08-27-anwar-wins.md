@@ -2,7 +2,6 @@
 title: Anwar Wins!!
 author: Danesh
 date: 2008-08-26T16:55:02+00:00
-url: /posts/anwar-wins/
 robotsmeta:
   - index,follow
 pvc_views:

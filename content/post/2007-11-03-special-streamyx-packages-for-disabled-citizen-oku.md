@@ -2,7 +2,6 @@
 title: Special Streamyx packages for Disabled Citizen (OKU)
 author: Danesh
 date: 2007-11-03T10:32:30+00:00
-url: /posts/special-streamyx-packages-for-disabled-citizen-oku/
 pvc_views:
   - 7240
 dsq_thread_id:

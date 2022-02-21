@@ -2,7 +2,6 @@
 title: Clean Install of Windows 8 with an Upgrade Disc
 author: Danesh
 date: 2013-06-13T02:20:29+00:00
-url: /posts/clean-install-of-windows-8-with-an-upgrade-disc/
 dsq_thread_id:
   - 1394290959
 

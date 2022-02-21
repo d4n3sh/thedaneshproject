@@ -2,7 +2,6 @@
 title: iPhone 3G coming to Malaysia
 author: Danesh
 date: 2008-07-23T09:52:05+00:00
-url: /posts/iphone-3g-coming-to-malaysia/
 robotsmeta:
   - index,follow
 pvc_views:

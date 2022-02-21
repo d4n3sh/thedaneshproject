@@ -2,7 +2,6 @@
 title: New player to fight spam, Defensio
 author: Danesh
 date: 2007-11-12T11:43:22+00:00
-url: /posts/new-player-to-fight-spam/
 pvc_views:
   - 7063
 dsq_thread_id:

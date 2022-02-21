@@ -2,7 +2,6 @@
 title: Improve ALPS touchpad response speed
 author: Danesh
 date: 2008-02-18T10:01:09+00:00
-url: /posts/improve-alps-touchpad-response-speed/
 pvc_views:
   - 12491
 dsq_thread_id:

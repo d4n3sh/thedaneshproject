@@ -2,7 +2,6 @@
 title: Ubuntu cheat sheet by FOSSwire
 author: Danesh
 date: 2009-02-12T09:27:11+00:00
-url: /posts/ubuntu-cheat-sheet-by-fosswire/
 robotsmeta:
   - index,follow
 pvc_views:

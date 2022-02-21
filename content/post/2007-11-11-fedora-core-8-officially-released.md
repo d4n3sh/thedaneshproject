@@ -2,7 +2,6 @@
 title: Fedora 8 Officially Released
 author: Danesh
 date: 2007-11-11T10:54:02+00:00
-url: /posts/fedora-core-8-officially-released/
 pvc_views:
   - 1583
 dsq_thread_id:

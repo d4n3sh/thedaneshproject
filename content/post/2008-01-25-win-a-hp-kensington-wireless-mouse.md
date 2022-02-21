@@ -2,7 +2,6 @@
 title: Win a HP Kensington Wireless mouse
 author: Danesh
 date: 2008-01-25T02:44:26+00:00
-url: /posts/win-a-hp-kensington-wireless-mouse/
 pvc_views:
   - 3147
 dsq_thread_id:

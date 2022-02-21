@@ -2,7 +2,6 @@
 title: DIGI iPhone Plans leaked
 author: Danesh
 date: 2010-03-30T04:14:52+00:00
-url: /posts/digi-iphone-plans-leaked/
 pvc_views:
   - 1624
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: No posts today
 author: Danesh
 date: 2007-08-23T12:02:11+00:00
-url: /posts/no-posts-today/
 pvc_views:
   - 1818
 dsq_thread_id:

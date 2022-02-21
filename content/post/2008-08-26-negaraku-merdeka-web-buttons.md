@@ -2,7 +2,6 @@
 title: Negaraku Merdeka Web Buttons
 author: Danesh
 date: 2008-08-26T01:00:59+00:00
-url: /posts/negaraku-merdeka-web-buttons/
 robotsmeta:
   - index,follow
 pvc_views:

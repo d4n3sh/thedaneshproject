@@ -2,7 +2,6 @@
 title: How to run IE in openSUSE 10.3
 author: Danesh
 date: 2008-02-23T19:08:29+00:00
-url: /posts/how-to-run-ie-in-opensuse-103/
 pvc_views:
   - 16391
 dsq_thread_id:

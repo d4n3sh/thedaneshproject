@@ -2,7 +2,6 @@
 title: Firefox 3 Beta 3 released
 author: Danesh
 date: 2008-02-15T11:52:27+00:00
-url: /posts/firefox-3-beta-3-released/
 pvc_views:
   - 11753
 dsq_thread_id:

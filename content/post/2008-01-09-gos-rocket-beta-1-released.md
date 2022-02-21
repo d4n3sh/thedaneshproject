@@ -2,7 +2,6 @@
 title: gOS Rocket Beta 1 released
 author: Danesh
 date: 2008-01-09T13:40:57+00:00
-url: /posts/gos-rocket-beta-1-released/
 pvc_views:
   - 7107
 dsq_thread_id:

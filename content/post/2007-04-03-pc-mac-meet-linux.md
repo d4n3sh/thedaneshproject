@@ -2,7 +2,6 @@
 title: PC, Mac… meet Linux
 author: Danesh
 date: 2007-04-03T06:46:02+00:00
-url: /posts/pc-mac-meet-linux/
 pvc_views:
   - 1296
 dsq_thread_id:

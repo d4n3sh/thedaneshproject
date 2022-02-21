@@ -2,7 +2,6 @@
 title: HÖVDING , The invisible bike helmet
 author: Danesh
 date: 2012-08-15T17:20:49+00:00
-url: /posts/hovding-the-invisible-bike-helmet/
 pvc_views:
   - 1706
 dsq_thread_id:

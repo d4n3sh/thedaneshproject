@@ -2,7 +2,6 @@
 title: Thank you note
 author: Danesh
 date: 2007-08-03T16:50:42+00:00
-url: /posts/thank-you-note/
 pvc_views:
   - 3994
 dsq_thread_id:

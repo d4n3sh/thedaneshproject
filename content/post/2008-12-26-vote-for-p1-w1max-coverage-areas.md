@@ -2,7 +2,6 @@
 title: Vote for P1 W1MAX coverage areas
 author: Danesh
 date: 2008-12-25T19:00:03+00:00
-url: /posts/vote-for-p1-w1max-coverage-areas/
 robotsmeta:
   - index,follow
 pvc_views:

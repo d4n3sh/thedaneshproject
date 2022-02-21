@@ -2,7 +2,6 @@
 title: Top Antivirus Applications
 author: Danesh
 date: 2007-04-24T02:16:16+00:00
-url: /posts/top-antivirus-applications/
 pvc_views:
   - 12601
 dsq_thread_id:

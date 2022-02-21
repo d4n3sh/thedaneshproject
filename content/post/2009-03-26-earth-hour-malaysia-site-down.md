@@ -2,7 +2,6 @@
 title: Earth Hour Malaysia site down
 author: Danesh
 date: 2009-03-26T04:55:12+00:00
-url: /posts/earth-hour-malaysia-site-down/
 pvc_views:
   - 2055
 robotsmeta:

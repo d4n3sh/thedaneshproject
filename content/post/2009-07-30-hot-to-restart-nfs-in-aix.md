@@ -2,7 +2,6 @@
 title: Hot to restart NFS in AIX
 author: Danesh
 date: 2009-07-30T01:21:03+00:00
-url: /posts/hot-to-restart-nfs-in-aix/
 aktt_notify_twitter:
   - no
 pvc_views:

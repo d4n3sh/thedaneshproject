@@ -2,7 +2,6 @@
 title: Telekom Malaysia on Twitter
 author: Danesh
 date: 2009-12-14T06:00:55+00:00
-url: /posts/telekom-malaysia-on-twitter/
 pvc_views:
   - 1343
 dsq_thread_id:

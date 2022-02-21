@@ -2,7 +2,6 @@
 title: nov25 | Behind The Revolt by Indrani Kopal
 author: Danesh
 date: 2008-07-08T08:58:45+00:00
-url: /posts/nov25-behind-the-revolt-by-indrani-kopal/
 robotsmeta:
   - index,follow
 pvc_views:

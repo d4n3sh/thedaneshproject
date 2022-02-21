@@ -2,7 +2,6 @@
 title: Cool photos from Malaysia
 author: Danesh
 date: 2007-10-24T18:01:00+00:00
-url: /posts/cool-photos-from-malaysia/
 pvc_views:
   - 2278
 dsq_thread_id:

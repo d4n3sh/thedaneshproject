@@ -2,7 +2,6 @@
 title: Free Software Sticker Book
 author: Danesh
 date: 2007-08-12T19:15:38+00:00
-url: /posts/free-software-sticker-book/
 pvc_views:
   - 14495
 dsq_thread_id:

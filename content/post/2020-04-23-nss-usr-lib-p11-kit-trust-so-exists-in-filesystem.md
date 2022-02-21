@@ -2,7 +2,6 @@
 title: 'nss: /usr/lib/p11-kit-trust.so exists in filesystem'
 author: Danesh
 date: 2020-04-23T10:18:20+00:00
-url: /posts/nss-usr-lib-p11-kit-trust-so-exists-in-filesystem/
 
 ---
 My Arch update broke today with the following error which was due to a missing soname entry in the older nss packages. 

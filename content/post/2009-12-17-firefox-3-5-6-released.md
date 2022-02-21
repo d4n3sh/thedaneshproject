@@ -2,7 +2,6 @@
 title: Firefox 3.5.6 released
 author: Danesh
 date: 2009-12-17T08:42:42+00:00
-url: /posts/firefox-3-5-6-released/
 pvc_views:
   - 1601
 dsq_thread_id:

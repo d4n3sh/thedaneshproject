@@ -2,7 +2,6 @@
 title: Download Internet Explorer 8
 author: Danesh
 date: 2009-03-24T14:00:09+00:00
-url: /posts/download-internet-explorer-8/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: PS3 comes to Malaysia
 author: Danesh
 date: 2008-09-11T04:32:22+00:00
-url: /posts/ps3-comes-to-malaysia/
 robotsmeta:
   - index,follow
 pvc_views:

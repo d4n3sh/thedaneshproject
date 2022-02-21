@@ -2,7 +2,6 @@
 title: Backupify for free. Limited time only.
 author: Danesh
 date: 2009-12-27T12:59:31+00:00
-url: /posts/backupify-for-free-limited-time-only/
 pvc_views:
   - 3681
 dsq_thread_id:

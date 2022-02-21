@@ -2,7 +2,6 @@
 title: 'Download failed.: Operation timed out after 30 seconds'
 author: Danesh
 date: 2009-01-31T17:33:38+00:00
-url: /posts/download-failed-operation-timed-out-after-30-seconds/
 robotsmeta:
   - index,follow
 pvc_views:

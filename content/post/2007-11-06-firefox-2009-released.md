@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.9 released
 author: Danesh
 date: 2007-11-06T08:22:00+00:00
-url: /posts/firefox-2009-released/
 pvc_views:
   - 4174
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 'android: Official TED Android app released'
 author: Danesh
 date: 2012-03-15T21:00:50+00:00
-url: /posts/official-ted-android-app-released/
 pvc_views:
   - 1914
 dsq_thread_id:

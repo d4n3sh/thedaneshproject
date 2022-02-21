@@ -2,7 +2,6 @@
 title: Malaysiakini extends free service and upgrades servers
 author: Danesh
 date: 2008-03-13T02:57:06+00:00
-url: /posts/malaysiakini-extends-free-service-and-upgrades-servers/
 pvc_views:
   - 4257
 dsq_thread_id:

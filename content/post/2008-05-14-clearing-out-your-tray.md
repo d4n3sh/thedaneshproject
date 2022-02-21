@@ -2,7 +2,6 @@
 title: Clearing out your tray
 author: Danesh
 date: 2008-05-14T06:37:26+00:00
-url: /posts/clearing-out-your-tray/
 pvc_views:
   - 6597
 dsq_thread_id:

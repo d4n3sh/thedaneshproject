@@ -2,7 +2,6 @@
 title: Suse Linux Stickers
 author: Danesh
 date: 2007-08-09T16:32:40+00:00
-url: /posts/suse-linux-stickers/
 pvc_views:
   - 3550
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: WordPress 2.3 Release Candidate 1 Released
 author: Danesh
 date: 2007-09-19T09:57:50+00:00
-url: /posts/wordpress-23-release-candidate-1-released/
 pvc_views:
   - 8147
 dsq_thread_id:

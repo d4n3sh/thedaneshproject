@@ -2,7 +2,6 @@
 title: WordPress 2.0.7 Released | WordPress
 author: Danesh
 date: 2007-01-17T11:33:10+00:00
-url: /posts/wordpress-wordpress-207/
 pvc_views:
   - 2127
 dsq_thread_id:

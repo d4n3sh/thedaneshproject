@@ -2,7 +2,6 @@
 title: Extract rar files in Linux
 author: Danesh
 date: 2007-08-15T01:33:32+00:00
-url: /posts/extract-rar-files-in-linux/
 pvc_views:
   - 75074
 dsq_thread_id:

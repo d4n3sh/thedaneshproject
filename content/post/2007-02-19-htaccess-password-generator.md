@@ -2,7 +2,6 @@
 title: .htaccess password generator
 author: Danesh
 date: 2007-02-19T15:12:36+00:00
-url: /posts/htaccess-password-generator/
 pvc_views:
   - 8670
 dsq_thread_id:

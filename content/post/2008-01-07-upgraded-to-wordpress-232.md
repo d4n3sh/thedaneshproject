@@ -2,7 +2,6 @@
 title: Upgraded to WordPress 2.3.2
 author: Danesh
 date: 2008-01-07T02:10:03+00:00
-url: /posts/upgraded-to-wordpress-232/
 pvc_views:
   - 4145
 dsq_thread_id:

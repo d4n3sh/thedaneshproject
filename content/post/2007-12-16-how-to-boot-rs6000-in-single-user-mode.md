@@ -2,7 +2,6 @@
 title: How to boot RS6000 in single user mode
 author: Danesh
 date: 2007-12-16T15:15:05+00:00
-url: /posts/how-to-boot-rs6000-in-single-user-mode/
 pvc_views:
   - 19335
 dsq_thread_id:

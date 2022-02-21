@@ -2,7 +2,6 @@
 title: How to install GIMP 2.8 in Ubuntu 12.04 LTS
 author: Danesh
 date: 2012-07-23T15:14:09+00:00
-url: /posts/how-to-install-gimp-2-8-in-ubuntu-12-04-lts/
 pvc_views:
   - 1444
 dsq_thread_id:

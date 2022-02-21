@@ -2,7 +2,6 @@
 title: WordPress 2.3.1 upgrade completed
 author: Danesh
 date: 2007-11-13T14:40:55+00:00
-url: /posts/wordpress-231-upgrade-completed/
 pvc_views:
   - 6565
 dsq_thread_id:

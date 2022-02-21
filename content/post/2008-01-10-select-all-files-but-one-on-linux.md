@@ -2,7 +2,6 @@
 title: Select all files but one on linux
 author: Danesh
 date: 2008-01-10T02:00:29+00:00
-url: /posts/select-all-files-but-one-on-linux/
 pvc_views:
   - 4175
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Google Reader Cheat Sheet
 author: Danesh
 date: 2007-01-05T22:12:33+00:00
-url: /posts/google-reader-cheat-sheet/
 pvc_views:
   - 1335
 dsq_thread_id:

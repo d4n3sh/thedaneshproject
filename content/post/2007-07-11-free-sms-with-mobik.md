@@ -2,7 +2,6 @@
 title: Free SMS with Mobik
 author: Danesh
 date: 2007-07-11T07:24:21+00:00
-url: /posts/free-sms-with-mobik/
 pvc_views:
   - 12691
 dsq_thread_id:

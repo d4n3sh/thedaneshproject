@@ -2,7 +2,6 @@
 title: Astro goes HD with B.yond
 author: Danesh
 date: 2009-12-16T06:10:00+00:00
-url: /posts/astro-goes-hd-with-b-yond/
 pvc_views:
   - 6356
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Najib joins the internet
 author: Danesh
 date: 2008-09-17T06:01:44+00:00
-url: /posts/najib-joins-the-internet/
 pvc_views:
   - 1195
 robotsmeta:

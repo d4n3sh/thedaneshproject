@@ -2,7 +2,6 @@
 title: How to build a local DNS caching server
 author: Danesh
 date: 2008-08-28T08:31:01+00:00
-url: /posts/how-to-build-a-local-dns-caching-server/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Yin Yang by downrodeo on TEEFury
 author: Danesh
 date: 2009-07-01T10:12:36+00:00
-url: /posts/yin-yang-by-downrodeo-on-teefury/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: openSUSE main repository down
 author: Danesh
 date: 2008-01-15T13:30:39+00:00
-url: /posts/opensuse-main-repository-down/
 pvc_views:
   - 11074
 dsq_thread_id:

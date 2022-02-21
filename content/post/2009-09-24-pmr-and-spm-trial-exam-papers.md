@@ -2,7 +2,6 @@
 title: PMR and SPM trial exam papers
 author: Danesh
 date: 2009-09-24T06:40:30+00:00
-url: /posts/pmr-and-spm-trial-exam-papers/
 aktt_notify_twitter:
   - no
 pvc_views:

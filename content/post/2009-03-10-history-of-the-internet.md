@@ -2,7 +2,6 @@
 title: History of the Internet
 author: Danesh
 date: 2009-03-10T09:20:04+00:00
-url: /posts/history-of-the-internet/
 robotsmeta:
   - index,follow
 pvc_views:

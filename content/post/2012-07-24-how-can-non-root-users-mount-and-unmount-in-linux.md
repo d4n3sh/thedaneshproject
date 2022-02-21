@@ -2,7 +2,6 @@
 title: How can non root users mount and unmount in Linux
 author: Danesh
 date: 2012-07-24T15:08:25+00:00
-url: /posts/how-can-non-root-users-mount-and-unmount-in-linux/
 pvc_views:
   - 1193
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Negaraku now Digg style
 author: Danesh
 date: 2008-07-23T13:01:22+00:00
-url: /posts/negaraku-now-digg-style/
 robotsmeta:
   - index,follow
 pvc_views:

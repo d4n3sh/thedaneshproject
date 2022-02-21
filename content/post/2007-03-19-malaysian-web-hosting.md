@@ -2,7 +2,6 @@
 title: Malaysian Web Hosting
 author: Danesh
 date: 2007-03-19T02:45:51+00:00
-url: /posts/malaysian-web-hosting/
 pvc_views:
   - 18412
 dsq_thread_id:

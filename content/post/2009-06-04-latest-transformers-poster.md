@@ -2,7 +2,6 @@
 title: Latest Transformers Poster
 author: Danesh
 date: 2009-06-04T08:09:15+00:00
-url: /posts/latest-transformers-poster/
 aktt_notify_twitter:
   - no
 pvc_views:

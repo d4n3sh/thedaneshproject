@@ -2,7 +2,6 @@
 title: Clean Your Apps Permissions. mypermissions.org
 author: Danesh
 date: 2012-01-03T15:50:35+00:00
-url: /posts/clean-your-apps-permissions-mypermissions-org/
 pvc_views:
   - 1374
 dsq_thread_id:

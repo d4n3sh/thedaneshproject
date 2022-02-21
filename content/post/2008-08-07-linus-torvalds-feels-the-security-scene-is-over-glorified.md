@@ -2,7 +2,6 @@
 title: Linus Torvalds feels the security scene is over glorified
 author: Danesh
 date: 2008-08-07T04:28:08+00:00
-url: /posts/linus-torvalds-feels-the-security-scene-is-over-glorified/
 robotsmeta:
   - index,follow
 pvc_views:

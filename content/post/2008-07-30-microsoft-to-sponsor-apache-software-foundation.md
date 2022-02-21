@@ -2,7 +2,6 @@
 title: Microsoft to sponsor Apache Software Foundation
 author: Danesh
 date: 2008-07-30T10:49:13+00:00
-url: /posts/microsoft-to-sponsor-apache-software-foundation/
 robotsmeta:
   - index,follow
 pvc_views:

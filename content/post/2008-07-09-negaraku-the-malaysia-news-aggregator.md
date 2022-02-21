@@ -2,7 +2,6 @@
 title: Negaraku! – The Malaysia News Aggregator
 author: Danesh
 date: 2008-07-08T16:56:08+00:00
-url: /posts/negaraku-the-malaysia-news-aggregator/
 robotsmeta:
   - index,follow
 pvc_views:

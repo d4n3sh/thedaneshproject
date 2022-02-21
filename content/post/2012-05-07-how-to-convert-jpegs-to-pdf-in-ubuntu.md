@@ -2,7 +2,6 @@
 title: How to convert jpegs to pdf in Ubuntu
 author: Danesh
 date: 2012-05-07T08:37:34+00:00
-url: /posts/how-to-convert-jpegs-to-pdf-in-ubuntu/
 pvc_views:
   - 3816
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: BRIBE-FREE MALAYSIAN car sticker
 author: Danesh
 date: 2009-06-17T09:56:01+00:00
-url: /posts/bribe-free-malaysian-car-sticker/
 aktt_notify_twitter:
   - no
 pvc_views:

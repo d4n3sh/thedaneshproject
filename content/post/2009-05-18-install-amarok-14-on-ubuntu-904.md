@@ -2,7 +2,6 @@
 title: Install Amarok 1.4 on Ubuntu 9.04
 author: Danesh
 date: 2009-05-17T17:42:31+00:00
-url: /posts/install-amarok-14-on-ubuntu-904/
 aktt_notify_twitter:
   - no
 pvc_views:

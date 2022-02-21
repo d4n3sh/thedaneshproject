@@ -2,7 +2,6 @@
 title: Robots express themselves
 author: Danesh
 date: 2008-09-19T05:07:34+00:00
-url: /posts/robots-express-themselves/
 robotsmeta:
   - index,follow
 pvc_views:

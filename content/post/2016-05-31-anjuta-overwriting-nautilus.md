@@ -2,7 +2,6 @@
 title: Anjuta overwriting Nautilus
 author: Danesh
 date: 2016-05-31T14:26:40+00:00
-url: /posts/anjuta-overwriting-nautilus/
 dsq_thread_id:
   - 4872172557
 

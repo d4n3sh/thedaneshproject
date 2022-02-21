@@ -2,7 +2,6 @@
 title: Streamyx Internet disruption to US and Hong Kong
 author: Danesh
 date: 2009-04-05T16:47:43+00:00
-url: /posts/streamyx-internet-disruption-to-us-and-hong-kong/
 robotsmeta:
   - index,follow
 pvc_views:

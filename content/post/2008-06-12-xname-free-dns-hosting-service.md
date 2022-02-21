@@ -2,7 +2,6 @@
 title: XName free DNS hosting service
 author: Danesh
 date: 2008-06-12T08:53:02+00:00
-url: /posts/xname-free-dns-hosting-service/
 pvc_views:
   - 9920
 dsq_thread_id:

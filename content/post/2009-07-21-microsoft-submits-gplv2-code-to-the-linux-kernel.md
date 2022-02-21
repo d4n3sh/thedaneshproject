@@ -2,7 +2,6 @@
 title: Microsoft submits GPLv2 code to the Linux Kernel
 author: Danesh
 date: 2009-07-21T13:00:58+00:00
-url: /posts/microsoft-submits-gplv2-code-to-the-linux-kernel/
 aktt_notify_twitter:
   - no
 pvc_views:

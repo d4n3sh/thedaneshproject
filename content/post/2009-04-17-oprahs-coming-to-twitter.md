@@ -2,7 +2,6 @@
 title: Oprah’s coming to Twitter
 author: Danesh
 date: 2009-04-17T10:10:17+00:00
-url: /posts/oprahs-coming-to-twitter/
 robotsmeta:
   - index,follow
 pvc_views:

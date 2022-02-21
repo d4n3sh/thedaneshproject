@@ -2,7 +2,6 @@
 title: Condom Dispenser
 author: Danesh
 date: 2007-07-23T06:03:25+00:00
-url: /posts/condom-dispenser/
 pvc_views:
   - 6673
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: I’m back from Langkawi
 author: Danesh
 date: 2008-01-03T03:57:32+00:00
-url: /posts/im-back-from-langkawi/
 pvc_views:
   - 8250
 dsq_thread_id:

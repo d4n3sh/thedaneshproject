@@ -2,7 +2,6 @@
 title: Left Brain Right Brain
 author: Danesh
 date: 2007-10-25T19:24:50+00:00
-url: /posts/left-brain-right-brain/
 pvc_views:
   - 4323
 dsq_thread_id:

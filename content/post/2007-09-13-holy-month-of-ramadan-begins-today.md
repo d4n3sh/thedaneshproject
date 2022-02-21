@@ -2,7 +2,6 @@
 title: Holy month of Ramadan begins today
 author: Danesh
 date: 2007-09-13T03:29:59+00:00
-url: /posts/holy-month-of-ramadan-begins-today/
 pvc_views:
   - 5332
 dsq_thread_id:

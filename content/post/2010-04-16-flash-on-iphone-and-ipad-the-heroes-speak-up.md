@@ -2,7 +2,6 @@
 title: Flash on iPhone and iPad… The heroes speak up
 author: Danesh
 date: 2010-04-16T02:27:59+00:00
-url: /posts/flash-on-iphone-and-ipad-the-heroes-speak-up/
 pvc_views:
   - 1793
 dsq_thread_id:

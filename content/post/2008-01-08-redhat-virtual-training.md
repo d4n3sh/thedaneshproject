@@ -2,7 +2,6 @@
 title: RedHat Virtual Training
 author: Danesh
 date: 2008-01-08T02:00:31+00:00
-url: /posts/redhat-virtual-training/
 pvc_views:
   - 3545
 dsq_thread_id:

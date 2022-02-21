@@ -2,7 +2,6 @@
 title: Malaysia Today alternate URLs
 author: Danesh
 date: 2008-09-03T13:15:18+00:00
-url: /posts/malaysia-today-alternate-urls/
 robotsmeta:
   - index,follow
 pvc_views:

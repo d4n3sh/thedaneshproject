@@ -2,7 +2,6 @@
 title: My trip to Cameron Highlands
 author: Danesh
 date: 2007-11-15T12:22:59+00:00
-url: /posts/my-trip-to-cameron-highlands/
 pvc_views:
   - 6065
 dsq_thread_id:

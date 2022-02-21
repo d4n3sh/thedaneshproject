@@ -2,7 +2,6 @@
 title: AMBP Coffee Therapy for Bloggers
 author: Danesh
 date: 2008-01-14T00:30:00+00:00
-url: /posts/ambp-coffee-therapy-for-bloggers/
 pvc_views:
   - 7428
 dsq_thread_id:

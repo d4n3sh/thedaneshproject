@@ -2,7 +2,6 @@
 title: Batman and Robin tattoo|ModBlog
 author: Danesh
 date: 2007-03-02T02:56:49+00:00
-url: /posts/batman-and-robin-modblog/
 pvc_views:
   - 3493
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: My home made notebook cooler
 author: Danesh
 date: 2008-02-03T16:42:47+00:00
-url: /posts/my-home-made-notebook-cooler/
 pvc_views:
   - 16888
 dsq_thread_id:

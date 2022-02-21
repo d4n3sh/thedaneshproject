@@ -2,7 +2,6 @@
 title: I get more Firefox then IE
 author: Danesh
 date: 2009-06-24T00:00:02+00:00
-url: /posts/i-get-more-firefox-then-ie/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: Back from the holidays
 author: Danesh
 date: 2007-01-02T02:58:34+00:00
-url: /posts/back-from-the-holidays/
 pvc_views:
   - 1458
 dsq_thread_id:

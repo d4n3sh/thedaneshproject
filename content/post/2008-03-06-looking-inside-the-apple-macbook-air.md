@@ -2,7 +2,6 @@
 title: Looking inside the Apple MacBook Air
 author: Danesh
 date: 2008-03-06T04:38:06+00:00
-url: /posts/looking-inside-the-apple-macbook-air/
 pvc_views:
   - 25370
 dsq_thread_id:

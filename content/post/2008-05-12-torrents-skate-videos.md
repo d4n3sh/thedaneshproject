@@ -2,7 +2,6 @@
 title: 'Torrents: Skate Videos'
 author: Danesh
 date: 2008-05-12T12:49:39+00:00
-url: /posts/torrents-skate-videos/
 pvc_views:
   - 13099
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Shiatsu Self Massage
 author: Danesh
 date: 2006-12-16T20:52:08+00:00
-url: /posts/shiatsu-self-massage/
 pvc_views:
   - 22219
 dsq_thread_id:

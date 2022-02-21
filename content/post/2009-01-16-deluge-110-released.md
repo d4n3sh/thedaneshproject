@@ -2,7 +2,6 @@
 title: Deluge 1.1.0 released
 author: Danesh
 date: 2009-01-15T17:37:07+00:00
-url: /posts/deluge-110-released/
 robotsmeta:
   - index,follow
 pvc_views:

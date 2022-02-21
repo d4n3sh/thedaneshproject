@@ -2,7 +2,6 @@
 title: GSC website down….
 author: Danesh
 date: 2009-11-14T08:34:14+00:00
-url: /posts/gsc-website-down/
 pvc_views:
   - 1668
 dsq_thread_id:

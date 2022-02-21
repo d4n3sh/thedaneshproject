@@ -2,7 +2,6 @@
 title: BarCamp Malaysia 2008 is open for registration
 author: Danesh
 date: 2008-06-30T16:58:51+00:00
-url: /posts/barcamp-malaysia-2008-is-open-for-registration/
 robotsmeta:
   - index,follow
 pvc_views:

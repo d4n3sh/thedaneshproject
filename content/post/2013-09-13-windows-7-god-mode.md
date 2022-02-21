@@ -2,7 +2,6 @@
 title: Windows 7 god mode
 author: Danesh
 date: 2013-09-14T01:24:43+00:00
-url: /posts/windows-7-god-mode/
 dsq_thread_id:
   - 1755857124
 

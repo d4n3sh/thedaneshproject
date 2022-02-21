@@ -2,7 +2,6 @@
 title: 150 inch HD Plasma TV
 author: Danesh
 date: 2008-01-12T02:00:20+00:00
-url: /posts/150-inch-hd-plasma-tv/
 pvc_views:
   - 3310
 dsq_thread_id:

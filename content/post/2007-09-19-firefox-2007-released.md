@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.7 released
 author: Danesh
 date: 2007-09-19T15:35:01+00:00
-url: /posts/firefox-2007-released/
 pvc_views:
   - 4876
 dsq_thread_id:

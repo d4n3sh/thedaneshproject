@@ -2,7 +2,6 @@
 title: How to install Microsoft Core Fonts on Linux
 author: Danesh
 date: 2008-02-26T12:58:36+00:00
-url: /posts/how-to-install-microsoft-core-fonts-on-linux/
 pvc_views:
   - 22439
 dsq_thread_id:

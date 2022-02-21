@@ -2,7 +2,6 @@
 title: Simple Tags not working with WordPress 2.9
 author: Danesh
 date: 2009-12-27T06:03:46+00:00
-url: /posts/simple-tags-not-working-with-wordpress-2-9/
 pvc_views:
   - 3248
 dsq_thread_id:

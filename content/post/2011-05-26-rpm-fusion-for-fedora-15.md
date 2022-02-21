@@ -2,7 +2,6 @@
 title: RPM Fusion for Fedora 15
 author: Danesh
 date: 2011-05-26T04:41:24+00:00
-url: /posts/rpm-fusion-for-fedora-15/
 pvc_views:
   - 21615
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Dato Seri Anwar Ibrahim sworn in as MP today
 author: Danesh
 date: 2008-08-28T13:46:11+00:00
-url: /posts/dato-seri-anwar-ibrahim-sworn-in-as-mp-today/
 robotsmeta:
   - index,follow
 pvc_views:

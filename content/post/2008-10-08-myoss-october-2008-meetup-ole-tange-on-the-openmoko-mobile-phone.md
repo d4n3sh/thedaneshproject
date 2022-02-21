@@ -2,7 +2,6 @@
 title: MyOSS October 2008 Meetup – Ole Tange on the OpenMoko Mobile Phone
 author: Danesh
 date: 2008-10-08T04:26:52+00:00
-url: /posts/myoss-october-2008-meetup-ole-tange-on-the-openmoko-mobile-phone/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Firefox 2.0.0.8 released
 author: Danesh
 date: 2007-10-19T04:17:10+00:00
-url: /posts/firefox-2008-released/
 pvc_views:
   - 6180
 dsq_thread_id:

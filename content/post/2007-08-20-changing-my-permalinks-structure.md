@@ -2,7 +2,6 @@
 title: Changing my permalinks structure
 author: Danesh
 date: 2007-08-19T18:55:56+00:00
-url: /posts/changing-my-permalinks-structure/
 pvc_views:
   - 2099
 dsq_thread_id:

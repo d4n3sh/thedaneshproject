@@ -2,7 +2,6 @@
 title: Starbucks Coffee Break March 15 2007
 author: Danesh
 date: 2007-03-13T16:31:03+00:00
-url: /posts/starbucks-coffee-break-march-15-2007/
 pvc_views:
   - 14618
 dsq_thread_id:

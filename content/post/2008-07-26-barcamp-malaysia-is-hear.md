@@ -2,7 +2,6 @@
 title: BarCamp Malaysia in a few hours
 author: Danesh
 date: 2008-07-25T17:25:11+00:00
-url: /posts/barcamp-malaysia-is-hear/
 robotsmeta:
   - index,follow
 pvc_views:

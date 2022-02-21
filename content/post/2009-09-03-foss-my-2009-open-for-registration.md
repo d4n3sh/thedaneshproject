@@ -2,7 +2,6 @@
 title: FOSS.my 2009 open for registration
 author: Danesh
 date: 2009-09-02T18:22:49+00:00
-url: /posts/foss-my-2009-open-for-registration/
 aktt_notify_twitter:
   - no
 pvc_views:

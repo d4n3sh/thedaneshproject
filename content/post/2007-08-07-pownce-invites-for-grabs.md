@@ -2,7 +2,6 @@
 title: Pownce invites for grabs
 author: Danesh
 date: 2007-08-06T16:55:49+00:00
-url: /posts/pownce-invites-for-grabs/
 pvc_views:
   - 3099
 dsq_thread_id:

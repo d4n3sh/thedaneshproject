@@ -2,7 +2,6 @@
 title: How to install GScrot – Screenshot Tool
 author: Danesh
 date: 2009-01-17T08:47:05+00:00
-url: /posts/how-to-install-gscrot-screenshot-tool/
 pvc_views:
   - 7850
 robotsmeta:

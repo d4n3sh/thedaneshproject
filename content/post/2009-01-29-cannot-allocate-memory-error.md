@@ -2,7 +2,6 @@
 title: cannot allocate memory error
 author: Danesh
 date: 2009-01-29T15:55:04+00:00
-url: /posts/cannot-allocate-memory-error/
 robotsmeta:
   - index,follow
 pvc_views:

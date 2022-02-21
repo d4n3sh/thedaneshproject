@@ -2,7 +2,6 @@
 title: YouTube down?
 author: Danesh
 date: 2007-08-27T13:03:52+00:00
-url: /posts/youtube-down/
 pvc_views:
   - 9227
 dsq_thread_id:

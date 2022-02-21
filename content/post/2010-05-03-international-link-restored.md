@@ -2,7 +2,6 @@
 title: International link restored
 author: Danesh
 date: 2010-05-03T07:35:18+00:00
-url: /posts/international-link-restored/
 pvc_views:
   - 1472
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Gaim is now Pidgin
 author: Danesh
 date: 2007-04-10T17:44:42+00:00
-url: /posts/gaim-is-now-pidgin/
 pvc_views:
   - 1318
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: advertlets offline
 author: Danesh
 date: 2008-05-11T16:27:03+00:00
-url: /posts/advertlets-offline/
 pvc_views:
   - 2399
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: lowyat.net does jobs
 author: Danesh
 date: 2008-12-09T15:28:08+00:00
-url: /posts/lowyatnet-does-jobs/
 robotsmeta:
   - index,follow
 pvc_views:

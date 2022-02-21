@@ -2,7 +2,6 @@
 title: Bulk edit in Delicious
 author: Danesh
 date: 2009-01-20T09:40:31+00:00
-url: /posts/bulk-edit-in-delicious/
 robotsmeta:
   - index,follow
 pvc_views:

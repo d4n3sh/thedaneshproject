@@ -2,7 +2,6 @@
 title: Newzleech is down for now
 author: Danesh
 date: 2009-12-19T03:42:42+00:00
-url: /posts/newzleech-is-down-for-now/
 pvc_views:
   - 1747
 dsq_thread_id:

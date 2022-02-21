@@ -2,7 +2,6 @@
 title: How to restart autofs in Solaris
 author: Danesh
 date: 2012-05-25T02:51:50+00:00
-url: /posts/how-to-restart-autofs-in-solaris/
 pvc_views:
   - 4886
 dsq_thread_id:

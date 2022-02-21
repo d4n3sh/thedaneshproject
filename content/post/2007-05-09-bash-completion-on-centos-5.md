@@ -2,7 +2,6 @@
 title: Bash Completion on CentOS 5
 author: Danesh
 date: 2007-05-09T07:19:08+00:00
-url: /posts/bash-completion-on-centos-5/
 pvc_views:
   - 16059
 dsq_thread_id:

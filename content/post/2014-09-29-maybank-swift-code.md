@@ -2,7 +2,6 @@
 title: Maybank SWIFT Code
 author: Danesh
 date: 2014-09-29T09:40:14+00:00
-url: /posts/maybank-swift-code/
 dsq_thread_id:
   - 3064753400
 

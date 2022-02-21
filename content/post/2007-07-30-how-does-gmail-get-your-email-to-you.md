@@ -2,7 +2,6 @@
 title: How does Gmail get your email to you
 author: Danesh
 date: 2007-07-30T02:19:04+00:00
-url: /posts/how-does-gmail-get-your-email-to-you/
 pvc_views:
   - 5298
 dsq_thread_id:

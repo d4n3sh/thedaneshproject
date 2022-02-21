@@ -2,7 +2,6 @@
 title: Disable the “beep” in Ubuntu 9.04
 author: Danesh
 date: 2009-05-03T03:43:56+00:00
-url: /posts/disable-the-beep-in-ubuntu-904/
 aktt_notify_twitter:
   - no
 pvc_views:

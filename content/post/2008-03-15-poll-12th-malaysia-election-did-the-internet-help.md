@@ -2,7 +2,6 @@
 title: 'Poll: 12th Malaysia Election, did the internet help?'
 author: Danesh
 date: 2008-03-14T16:41:35+00:00
-url: /posts/poll-12th-malaysia-election-did-the-internet-help/
 pvc_views:
   - 5097
 dsq_thread_id:

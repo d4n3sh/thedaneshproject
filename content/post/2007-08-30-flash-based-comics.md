@@ -2,7 +2,6 @@
 title: Flash based comics
 author: Danesh
 date: 2007-08-30T06:54:04+00:00
-url: /posts/flash-based-comics/
 pvc_views:
   - 3344
 dsq_thread_id:

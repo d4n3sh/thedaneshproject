@@ -2,7 +2,6 @@
 title: Bash and command line keyboard shortcuts
 author: Danesh
 date: 2007-02-28T19:39:12+00:00
-url: /posts/bash-and-command-line-keyboard-shortcuts/
 pvc_views:
   - 11944
 dsq_thread_id:

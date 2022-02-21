@@ -2,7 +2,6 @@
 title: WordPress 2.3.1 Beta 1 Released
 author: Danesh
 date: 2007-10-21T18:46:43+00:00
-url: /posts/wordpress-231-beta-1-released/
 pvc_views:
   - 2602
 dsq_thread_id:

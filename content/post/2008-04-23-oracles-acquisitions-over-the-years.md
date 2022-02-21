@@ -2,7 +2,6 @@
 title: Oracle’s Acquisitions over the years
 author: Danesh
 date: 2008-04-23T09:13:32+00:00
-url: /posts/oracles-acquisitions-over-the-years/
 pvc_views:
   - 5132
 dsq_thread_id:

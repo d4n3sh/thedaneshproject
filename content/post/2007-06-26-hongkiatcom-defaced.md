@@ -2,7 +2,6 @@
 title: HongKiat.com defaced
 author: Danesh
 date: 2007-06-26T09:24:05+00:00
-url: /posts/hongkiatcom-defaced/
 pvc_views:
   - 5511
 dsq_thread_id:

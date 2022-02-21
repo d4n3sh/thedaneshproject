@@ -2,7 +2,6 @@
 title: 'N: Skipping acquire of configured file ‘contrib/binary-i386/Packages’ as repository ‘https://download.virtualbox.org/virtualbox/debian bionic InRelease’ doesn’t support architecture ‘i386’'
 author: Danesh
 date: 2018-08-15T05:07:51+00:00
-url: /posts/n-skipping-acquire-of-configured-file-contrib-binary-i386-packages-as-repository-https-download-virtualbox-org-virtualbox-debian-bionic-inrelease-doesnt-support-architecture-i386/
 
 ---
 N: Skipping acquire of configured file &#8216;contrib/binary-i386/Packages&#8217; as repository &#8216;https://download.virtualbox.org/virtualbox/debian bionic InRelease&#8217; doesn&#8217;t support architecture &#8216;i386&#8217;

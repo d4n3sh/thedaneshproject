@@ -2,7 +2,6 @@
 title: Facebook plans to clean up
 author: Danesh
 date: 2008-05-20T06:29:14+00:00
-url: /posts/facebook-plans-to-clean-up/
 pvc_views:
   - 4722
 dsq_thread_id:

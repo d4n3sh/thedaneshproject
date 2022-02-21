@@ -2,7 +2,6 @@
 title: RPK’s on Slashdot
 author: Danesh
 date: 2008-10-07T08:55:52+00:00
-url: /posts/rpks-on-slashdot/
 robotsmeta:
   - index,follow
 pvc_views:

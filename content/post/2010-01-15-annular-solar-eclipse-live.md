@@ -2,7 +2,6 @@
 title: Annular Solar Eclipse live!!
 author: Danesh
 date: 2010-01-15T07:30:26+00:00
-url: /posts/annular-solar-eclipse-live/
 pvc_views:
   - 4176
 dsq_thread_id:

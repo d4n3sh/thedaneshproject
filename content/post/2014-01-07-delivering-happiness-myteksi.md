@@ -2,7 +2,6 @@
 title: Delivering Happiness with MYTEKSI
 author: Danesh
 date: 2014-01-07T15:09:02+00:00
-url: /posts/delivering-happiness-myteksi/
 dsq_thread_id:
   - 2097864260
 

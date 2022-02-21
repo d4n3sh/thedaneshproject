@@ -2,7 +2,6 @@
 title: Tweaking openSUSE
 author: Danesh
 date: 2007-04-03T05:36:24+00:00
-url: /posts/tweaking-opensuse/
 pvc_views:
   - 4284
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Namecheap Coupon for November 2009
 author: Danesh
 date: 2009-11-09T09:41:49+00:00
-url: /posts/namecheap-coupon-for-november-2009/
 pvc_views:
   - 2070
 dsq_thread_id:

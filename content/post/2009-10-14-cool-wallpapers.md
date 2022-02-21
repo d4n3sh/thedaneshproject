@@ -2,7 +2,6 @@
 title: Cool Wallpapers
 author: Danesh
 date: 2009-10-14T10:15:51+00:00
-url: /posts/cool-wallpapers/
 pvc_views:
   - 6015
 dsq_thread_id:

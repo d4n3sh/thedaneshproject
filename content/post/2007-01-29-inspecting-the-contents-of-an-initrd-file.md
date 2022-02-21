@@ -2,7 +2,6 @@
 title: Inspecting the contents of an initrd file.
 author: Danesh
 date: 2007-01-29T09:01:18+00:00
-url: /posts/inspecting-the-contents-of-an-initrd-file/
 pvc_views:
   - 5112
 dsq_thread_id:

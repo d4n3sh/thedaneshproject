@@ -2,7 +2,6 @@
 title: Follow the 2008 presidential election on Twitter
 author: Danesh
 date: 2008-09-26T08:40:37+00:00
-url: /posts/follow-the-2008-presidential-election-on-twitter/
 robotsmeta:
   - index,follow
 pvc_views:

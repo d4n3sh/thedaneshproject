@@ -2,7 +2,6 @@
 title: History command with time stamp
 author: Danesh
 date: 2010-02-08T05:44:23+00:00
-url: /posts/history-command-with-time-stamp/
 pvc_views:
   - 5967
 dsq_thread_id:

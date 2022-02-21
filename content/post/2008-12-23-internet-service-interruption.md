@@ -2,7 +2,6 @@
 title: Internet Service Interruption
 author: Danesh
 date: 2008-12-23T03:02:40+00:00
-url: /posts/internet-service-interruption/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Defensio releases new WordPress plugin
 author: Danesh
 date: 2007-11-21T05:46:37+00:00
-url: /posts/defensio-releases-new-wordpress-plugin/
 pvc_views:
   - 2418
 dsq_thread_id:

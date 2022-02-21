@@ -2,7 +2,6 @@
 title: Google Analytics on your desktop with Polaris
 author: Danesh
 date: 2009-05-26T23:00:56+00:00
-url: /posts/google-analytics-on-your-desktop-with-polaris/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: How to untar over SSH
 author: Danesh
 date: 2008-01-21T12:40:29+00:00
-url: /posts/how-to-untar-over-ssh/
 pvc_views:
   - 19396
 dsq_thread_id:

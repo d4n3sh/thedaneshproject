@@ -2,7 +2,6 @@
 title: Tattoos 4 Toddlers
 author: Danesh
 date: 2007-04-19T02:20:06+00:00
-url: /posts/tattoos-4-toddlers/
 pvc_views:
   - 6886
 dsq_thread_id:

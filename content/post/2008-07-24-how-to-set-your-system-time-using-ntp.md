@@ -2,7 +2,6 @@
 title: How to set your system time using NTP
 author: Danesh
 date: 2008-07-24T08:13:27+00:00
-url: /posts/how-to-set-your-system-time-using-ntp/
 robotsmeta:
   - index,follow
 pvc_views:

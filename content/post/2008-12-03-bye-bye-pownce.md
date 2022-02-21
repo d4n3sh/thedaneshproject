@@ -2,7 +2,6 @@
 title: Bye Bye Pownce
 author: Danesh
 date: 2008-12-03T12:13:11+00:00
-url: /posts/bye-bye-pownce/
 robotsmeta:
   - index,follow
 pvc_views:

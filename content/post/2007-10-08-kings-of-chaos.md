@@ -2,7 +2,6 @@
 title: Kings Of Chaos
 author: Danesh
 date: 2007-10-08T07:40:49+00:00
-url: /posts/kings-of-chaos/
 pvc_views:
   - 6874
 dsq_thread_id:

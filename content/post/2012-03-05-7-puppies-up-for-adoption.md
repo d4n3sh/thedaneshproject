@@ -2,7 +2,6 @@
 title: 7 puppies up for adoption
 author: Danesh
 date: 2012-03-05T09:14:16+00:00
-url: /posts/7-puppies-up-for-adoption/
 pvc_views:
   - 1425
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: TMNET Restoration date pushed to 23rd Jan
 author: Danesh
 date: 2007-01-21T16:48:34+00:00
-url: /posts/tmnet-restoration-date-pushed-to-23rd-jan/
 pvc_views:
   - 1775
 dsq_thread_id:

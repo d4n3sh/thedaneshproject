@@ -2,7 +2,6 @@
 title: Malaysia Today moving
 author: Danesh
 date: 2008-07-02T00:14:46+00:00
-url: /posts/malaysia-today-moving/
 robotsmeta:
   - index,follow
 pvc_views:

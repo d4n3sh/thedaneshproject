@@ -2,7 +2,6 @@
 title: Doninos Pizza, improve your call centers
 author: Danesh
 date: 2009-01-28T15:40:14+00:00
-url: /posts/doninos-pizza-improve-your-call-centers/
 robotsmeta:
   - index,follow
 pvc_views:

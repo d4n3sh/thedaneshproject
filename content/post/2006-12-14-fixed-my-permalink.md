@@ -2,7 +2,6 @@
 title: Fixed my permalink | WordPress
 author: Danesh
 date: 2006-12-14T12:30:18+00:00
-url: /posts/fixed-my-permalink/
 pvc_views:
   - 12126
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Google turns 10
 author: Danesh
 date: 2008-09-07T18:03:59+00:00
-url: /posts/google-turns-10/
 robotsmeta:
   - index,follow
 pvc_views:

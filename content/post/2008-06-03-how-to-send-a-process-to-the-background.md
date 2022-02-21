@@ -2,7 +2,6 @@
 title: How to send a process to the background
 author: Danesh
 date: 2008-06-03T07:23:13+00:00
-url: /posts/how-to-send-a-process-to-the-background/
 pvc_views:
   - 35357
 dsq_thread_id:

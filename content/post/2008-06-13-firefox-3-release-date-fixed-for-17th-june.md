@@ -2,7 +2,6 @@
 title: Firefox 3 release date fixed for 17th June
 author: Danesh
 date: 2008-06-13T07:14:57+00:00
-url: /posts/firefox-3-release-date-fixed-for-17th-june/
 pvc_views:
   - 5899
 dsq_thread_id:

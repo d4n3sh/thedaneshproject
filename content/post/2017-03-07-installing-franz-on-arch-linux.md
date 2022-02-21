@@ -2,7 +2,6 @@
 title: Installing Franz on Arch Linux
 author: Danesh
 date: 2017-03-07T14:49:35+00:00
-url: /posts/installing-franz-on-arch-linux/
 dsq_thread_id:
   - 5610625987
 

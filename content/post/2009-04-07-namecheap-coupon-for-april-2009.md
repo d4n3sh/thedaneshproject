@@ -2,7 +2,6 @@
 title: Namecheap Coupon for April 2009
 author: Danesh
 date: 2009-04-07T15:56:11+00:00
-url: /posts/namecheap-coupon-for-april-2009/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Defensio Anti Spam 1.2 released
 author: Danesh
 date: 2007-12-05T16:04:29+00:00
-url: /posts/defensio-anti-spam-12-released/
 pvc_views:
   - 5731
 dsq_thread_id:

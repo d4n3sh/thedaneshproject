@@ -2,7 +2,6 @@
 title: Skype now on PSP
 author: Danesh
 date: 2008-01-13T02:00:46+00:00
-url: /posts/skype-now-on-psp/
 pvc_views:
   - 4453
 dsq_thread_id:

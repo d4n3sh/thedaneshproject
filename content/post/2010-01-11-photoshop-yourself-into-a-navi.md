@@ -2,7 +2,6 @@
 title: Photoshop yourself into a Navi
 author: Danesh
 date: 2010-01-11T03:45:33+00:00
-url: /posts/photoshop-yourself-into-a-navi/
 pvc_views:
   - 14152
 dsq_thread_id:

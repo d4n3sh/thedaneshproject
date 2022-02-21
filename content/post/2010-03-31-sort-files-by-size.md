@@ -2,7 +2,6 @@
 title: Sort files by size
 author: Danesh
 date: 2010-03-31T03:31:12+00:00
-url: /posts/sort-files-by-size/
 pvc_views:
   - 2176
 dsq_thread_id:

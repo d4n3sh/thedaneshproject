@@ -2,7 +2,6 @@
 title: No more Beta for Google
 author: Danesh
 date: 2009-07-08T09:04:02+00:00
-url: /posts/no-more-beta-for-google/
 aktt_notify_twitter:
   - no
 pvc_views:

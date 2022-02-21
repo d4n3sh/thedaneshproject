@@ -2,7 +2,6 @@
 title: New Banner | Site Update
 author: Danesh
 date: 2007-02-22T12:47:51+00:00
-url: /posts/new-banner-site-update/
 pvc_views:
   - 4399
 dsq_thread_id:

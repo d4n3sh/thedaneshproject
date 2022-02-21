@@ -2,7 +2,6 @@
 title: Should Badawi (Pak Lah) resign?
 author: Danesh
 date: 2008-03-09T13:44:37+00:00
-url: /posts/should-badawi-pak-lah-resign/
 pvc_views:
   - 10953
 dsq_thread_id:

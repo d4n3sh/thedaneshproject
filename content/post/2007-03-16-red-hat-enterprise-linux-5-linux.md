@@ -2,7 +2,6 @@
 title: Red Hat Enterprise Linux 5 | Linux
 author: Danesh
 date: 2007-03-15T17:57:42+00:00
-url: /posts/red-hat-enterprise-linux-5-linux/
 pvc_views:
   - 4685
 dsq_thread_id:

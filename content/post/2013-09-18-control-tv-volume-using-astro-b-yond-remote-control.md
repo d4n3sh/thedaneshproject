@@ -2,7 +2,6 @@
 title: How to control your TV volume using the Astro B.yond remote control
 author: Danesh
 date: 2013-09-18T15:45:06+00:00
-url: /posts/control-tv-volume-using-astro-b-yond-remote-control/
 dsq_thread_id:
   - 1774434080
 

@@ -2,7 +2,6 @@
 title: Downloading gOS
 author: Danesh
 date: 2007-11-24T10:27:44+00:00
-url: /posts/downloading-gos/
 pvc_views:
   - 8499
 dsq_thread_id:

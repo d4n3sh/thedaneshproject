@@ -2,7 +2,6 @@
 title: Launchpad is now open source
 author: Danesh
 date: 2009-07-21T18:00:46+00:00
-url: /posts/launchpad-is-now-open-source/
 aktt_notify_twitter:
   - no
 pvc_views:

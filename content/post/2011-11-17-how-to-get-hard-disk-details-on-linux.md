@@ -2,7 +2,6 @@
 title: How to get Hard Disk Details on Linux
 author: Danesh
 date: 2011-11-16T17:27:51+00:00
-url: /posts/how-to-get-hard-disk-details-on-linux/
 pvc_views:
   - 6405
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Malaysia Today Hacked!!
 author: Danesh
 date: 2008-07-02T07:21:29+00:00
-url: /posts/malaysia-today-hacked/
 robotsmeta:
   - index,follow
 pvc_views:

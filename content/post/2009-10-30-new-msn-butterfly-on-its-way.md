@@ -2,7 +2,6 @@
 title: New MSN butterfly on it’s way
 author: Danesh
 date: 2009-10-30T04:47:12+00:00
-url: /posts/new-msn-butterfly-on-its-way/
 pvc_views:
   - 9264
 dsq_thread_id:

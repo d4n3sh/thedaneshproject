@@ -2,7 +2,6 @@
 title: WordPress 2.3 Release
 author: Danesh
 date: 2007-08-24T21:47:29+00:00
-url: /posts/wordpress-23-release/
 pvc_views:
   - 4200
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Hulu opens to public
 author: Danesh
 date: 2008-03-16T12:54:05+00:00
-url: /posts/hulu-opens-to-public/
 pvc_views:
   - 7349
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Volkswagen’s new Germany plant.
 author: Danesh
 date: 2006-12-19T15:00:45+00:00
-url: /posts/volkswagens-new-germany-plant/
 pvc_views:
   - 11519
 dsq_thread_id:

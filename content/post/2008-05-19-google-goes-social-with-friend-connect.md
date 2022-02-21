@@ -2,7 +2,6 @@
 title: Google goes social with Friend Connect
 author: Danesh
 date: 2008-05-19T14:23:42+00:00
-url: /posts/google-goes-social-with-friend-connect/
 pvc_views:
   - 4847
 dsq_thread_id:

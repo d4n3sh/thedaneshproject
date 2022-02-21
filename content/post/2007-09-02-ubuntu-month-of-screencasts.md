@@ -2,7 +2,6 @@
 title: Ubuntu Month Of Screencasts
 author: Danesh
 date: 2007-09-01T17:59:01+00:00
-url: /posts/ubuntu-month-of-screencasts/
 pvc_views:
   - 2011
 dsq_thread_id:

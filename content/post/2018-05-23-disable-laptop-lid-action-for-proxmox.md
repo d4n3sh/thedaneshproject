@@ -2,7 +2,6 @@
 title: Disable laptop lid action for proxmox
 author: Danesh
 date: 2018-05-22T22:13:31+00:00
-url: /posts/disable-laptop-lid-action-for-proxmox/
 
 ---
 I run a low power proxmox server using my old Lenovo T430s. It&#8217;s headless so the lid&#8217;s always closed.

@@ -2,7 +2,6 @@
 title: Freeze For World Earth Day
 author: Danesh
 date: 2008-04-18T19:34:06+00:00
-url: /posts/freeze-for-world-earth-day/
 pvc_views:
   - 5258
 dsq_thread_id:

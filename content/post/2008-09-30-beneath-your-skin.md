@@ -2,7 +2,6 @@
 title: Beneath Your Skin
 author: Danesh
 date: 2008-09-30T05:23:51+00:00
-url: /posts/beneath-your-skin/
 robotsmeta:
   - index,follow
 pvc_views:

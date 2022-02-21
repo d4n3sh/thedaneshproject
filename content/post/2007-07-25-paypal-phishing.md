@@ -2,7 +2,6 @@
 title: PayPal phishing
 author: Danesh
 date: 2007-07-24T18:14:48+00:00
-url: /posts/paypal-phishing/
 pvc_views:
   - 6928
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: CScrot is now Shutter
 author: Danesh
 date: 2009-02-15T17:29:01+00:00
-url: /posts/cscrot-is-now-shutter/
 pvc_views:
   - 2877
 robotsmeta:

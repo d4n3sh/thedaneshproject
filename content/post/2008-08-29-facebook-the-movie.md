@@ -2,7 +2,6 @@
 title: Facebook the movie
 author: Danesh
 date: 2008-08-29T03:00:57+00:00
-url: /posts/facebook-the-movie/
 robotsmeta:
   - index,follow
 pvc_views:

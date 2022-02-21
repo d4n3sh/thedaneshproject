@@ -2,7 +2,6 @@
 title: How to restart sendmail in AIX
 author: Danesh
 date: 2007-12-10T15:29:21+00:00
-url: /posts/how-to-restart-sendmail-in-aix/
 pvc_views:
   - 37643
 dsq_thread_id:

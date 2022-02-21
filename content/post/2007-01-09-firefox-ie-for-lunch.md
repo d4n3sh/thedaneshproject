@@ -2,7 +2,6 @@
 title: 'Firefox: IE for lunch?'
 author: Danesh
 date: 2007-01-09T03:49:48+00:00
-url: /posts/firefox-ie-for-lunch/
 pvc_views:
   - 1220
 

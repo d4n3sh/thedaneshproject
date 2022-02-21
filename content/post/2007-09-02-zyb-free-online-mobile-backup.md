@@ -2,7 +2,6 @@
 title: ZYB free online mobile backup
 author: Danesh
 date: 2007-09-02T09:53:20+00:00
-url: /posts/zyb-free-online-mobile-backup/
 pvc_views:
   - 10385
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Firefox 3.0.1 released
 author: Danesh
 date: 2008-07-17T04:43:01+00:00
-url: /posts/firefox-301-released/
 robotsmeta:
   - index,follow
 pvc_views:

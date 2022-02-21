@@ -2,7 +2,6 @@
 title: iPhone 3G now available in Malaysia
 author: Danesh
 date: 2008-08-04T18:13:18+00:00
-url: /posts/iphone-3g-now-available-in-malaysia/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Remove Zenworks Management Daemon
 author: Danesh
 date: 2007-08-21T03:20:14+00:00
-url: /posts/remove-zenworks-management-daemon/
 pvc_views:
   - 5717
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Oxygen 1.0 Firefox 3 theme for KDE 4
 author: Danesh
 date: 2008-07-02T23:27:44+00:00
-url: /posts/oxygen-10-firefox-3-theme-for-kde-4/
 robotsmeta:
   - index,follow
 pvc_views:

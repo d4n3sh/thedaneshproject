@@ -2,7 +2,6 @@
 title: Ubuntu Wallpaper
 author: Danesh
 date: 2009-05-01T19:38:34+00:00
-url: /posts/ubuntu-wallpaper/
 aktt_notify_twitter:
   - no
 pvc_views:

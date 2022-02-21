@@ -2,7 +2,6 @@
 title: How to set default session timeout in Linux
 author: Danesh
 date: 2008-03-05T04:44:19+00:00
-url: /posts/how-to-set-default-session-timeout-in-linux/
 pvc_views:
   - 60179
 dsq_thread_id:

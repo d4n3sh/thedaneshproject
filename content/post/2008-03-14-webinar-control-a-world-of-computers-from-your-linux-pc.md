@@ -2,7 +2,6 @@
 title: 'Webinar: Control a World of Computers from Your Linux PC'
 author: Danesh
 date: 2008-03-14T13:39:37+00:00
-url: /posts/webinar-control-a-world-of-computers-from-your-linux-pc/
 pvc_views:
   - 2434
 dsq_thread_id:

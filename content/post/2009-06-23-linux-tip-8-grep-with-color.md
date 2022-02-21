@@ -2,7 +2,6 @@
 title: 'Linux Tip #8: grep with color'
 author: Danesh
 date: 2009-06-23T00:00:23+00:00
-url: /posts/linux-tip-8-grep-with-color/
 aktt_notify_twitter:
   - no
 pvc_views:

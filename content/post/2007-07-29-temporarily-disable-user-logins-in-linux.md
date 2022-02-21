@@ -2,7 +2,6 @@
 title: Temporarily disable user logins in Linux
 author: Danesh
 date: 2007-07-29T12:27:19+00:00
-url: /posts/temporarily-disable-user-logins-in-linux/
 pvc_views:
   - 13905
 dsq_thread_id:

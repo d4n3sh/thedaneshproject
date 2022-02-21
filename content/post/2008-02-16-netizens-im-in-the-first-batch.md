@@ -2,7 +2,6 @@
 title: Netizens, I’m in the first batch
 author: Danesh
 date: 2008-02-15T16:35:21+00:00
-url: /posts/netizens-im-in-the-first-batch/
 pvc_views:
   - 2263
 dsq_thread_id:

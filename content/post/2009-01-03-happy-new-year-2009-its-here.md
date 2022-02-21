@@ -2,7 +2,6 @@
 title: Happy New Year , 2009 it’s here!!
 author: Danesh
 date: 2009-01-03T13:39:55+00:00
-url: /posts/happy-new-year-2009-its-here/
 robotsmeta:
   - index,follow
 pvc_views:

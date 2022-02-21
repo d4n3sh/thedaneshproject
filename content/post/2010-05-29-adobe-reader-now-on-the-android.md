@@ -2,7 +2,6 @@
 title: Adobe Reader now on the Android
 author: Danesh
 date: 2010-05-29T11:25:49+00:00
-url: /posts/adobe-reader-now-on-the-android/
 pvc_views:
   - 2029
 dsq_thread_id:

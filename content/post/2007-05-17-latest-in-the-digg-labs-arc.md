@@ -2,7 +2,6 @@
 title: Latest in the digg labs “arc”
 author: Danesh
 date: 2007-05-17T04:13:29+00:00
-url: /posts/latest-in-the-digg-labs-arc/
 pvc_views:
   - 1715
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: MYR9.90 .my domains at Exabytes
 author: Danesh
 date: 2014-03-26T06:54:32+00:00
-url: /posts/myr9-90-domains-exabytes/
 dsq_thread_id:
   - 2512409037
 

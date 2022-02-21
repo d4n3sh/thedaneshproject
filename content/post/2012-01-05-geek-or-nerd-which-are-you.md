@@ -2,7 +2,6 @@
 title: Geek or Nerd, which are you?
 author: Danesh
 date: 2012-01-04T17:05:58+00:00
-url: /posts/geek-or-nerd-which-are-you/
 pvc_views:
   - 3620
 dsq_thread_id:

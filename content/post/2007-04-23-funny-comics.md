@@ -2,7 +2,6 @@
 title: Funny Comics
 author: Danesh
 date: 2007-04-23T02:52:16+00:00
-url: /posts/funny-comics/
 pvc_views:
   - 2919
 dsq_thread_id:

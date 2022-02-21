@@ -2,7 +2,6 @@
 title: iPhone 3G almost in Singapore
 author: Danesh
 date: 2008-08-20T03:29:45+00:00
-url: /posts/iphone-3g-almost-in-singapore/
 robotsmeta:
   - index,follow
 pvc_views:

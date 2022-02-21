@@ -2,7 +2,6 @@
 title: Firefox 3 Release Candidate 2
 author: Danesh
 date: 2008-06-11T10:48:05+00:00
-url: /posts/firefox-3-release-candidate-2/
 pvc_views:
   - 4981
 dsq_thread_id:

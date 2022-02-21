@@ -2,7 +2,6 @@
 title: How to reset your Gnome desktop
 author: Danesh
 date: 2010-12-19T13:15:42+00:00
-url: /posts/how-to-reset-your-gnome-desktop/
 pvc_views:
   - 2095
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 'Free eBook : Ubuntu Pocket Guide and Reference'
 author: Danesh
 date: 2009-01-30T06:55:31+00:00
-url: /posts/free-ebook-ubuntu-pocket-guide-and-reference/
 pvc_views:
   - 5488
 robotsmeta:

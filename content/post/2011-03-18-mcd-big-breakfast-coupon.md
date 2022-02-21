@@ -2,7 +2,6 @@
 title: McD Big Breakfast Coupon
 author: Danesh
 date: 2011-03-18T05:28:49+00:00
-url: /posts/mcd-big-breakfast-coupon/
 pvc_views:
   - 5815
 dsq_thread_id:

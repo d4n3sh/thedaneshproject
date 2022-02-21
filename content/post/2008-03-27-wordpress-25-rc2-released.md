@@ -2,7 +2,6 @@
 title: WordPress 2.5 RC2 Released
 author: Danesh
 date: 2008-03-27T02:57:23+00:00
-url: /posts/wordpress-25-rc2-released/
 pvc_views:
   - 3458
 dsq_thread_id:

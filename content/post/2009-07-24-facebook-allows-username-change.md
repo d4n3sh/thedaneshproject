@@ -2,7 +2,6 @@
 title: Facebook allows username change
 author: Danesh
 date: 2009-07-24T07:56:27+00:00
-url: /posts/facebook-allows-username-change/
 aktt_notify_twitter:
   - no
 pvc_views:

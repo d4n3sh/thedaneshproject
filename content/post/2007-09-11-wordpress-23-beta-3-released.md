@@ -2,7 +2,6 @@
 title: WordPress 2.3 Beta 3 released
 author: Danesh
 date: 2007-09-11T06:48:32+00:00
-url: /posts/wordpress-23-beta-3-released/
 pvc_views:
   - 1846
 dsq_thread_id:

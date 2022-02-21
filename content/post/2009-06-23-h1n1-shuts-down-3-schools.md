@@ -2,7 +2,6 @@
 title: H1N1 shuts down 3 schools
 author: Danesh
 date: 2009-06-23T09:03:00+00:00
-url: /posts/h1n1-shuts-down-3-schools/
 aktt_notify_twitter:
   - no
 pvc_views:

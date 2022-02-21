@@ -2,7 +2,6 @@
 title: Install Helm on Ubuntu 20.10
 author: Danesh
 date: 2020-11-08T02:00:00+00:00
-url: /posts/install-helm-on-ubuntu-20-10/
 
 ---
 Go to the release page to get the download link for the latest version of helm. <https://github.com/helm/helm/releases>

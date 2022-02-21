@@ -2,7 +2,6 @@
 title: Switched to reCAPTCHA
 author: Danesh
 date: 2008-01-14T15:41:10+00:00
-url: /posts/switched-to-recaptcha/
 pvc_views:
   - 3382
 dsq_thread_id:

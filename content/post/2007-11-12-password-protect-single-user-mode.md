@@ -2,7 +2,6 @@
 title: Password protect single user mode
 author: Danesh
 date: 2007-11-12T09:53:04+00:00
-url: /posts/password-protect-single-user-mode/
 pvc_views:
   - 19416
 dsq_thread_id:

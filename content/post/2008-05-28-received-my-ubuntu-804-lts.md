@@ -2,7 +2,6 @@
 title: Received my Ubuntu 8.04 LTS
 author: Danesh
 date: 2008-05-27T16:38:25+00:00
-url: /posts/received-my-ubuntu-804-lts/
 pvc_views:
   - 6087
 dsq_thread_id:

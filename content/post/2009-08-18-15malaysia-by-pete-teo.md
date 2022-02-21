@@ -2,7 +2,6 @@
 title: 15Malaysia by Pete Teo
 author: Danesh
 date: 2009-08-18T10:20:25+00:00
-url: /posts/15malaysia-by-pete-teo/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: Are you ready for the future?
 author: Danesh
 date: 2009-09-19T17:24:57+00:00
-url: /posts/are-you-ready-for-the-future/
 aktt_notify_twitter:
   - no
 pvc_views:

@@ -2,7 +2,6 @@
 title: Box.net via WebDAV on Fedora 16
 author: Danesh
 date: 2012-02-01T15:24:52+00:00
-url: /posts/box-net-via-webdav-on-fedora-16/
 pvc_views:
   - 5818
 dsq_thread_id:

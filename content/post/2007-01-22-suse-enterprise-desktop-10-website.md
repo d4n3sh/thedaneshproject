@@ -2,7 +2,6 @@
 title: SUSE Enterprise Desktop 10 website
 author: Danesh
 date: 2007-01-22T03:18:41+00:00
-url: /posts/suse-enterprise-desktop-10-website/
 pvc_views:
   - 1799
 dsq_thread_id:

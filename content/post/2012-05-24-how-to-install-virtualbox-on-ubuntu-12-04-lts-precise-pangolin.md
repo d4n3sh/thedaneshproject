@@ -2,7 +2,6 @@
 title: How to install Virtualbox on Ubuntu 12.04 LTS Precise Pangolin
 author: Danesh
 date: 2012-05-23T21:00:00+00:00
-url: /posts/how-to-install-virtualbox-on-ubuntu-12-04-lts-precise-pangolin/
 pvc_views:
   - 8306
 dsq_thread_id:

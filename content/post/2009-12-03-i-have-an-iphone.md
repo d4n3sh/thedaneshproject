@@ -2,7 +2,6 @@
 title: I have an iPhone!!
 author: Danesh
 date: 2009-12-03T08:03:39+00:00
-url: /posts/i-have-an-iphone/
 pvc_views:
   - 983
 dsq_thread_id:

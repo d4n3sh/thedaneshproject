@@ -2,7 +2,6 @@
 title: Linux On Dell Survey | Linux
 author: Danesh
 date: 2007-03-21T02:49:27+00:00
-url: /posts/linux-on-dell-survey-linux/
 pvc_views:
   - 1250
 dsq_thread_id:

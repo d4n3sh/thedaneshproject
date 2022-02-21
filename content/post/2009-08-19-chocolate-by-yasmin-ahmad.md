@@ -2,7 +2,6 @@
 title: Chocolate by Yasmin Ahmad
 author: Danesh
 date: 2009-08-19T02:58:55+00:00
-url: /posts/chocolate-by-yasmin-ahmad/
 aktt_notify_twitter:
   - no
 pvc_views:

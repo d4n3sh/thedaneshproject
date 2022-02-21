@@ -2,7 +2,6 @@
 title: What would you do?
 author: Danesh
 date: 2007-04-11T10:42:00+00:00
-url: /posts/what-would-you-do/
 pvc_views:
   - 1973
 dsq_thread_id:

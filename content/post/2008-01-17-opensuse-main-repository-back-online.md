@@ -2,7 +2,6 @@
 title: openSUSE main repository back online
 author: Danesh
 date: 2008-01-16T16:31:17+00:00
-url: /posts/opensuse-main-repository-back-online/
 pvc_views:
   - 12315
 dsq_thread_id:

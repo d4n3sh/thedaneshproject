@@ -2,7 +2,6 @@
 title: Google’s on Twitter
 author: Danesh
 date: 2009-03-02T15:45:26+00:00
-url: /posts/googles-on-twitter/
 robotsmeta:
   - index,follow
 pvc_views:

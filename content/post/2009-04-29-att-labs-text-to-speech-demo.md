@@ -2,7 +2,6 @@
 title: 'Must try!! AT&T Labs text-to-speech demo.'
 author: Danesh
 date: 2009-04-29T01:00:17+00:00
-url: /posts/att-labs-text-to-speech-demo/
 robotsmeta:
   - index,follow
 pvc_views:

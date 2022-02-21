@@ -2,7 +2,6 @@
 title: 'Linux Tip #3: System uptime with uptime'
 author: Danesh
 date: 2009-03-23T13:03:25+00:00
-url: /posts/linux-tip-3-system-uptime-with-uptime/
 robotsmeta:
   - index,follow
 pvc_views:

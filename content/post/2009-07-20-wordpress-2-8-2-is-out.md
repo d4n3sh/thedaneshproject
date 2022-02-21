@@ -2,7 +2,6 @@
 title: WordPress 2.8.2 is out
 author: Danesh
 date: 2009-07-20T12:22:50+00:00
-url: /posts/wordpress-2-8-2-is-out/
 aktt_notify_twitter:
   - no
 pvc_views:

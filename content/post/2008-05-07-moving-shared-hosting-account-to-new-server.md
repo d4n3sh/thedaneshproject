@@ -2,7 +2,6 @@
 title: Moving shared hosting account to new server
 author: Danesh
 date: 2008-05-07T13:32:14+00:00
-url: /posts/moving-shared-hosting-account-to-new-server/
 pvc_views:
   - 2705
 dsq_thread_id:

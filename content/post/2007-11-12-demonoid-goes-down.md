@@ -2,7 +2,6 @@
 title: Demonoid goes down
 author: Danesh
 date: 2007-11-12T05:34:02+00:00
-url: /posts/demonoid-goes-down/
 pvc_views:
   - 3235
 dsq_thread_id:

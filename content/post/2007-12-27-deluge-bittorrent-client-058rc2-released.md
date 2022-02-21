@@ -2,7 +2,6 @@
 title: Deluge BitTorrent Client 0.5.8RC2 released
 author: Danesh
 date: 2007-12-27T02:10:03+00:00
-url: /posts/deluge-bittorrent-client-058rc2-released/
 pvc_views:
   - 9023
 dsq_thread_id:

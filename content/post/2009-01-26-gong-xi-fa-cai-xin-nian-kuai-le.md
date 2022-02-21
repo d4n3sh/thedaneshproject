@@ -2,7 +2,6 @@
 title: Gong Xi Fa Cai , Xin Nian Kuai Le
 author: Danesh
 date: 2009-01-26T12:15:04+00:00
-url: /posts/gong-xi-fa-cai-xin-nian-kuai-le/
 robotsmeta:
   - index,follow
 pvc_views:

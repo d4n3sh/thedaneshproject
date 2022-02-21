@@ -2,7 +2,6 @@
 title: My Streamyx is screwed again
 author: Danesh
 date: 2008-05-14T16:57:14+00:00
-url: /posts/my-streamyx-is-screwed-again/
 pvc_views:
   - 5543
 dsq_thread_id:

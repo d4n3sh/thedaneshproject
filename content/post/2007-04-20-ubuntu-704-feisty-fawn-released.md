@@ -2,7 +2,6 @@
 title: Ubuntu 7.04 (Feisty Fawn) released
 author: Danesh
 date: 2007-04-20T02:08:46+00:00
-url: /posts/ubuntu-704-feisty-fawn-released/
 pvc_views:
   - 3162
 dsq_thread_id:

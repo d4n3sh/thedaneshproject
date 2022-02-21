@@ -2,7 +2,6 @@
 title: The Dawn Of The Net
 author: Danesh
 date: 2008-01-11T02:00:19+00:00
-url: /posts/the-dawn-of-the-net/
 pvc_views:
   - 13269
 dsq_thread_id:

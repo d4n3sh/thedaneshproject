@@ -2,7 +2,6 @@
 title: Finally watched Transformers the movie
 author: Danesh
 date: 2007-07-02T17:18:34+00:00
-url: /posts/finally-watched-transformers-the-movie/
 pvc_views:
   - 3470
 dsq_thread_id:

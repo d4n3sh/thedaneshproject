@@ -2,7 +2,6 @@
 title: Follow the Dalai Lama on Twitter
 author: Danesh
 date: 2009-02-10T09:17:56+00:00
-url: /posts/follow-the-dalai-lama-on-twitter/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: 'Skype: End of free calls'
 author: Danesh
 date: 2007-01-08T23:27:23+00:00
-url: /posts/skype-end-of-free-calls/
 pvc_views:
   - 1878
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Collaborative Spreadsheet Art with Google Docs
 author: Danesh
 date: 2008-12-06T16:46:17+00:00
-url: /posts/collaborative-spreadsheet-art-with-google-docs/
 robotsmeta:
   - index,follow
 pvc_views:

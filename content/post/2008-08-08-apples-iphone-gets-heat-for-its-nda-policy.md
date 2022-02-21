@@ -2,7 +2,6 @@
 title: Apple’s iPhone get’s heat for it’s NDA policy
 author: Danesh
 date: 2008-08-07T16:31:41+00:00
-url: /posts/apples-iphone-gets-heat-for-its-nda-policy/
 robotsmeta:
   - index,follow
 pvc_views:

@@ -2,7 +2,6 @@
 title: Find you IP address and more with ipvee.com
 author: Danesh
 date: 2009-01-03T17:00:23+00:00
-url: /posts/find-you-ip-address-and-more-with-ipveecom/
 pvc_views:
   - 2242
 robotsmeta:

@@ -2,7 +2,6 @@
 title: Inspiring WWF ads
 author: Danesh
 date: 2009-06-27T00:00:48+00:00
-url: /posts/inspiring-wwf-ads/
 aktt_notify_twitter:
   - no
 pvc_views:

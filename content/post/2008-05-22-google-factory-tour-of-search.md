@@ -2,7 +2,6 @@
 title: Google Factory Tour of Search
 author: Danesh
 date: 2008-05-22T09:30:26+00:00
-url: /posts/google-factory-tour-of-search/
 pvc_views:
   - 4484
 dsq_thread_id:

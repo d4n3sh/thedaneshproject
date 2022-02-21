@@ -2,7 +2,6 @@
 title: Microsoft wants to buy Yahoo
 author: Danesh
 date: 2008-02-01T17:47:21+00:00
-url: /posts/microsoft-wants-to-buy-yahoo/
 pvc_views:
   - 3020
 dsq_thread_id:

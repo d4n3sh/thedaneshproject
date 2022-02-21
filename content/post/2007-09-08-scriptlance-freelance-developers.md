@@ -2,7 +2,6 @@
 title: ScriptLance freelance developers
 author: Danesh
 date: 2007-09-08T15:05:18+00:00
-url: /posts/scriptlance-freelance-developers/
 pvc_views:
   - 2724
 dsq_thread_id:

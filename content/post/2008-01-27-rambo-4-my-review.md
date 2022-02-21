@@ -2,7 +2,6 @@
 title: Rambo 4, my review
 author: Danesh
 date: 2008-01-27T09:46:39+00:00
-url: /posts/rambo-4-my-review/
 pvc_views:
   - 10826
 dsq_thread_id:

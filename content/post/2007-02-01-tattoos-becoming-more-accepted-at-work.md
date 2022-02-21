@@ -2,7 +2,6 @@
 title: Tattoos Becoming More Accepted At Work
 author: Danesh
 date: 2007-01-31T20:50:21+00:00
-url: /posts/tattoos-becoming-more-accepted-at-work/
 pvc_views:
   - 2981
 dsq_thread_id:

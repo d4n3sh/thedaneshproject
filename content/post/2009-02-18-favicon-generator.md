@@ -2,7 +2,6 @@
 title: Favicon generator
 author: Danesh
 date: 2009-02-18T00:00:00+00:00
-url: /posts/favicon-generator/
 pvc_views:
   - 31884
 robotsmeta:

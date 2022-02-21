@@ -2,7 +2,6 @@
 title: Install Ubuntu Fonts on Fedora 16
 author: Danesh
 date: 2011-11-14T17:55:27+00:00
-url: /posts/install-ubuntu-fonts-on-fedora-16/
 pvc_views:
   - 15399
 dsq_thread_id:

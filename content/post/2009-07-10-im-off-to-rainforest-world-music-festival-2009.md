@@ -2,7 +2,6 @@
 title: I’m off to Rainforest World Music Festival 2009
 author: Danesh
 date: 2009-07-09T17:32:31+00:00
-url: /posts/im-off-to-rainforest-world-music-festival-2009/
 aktt_notify_twitter:
   - no
 pvc_views:

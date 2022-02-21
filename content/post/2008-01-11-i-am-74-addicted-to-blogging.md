@@ -2,7 +2,6 @@
 title: I am 74% addicted to blogging
 author: Danesh
 date: 2008-01-11T07:17:00+00:00
-url: /posts/i-am-74-addicted-to-blogging/
 pvc_views:
   - 3619
 dsq_thread_id:

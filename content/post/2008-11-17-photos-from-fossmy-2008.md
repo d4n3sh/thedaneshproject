@@ -2,7 +2,6 @@
 title: Photos from foss.my 2008
 author: Danesh
 date: 2008-11-16T17:19:41+00:00
-url: /posts/photos-from-fossmy-2008/
 pvc_views:
   - 2891
 robotsmeta:

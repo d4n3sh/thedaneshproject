@@ -2,7 +2,6 @@
 title: Hello world! The new begining, again!!
 author: Danesh
 date: 2007-02-15T10:54:16+00:00
-url: /posts/hello-world/
 pvc_views:
   - 12206
 dsq_thread_id:

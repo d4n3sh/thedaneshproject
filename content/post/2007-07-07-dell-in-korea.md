@@ -2,7 +2,6 @@
 title: Dell in Korea
 author: Danesh
 date: 2007-07-07T06:24:08+00:00
-url: /posts/dell-in-korea/
 pvc_views:
   - 6288
 dsq_thread_id:

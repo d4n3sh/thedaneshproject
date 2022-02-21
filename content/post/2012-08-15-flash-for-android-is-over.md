@@ -2,7 +2,6 @@
 title: Flash for Android is over
 author: Danesh
 date: 2012-08-15T02:32:13+00:00
-url: /posts/flash-for-android-is-over/
 pvc_views:
   - 1054
 dsq_thread_id:

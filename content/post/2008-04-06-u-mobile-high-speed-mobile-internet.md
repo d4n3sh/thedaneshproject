@@ -2,7 +2,6 @@
 title: U Mobile High Speed Mobile Internet
 author: Danesh
 date: 2008-04-06T12:45:59+00:00
-url: /posts/u-mobile-high-speed-mobile-internet/
 pvc_views:
   - 41483
 dsq_thread_id:

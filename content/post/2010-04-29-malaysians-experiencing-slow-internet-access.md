@@ -2,7 +2,6 @@
 title: Malaysians experiencing slow internet access
 author: Danesh
 date: 2010-04-29T00:48:22+00:00
-url: /posts/malaysians-experiencing-slow-internet-access/
 pvc_views:
   - 3633
 dsq_thread_id:

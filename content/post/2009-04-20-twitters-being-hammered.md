@@ -2,7 +2,6 @@
 title: Twitter’s being hammered
 author: Danesh
 date: 2009-04-20T02:02:36+00:00
-url: /posts/twitters-being-hammered/
 robotsmeta:
   - index,follow
 pvc_views:

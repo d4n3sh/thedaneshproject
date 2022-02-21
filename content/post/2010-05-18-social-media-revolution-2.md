@@ -2,7 +2,6 @@
 title: Social Media Revolution 2
 author: Danesh
 date: 2010-05-18T07:00:13+00:00
-url: /posts/social-media-revolution-2/
 pvc_views:
   - 1779
 dsq_thread_id:

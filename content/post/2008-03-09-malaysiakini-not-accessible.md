@@ -2,7 +2,6 @@
 title: Malaysiakini Not Accessible
 author: Danesh
 date: 2008-03-09T14:44:02+00:00
-url: /posts/malaysiakini-not-accessible/
 pvc_views:
   - 3519
 dsq_thread_id:

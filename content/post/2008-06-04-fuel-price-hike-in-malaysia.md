@@ -2,7 +2,6 @@
 title: Fuel price hike in Malaysia
 author: Danesh
 date: 2008-06-04T10:19:21+00:00
-url: /posts/fuel-price-hike-in-malaysia/
 pvc_views:
   - 16981
 dsq_thread_id:

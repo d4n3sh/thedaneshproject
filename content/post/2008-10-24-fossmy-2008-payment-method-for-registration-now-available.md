@@ -2,7 +2,6 @@
 title: FOSS.my 2008 Payment method for registration now available
 author: Danesh
 date: 2008-10-24T03:57:02+00:00
-url: /posts/fossmy-2008-payment-method-for-registration-now-available/
 robotsmeta:
   - index,follow
 pvc_views:

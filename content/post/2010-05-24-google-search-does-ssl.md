@@ -2,7 +2,6 @@
 title: Google search does SSL
 author: Danesh
 date: 2010-05-23T17:19:15+00:00
-url: /posts/google-search-does-ssl/
 pvc_views:
   - 2698
 dsq_thread_id:

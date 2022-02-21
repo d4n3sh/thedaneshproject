@@ -2,7 +2,6 @@
 title: Twitter’s World Cup Page
 author: Danesh
 date: 2010-06-11T09:17:50+00:00
-url: /posts/twitters-world-cup-page/
 pvc_views:
   - 3888
 dsq_thread_id:

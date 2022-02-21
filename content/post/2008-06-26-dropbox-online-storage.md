@@ -2,7 +2,6 @@
 title: Dropbox online storage
 author: Danesh
 date: 2008-06-26T13:29:18+00:00
-url: /posts/dropbox-online-storage/
 pvc_views:
   - 13716
 dsq_thread_id:

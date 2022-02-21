@@ -2,7 +2,6 @@
 title: How to change the system date in Linux
 author: Danesh
 date: 2008-04-07T13:32:40+00:00
-url: /posts/how-to-change-the-system-date-in-linux/
 pvc_views:
   - 32988
 dsq_thread_id:

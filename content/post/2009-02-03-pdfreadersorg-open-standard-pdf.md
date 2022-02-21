@@ -2,7 +2,6 @@
 title: PDFreaders.org, open standard PDF
 author: Danesh
 date: 2009-02-03T10:52:02+00:00
-url: /posts/pdfreadersorg-open-standard-pdf/
 robotsmeta:
   - index,follow
 pvc_views:

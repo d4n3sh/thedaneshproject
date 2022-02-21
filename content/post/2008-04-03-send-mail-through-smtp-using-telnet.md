@@ -2,7 +2,6 @@
 title: Send mail through SMTP using Telnet
 author: Danesh
 date: 2008-04-03T07:58:19+00:00
-url: /posts/send-mail-through-smtp-using-telnet/
 pvc_views:
   - 109714
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Why HINDRAF? A Malaysians’ answer!
 author: Danesh
 date: 2007-11-26T15:22:00+00:00
-url: /posts/why-hindraf-a-malaysians-answer/
 pvc_views:
   - 4690
 dsq_thread_id:

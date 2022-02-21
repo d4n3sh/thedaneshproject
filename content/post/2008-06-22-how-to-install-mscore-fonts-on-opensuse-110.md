@@ -2,7 +2,6 @@
 title: How to install mscore fonts on openSUSE 11.0
 author: Danesh
 date: 2008-06-22T07:11:05+00:00
-url: /posts/how-to-install-mscore-fonts-on-opensuse-110/
 pvc_views:
   - 7128
 dsq_thread_id:

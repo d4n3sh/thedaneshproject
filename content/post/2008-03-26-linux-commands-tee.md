@@ -2,7 +2,6 @@
 title: 'Linux Commands: tee'
 author: Danesh
 date: 2008-03-26T10:51:29+00:00
-url: /posts/linux-commands-tee/
 pvc_views:
   - 8187
 dsq_thread_id:

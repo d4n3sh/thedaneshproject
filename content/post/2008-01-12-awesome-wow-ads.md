@@ -2,7 +2,6 @@
 title: Awesome WOW ads
 author: Danesh
 date: 2008-01-12T02:30:14+00:00
-url: /posts/awesome-wow-ads/
 pvc_views:
   - 6546
 dsq_thread_id:

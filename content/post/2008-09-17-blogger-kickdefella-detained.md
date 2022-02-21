@@ -2,7 +2,6 @@
 title: Blogger Kickdefella detained
 author: Danesh
 date: 2008-09-17T12:01:54+00:00
-url: /posts/blogger-kickdefella-detained/
 pvc_views:
   - 2305
 robotsmeta:

@@ -2,7 +2,6 @@
 title: What is my Gnome Shell version?
 author: Danesh
 date: 2013-06-18T15:19:10+00:00
-url: /posts/what-is-my-gnome-shell-version/
 dsq_thread_id:
   - 1410116395
 

@@ -2,7 +2,6 @@
 title: Blinklist down
 author: Danesh
 date: 2008-01-07T10:45:49+00:00
-url: /posts/blinklist-down/
 pvc_views:
   - 5016
 dsq_thread_id:

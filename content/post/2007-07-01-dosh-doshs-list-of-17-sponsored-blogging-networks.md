@@ -2,7 +2,6 @@
 title: Dosh Dosh’s List of 17 Sponsored Blogging Networks
 author: Danesh
 date: 2007-06-30T17:57:06+00:00
-url: /posts/dosh-doshs-list-of-17-sponsored-blogging-networks/
 pvc_views:
   - 2612
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: iPad vs Stone
 author: Danesh
 date: 2010-04-06T02:36:51+00:00
-url: /posts/ipad-vs-stone/
 pvc_views:
   - 2267
 dsq_thread_id:

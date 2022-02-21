@@ -2,7 +2,6 @@
 title: Malaysian based URL shrinker
 author: Danesh
 date: 2009-04-23T05:55:56+00:00
-url: /posts/malaysian-based-url-shrinker/
 robotsmeta:
   - index,follow
 pvc_views:

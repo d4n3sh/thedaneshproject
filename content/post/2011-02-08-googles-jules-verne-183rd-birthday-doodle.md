@@ -2,7 +2,6 @@
 title: Google’s Jules Verne 183rd birthday Doodle
 author: Danesh
 date: 2011-02-07T18:15:59+00:00
-url: /posts/googles-jules-verne-183rd-birthday-doodle/
 pvc_views:
   - 1633
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Malaysian GSOC student in the media
 author: Danesh
 date: 2008-07-29T18:41:22+00:00
-url: /posts/malaysian-gsoc-student-in-the-media/
 robotsmeta:
   - index,follow
 pvc_views:

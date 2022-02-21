@@ -2,7 +2,6 @@
 title: How to change the hostname in Linux
 author: Danesh
 date: 2007-06-25T20:50:24+00:00
-url: /posts/how-to-change-the-hostname-in-linux/
 pvc_views:
   - 2917
 dsq_thread_id:

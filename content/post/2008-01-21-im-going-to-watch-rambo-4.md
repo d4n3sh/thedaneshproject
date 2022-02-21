@@ -2,7 +2,6 @@
 title: I’m going to watch Rambo 4
 author: Danesh
 date: 2008-01-20T18:00:45+00:00
-url: /posts/im-going-to-watch-rambo-4/
 pvc_views:
   - 13128
 dsq_thread_id:

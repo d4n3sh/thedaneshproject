@@ -2,7 +2,6 @@
 title: Happy birthday Nuffnang
 author: Danesh
 date: 2008-02-27T14:04:51+00:00
-url: /posts/happy-birthday-nuffnang/
 pvc_views:
   - 25442
 dsq_thread_id:

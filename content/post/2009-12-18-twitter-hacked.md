@@ -2,7 +2,6 @@
 title: Twitter Hacked
 author: Danesh
 date: 2009-12-18T07:39:24+00:00
-url: /posts/twitter-hacked/
 pvc_views:
   - 2215
 dsq_thread_id:

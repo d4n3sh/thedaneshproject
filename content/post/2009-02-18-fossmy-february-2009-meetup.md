@@ -2,7 +2,6 @@
 title: FOSS.my February 2009 meetup
 author: Danesh
 date: 2009-02-17T16:15:42+00:00
-url: /posts/fossmy-february-2009-meetup/
 pvc_views:
   - 2812
 robotsmeta:

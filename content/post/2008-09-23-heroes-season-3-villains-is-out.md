@@ -2,7 +2,6 @@
 title: 'Heroes Season 3: Villains is out'
 author: Danesh
 date: 2008-09-23T08:10:31+00:00
-url: /posts/heroes-season-3-villains-is-out/
 pvc_views:
   - 6758
 robotsmeta:

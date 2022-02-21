@@ -2,7 +2,6 @@
 title: 'Linux Tip #5: Reload you /etc/inittab file'
 author: Danesh
 date: 2009-04-14T11:19:10+00:00
-url: /posts/linux-tip-5-reload-you-etcinittab-file/
 robotsmeta:
   - index,follow
 pvc_views:

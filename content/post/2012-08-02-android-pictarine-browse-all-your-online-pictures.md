@@ -2,7 +2,6 @@
 title: 'Android: Pictarine, browse all your online pictures.'
 author: Danesh
 date: 2012-08-01T16:46:06+00:00
-url: /posts/android-pictarine-browse-all-your-online-pictures/
 pvc_views:
   - 1102
 dsq_thread_id:

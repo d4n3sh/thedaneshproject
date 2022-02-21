@@ -2,7 +2,6 @@
 title: Bug In Angry Birds Lets You Unlock All Locked Worlds
 author: Danesh
 date: 2010-10-20T19:07:21+00:00
-url: /posts/bug-in-angry-birds-lets-you-unlock-all-locked-worlds/
 pvc_views:
   - 2259
 dsq_thread_id:

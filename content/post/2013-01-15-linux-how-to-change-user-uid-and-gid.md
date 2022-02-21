@@ -2,7 +2,6 @@
 title: Linux How to change user UID and GID
 author: Danesh
 date: 2013-01-15T14:31:49+00:00
-url: /posts/linux-how-to-change-user-uid-and-gid/
 pvc_views:
   - 265
 dsq_thread_id:

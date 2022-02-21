@@ -2,7 +2,6 @@
 title: Malaysia’s 12th polling day is here
 author: Danesh
 date: 2008-03-07T17:33:56+00:00
-url: /posts/malaysias-12th-polling-day-is-here/
 pvc_views:
   - 7132
 dsq_thread_id:

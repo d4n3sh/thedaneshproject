@@ -2,7 +2,6 @@
 title: Petronas Deepavali 2008 advertisment
 author: Danesh
 date: 2008-10-23T06:40:55+00:00
-url: /posts/petronas-deepavali-2008-advertisment/
 pvc_views:
   - 3495
 robotsmeta:

@@ -2,7 +2,6 @@
 title: WordPress founder Matt Mullenweg turns 25
 author: Danesh
 date: 2009-01-12T06:52:20+00:00
-url: /posts/wordpress-founder-matt-mullenweg-turns-25/
 pvc_views:
   - 9258
 robotsmeta:

@@ -2,7 +2,6 @@
 title: Nyan Cat in your terminal
 author: Danesh
 date: 2012-07-25T16:07:26+00:00
-url: /posts/nyan-cat-in-your-terminal/
 pvc_views:
   - 995
 dsq_thread_id:

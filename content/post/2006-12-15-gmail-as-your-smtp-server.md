@@ -2,7 +2,6 @@
 title: Gmail as your SMTP server
 author: Danesh
 date: 2006-12-15T10:02:19+00:00
-url: /posts/gmail-as-your-smtp-server/
 pvc_views:
   - 7758
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: I moved to Fivio
 author: Danesh
 date: 2008-06-26T11:40:10+00:00
-url: /posts/i-moved-to-fivio/
 pvc_views:
   - 8650
 dsq_thread_id:

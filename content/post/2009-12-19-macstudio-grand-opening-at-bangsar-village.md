@@ -2,7 +2,6 @@
 title: MacStudio grand opening at Bangsar Village
 author: Danesh
 date: 2009-12-18T20:04:31+00:00
-url: /posts/macstudio-grand-opening-at-bangsar-village/
 pvc_views:
   - 2039
 dsq_thread_id:

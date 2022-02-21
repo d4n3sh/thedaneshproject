@@ -2,7 +2,6 @@
 title: WordPress 2.7.1 is out
 author: Danesh
 date: 2009-02-11T02:40:44+00:00
-url: /posts/wordpress-271-is-out/
 pvc_views:
   - 2505
 robotsmeta:

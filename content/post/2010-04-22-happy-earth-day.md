@@ -2,7 +2,6 @@
 title: Happy Earth Day
 author: Danesh
 date: 2010-04-22T09:24:25+00:00
-url: /posts/happy-earth-day/
 pvc_views:
   - 954
 dsq_thread_id:

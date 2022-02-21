@@ -2,7 +2,6 @@
 title: FOSS.MY 2009 Fees updated
 author: Danesh
 date: 2009-09-14T04:18:27+00:00
-url: /posts/foss-my-2009-fees-updated/
 aktt_notify_twitter:
   - no
 pvc_views:

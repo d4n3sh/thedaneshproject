@@ -2,7 +2,6 @@
 title: Malaysia’s 12th election results coming in
 author: Danesh
 date: 2008-03-08T13:30:27+00:00
-url: /posts/malaysias-12th-election-results-coming-in/
 pvc_views:
   - 7889
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Deluge 1.0.2 released
 author: Danesh
 date: 2008-10-11T16:19:37+00:00
-url: /posts/deluge-102-released/
 robotsmeta:
   - index,follow
 pvc_views:

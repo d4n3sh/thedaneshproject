@@ -2,7 +2,6 @@
 title: Streamyx’s new TOS
 author: Danesh
 date: 2009-05-04T17:24:42+00:00
-url: /posts/streamyxs-new-tos/
 aktt_notify_twitter:
   - no
 pvc_views:

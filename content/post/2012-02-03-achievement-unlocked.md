@@ -2,7 +2,6 @@
 title: Achievement Unlocked!
 author: Danesh
 date: 2012-02-03T09:25:11+00:00
-url: /posts/achievement-unlocked/
 pvc_views:
   - 2440
 dsq_thread_id:

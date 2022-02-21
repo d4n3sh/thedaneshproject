@@ -2,7 +2,6 @@
 title: DiGi APN settings
 author: Danesh
 date: 2010-07-02T10:38:30+00:00
-url: /posts/digi-apn-settings/
 pvc_views:
   - 71167
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Fedora 9 “Sulphur” released
 author: Danesh
 date: 2008-05-16T16:58:23+00:00
-url: /posts/fedora-9-sulphur-released/
 pvc_views:
   - 4707
 dsq_thread_id:

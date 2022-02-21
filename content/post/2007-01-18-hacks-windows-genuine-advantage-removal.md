@@ -2,7 +2,6 @@
 title: 'Hacks: Windows Genuine Advantage removal'
 author: Danesh
 date: 2007-01-18T11:54:51+00:00
-url: /posts/hacks-windows-genuine-advantage-removal/
 pvc_views:
   - 9583
 dsq_thread_id:

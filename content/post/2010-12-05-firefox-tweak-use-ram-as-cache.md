@@ -2,7 +2,6 @@
 title: 'Firefox tweak: Use Ram as Cache'
 author: Danesh
 date: 2010-12-05T05:52:00+00:00
-url: /posts/firefox-tweak-use-ram-as-cache/
 pvc_views:
   - 3188
 dsq_thread_id:

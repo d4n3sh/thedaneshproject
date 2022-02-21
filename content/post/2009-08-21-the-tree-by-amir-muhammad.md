@@ -2,7 +2,6 @@
 title: The Tree by Amir Muhammad
 author: Danesh
 date: 2009-08-21T04:28:36+00:00
-url: /posts/the-tree-by-amir-muhammad/
 aktt_notify_twitter:
   - no
 pvc_views:

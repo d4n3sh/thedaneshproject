@@ -2,7 +2,6 @@
 title: mkfifo | Linux Command
 author: Danesh
 date: 2007-02-22T08:18:38+00:00
-url: /posts/mkfifo-linux-command/
 pvc_views:
   - 9089
 dsq_thread_id:

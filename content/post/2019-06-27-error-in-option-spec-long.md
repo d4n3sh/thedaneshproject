@@ -2,7 +2,6 @@
 title: 'Error in option spec: “long|!”'
 author: Danesh
 date: 2019-06-27T00:09:28+00:00
-url: /posts/error-in-option-spec-long/
 
 ---
 Installed mytop on a CentOS 6.2 box and ran into a bug. 

@@ -2,7 +2,6 @@
 title: Hindraf, proud day for Malaysian Indians
 author: Danesh
 date: 2007-11-25T06:41:16+00:00
-url: /posts/hindraf-proud-day-for-malaysian-indians/
 pvc_views:
   - 9747
 dsq_thread_id:

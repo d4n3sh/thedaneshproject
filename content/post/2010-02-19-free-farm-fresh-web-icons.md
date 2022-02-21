@@ -2,7 +2,6 @@
 title: Free “Farm-Fresh Web Icons”
 author: Danesh
 date: 2010-02-19T02:38:54+00:00
-url: /posts/free-farm-fresh-web-icons/
 pvc_views:
   - 2182
 dsq_thread_id:

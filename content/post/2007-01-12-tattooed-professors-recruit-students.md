@@ -2,7 +2,6 @@
 title: Tattooed Professors Recruit Students
 author: Danesh
 date: 2007-01-12T10:36:01+00:00
-url: /posts/tattooed-professors-recruit-students/
 pvc_views:
   - 2025
 dsq_thread_id:

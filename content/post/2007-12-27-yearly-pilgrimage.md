@@ -2,7 +2,6 @@
 title: Yearly pilgrimage
 author: Danesh
 date: 2007-12-27T02:10:42+00:00
-url: /posts/yearly-pilgrimage/
 pvc_views:
   - 20906
 dsq_thread_id:

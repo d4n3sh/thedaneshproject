@@ -2,7 +2,6 @@
 title: Dropbox client now available for Linux
 author: Danesh
 date: 2008-09-06T05:51:18+00:00
-url: /posts/dropbox-client-now-available-for-linux/
 robotsmeta:
   - index,follow
 pvc_views:

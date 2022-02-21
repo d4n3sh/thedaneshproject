@@ -2,7 +2,6 @@
 title: PlexyDesk coming to your desktop soon
 author: Danesh
 date: 2008-02-16T20:14:31+00:00
-url: /posts/plexydesk-coming-to-your-desktop-soon/
 pvc_views:
   - 2188
 dsq_thread_id:

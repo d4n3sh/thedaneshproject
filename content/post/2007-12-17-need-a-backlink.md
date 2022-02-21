@@ -2,7 +2,6 @@
 title: Need a backlink?
 author: Danesh
 date: 2007-12-17T02:48:14+00:00
-url: /posts/need-a-backlink/
 pvc_views:
   - 5679
 dsq_thread_id:

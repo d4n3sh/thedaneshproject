@@ -2,7 +2,6 @@
 title: Screen | Linux Command
 author: Danesh
 date: 2007-02-26T10:07:57+00:00
-url: /posts/screen-linux-command/
 pvc_views:
   - 28515
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Retweet to share tweets
 author: Danesh
 date: 2009-11-19T09:18:30+00:00
-url: /posts/retweet-to-share-tweets/
 pvc_views:
   - 1291
 dsq_thread_id:

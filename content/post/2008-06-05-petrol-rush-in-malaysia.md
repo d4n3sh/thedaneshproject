@@ -2,7 +2,6 @@
 title: Petrol Rush in Malaysia
 author: Danesh
 date: 2008-06-05T12:42:43+00:00
-url: /posts/petrol-rush-in-malaysia/
 pvc_views:
   - 5825
 dsq_thread_id:

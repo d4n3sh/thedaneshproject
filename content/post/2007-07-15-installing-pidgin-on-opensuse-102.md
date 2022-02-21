@@ -2,7 +2,6 @@
 title: Installing Pidgin on openSUSE 10.2
 author: Danesh
 date: 2007-07-14T21:04:20+00:00
-url: /posts/installing-pidgin-on-opensuse-102/
 pvc_views:
   - 6421
 dsq_thread_id:

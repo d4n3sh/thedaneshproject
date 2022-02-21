@@ -2,7 +2,6 @@
 title: World Cup Results By Google
 author: Danesh
 date: 2010-06-09T02:28:09+00:00
-url: /posts/world-cup-results-by-google/
 pvc_views:
   - 3049
 dsq_thread_id:

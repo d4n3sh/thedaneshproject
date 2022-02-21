@@ -2,7 +2,6 @@
 title: Office snapshots
 author: Danesh
 date: 2008-05-09T02:00:58+00:00
-url: /posts/office-snapshots/
 pvc_views:
   - 5106
 dsq_thread_id:

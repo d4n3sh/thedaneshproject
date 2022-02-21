@@ -2,7 +2,6 @@
 title: Google and Goats
 author: Danesh
 date: 2009-05-12T09:37:13+00:00
-url: /posts/google-and-goats/
 aktt_notify_twitter:
   - no
 pvc_views:
