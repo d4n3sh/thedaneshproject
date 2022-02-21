@@ -2,13 +2,18 @@ baseURL = "https://thedaneshproject.com"
 languageCode = "en-us"
 title = "The Danesh Project"
 theme = "minimal-bootstrap-hugo-theme"
+enableRobotsTXT = true
+relativeurls = true
+
+[author]
+  name = 'Danesh Manoharan'
 
 [taxonomies]
   tag = "tags"
   category = "categories"
 
 [permalinks]
-  post = "/:filename/"
+  post = "/:section/:filename/"
 
 [params]
   description = "Linux and FOSS loving techie."
