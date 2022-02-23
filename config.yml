@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: The Danesh Project
     subtitle: "Linux and FOSS loving techie."
-    imageUrl: "profile-picture-green-hoodie-450x450.jpeg"
+    imageUrl: "/images/profile-picture-green-hoodie-450x450.jpeg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
