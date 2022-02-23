@@ -14,6 +14,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+permalinks:
+  posts: "/posts/:title/"
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: The Danesh Project
@@ -85,13 +88,13 @@ params:
     - name: email
       url: "hello@thedaneshproject.com"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -99,7 +102,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://gitlab.com/d4n3sh/thedaneshproject/content"
+    URL: "https://gitlab.com/d4n3sh/thedaneshproject/-/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -116,10 +119,10 @@ params:
 menu:
   main:
     - identifier: posts
-      name: posts
+      name: Posts
       url: /posts/
       weight: 10
-    - identifier: tags
+    - identifier: Tags
       name: tags
       url: /tags/
       weight: 20
