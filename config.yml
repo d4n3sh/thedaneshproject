@@ -90,6 +90,8 @@ params:
       url: "https://www.instagram.com/d4n3sh/"
     - name: facebook
       url: "https://www.facebook.com/daneshmanoharan"
+    - name: youtube
+      url: "https://www.youtube.com/c/DaneshManoharan/videos"
     - name: email
       url: "hello@thedaneshproject.com"
 
