@@ -86,6 +86,10 @@ params:
       url: "https://gitlab.com/d4n3sh"
     - name: linkedin
       url: "https://www.linkedin.com/in/daneshmanoharan/"
+    - name: instagram
+      url: "https://www.instagram.com/d4n3sh/"
+    - name: facebook
+      url: "https://www.facebook.com/daneshmanoharan"
     - name: email
       url: "hello@thedaneshproject.com"
 
