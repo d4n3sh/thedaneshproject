@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+post_title=$1
+date="$(date +%F)"
+
+# Check if title is provided
+if [[ -z ${post_title} ]]; then
+  echo "You need to provide a title for the post."
+  echo "e.g. $0 \"My first post\""
+  exit 1
+fi
+
+# Okay then, let's create that post.
+echo "Executing: hugo new --kind post posts/${date}-${post_title}"
+hugo new --kind post "posts/${date}-${post_title}"
