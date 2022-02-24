@@ -46,15 +46,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/images/favicon.ico"
+    favicon16x16: "</images/favicon-16x16.png"
+    favicon32x32: "</images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: "/images/apple-touch-icon.png"
     iconHeight: 35
 
   # profile-mode
@@ -71,6 +71,8 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: "Contact Me"
+        url: "mailto:hello@thedaneshproject.com?subject=Hello"
 
   # home-info mode
   homeInfoParams:
@@ -93,7 +95,7 @@ params:
     - name: youtube
       url: "https://www.youtube.com/c/DaneshManoharan/videos"
     - name: email
-      url: "hello@thedaneshproject.com"
+      url: "mailto:hello@thedaneshproject.com?subject=Hello"
 
   # analytics:
   #   google:
