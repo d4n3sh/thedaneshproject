@@ -1,6 +1,15 @@
 #!/usr/bin/env bash
 
-post_title=$1
+# Trim spaces from title.
+post_title="$(echo $1 | tr -s [:space:])"
+
+# Print the title so that I can copy it later.
+echo "Post title: ${post_title}"
+
+# Replace all spaces with "-".
+post_title="${post_title// /-}"
+
+# Setup the ISO date format YYYY-MM-DD.
 date="$(date +%F)"
 
 # Check if title is provided
