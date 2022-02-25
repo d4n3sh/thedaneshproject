@@ -12,6 +12,6 @@ dsq_thread_id:
 
 Work in IT? Unlocked any achievements lately? See how many you can check off from the [full list][1].
 
-&nbsp;
+ 
 
  [1]: http://evilrouters.net/achievement-unlocked/

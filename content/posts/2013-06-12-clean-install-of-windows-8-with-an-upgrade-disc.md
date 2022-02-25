@@ -35,7 +35,7 @@ Picture Guide below.<!--more-->
 
 [<img loading="lazy" class="alignnone size-full wp-image-3227" alt="windows activation cmd done" src="/wp-content/uploads/2013/06/windows-activation-cmd-done.png" width="356" height="170" />][6]
 
-&nbsp;
+ 
 
  [1]: /wp-content/uploads/2013/06/windows-activation.png
  [2]: /wp-content/uploads/2013/06/windows-activation-run-regedit.png

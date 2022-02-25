@@ -19,4 +19,4 @@ restart the logind service.
 
 <pre class="lang:sh decode:true">#systemctl restart systemd-logind.service</pre>
 
-&nbsp;
+ 

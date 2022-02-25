@@ -33,7 +33,7 @@ Find out more at <a title="yes Postpaid Plans" href="http://www.yes.my/v3/person
 
 via: <a href="http://www.soyacincau.com/2012/03/01/yes-introduces-unlimited-super-postpaid-plans/" target="_blank">SoyaCincau</a>
 
-&nbsp;
+ 
 
  [1]: http://i.minus.com/iTSG7G5J78vzz.png
  [2]: http://i.minus.com/ibyW4nQwMNJZ9E.png

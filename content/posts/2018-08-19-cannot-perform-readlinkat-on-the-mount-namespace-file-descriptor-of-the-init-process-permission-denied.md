@@ -15,4 +15,4 @@ The workaround for now is to upgrade your snap core to the beta channel.
 
 <pre class="nums:false lang:sh decode:true ">danesh@hades:~/kernel$ sudo snap refresh --channel=beta core</pre>
 
-&nbsp;
+ 

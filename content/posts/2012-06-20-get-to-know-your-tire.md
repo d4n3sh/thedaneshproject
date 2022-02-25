@@ -16,6 +16,6 @@ The infographic above will enlighten you on tire safety, lifespan and suita
 
 Source: [Delirium][1]
 
-&nbsp;
+ 
 
  [1]: http://www.abinesh.com/delirium/posts/understanding-your-tyre/

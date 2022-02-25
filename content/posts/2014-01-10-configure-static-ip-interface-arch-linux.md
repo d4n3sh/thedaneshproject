@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 <a href="/posts/configure-static-ip-interface-arch-linux/archlinux-logo-dark-1200dpi-b42bd35d5916-450x150/" rel="attachment wp-att-3419"><img loading="lazy" class="alignnone size-full wp-image-3419" alt="archlinux-logo-dark-1200dpi.b42bd35d5916-450x150" src="/wp-content/uploads/2014/01/archlinux-logo-dark-1200dpi.b42bd35d5916-450x150.png" width="450" height="150" /></a>
 
-&nbsp;
+ 
 
 Arch Linux defaults to DHCP on a new install. This guide will walk you through the steps need to configure a static IP interface for your Arch Linux install.
 

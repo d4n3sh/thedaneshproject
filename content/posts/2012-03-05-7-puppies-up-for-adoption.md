@@ -14,6 +14,6 @@ My close friend rescued 7 puppies recently.  They are a month old now, health
 
 Please contact <a href="http://www.facebook.com/alanbernardyong" target="_blank">Alan</a>, <a href="http://www.facebook.com/shirleygabriella" target="_blank">Shirley</a> or <a href="http://www.facebook.com/danesh.manoharan" target="_blank">me</a> for more info.
 
-&nbsp;
+ 
 
  [1]: /wp-content/uploads/2012/03/418441_10151376815035301_858670300_23014653_44327730_n.jpg

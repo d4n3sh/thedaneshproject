@@ -20,4 +20,4 @@ Append either line below to the end of your .bashrc file, start a new bash term
 
 <pre class="toolbar:2 lang:default decode:true"># history -c;</pre>
 
-&nbsp;
+ 

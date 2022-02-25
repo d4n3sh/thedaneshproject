@@ -10,13 +10,13 @@ dsq_thread_id:
 
 Looking to buy the new Raspberry Pi 3 model B? Here's list of places locally where you'll be able to purchase one from.
 
-&nbsp;
+ 
 
 ### <a href="http://www.raspberryware.com/product/raspberry-pi-3-b/" rel="http://www.raspberryware.com/"><img loading="lazy" class="alignnone" title="raspberryware" src="http://www.raspberryware.com/wp-content/uploads/2015/04/raspberryware_logo.png" alt="raspberryware" width="250" height="55" /></a> [raspberryware.com][2] - RM179.00
 
 * * *
 
-&nbsp;
+ 
 
 ### [<img loading="lazy" class="alignnone" src="http://www.myduino.com/image/data/LogoMyduino2-trans.png" alt="myduino.com" width="240" height="68" />][3] [myduino.com][3] - RM199.28
 

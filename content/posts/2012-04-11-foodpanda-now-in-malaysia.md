@@ -29,7 +29,7 @@ I am yet to try FoodPanda , have you?
 
 Source : [FoodPanda][3] || [Blog][4] || [Twitter][5] || [Facebook ][6]
 
-&nbsp;
+ 
 
  [1]: /wp-content/uploads/2012/04/The-Food-panda-540x405.png
  [2]: mailto:

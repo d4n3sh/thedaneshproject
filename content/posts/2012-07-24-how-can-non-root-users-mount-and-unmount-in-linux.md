@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 File systems / partitions are normally managed by root and only root would be able to mount or un-mount.
 
-However, if you want everyone on your machine to have the same&nbsp;privilege for a specific mount point, this is&nbsp;how&nbsp;you can&nbsp;do&nbsp;that.
+However, if you want everyone on your machine to have the same privilege for a specific mount point, this is how you can do that.
 
 Add "**user**" to the mount options for the desired mount point in your /etc/fstab file. In my case "/media/music"
 

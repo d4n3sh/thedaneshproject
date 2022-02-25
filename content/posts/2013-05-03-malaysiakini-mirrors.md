@@ -43,7 +43,7 @@ Update:
 <a href="https://ge13.s3.amazonaws.com/" target="_blank" rel="nofollow nofollow">https://ge13.s3.amazonaws.com/</a>  
 <a href="http://bit.ly/mkinige13" target="_blank" rel="nofollow nofollow">http://bit.ly/mkinige13</a>
 
-&nbsp;
+ 
 
  [1]: /wp-content/uploads/2013/05/malaysiakini-logo.jpg
  [2]: http://www.malaysiakini.com/

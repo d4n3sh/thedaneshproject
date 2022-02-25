@@ -13,11 +13,11 @@ Recently I [wrote][1] about implementing session timeouts on Linux. For admin's 
 There's a simple noop script over at bashcurescancer to help work around session timeouts. This will work for ssh and also the default virtual consoles.
 
 <p class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:0ba832af-c835-4175-8b30-5bd3b3aa1720" style="margin: 0px; padding: 0px; display: inline">
-  &nbsp;
+   
 </p>
 
 <p id="793a4f7c-763b-465a-8159-0eb83f8cfd6f" style="margin: 0px; padding: 0px; display: inline">
-  &nbsp;
+   
 </p>
 
 Watch noop in action.  
