@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+relativeURLs: true
 
 googleAnalytics: G-6L9QBHWEKX
 
@@ -94,6 +95,8 @@ params:
       url: "https://www.facebook.com/daneshmanoharan"
     - name: youtube
       url: "https://www.youtube.com/c/DaneshManoharan/videos"
+    - name: spotify
+      url: "https://open.spotify.com/user/danesh.manoharan"
     - name: email
       url: "mailto:hello@thedaneshproject.com?subject=Hello"
 
