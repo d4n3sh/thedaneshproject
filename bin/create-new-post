@@ -22,3 +22,5 @@ fi
 # Okay then, let's create that post.
 echo "Executing: hugo new --kind post posts/${date}-${post_title}"
 hugo new --kind post "posts/${date}-${post_title}"
+
+vim "content/posts/${date}-${post_title}/index.md"
