@@ -16,11 +16,11 @@ Fire up Putty and go to the "Logging" tab. Check "Printable output" option and i
 
 For the log file name, Putty supports the following substitutes.
 
-&H &#8211; Hostname  
-&Y &#8211; Year (yyyy)  
-&M &#8211; Month (mm)  
-&D &#8211; Day (dd)  
-&T &#8211; Time (hhmmss)
+&H - Hostname  
+&Y - Year (yyyy)  
+&M - Month (mm)  
+&D - Day (dd)  
+&T - Time (hhmmss)
 
 D:\Users\username\Dropbox\backup\putty-log\&H-&Y&M&D-&T.log
 

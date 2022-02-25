@@ -28,13 +28,13 @@ I found 2 possible solutions. [PassPack][3] and [Clipperz][4] .
 
 **Some of the features that stand out to me are;**
 
-  1. Auto Lock &#8211; [PassPack][3] will automatically save and lock my passwords with the packing key whenever the page if left ideal for 2 minutes.
-  2. Anonymous &#8211; I never provided my email addresses.
-  3. Password generator &#8211; cool built in password generator.
-  4. Scramble &#8211; Scrambles my password field on command when someone is passing by. On by default.
-  5. AES &#8211; AES is the encryption method approved by the US Gov.
-  6. Import/Export &#8211; Ability to easily import and export my password list. I used this in import from KeyPass.
-  7. [PassPack][3] Blog &#8211; Covers everything about [PassPack][3].
+  1. Auto Lock - [PassPack][3] will automatically save and lock my passwords with the packing key whenever the page if left ideal for 2 minutes.
+  2. Anonymous - I never provided my email addresses.
+  3. Password generator - cool built in password generator.
+  4. Scramble - Scrambles my password field on command when someone is passing by. On by default.
+  5. AES - AES is the encryption method approved by the US Gov.
+  6. Import/Export - Ability to easily import and export my password list. I used this in import from KeyPass.
+  7. [PassPack][3] Blog - Covers everything about [PassPack][3].
 
 I have using [PassPack][3] for a few days now and it's awesome!!
 
@@ -48,18 +48,18 @@ I have using [PassPack][3] for a few days now and it's awesome!!
 
 Cool features;
 
-  1. Cool interface &#8211; The interface is simple with a good color scheme.
-  2. Direct Logins &#8211; Single sign on. Allows me to log in directly to a site directly provided yo have the site credentials already saved.
-  3. Bookmarklet &#8211; I can easily add a new website to my [Clipperz][4].
-  4. Anonymous &#8211; No email address require.
-  5. Encrypt by browser &#8211; Data is encrypted by my browser before being sent to the [Clipperz][4] servers. [Clipperz][4] only stores my encrypted data.
+  1. Cool interface - The interface is simple with a good color scheme.
+  2. Direct Logins - Single sign on. Allows me to log in directly to a site directly provided yo have the site credentials already saved.
+  3. Bookmarklet - I can easily add a new website to my [Clipperz][4].
+  4. Anonymous - No email address require.
+  5. Encrypt by browser - Data is encrypted by my browser before being sent to the [Clipperz][4] servers. [Clipperz][4] only stores my encrypted data.
 
 What's lacking;
 
-  1. Import/Export &#8211; No import feature yet. Export only exports to a printable version. I have to use the offline copy feature to save an offline copy.
-  2. Mozilla only &#8211; Only mozilla based browsers supported. Mozilla, Sea monkey and Firefox.
-  3. Java script &#8211; [Clipperz][4] uses opesource based cryptographic functions. [Read more at Ajaxian][9]. Who will I blame and take to court when my passwords are exploited?
-  4. Direct Login &#8211; Honey pot for hackers to reverse engineer? I think so.
+  1. Import/Export - No import feature yet. Export only exports to a printable version. I have to use the offline copy feature to save an offline copy.
+  2. Mozilla only - Only mozilla based browsers supported. Mozilla, Sea monkey and Firefox.
+  3. Java script - [Clipperz][4] uses opesource based cryptographic functions. [Read more at Ajaxian][9]. Who will I blame and take to court when my passwords are exploited?
+  4. Direct Login - Honey pot for hackers to reverse engineer? I think so.
 
 [Clipperz][4] is a good tool. They are not quite there yet but I believe with other solutions out there like [PassPack][3] the developrers at [Clipperz][4] will surely push the envelope on futher enhancements.
 
@@ -77,9 +77,9 @@ Which will you choose? I suggest all 3 and see which works best for you.
 
 [PassPack][3]
 
-[PassPack &#8211; The Blog][10]
+[PassPack - The Blog][10]
 
-[Clipperz &#8211; Competition for PassPack?][11]
+[Clipperz - Competition for PassPack?][11]
 
 [PassPack: Holding Your Keys for the 2.0 Kingdom][12]
 

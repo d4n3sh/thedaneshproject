@@ -12,14 +12,14 @@ Installing nVidia drivers for your openSUSE 10.2
 
 Driver Source: ftp://download.nvidia.com/opensuse/10.2/
 
-1.start &#8211;> computers &#8211;> administrator settings &#8211;> software &#8211;> installation source  
+1.start -> computers -> administrator settings -> software -> installation source  
 ![][1] 
 
 <!--more-->2. Select ftp as the media type
 
 ![][2] 
 
-3. Protocol &#8211;> ftp, server name &#8211;> download.nvidia.com, directory &#8211;> /opensuse/10.2/
+3. Protocol -> ftp, server name -> download.nvidia.com, directory -> /opensuse/10.2/
 
 ![][3] 
 
@@ -41,11 +41,11 @@ Driver Source: ftp://download.nvidia.com/opensuse/10.2/
 
 ![][7] 
 
-8. start &#8211;> computers &#8211;> administrator settings &#8211;> software &#8211;> software management
+8. start -> computers -> administrator settings -> software -> software management
 
 ![][8] 
 
-9. Filter &#8211;> installation source. Select x11-video-nvidia and the appropriate kernel module.  
+9. Filter -> installation source. Select x11-video-nvidia and the appropriate kernel module.  
 Run "uname -r" to get the installed kernel version.
 
 <img loading="lazy" src="http://farm1.static.flickr.com/153/426788484_12cb5ff093.jpg?v=0" height="390" width="500" /> 

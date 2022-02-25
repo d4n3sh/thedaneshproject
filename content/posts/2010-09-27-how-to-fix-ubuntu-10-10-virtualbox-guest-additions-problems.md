@@ -18,4 +18,4 @@ If you're trying to run Ubuntu 10.10 Beta on your VirtualBox, you're most likely
 
 2. Once installation is finished, restart your VirtualBox machine.
 
-3. Go to System &#8211;>Preferences &#8211;>Monitors and change the resolution of your screen. You might be able to change the resolution but the screen will re-size properly when you maximize.
+3. Go to System ->Preferences ->Monitors and change the resolution of your screen. You might be able to change the resolution but the screen will re-size properly when you maximize.

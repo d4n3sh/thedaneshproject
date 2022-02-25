@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Liquid Skies. An awesome short film by [Annis Naeem][1], student at Art Center College of Design.
 
-> Liquid Skies is the story of an astronaut hurtling across the universe&#8211;past suns you and I may never glimpse, yet fighting battles we may all face ourselves one day.
+> Liquid Skies is the story of an astronaut hurtling across the universe-past suns you and I may never glimpse, yet fighting battles we may all face ourselves one day.
 
 I love the soundtrack, [Fools Rhythm by Two Fingers][2].
 

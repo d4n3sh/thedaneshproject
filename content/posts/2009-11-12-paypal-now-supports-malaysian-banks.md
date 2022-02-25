@@ -18,9 +18,9 @@ Selling online just became easier!!
 
 Linking your local bank account to PayPal is done over [MEPS][2] and the process is easy. Follow the links below for the complete walkthourgh.
 
-1. [LiewCF &#8211; How to Withdraw PayPal Money to Any Malaysia Bank Accounts?][3]
+1. [LiewCF - How to Withdraw PayPal Money to Any Malaysia Bank Accounts?][3]
 
-2. [SELL MORE ONLINE &#8211; How to link PayPal to Malaysia Bank Account?][4]
+2. [SELL MORE ONLINE - How to link PayPal to Malaysia Bank Account?][4]
 
 <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">
   <div class="navStripWrapper">

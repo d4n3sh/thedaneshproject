@@ -12,7 +12,7 @@ I decided to change my permalinks structure to no longer include %category% as p
 
 I made the change transparent and this is how I did it.
 
-Changed my permalinks structure through _**WP-Admin&#8211;>Options&#8211;>Permalinks**_ to reflect the new structure shown below.
+Changed my permalinks structure through _**WP-Admin->Options->Permalinks**_ to reflect the new structure shown below.
 
 Old structure : _**/%category%/%postname%/**_
 

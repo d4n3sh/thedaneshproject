@@ -28,7 +28,7 @@ Jalan Sultan Ismail
 Kuala Lumpur 50250  
 Malaysia
 
-Time: 1.30pm &#8211; 5.00 pm
+Time: 1.30pm - 5.00 pm
 
 If you are interested to attend the seminar then<img src="http://img242.imageshack.us/img242/5623/btnregisterek4.jpg" border="0" /> . I'm going.
 

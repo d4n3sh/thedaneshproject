@@ -19,6 +19,6 @@ Skype has since fixed their algorithm and are quite confident that this glitch w
 
 At least we can be happy that the outage was not caused by a security glitch or anything else in that manner. Skype's been good to me all this time and I'm glad to see them back up and running.
 
-Source : [What happened on August 16 &#8211; Heartbeat][1]
+Source : [What happened on August 16 - Heartbeat][1]
 
  [1]: http://heartbeat.skype.com/2007/08/what_happened_on_august_16.html

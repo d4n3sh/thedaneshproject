@@ -27,10 +27,10 @@ If you are looking for a permanent mount, you will need to add the following lin
 
 Options I used for my mounts,
 
-rw &#8211; read write access. My shares are public so everyone has read/write access.  
-guest &#8211; no password prompt.
+rw - read write access. My shares are public so everyone has read/write access.  
+guest - no password prompt.
 
-noperm &#8211; client does not perform permission checks. Needed if uid and gid are not the same on client and server.
+noperm - client does not perform permission checks. Needed if uid and gid are not the same on client and server.
 
 Sources:
 

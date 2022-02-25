@@ -14,13 +14,13 @@ Full Circle Magazine Issue 20 is out. Read it online or download it [here][1].
 
 What's covered in this edition;
 
-  * Command and Conquer &#8211; The Daunting Terminal.
-  * How-To : Program in C &#8211; Part 4, Web Development &#8211; Part 1, Backup & Sync Your Music.
-  * My Story &#8211; Making Money With FOSS
-  * Book Review &#8211; Ubuntu Kung Fu
-  * My Opinion &#8211; Italy Speaks OSS
-  * MOTU Interview &#8211; Andrea Colangelo
-  * Top 5 &#8211; Backup Solutions
+  * Command and Conquer - The Daunting Terminal.
+  * How-To : Program in C - Part 4, Web Development - Part 1, Backup & Sync Your Music.
+  * My Story - Making Money With FOSS
+  * Book Review - Ubuntu Kung Fu
+  * My Opinion - Italy Speaks OSS
+  * MOTU Interview - Andrea Colangelo
+  * Top 5 - Backup Solutions
 
 
 

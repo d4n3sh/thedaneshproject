@@ -22,7 +22,7 @@ See the fix on the next page;<!--more-->
 
 [![my-vista-fix-20070203.jpg][5]][6]
 
-1. Start &#8211;> run &#8211;> regedit.exe  
+1. Start -> run -> regedit.exe  
 2. HKEY\_LOCAL\_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{GUID}  
 3. {GUID} sub-key refers to the network adapter that is having the issue. In my case my Intel Pro 2200BG card.  
 4. Add a new DWORD (32bit) value and rename it to "DhcpConnDisableBcastFlagToggle".  

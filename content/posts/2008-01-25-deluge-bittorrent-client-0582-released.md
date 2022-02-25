@@ -17,7 +17,7 @@ Changelog,
 > Deluge 0.5.8.2 (24 January 2008)
 > 
 >   * Fix column width saving
->   * Option to download new blocklist after certain number of days &#8211; Patch from Mark Stahler
+>   * Option to download new blocklist after certain number of days - Patch from Mark Stahler
 >   * Fix ui-locking when tracker responded in non-utf8 encoding
 >   * Remove Extra Stats plugin
 >   * Prevent Scheduler plugin from setting an invalid &#8216;max\_active\_torrents'

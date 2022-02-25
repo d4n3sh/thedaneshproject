@@ -14,7 +14,7 @@ I modified the /etc/auto.master file and created a new file named /etc/auto.nose
 
 > `# auto.master file`
 > 
-> /mnt/nosebleed /etc/auto.nosebleed &#8211;timeout=60 &#8211;ghost
+> /mnt/nosebleed /etc/auto.nosebleed -timeout=60 -ghost
 
 > `# auto.nosebleed file`
 > 
@@ -28,6 +28,6 @@ I modified the /etc/auto.master file and created a new file named /etc/auto.nose
 
 My options,
 
-_**&#8211;timeout=60**_ will set the ideal time for the mount. If there is not activity for 60 seconds the path will be unmounted.
+_**-timeout=60**_ will set the ideal time for the mount. If there is not activity for 60 seconds the path will be unmounted.
 
-_**&#8211;ghost**_ will enable the user to see the mountable directory without mounting them.
+_**-ghost**_ will enable the user to see the mountable directory without mounting them.

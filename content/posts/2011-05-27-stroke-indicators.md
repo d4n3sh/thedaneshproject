@@ -16,13 +16,13 @@ When someone is experiencing a stroke, time becomes their worst enemy. With 
 
 To identify if someone's having a stroke, do the following;
 
-1. FACE &#8211; Ask them to smile. Is their face sagging? Are the facial muscles working?
+1. FACE - Ask them to smile. Is their face sagging? Are the facial muscles working?
 
-2. ARM &#8211; Ask them to lift their arms. They might not be able to lift an arm.
+2. ARM - Ask them to lift their arms. They might not be able to lift an arm.
 
-3. SPEECH &#8211; Have a simple conversation with them. Get them to repeat simple sentences. They might have trouble doing that.
+3. SPEECH - Have a simple conversation with them. Get them to repeat simple sentences. They might have trouble doing that.
 
-4. TIME &#8211; Don't waste time!! Call 911 or in our case 999.
+4. TIME - Don't waste time!! Call 911 or in our case 999.
 
 Via [Delirium][1]
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 
 If you loved last year's Big Bad Wolf book sale, get excited!! It's coming back!
 
-Super Monstrous Big Bad Wolf Book Sale will be happening between December 7 &#8211; 23 2012. no news on location yet, most likely the same spot as the last sale.
+Super Monstrous Big Bad Wolf Book Sale will be happening between December 7 - 23 2012. no news on location yet, most likely the same spot as the last sale.
 
 Via [Facebook][1] | [bigbadwolfbooks][2]
 

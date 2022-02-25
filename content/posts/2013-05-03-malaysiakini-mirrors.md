@@ -14,9 +14,9 @@ Try these alternatives.
 
 Alternatives;
 
-  1. <http://www.mkini.co/> &#8211; Mirror
-  2. <https://twitter.com/malaysiakini> &#8211; Twitter @malaysiakini
-  3. <https://www.facebook.com/MalaysiaKini> &#8211; Facebook
+  1. <http://www.mkini.co/> - Mirror
+  2. <https://twitter.com/malaysiakini> - Twitter @malaysiakini
+  3. <https://www.facebook.com/MalaysiaKini> - Facebook
 
 You can't block the internet!! Get that through your thick skulls &#8230;
 

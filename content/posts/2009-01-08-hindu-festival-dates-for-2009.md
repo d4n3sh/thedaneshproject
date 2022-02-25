@@ -68,11 +68,11 @@ Raksha Bandan â€“ 5th August, 2009 Wednesday
 
 Sri Krishna Janmashtami â€“ 14th August, 2009 Friday
 
-Ganesh Chaturthi &#8211; 23rd August, 2009 Sunday
+Ganesh Chaturthi - 23rd August, 2009 Sunday
 
 **September 2009**
 
-Thiru Onam &#8211; 2nd September, 2009 Wednesday
+Thiru Onam - 2nd September, 2009 Wednesday
 
 Navratri Begins â€“ 19th September, 2009 Saturday
 
@@ -90,7 +90,7 @@ Deepavali â€“ Diwali â€“ 17th October, 2009 Saturday
 
 Annakut â€“ Gujarati New Year â€“ 18th October, 2009 Sunday
 
-Chhat Puja &#8211; 24th October, 2009 and 25th Saturday & Sunday
+Chhat Puja - 24th October, 2009 and 25th Saturday & Sunday
 
 Tulsi Vivah â€“ 30th October, 2009 Friday
 

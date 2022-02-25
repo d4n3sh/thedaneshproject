@@ -12,15 +12,15 @@ thedaneshproject.com is worth USD224.00 based on [LeapFish][1].
 
 I looked up my friend's sites too. Check them out,
 
-alanbernard.com &#8211; $576.00  
-earlmarcus.com &#8211; $252.00  
-thaweesak.com &#8211; $147.00  
-wingloon.wordpress.com &#8211; $41.00
+alanbernard.com - $576.00  
+earlmarcus.com - $252.00  
+thaweesak.com - $147.00  
+wingloon.wordpress.com - $41.00
 
-  1. <strike>AlanBernard &#8211; USD12.00</strike>
-  2. <strike>[EarMarcus][2] &#8211; USD23.00</strike>
-  3. <strike>[Thaweesak][3] &#8211; USD 34.00</strike>
-  4. <strike>[WingLoon][4] &#8211; USD42.00</strike>
+  1. <strike>AlanBernard - USD12.00</strike>
+  2. <strike>[EarMarcus][2] - USD23.00</strike>
+  3. <strike>[Thaweesak][3] - USD 34.00</strike>
+  4. <strike>[WingLoon][4] - USD42.00</strike>
 
 What's your's? Look it up at [LeapFish][1]
 

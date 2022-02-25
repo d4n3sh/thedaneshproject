@@ -14,11 +14,11 @@ dsq_thread_id:
 
 My P1W1MAX signal strenght. Pretty pethatic!!
 
-RSSI: **_63dBm_** &#8211;> Other are getting _**30 +- dBm**_
+RSSI: **_63dBm_** -> Other are getting _**30 +- dBm**_
 
-CINR: **_13 dB_** &#8211;> Others are getting _**60 +- dB**_
+CINR: **_13 dB_** -> Others are getting _**60 +- dB**_
 
-TX Power: 5+- &#8211;> Other are under 10. (Not too important)
+TX Power: 5+- -> Other are under 10. (Not too important)
 
 Called P1 up, need to call them back soon to carry out some "fine tuning" to improve my signal. Thank god their support speaks English well&#8230;. unlike Streamyx!!
 

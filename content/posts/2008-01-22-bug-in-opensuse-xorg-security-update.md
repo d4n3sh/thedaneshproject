@@ -20,7 +20,7 @@ My error,
 > (Details: serial 1072 error\_code 11 request\_code 147 minor_code 5)  
 > (Note to programmers: normally, X errors are reported asynchronously;  
 > that is, you will receive the error a while after causing it.  
-> To debug your program, run it with the &#8211;sync command line  
+> To debug your program, run it with the -sync command line  
 > option to change this behavior. You can then get a meaningful  
 > backtrace from your debugger if you break on the gdk\_x\_error() function.)
 

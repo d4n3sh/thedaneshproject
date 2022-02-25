@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 To flush the DNS cache in Windows,
 
-1. Get into command prompt. ( start &#8211;> run &#8211;> cmd )
+1. Get into command prompt. ( start -> run -> cmd )
 
 2. Run the following command "ipconfig /flushdns" .
 

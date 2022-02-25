@@ -24,7 +24,7 @@ or
 
 `danesh@python:~$ sudo apt-get install compizconfig-settings-manager`
 
-2. Launch the compizconfig-settings-manager. Go to "Desktop &#8211;>  Ubuntu Unity Plugin &#8211;> Experimental Tab".
+2. Launch the compizconfig-settings-manager. Go to "Desktop ->  Ubuntu Unity Plugin -> Experimental Tab".
 
 Change the value for "Launcher Reveal Pressure" to "1" or what works for you. I have mine set at 10.
 

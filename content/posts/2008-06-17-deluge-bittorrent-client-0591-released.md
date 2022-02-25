@@ -36,8 +36,8 @@ Deluge 0.5.8.9 (14 April 2008)
 
   * Fix segfault caused in 0.5.8.8 when adding torrents
   * Change fast resume to use is_finished
-  * LT &#8211; Fix private flag.
-  * LT &#8211; Verify url before connection to web seed.
+  * LT - Fix private flag.
+  * LT - Verify url before connection to web seed.
 
 Deluge 0.5.8.8 (09 April 2008)
 

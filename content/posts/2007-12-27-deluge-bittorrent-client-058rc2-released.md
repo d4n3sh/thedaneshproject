@@ -18,7 +18,7 @@ The new version is available for all the major OS platforms now. Linux, Mac OS X
 >   * Change notification plugin to not show the file list, but only the torrent name
 >   * Allow removal of browser icon from toolbar
 >   * Add buttons to browser to launch the main and footer frames into an external browser
->   * Fix removing torrents from deluge template of webui &#8211; vonck7
+>   * Fix removing torrents from deluge template of webui - vonck7
 >   * Set the advanced webui template as default
 >   * Cut down significantly on the memory usage of the blocklist plugin
 >   * Fix some UPnP bugs

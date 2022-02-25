@@ -32,9 +32,9 @@ For those thinking of doing their LPI 101 & 102, I-World is running a course nex
   * Networking Services
   * Security
 
-Date: 8Nov &#8211; 12Nov (2010)  
+Date: 8Nov - 12Nov (2010)  
 Cost: RM2999  
-Contact: Cammy &#8211; 017-6872686 , cammy@i-world-technology.com
+Contact: Cammy - 017-6872686 , cammy@i-world-technology.com
 
 [Grab the Brochure][2].
 

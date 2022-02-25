@@ -66,7 +66,7 @@ Answer:ADE
 
 _**Source:**_
 
-LPIC-1 Questions & Answers (1 &#8211; 50)
+LPIC-1 Questions & Answers (1 - 50)
 
 LPIC-1 Questions & Answers (51 -100)
 

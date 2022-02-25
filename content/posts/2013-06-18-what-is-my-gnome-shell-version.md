@@ -10,7 +10,7 @@ dsq_thread_id:
 
 What version of the GNOME Shell am I running?
 
-You can quickly find out your GNOME Shell version be running "gnome-shell &#8211;version"
+You can quickly find out your GNOME Shell version be running "gnome-shell -version"
 
 `danesh@r2d2:~$ gnome-shell --version<br />
 GNOME Shell 3.8.2`

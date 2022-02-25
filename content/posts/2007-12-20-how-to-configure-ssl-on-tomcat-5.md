@@ -27,9 +27,9 @@ Tomcat will assume the password is "changeit" by default so it's advised to leav
 
   1. cd $CATALINA_HOME/conf/
   2. vi server.xml
-  3. Look for "<!&#8211; Define a SSL HTTP/1.1 Connector on port 8443 &#8211;>". Remove the <!&#8211; &#8211;> comments indicator and add the keystore info.
+  3. Look for "<!- Define a SSL HTTP/1.1 Connector on port 8443 ->". Remove the <!- -> comments indicator and add the keystore info.
 
-> <!&#8211; Define a SSL HTTP/1.1 Connector on port 8443 &#8211;>  
+> <!- Define a SSL HTTP/1.1 Connector on port 8443 ->  
 > <Connector port="_**443**_" maxHttpHeaderSize="8192&#8243;  
 > maxThreads="150&#8243; minSpareThreads="25&#8243; maxSpareThreads="75&#8243;  
 > enableLookups="false" disableUploadTimeout="true"  

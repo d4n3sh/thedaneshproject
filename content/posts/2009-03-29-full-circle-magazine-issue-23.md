@@ -16,12 +16,12 @@ Full Circle Magazine Issue 23 is out.
 
 What's in it;
 
-  * Command and Conquer &#8211; Troubleshooting.
-  * How-To : Program in C &#8211; Part 7, Web Development &#8211; Part 4, and Spreading Ubuntu &#8211; Part 2.
-  * My Story &#8211; Becoming An Ubuntu User
-  * Book Review &#8211; How To Be A Geek Goddess
-  * MOTU Interview &#8211; Steve Stalcup
-  * Top 5 &#8211; Task Managers
+  * Command and Conquer - Troubleshooting.
+  * How-To : Program in C - Part 7, Web Development - Part 4, and Spreading Ubuntu - Part 2.
+  * My Story - Becoming An Ubuntu User
+  * Book Review - How To Be A Geek Goddess
+  * MOTU Interview - Steve Stalcup
+  * Top 5 - Task Managers
 
 Grab your copy!! [[Direct Download][1]]
 

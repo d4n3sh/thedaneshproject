@@ -12,10 +12,10 @@ dsq_thread_id:
 
 yes today launched its postpaid unlimited data packages. Starting at RM48; the packages are,
 
-  * SUPER48 &#8211; 1.5GB for RM48/Month
-  * SUPER68 &#8211; 4GB for RM68/Month
-  * SUPER98 &#8211; 6GB for RM98/Month
-  * SUPER168 &#8211; 10GB for RM168/Month
+  * SUPER48 - 1.5GB for RM48/Month
+  * SUPER68 - 4GB for RM68/Month
+  * SUPER98 - 6GB for RM98/Month
+  * SUPER168 - 10GB for RM168/Month
 
 <div>
   <!--more-->

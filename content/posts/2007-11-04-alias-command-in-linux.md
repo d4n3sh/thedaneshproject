@@ -15,9 +15,9 @@ I use the alias command to create shortcuts for commands I use frequently. For e
 Running the _**alias**_ command will show you all the current aliases available.
 
 > [dummy@macho ~]$ alias  
-> alias l.='ls -d .* &#8211;color=tty'  
-> alias ll='ls -l &#8211;color=tty'  
-> alias ls='ls &#8211;color=tty'  
+> alias l.='ls -d .* -color=tty'  
+> alias ll='ls -l -color=tty'  
+> alias ls='ls -color=tty'  
 > alias vi='vim'
 
 _**alias cp='cp -i'**_. This command will ad _**-i**_ to the_ **cp**_(copy) command. Now, every time the _**cp**_ command is executed it will be interactive. No more accidental deletes 🙂
@@ -28,8 +28,8 @@ _**alias mv='mv -i'**_. This command will ad _**-i**_ to the _**mv**_(move) comm
 > [dummy@macho ~]$ alias mv='mv-i'  
 > [dummy@macho ~]$ alias  
 > alias cp='cp -i'  
-> alias l.='ls -d .* &#8211;color=tty'  
-> alias ll='ls -l &#8211;color=tty'  
-> alias ls='ls &#8211;color=tty'  
+> alias l.='ls -d .* -color=tty'  
+> alias ll='ls -l -color=tty'  
+> alias ls='ls -color=tty'  
 > alias mv='mv-i'  
 > alias vi='vim'

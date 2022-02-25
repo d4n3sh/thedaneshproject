@@ -52,7 +52,7 @@ The list of books;
 
 18. LINUX: Rute User's Tutorial and Exposition
 
-19. [Linux Network Administrator's Guide &#8211; 2nd Edition][19]
+19. [Linux Network Administrator's Guide - 2nd Edition][19]
 
 20. [tuXlabs Cookbook][20]
 

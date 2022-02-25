@@ -22,7 +22,7 @@ Enhancements we can expect in the future;
 
   * Better blog design (naturally!)
   * Information pages (about, help, FAQ .etc)
-  * Boolean Searches (support for AND, OR and + &#8211; )
+  * Boolean Searches (support for AND, OR and + - )
   * Linux Firefox Support
   * Static Cached Results Pages
   * Advanced Search Features

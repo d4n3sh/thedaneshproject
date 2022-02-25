@@ -53,13 +53,13 @@ The -i option will only return infected files.
 
 `[root@pinky:~]# clamscan -r -i /home/`
 
-You can also use &#8211;move=[directory] to move infected files or &#8211;copy=[directory] to copy infected files to a designated directory.
+You can also use -move=[directory] to move infected files or -copy=[directory] to copy infected files to a designated directory.
 
 `[root@pinky:~]# clamscan -r -i --move=/infected-files/`
 
-[root@pinky:~]# clamscan -r -i &#8211;copy=/infected-files/
+[root@pinky:~]# clamscan -r -i -copy=/infected-files/
 
-To save the scan summary to a report file user -l /scan/report/scan.log or &#8211;log=/scan/report/scan.log
+To save the scan summary to a report file user -l /scan/report/scan.log or -log=/scan/report/scan.log
 
 `[root@pinky:~]# clamscan -r -i --log=/scan/report/scan.log`
 
@@ -67,7 +67,7 @@ Sample scan summary,
 
 `[root@pinky:~]#`
 
-&#8212;&#8212;&#8212;&#8211; SCAN SUMMARY &#8212;&#8212;&#8212;&#8211;  
+&#8212;&#8212;&#8212;- SCAN SUMMARY &#8212;&#8212;&#8212;-  
 Known viruses: 396679  
 Engine version: 0.93.3  
 Scanned directories: 1920  

@@ -14,7 +14,7 @@ Anyway, I had to restart the sendmail daemon on the AIX box. Walk through below,
 
 1. Verify if sendmail is running. "_**ps -ef | grep sendmail**_".
 
-This should show: <span id="intelliTxt">root 5704 1 0 11:08:42 &#8211; 0:00 sendmail: accepting connections on port 25</span>
+This should show: <span id="intelliTxt">root 5704 1 0 11:08:42 - 0:00 sendmail: accepting connections on port 25</span>
 
 2. Stop sendmail. "_**stopsrc -s sendmail**_" or "_**kill -1 \`cat /etc/senamail.pid**_\`.
 
@@ -30,4 +30,4 @@ No process should be returned.
 
 5. Verify if sendmail is running. "_**ps -ef | grep sendmail**_".
 
-This should show: <span id="intelliTxt">root 5704 1 0 11:30:23 &#8211; 0:00 sendmail: accepting connections on port 25</span>
+This should show: <span id="intelliTxt">root 5704 1 0 11:30:23 - 0:00 sendmail: accepting connections on port 25</span>

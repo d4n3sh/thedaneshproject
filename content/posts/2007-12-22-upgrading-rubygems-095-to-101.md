@@ -12,8 +12,8 @@ dsq_thread_id:
 
 Upgraded my [Rails to 2.0.2][2] and [RubyGems to 1.0.1][3].
 
-  1. _**gem &#8211;version**_ to check your gems version.
-  2. _**sudo gem update**_ &#8211;system to update your gems.
+  1. _**gem -version**_ to check your gems version.
+  2. _**sudo gem update**_ -system to update your gems.
   3. _**sudo gem install rails**_ to update rails to the latest version.
 
 See outputs on the next page&#8230;..  

@@ -10,28 +10,28 @@ dsq_thread_id:
 ---
 Shortcut keys for the bash and commad line interface.
 
-Ctrl + A &#8211; Moves cursor to begining of line.
+Ctrl + A - Moves cursor to begining of line.
 
-Ctrl + E &#8211; Moves cursor to end fo line.
+Ctrl + E - Moves cursor to end fo line.
 
-Ctrl + K &#8211; Clears command line from cursor position till end of line.
+Ctrl + K - Clears command line from cursor position till end of line.
 
-Ctrl + U &#8211; Clears command line from cursor position till begining of line.
+Ctrl + U - Clears command line from cursor position till begining of line.
 
-Ctrl + W &#8211; Clears first word to the left from cursor position.
+Ctrl + W - Clears first word to the left from cursor position.
 
-Ctrl + Y &#8211; Paste any value previously deleted by Ctrl+K,Ctrl+U and Ctrl+W.
+Ctrl + Y - Paste any value previously deleted by Ctrl+K,Ctrl+U and Ctrl+W.
 
-Tab Key &#8211; Auto compelte a partial typed command.
+Tab Key - Auto compelte a partial typed command.
 
-Ctrl + R &#8211; Followed by characters with search through the recent command history.
+Ctrl + R - Followed by characters with search through the recent command history.
 
-Crtl + D &#8211; Quits bash if used in a blank command line.
+Crtl + D - Quits bash if used in a blank command line.
 
-Ctrl + L &#8211; Screen refresh.
+Ctrl + L - Screen refresh.
 
-Ctrl + C &#8211; Kills current process.
+Ctrl + C - Kills current process.
 
-Ctrl + Z &#8211; Suspend a process. Use command "bg" to execute the process in the background and "fg" to bring the process back to the foreground. The command "jobs" will list the available processes you can manipulate.
+Ctrl + Z - Suspend a process. Use command "bg" to execute the process in the background and "fg" to bring the process back to the foreground. The command "jobs" will list the available processes you can manipulate.
 
 That's it. Hope the commands help you. If i missed out anything please do comment.

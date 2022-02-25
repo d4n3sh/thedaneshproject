@@ -22,7 +22,7 @@ Awesome movie, that was me and my opiniion being a die hard transformers fand si
 
 [Â Transformers | Transformers Movie | Official Site][2]
 
-[Â IMDB &#8211; Transformers Movie][3]
+[Â IMDB - Transformers Movie][3]
 
  [1]: /wp-content/uploads/2007/07/transformers.jpg "transformers.jpg"
  [2]: http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.transformersmovie.com%2F&ei=ojKJRsjeDMjwiwHRpN3UBg&usg=AFQjCNENEaU7A6Z8dz-iT299u8KyKhVHbg&sig2=dEgYF1-Iy99gpZKt7WVpaQ

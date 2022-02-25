@@ -20,13 +20,13 @@ Reverse;
 
 Options used;
 
--l &#8211;> print long listing
+-l -> print long listing
 
--h &#8211;> print human readable sizes
+-h -> print human readable sizes
 
--S &#8211;> sort by file size
+-S -> sort by file size
 
--r &#8211;> reverse order
+-r -> reverse order
 
 Output;
 

@@ -16,7 +16,7 @@ I am not the first person to face this problem so hopefully openSUSE 10.3 which 
 
 Follow the steps below to remove ZMD,
 
-> #> sudo su &#8211;
+> #> sudo su -
 > 
 > #> rczmd stop
 > 

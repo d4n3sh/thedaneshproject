@@ -16,19 +16,19 @@ There are loads of twitter desktop clients out there for Windows. I'm a Linux pe
 
 Linux and OpenSource Blog has published a list for desktop clients for Linux. Might come in handy for you.
 
-  * **[ktwitter][2]** &#8211; A simple Twitter script for KDE.
-  * **twitter.el** &#8211; Twitter from Emacs!
-  * **[twit.el][3]** &#8211; Another Emacs client.
-  * **[Vim Twitter][4]** &#8211; Twitter from Vim!
-  * **[gTwitter][5]** &#8211; a Twitter client for Linux.
-  * **[GtkTwitter][6]** &#8211; a Twitter client for Linux and Windows which using GTK.
-  * **Twitbar** &#8211; a Twitter client for Gnome users to post from the Deskbar
-  * **Twit and Wayd** &#8211; Two addons for Gnome Deskbar that allow posting updates to Twitter
-  * **BLT** &#8211; twitter meets the Bourne shell, with a hint of biff.
-  * **[Twitux][7]** &#8211; a Twitter client for the Gnome desktop. Features includes: gui-notifications, url tinyzer, and more..
-  * **ZenTwitter** &#8211; bash script which uses zenity and curl (could be launched from custom desktop/menu/panel icons)
-  * **[mitter][8]** &#8211; A very simple Python and pygtk client.
-  * ****prism-twitter**** &#8211; prism based
+  * **[ktwitter][2]** - A simple Twitter script for KDE.
+  * **twitter.el** - Twitter from Emacs!
+  * **[twit.el][3]** - Another Emacs client.
+  * **[Vim Twitter][4]** - Twitter from Vim!
+  * **[gTwitter][5]** - a Twitter client for Linux.
+  * **[GtkTwitter][6]** - a Twitter client for Linux and Windows which using GTK.
+  * **Twitbar** - a Twitter client for Gnome users to post from the Deskbar
+  * **Twit and Wayd** - Two addons for Gnome Deskbar that allow posting updates to Twitter
+  * **BLT** - twitter meets the Bourne shell, with a hint of biff.
+  * **[Twitux][7]** - a Twitter client for the Gnome desktop. Features includes: gui-notifications, url tinyzer, and more..
+  * **ZenTwitter** - bash script which uses zenity and curl (could be launched from custom desktop/menu/panel icons)
+  * **[mitter][8]** - A very simple Python and pygtk client.
+  * ****prism-twitter**** - prism based
 
  [1]: http://twitter.com/
  [2]: http://www.kde-apps.org/content/show.php/show.php?content=65012

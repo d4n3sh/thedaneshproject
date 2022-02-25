@@ -11,7 +11,7 @@ dsq_thread_id:
 I wake up and go to work and chill at my cube everyday to have fun with my babies. They ain't much but they certainly keep me happy.  
 Check them out. I'm lucky that I'm fortunate enough to have awesome managers that provide me with such good tools.
 
-**My Laptop &#8211; Dell Latutude D610 &#8211; WinXP Pro SP2**
+**My Laptop - Dell Latutude D610 - WinXP Pro SP2**
 
   * DELL Latitude D610
   * Intel Pentium M 2.00GHz
@@ -21,7 +21,7 @@ Check them out. I'm lucky that I'm fortunate enough to have awesome managers tha
   * 16X SONY DVDRW
   * WinXp Pro,SP2
 
-<span style="font-weight: bold">My Workstation &#8211; Precision 490 OpenSUSE 10.2 &#8211; Beryl &#8211; KDE3.5.5</span>
+<span style="font-weight: bold">My Workstation - Precision 490 OpenSUSE 10.2 - Beryl - KDE3.5.5</span>
 
   * Dual Core IntelÂ® XeonÂ® Processor 5150 2.66GHz, 4MB L2,1333
   * 128MB PCIe x16 nVidia Quadro FX550, Dual VGA or Dual DVI or DVI + VGA

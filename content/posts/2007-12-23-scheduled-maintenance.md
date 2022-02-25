@@ -21,7 +21,7 @@ The outage was planned for the 22nd but somehow the hosting guys got the notific
 > 
 > Thank you.  
 > 247 Ticket Support Department  
-> &#8211; <a href="http://247livesupport.biz/" target="_blank">http://247livesupport.biz</a> &#8211;
+> - <a href="http://247livesupport.biz/" target="_blank">http://247livesupport.biz</a> -
 
 Well, I guess it was a genuine mistake that I would have made myself under pressure but what got to me was the 30hours outage that was initialy suppsed to only be 5-10hours. Apparently the DNS servers were propagating slower then expected.
 

@@ -46,16 +46,16 @@ drwxr-xr-x 17 root root 4096 Jan 29 16:53 .
 drwxrwxrwt 50 root root 12288 Jan 29 16:52 ..  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 bin  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 dev  
--rw-r&#8211;r&#8211; 1 root root 10761 Jan 29 16:53 devz  
+-rw-r-r- 1 root root 10761 Jan 29 16:53 devz  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 download  
 drwxr-xr-x 8 root root 4096 Jan 29 16:53 etc  
 -rwxr-xr-x 1 root root 649704 Jan 29 16:53 init  
 -rwxr-xr-x 1 root root 652544 Jan 29 16:53 init.old  
 -rwxr-xr-x 1 root root 24199168 Jan 29 16:52 initrd.SLES10.x64.img  
--rw-r&#8211;r&#8211; 1 root root 5604 Jan 29 16:53 installkey.gpg  
+-rw-r-r- 1 root root 5604 Jan 29 16:53 installkey.gpg  
 drwxr-xr-x 5 root root 4096 Jan 29 16:53 lib  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 lib64  
--rw-r&#8211;r&#8211; 1 root root 289 Jan 29 16:53 linuxrc.config  
+-rw-r-r- 1 root root 289 Jan 29 16:53 linuxrc.config  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 mnt  
 lrwxrwxrwx 1 root root 45 Jan 29 16:53 modules -> lib/modules/2.6.16.21-override-default/initrd  
 drwxr-xr-x 2 root root 4096 Jan 29 16:53 mounts  

@@ -23,11 +23,11 @@ KDE 4.1.3
 
 KDE 3.5.10
 
-OpenOffice.org 3.0 &#8211; Support for ODF 1.2, better Excel integration,
+OpenOffice.org 3.0 - Support for ODF 1.2, better Excel integration,
 
-Linux 2.6.27.7 &#8211;
+Linux 2.6.27.7 -
 
-Improved YaST &#8211; new printer module, new partitioner module, new security module
+Improved YaST - new printer module, new partitioner module, new security module
 
 See full new features list.
 

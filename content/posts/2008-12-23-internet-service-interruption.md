@@ -15,7 +15,7 @@ dsq_thread_id:
 This from TM,
 
 > Dear Valued Customers,  
-> Telekom Malaysia Berhad (TM) wishes to announce that there is a disruption of its Internet services due to circuits fault on Southeast Asia &#8211; Middle East &#8211; Western Europe 4 (SMW4) submarine cable network between Palermo (Southern Italy) and Alexandria (Northern Egypt) linking Malaysia to Europe. Due to this, customers using Internet services may now experience slow browsing while accessing websites hosted in Europe.
+> Telekom Malaysia Berhad (TM) wishes to announce that there is a disruption of its Internet services due to circuits fault on Southeast Asia - Middle East - Western Europe 4 (SMW4) submarine cable network between Palermo (Southern Italy) and Alexandria (Northern Egypt) linking Malaysia to Europe. Due to this, customers using Internet services may now experience slow browsing while accessing websites hosted in Europe.
 > 
 > In addition, customers using other IP services such as Virtual Private Network (VPN) and other critical business applications linked to Europe may also experience some service degradation.
 > 

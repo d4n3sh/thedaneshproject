@@ -8,6 +8,6 @@ dsq_thread_id:
   - 889898813
 
 ---
-Heineken &#8211; Men With Talent, awesome Heineken Ad!! via [@Abinesh][1]
+Heineken - Men With Talent, awesome Heineken Ad!! via [@Abinesh][1]
 
  [1]: http://twitter.com/abinesh/statuses/13111412720

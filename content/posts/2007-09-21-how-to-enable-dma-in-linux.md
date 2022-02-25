@@ -20,7 +20,7 @@ I will have to investigate what happen later. But for now this is how I enabled 
 
 1. Locate my DVD +- drive
 
-> \# sudo su &#8211; / su &#8211; (change user to root)
+> \# sudo su - / su - (change user to root)
 > 
 > \# ls -l /dev/dvdrecorder
 > 

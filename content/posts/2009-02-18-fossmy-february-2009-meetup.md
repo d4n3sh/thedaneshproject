@@ -11,7 +11,7 @@ dsq_thread_id:
 
 ---
 **Topic;**  
-FreeBSD Jails &#8211; Lightweight Visualization
+FreeBSD Jails - Lightweight Visualization
 
 If your limited processing power is preventing you from running full virtualized environments then this might just be what you need. The basic idea is to have individual jailed environments which have their own Ip address all share the same kernel.
 
@@ -28,12 +28,12 @@ Twitter | [Identi.ca][3] | [LinkedIn][4]
 Thursday February 19th 2009
 
 **Time;**  
-7.30pm &#8211; 9.30pm (2 hours)
+7.30pm - 9.30pm (2 hours)
 
-7:30pm &#8211; 7:45pm Opening by the Organizer  
-7:45pm &#8211; 8:45pm Talk  
-8:45pm &#8211; 9:00pm Break  
-9:00pm &#8211; 9:30pm Break out sessions
+7:30pm - 7:45pm Opening by the Organizer  
+7:45pm - 8:45pm Talk  
+8:45pm - 9:00pm Break  
+9:00pm - 9:30pm Break out sessions
 
 **Venue;**  
 MSC Malaysia Cyber Centre  
@@ -49,7 +49,7 @@ FREE!! The World Is Just Awesome!!
 
 **RSVP;**
 
-[Facebook &#8211; MyOSS Meetup][5]
+[Facebook - MyOSS Meetup][5]
 
 **Contact;**
 

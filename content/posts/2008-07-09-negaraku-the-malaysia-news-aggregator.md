@@ -20,7 +20,7 @@ Well anyway, back to my post. My dad spends most of his day surfing the net for 
 
 Today I found Negaraku, a Malaysian news aggregator. Put together by [noktahhitam][2] and laman7 the aggregator polls feeds from local newspapers, general blogs and political blogs. The interface is clean and easy to navigate but the site is slightly sluggish which will improve in time I hope. My dad's going to love this, all his info in none place.
 
-Check it out: [Negaraku! &#8211; The Malaysia News Aggregator][3]
+Check it out: [Negaraku! - The Malaysia News Aggregator][3]
 
  [1]: /wp-content/uploads/2008/07/negaraku.png
  [2]: http://www.noktahhitam.com/negaraku-the-malaysian-news-aggregator.html

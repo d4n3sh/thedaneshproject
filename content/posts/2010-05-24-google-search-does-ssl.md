@@ -14,7 +14,7 @@ With online privacy being the main concern for most internet users today, Goog
 
 Google SSL Search will encrypt all your search traffic preventing any third party eyes from looking at it. Browsing over https will also disable "referrer" which site owners normally use to see where you're coming from.
 
-With + there is always &#8211; so do remember that browsing in SSL does have an encryption overhead which will slightly degrade the search performance.
+With + there is always - so do remember that browsing in SSL does have an encryption overhead which will slightly degrade the search performance.
 
 Also, the amount of data collected from your search is the same as the standard search but just more secure. Without this data Google will be nothing 🙂
 

@@ -18,7 +18,7 @@ Here are the rules;
 ][1]  
 2. Be at Sunway Pyramid well before 8pm. Go about minding your own business. Most people would be congregated at the concourse or designated main area so spread yourselves out for maximum impact.
 
-2. Sharp at 8pm &#8211; FREEZE!!! (Be creative with your poses, youÃ¢â‚¬â„¢ll be viewing them on Youtube for ages to come)
+2. Sharp at 8pm - FREEZE!!! (Be creative with your poses, youÃ¢â‚¬â„¢ll be viewing them on Youtube for ages to come)
 
 3. When itÃ¢â‚¬â„¢s time to UN-FREEZE, if you feel like cheering for a Freeze well done by all means go ahead. If you feel like walking away casually as if time did stand still for 5 minutes and consequently puzzle the guy who was staring at you, go ahead. As YOU please.
 

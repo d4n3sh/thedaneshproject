@@ -18,7 +18,7 @@ Changes added to this release,
 > Use pieces wanted instead of total pieces to draw adv progress bar  
 > Properly catch &#8216;address already in use' error when trying to use a port that is in use  
 > Attempt to fix issue where all the columns start very small  
-> Change how we handle fastresume &#8211; should prevent rechecking  
+> Change how we handle fastresume - should prevent rechecking  
 > New theme for windows  
 > Performance enhancements by removing needless casts  
 > Search is now a plugin  

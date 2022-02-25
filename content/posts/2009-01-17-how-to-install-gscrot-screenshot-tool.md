@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-medium wp-image-1148" title="gscrot064" src="/wp-content/uploads/2009/01/gscrot064-500x400.png" alt="gscrot064" width="500" height="400" srcset="/wp-content/uploads/2009/01/gscrot064-500x400.png 500w, /wp-content/uploads/2009/01/gscrot064.png 669w" sizes="(max-width: 500px) 100vw, 500px" />
 
-Update [Â  Feb 16 2009 ] &#8211; [GScrot has been renamed to Shutter][1].
+Update [Â  Feb 16 2009 ] - [GScrot has been renamed to Shutter][1].
 
 [GScrot][2] is a popular screen-shot tool for Linux. GScrot is currently at version 0.64. It runs best on GNOME and has a good feature list.
 
@@ -42,7 +42,7 @@ Run "apt-get install gscrot" to download and install GScrot.
 
 `root@python:/etc/apt/sources.list.d# apt-get install gscrot`
 
-To start GScrot, go to Applications &#8211;> Accessories &#8211;> GScrot
+To start GScrot, go to Applications -> Accessories -> GScrot
 
  [1]: /posts/cscrot-is-now-shutter/
  [2]: http://gscrot.ubuntu-projekte.de/

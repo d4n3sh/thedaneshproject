@@ -22,7 +22,7 @@ The Top Performers are;
 
 4. [Eset NOD32][5]
 
-Source: PC World &#8211; Top Antivirus Performers
+Source: PC World - Top Antivirus Performers
 
  [1]: http://www.pcworld.com/
  [2]: http://www.pcworld.com/article/id,130873-page,1/article.html

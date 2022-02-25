@@ -14,7 +14,7 @@ dsq_thread_id:
 
 WordPress 2.8.2 is out. It fixes an important XSS vulnerability. Make sure to upgrade quick before you get hijacked&#8230;.
 
-Either perform an auto update by going to " tools &#8211;> upgrade &#8211;> upgrade automatically " or upgrade the old fashion ways by [downloading WordPress][2].
+Either perform an auto update by going to " tools -> upgrade -> upgrade automatically " or upgrade the old fashion ways by [downloading WordPress][2].
 
 Source: [WP][3]
 

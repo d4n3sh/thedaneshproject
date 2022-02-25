@@ -22,7 +22,7 @@ This will add the user to the "trusted" group.
 3. **_#id elf_**  
 Display groups the user belongs to. Make sure "trusted" is on the list too.  
 The output might look like this. _"uid=502(danny) gid=502(users) groups=502(elf),11(trusted)"_  
-4. **_#su &#8211; elf_**  
+4. **_#su - elf_**  
 Change user
 
 5. **_#crontab -e_**  

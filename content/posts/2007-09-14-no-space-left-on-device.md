@@ -11,7 +11,7 @@ dsq_thread_id:
 The DBA I work with was reporting this error on the server she was working on. Every time she tried to add a new cron job the error would come up.
 
 > <p class="MsoNormal">
->   <strong><span style="font-size: 10pt; font-family: 'Courier New'; color: red" lang="PT-BR">[oracle@###### &#8211; /db/home/oracle]<o></o><br /> $ crontab -e<o></o><br /> crontab: installing new crontab<o></o><br /> cron/tmp.5821: No space left on device<o></o><br /> crontab: edits left in /tmp/crontab.5821</span></strong>
+>   <strong><span style="font-size: 10pt; font-family: 'Courier New'; color: red" lang="PT-BR">[oracle@###### - /db/home/oracle]<o></o><br /> $ crontab -e<o></o><br /> crontab: installing new crontab<o></o><br /> cron/tmp.5821: No space left on device<o></o><br /> crontab: edits left in /tmp/crontab.5821</span></strong>
 > </p>
 
 <p class="MsoNormal">

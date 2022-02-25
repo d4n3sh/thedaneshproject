@@ -32,7 +32,7 @@ Unit E-7-1, Block E
 Megan Avenue 1  
 189 Jalan Tun Razak  
 50400 Kuala Lumpur  
-Google map &#8211; [View][2]
+Google map - [View][2]
 
 [Wiki][3] || [Twitter][4] || [Facebook][5]
 

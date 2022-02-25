@@ -28,9 +28,9 @@ Shot a few mails to my pals over at NZ, let's see what they say.
 
 Here they are;
 
-1. [iWorld][1] &#8211; One thing's for sure, their site is freaking impressive.
+1. [iWorld][1] - One thing's for sure, their site is freaking impressive.
 
-2. [iMalaysian][2] &#8211; Price is even higher. RM 4500
+2. [iMalaysian][2] - Price is even higher. RM 4500
 
  [1]: http://www.iworld.com.my/blog/?page_id=197
  [2]: http://imalaysian.com/2008/06/11/3g-iphone-in-malaysia-starting-july-2008/

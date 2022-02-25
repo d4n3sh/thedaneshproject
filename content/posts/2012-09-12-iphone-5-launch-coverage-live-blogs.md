@@ -14,20 +14,20 @@ Apple will be announcing its latest iPhone 5 and a few other devices (maybe) at 
 
 There is not live stream so you will have to tune into the many live blogs covering the event to know what's coming out. Here's a list of live blogs I know covering the event.
 
-<a title="gdgt - Live iPhone 5 launch coverage" href="http://live.gdgt.com/live-iphone-5-launch-coverage/" target="_blank">gdgt &#8211; Live iPhone 5 launch coverage</a>
+<a title="gdgt - Live iPhone 5 launch coverage" href="http://live.gdgt.com/live-iphone-5-launch-coverage/" target="_blank">gdgt - Live iPhone 5 launch coverage</a>
 
-<a title="The Verge - apple-iphone-5-live-blog" href="http://live.theverge.com/apple-iphone-5-live-blog/" target="_blank">The Verge &#8211; apple-iphone-5-live-blog</a>
+<a title="The Verge - apple-iphone-5-live-blog" href="http://live.theverge.com/apple-iphone-5-live-blog/" target="_blank">The Verge - apple-iphone-5-live-blog</a>
 
 <a title="CNET's Apple event Live Blog" href="http://live.cnet.com/Event/CNETs_Apple_event_live_blog_Wednesday_September_12" target="_blank">CNET's Apple event Live Blog</a>
 
-<a title="Engadget - Apple's next generation iPhone liveblog" href="http://www.engadget.com/2012/09/12/apple-iphone-5-liveblog/" target="_blank">Engadget &#8211; Apple's next generation iPhone liveblog</a>
+<a title="Engadget - Apple's next generation iPhone liveblog" href="http://www.engadget.com/2012/09/12/apple-iphone-5-liveblog/" target="_blank">Engadget - Apple's next generation iPhone liveblog</a>
 
-<a title="TIME - iPhone 5 live blog" href="http://time.com/iphone5" target="_blank">TIME &#8211; iPhone 5 live blog</a>
+<a title="TIME - iPhone 5 live blog" href="http://time.com/iphone5" target="_blank">TIME - iPhone 5 live blog</a>
 
-<a title="PC Advisor UK - Apple live blog" href="http://www.pcadvisor.co.uk/news/mobile-phone/3380659/live-blog-apples-iphone-event/" target="_blank">PC Advisor UK &#8211; Apple live blog</a>
+<a title="PC Advisor UK - Apple live blog" href="http://www.pcadvisor.co.uk/news/mobile-phone/3380659/live-blog-apples-iphone-event/" target="_blank">PC Advisor UK - Apple live blog</a>
 
-<a title="Yahoo - Apple live blog" href="http://news.yahoo.com/blogs/technology-blog/apple-iphone-5-live-blog-195206432.html" target="_blank">Yahoo &#8211; Apple live blog</a>
+<a title="Yahoo - Apple live blog" href="http://news.yahoo.com/blogs/technology-blog/apple-iphone-5-live-blog-195206432.html" target="_blank">Yahoo - Apple live blog</a>
 
-<a title="GIZMODO - iPhone 5 live blog" href="http://live.gizmodo.com/" target="_blank">GIZMODO &#8211; iPhone 5 live blog</a>
+<a title="GIZMODO - iPhone 5 live blog" href="http://live.gizmodo.com/" target="_blank">GIZMODO - iPhone 5 live blog</a>
 
 I'll update the list as I find more. Also, please do share if you have more.

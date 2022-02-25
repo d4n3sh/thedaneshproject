@@ -16,7 +16,7 @@ The long overdue, super fast, super secure, super cool Firefox 3.5 is out.
 
 Just a few of the popular features to look forward to in version 3.5. [Full feature list][3]
 
-1. Private browsing &#8211; porn mode for many 😀
+1. Private browsing - porn mode for many 😀
 
 2. Performance improvements. Really!! Read [here][4] and [here][5] and test it out for yourself.
 

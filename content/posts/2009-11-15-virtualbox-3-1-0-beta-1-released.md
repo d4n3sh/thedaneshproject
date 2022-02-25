@@ -12,7 +12,7 @@ dsq_thread_id:
 
 VirtualBox 3.1.0 Beta 1 was just released. This is a major update bundled with quite a few cool and much anticipated features. The release also includes bug fixes for version 3.0.10.
 
-Teleportation (Live migration) &#8211; You can now move VMs across machines.
+Teleportation (Live migration) - You can now move VMs across machines.
 
 2D video acceleration for Windows hosts.
 

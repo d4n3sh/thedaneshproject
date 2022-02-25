@@ -25,7 +25,7 @@ Highlights for the new version,
 > * Fix losing data and having to re-download parts  
 > * Fix password lock showing when main window is not hidden  
 > * Get rid of the plugin manager and integrate it into preferences  
-> * New Move torrent plugin &#8211; takes over for "move completed downloads" feature  
+> * New Move torrent plugin - takes over for "move completed downloads" feature  
 > and provides a "Move Torrent" option when right-clicking on a torrent  
 > * Save column widths  
 > * Queue order after restart fixes.  
