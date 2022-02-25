@@ -30,10 +30,10 @@ Tomcat will assume the password is "changeit" by default so it's advised to leav
   3. Look for "<!- Define a SSL HTTP/1.1 Connector on port 8443 ->". Remove the <!- -> comments indicator and add the keystore info.
 
 > <!- Define a SSL HTTP/1.1 Connector on port 8443 ->  
-> <Connector port="_**443**_" maxHttpHeaderSize="8192&#8243;  
-> maxThreads="150&#8243; minSpareThreads="25&#8243; maxSpareThreads="75&#8243;  
+> <Connector port="_**443**_" maxHttpHeaderSize="8192"  
+> maxThreads="150" minSpareThreads="25" maxSpareThreads="75"  
 > enableLookups="false" disableUploadTimeout="true"  
-> acceptCount="100&#8243; scheme="https" secure="true"  
+> acceptCount="100" scheme="https" secure="true"  
 > keystoreFile="_**/opt/Tomcat5/mycert.jks**_"  
 > clientAuth="false" sslProtocol="TLS" />
 
