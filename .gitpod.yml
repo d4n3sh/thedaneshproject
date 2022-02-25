@@ -1,0 +1,4 @@
+#vscode extensions
+vscode:
+  extensions:
+    - gitlab.gitlab-workflow
