@@ -2,33 +2,26 @@
 title: Where to buy the RASPBERRY PI 3 MODEL B in Malaysia
 author: Danesh
 date: 2016-03-24T21:51:00+00:00
-dsq_thread_id:
-  - 4690778120
-
 ---
-[<img loading="lazy" class="alignnone wp-image-3615 size-medium" src="/wp-content/uploads/2016/03/Rpi3-box-510x600-450x529.jpg" alt="Raspberry Pi 3 Model B" width="450" height="529" srcset="/wp-content/uploads/2016/03/Rpi3-box-510x600-450x529.jpg 450w, /wp-content/uploads/2016/03/Rpi3-box-510x600.jpg 510w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+{{< figure src="/wp-content/uploads/2016/03/Rpi3-box-510x600-450x529.jpg" alt="Raspberry Pi 3 Model B" >}}
 
 Looking to buy the new Raspberry Pi 3 model B? Here's list of places locally where you'll be able to purchase one from.
 
- 
-
-### <a href="http://www.raspberryware.com/product/raspberry-pi-3-b/" rel="http://www.raspberryware.com/"><img loading="lazy" class="alignnone" title="raspberryware" src="http://www.raspberryware.com/wp-content/uploads/2015/04/raspberryware_logo.png" alt="raspberryware" width="250" height="55" /></a> [raspberryware.com][2] - RM179.00
+{{< figure src="http://www.raspberryware.com/wp-content/uploads/2015/04/raspberryware_logo.png" alt="raspberryware" >}} - RM179.00
 
 * * *
 
- 
-
-### [<img loading="lazy" class="alignnone" src="http://www.myduino.com/image/data/LogoMyduino2-trans.png" alt="myduino.com" width="240" height="68" />][3] [myduino.com][3] - RM199.28
+{{< figure src="http://www.myduino.com/image/data/LogoMyduino2-trans.png" >}} - RM199.28
 
 * * *
 
-[<img loading="lazy" class="alignnone" src="http://76.my/res/img/logo.png" alt="lelong.my" width="192" height="52" />][4] [Lelong.my][4] - RM199 - RM300
+{{< figure src="http://76.my/res/img/logo.png" >}} - RM199 - RM300
 
 Quite a few sellers on Lelong are selling the Raspberry Pi 3 now, prices vary depending on your choice of case, power and cooling options.
 
 * * *
 
-### [<img loading="lazy" class="alignnone" src="http://www.tmt.my/onlinestore/image/cache/catalog/logo-233x50.png" alt="tmt.my" width="233" height="50" />][5] [tmt.my][5] - No Pricing Detail at time of posting
+{{< figure src="http://www.tmt.my/onlinestore/image/cache/catalog/logo-233x50.png" alt="tmt.my" >}} - No Pricing Detail at time of posting
 
 TMT.my is a subsidiary of the popular IT chain storeThunder Match Technology Sdn. Bhd. They don't have the Raspberry Pi 3 listed on their site yet but it might be worth [calling][6] them up as they have been known to have stock in the stores for walk-in customers.
 
@@ -36,9 +29,9 @@ TMT.my is a subsidiary of the popular IT chain storeThunder Match Technology Sdn
 
 ### Official Raspberry Pi Distributors
 
-### [<img loading="lazy" class="alignnone" src="http://my.rs-online.com/my/img/site/header/rs-logo_lrg.png" alt="© RS Components Sdn Bhd" width="73" height="60" />][7] [my.rs-online.com][7] -  RM174
+![© RS Components Sdn Bhd](http://my.rs-online.com/my/img/site/header/rs-logo_lrg.png '© RS Components Sdn Bhd') - RM174
 
-### [<img loading="lazy" class="alignnone" src="https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-12109-157644/313-48/element14+LOGO.png" alt="element14 Sdn. Bhd" width="267" height="41" />][8] [my.element14.com][8] - RM170
+![element14 Sdn. Bhd](https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-12109-157644/313-48/element14+LOGO.png 'element14 Sdn. Bhd') - RM170
 
 RS and Element 14 are both official distributors for the Raspberry Pi globally. Getting the Raspberry Pi from either one will be the cheapest option especially if you're planning to buy in bulk.
 
