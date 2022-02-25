@@ -1,6 +1,6 @@
 ---
 title: My domain name appraisal
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-05T03:24:53+00:00
 pvc_views:
   - 2078

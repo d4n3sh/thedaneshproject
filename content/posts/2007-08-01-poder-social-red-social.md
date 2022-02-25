@@ -1,6 +1,6 @@
 ---
 title: Poder Social / Red Social
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-31T18:07:26+00:00
 pvc_views:
   - 4987

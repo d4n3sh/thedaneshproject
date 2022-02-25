@@ -1,6 +1,6 @@
 ---
 title: DELL Studio Hybrid Desktop PC
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-18T12:32:02+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Internet and Phone outage in Asia
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-28T18:01:14+00:00
 pvc_views:
   - 2292

@@ -1,6 +1,6 @@
 ---
 title: Malaysiakini Not Accessible
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-09T14:44:02+00:00
 pvc_views:
   - 3519

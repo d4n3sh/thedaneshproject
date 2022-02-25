@@ -1,6 +1,6 @@
 ---
 title: We saved 550 Megawatts through Earth Hour Malaysia 2009
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-31T04:23:39+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: eco friendly eMail signatures
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-28T18:50:04+00:00
 pvc_views:
   - 14839

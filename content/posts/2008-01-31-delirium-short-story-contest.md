@@ -1,6 +1,6 @@
 ---
 title: Delirium Short Story Contest
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-30T17:17:48+00:00
 pvc_views:
   - 4131

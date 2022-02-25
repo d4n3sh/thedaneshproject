@@ -1,6 +1,6 @@
 ---
 title: Firefox 2.0.0.8 released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-19T04:17:10+00:00
 pvc_views:
   - 6180

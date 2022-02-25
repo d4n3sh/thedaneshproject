@@ -1,6 +1,6 @@
 ---
 title: Full Circle Magazine Issue 23
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-28T19:17:14+00:00
 robotsmeta:
   - index,follow

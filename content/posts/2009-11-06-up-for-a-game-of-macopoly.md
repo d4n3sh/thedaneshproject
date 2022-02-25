@@ -1,6 +1,6 @@
 ---
 title: Up for a game of MACOPOLY?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-06T03:26:41+00:00
 pvc_views:
   - 3110

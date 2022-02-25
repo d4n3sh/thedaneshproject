@@ -1,6 +1,6 @@
 ---
 title: 'Linux Commands: tee'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-26T10:51:29+00:00
 pvc_views:
   - 8187

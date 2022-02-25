@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #6: Download with cURL'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-24T01:00:31+00:00
 robotsmeta:
   - index,follow

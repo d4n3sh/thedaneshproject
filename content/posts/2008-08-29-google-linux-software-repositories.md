@@ -1,6 +1,6 @@
 ---
 title: Google Linux software repositories
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-29T02:00:50+00:00
 robotsmeta:
   - index,follow

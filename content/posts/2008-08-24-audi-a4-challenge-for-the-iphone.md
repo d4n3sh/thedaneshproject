@@ -1,6 +1,6 @@
 ---
 title: Audi A4 Challenge for the iPhone
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-24T01:00:04+00:00
 robotsmeta:
   - index,follow

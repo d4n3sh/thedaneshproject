@@ -1,6 +1,6 @@
 ---
 title: Retweet to share tweets
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-19T09:18:30+00:00
 pvc_views:
   - 1291

@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.5 RC2 Released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-27T02:57:23+00:00
 pvc_views:
   - 3458

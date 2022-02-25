@@ -1,6 +1,6 @@
 ---
 title: Dell in Korea
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-07T06:24:08+00:00
 pvc_views:
   - 6288

@@ -1,6 +1,6 @@
 ---
 title: My Flickr now Pro
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-12T12:05:18+00:00
 pvc_views:
   - 2765

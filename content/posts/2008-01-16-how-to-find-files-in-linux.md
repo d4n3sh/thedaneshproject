@@ -1,6 +1,6 @@
 ---
 title: How to find files in linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-15T20:23:25+00:00
 pvc_views:
   - 12233

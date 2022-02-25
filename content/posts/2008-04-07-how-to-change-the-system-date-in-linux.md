@@ -1,6 +1,6 @@
 ---
 title: How to change the system date in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-07T13:32:40+00:00
 pvc_views:
   - 32988

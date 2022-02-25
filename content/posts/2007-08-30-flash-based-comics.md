@@ -1,6 +1,6 @@
 ---
 title: Flash based comics
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-30T06:54:04+00:00
 pvc_views:
   - 3344

@@ -1,6 +1,6 @@
 ---
 title: OpenDNS hits 14billion requests a day!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-26T00:00:08+00:00
 aktt_notify_twitter:
   - no

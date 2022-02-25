@@ -1,6 +1,6 @@
 ---
 title: Condom Dispenser
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-23T06:03:25+00:00
 pvc_views:
   - 6673

@@ -1,6 +1,6 @@
 ---
 title: Dropbox online storage
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-26T13:29:18+00:00
 pvc_views:
   - 13716

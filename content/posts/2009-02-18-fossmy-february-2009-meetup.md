@@ -1,6 +1,6 @@
 ---
 title: FOSS.my February 2009 meetup
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-17T16:15:42+00:00
 pvc_views:
   - 2812

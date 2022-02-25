@@ -1,6 +1,6 @@
 ---
 title: Backupify for free. Limited time only.
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-27T12:59:31+00:00
 pvc_views:
   - 3681

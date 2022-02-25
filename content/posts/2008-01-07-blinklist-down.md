@@ -1,6 +1,6 @@
 ---
 title: Blinklist down
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-07T10:45:49+00:00
 pvc_views:
   - 5016

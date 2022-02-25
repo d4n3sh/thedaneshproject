@@ -1,6 +1,6 @@
 ---
 title: How to find a program’s process id (pid)
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-18T15:36:58+00:00
 robotsmeta:
   - index,follow

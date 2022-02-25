@@ -1,6 +1,6 @@
 ---
 title: My Workspace
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-14T08:29:08+00:00
 pvc_views:
   - 14237

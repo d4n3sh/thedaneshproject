@@ -1,6 +1,6 @@
 ---
 title: FoodPanda now in Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2012-04-10T18:48:47+00:00
 pvc_views:
   - 2029

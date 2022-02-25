@@ -1,6 +1,6 @@
 ---
 title: Nyan Cat in your terminal
-author: Danesh
+author: Danesh Manoharan
 date: 2012-07-25T16:07:26+00:00
 pvc_views:
   - 995

@@ -1,6 +1,6 @@
 ---
 title: How do you name your computers?
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-05T09:45:45+00:00
 robotsmeta:
   - index,follow

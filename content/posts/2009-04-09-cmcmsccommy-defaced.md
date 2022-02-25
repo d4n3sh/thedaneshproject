@@ -1,6 +1,6 @@
 ---
 title: cmc.msc.com.my defaced
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-09T04:20:54+00:00
 robotsmeta:
   - index,follow

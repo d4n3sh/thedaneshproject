@@ -1,6 +1,6 @@
 ---
 title: P1 WiMAX Signal Strength – May 6th 2009
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-05T18:09:01+00:00
 aktt_notify_twitter:
   - no

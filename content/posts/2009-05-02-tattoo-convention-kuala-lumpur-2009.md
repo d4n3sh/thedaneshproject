@@ -1,6 +1,6 @@
 ---
 title: Tattoo Convention Kuala Lumpur 2009
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-02T04:26:21+00:00
 aktt_notify_twitter:
   - no

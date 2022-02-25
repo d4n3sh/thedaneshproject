@@ -1,6 +1,6 @@
 ---
 title: Mozilla Firefox 3.5 RC3 released
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-26T04:48:26+00:00
 aktt_notify_twitter:
   - no

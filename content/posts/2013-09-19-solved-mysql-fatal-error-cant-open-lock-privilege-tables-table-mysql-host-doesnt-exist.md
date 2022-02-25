@@ -1,6 +1,6 @@
 ---
 title: 'Solved: mysql  Fatal error: Can’t open and lock privilege tables: Table ‘mysql.host’ doesn’t exist'
-author: Danesh
+author: Danesh Manoharan
 date: 2013-09-19T15:16:16+00:00
 dsq_thread_id:
   - 1777860299

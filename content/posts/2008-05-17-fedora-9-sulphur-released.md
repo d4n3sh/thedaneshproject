@@ -1,6 +1,6 @@
 ---
 title: Fedora 9 “Sulphur” released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-16T16:58:23+00:00
 pvc_views:
   - 4707

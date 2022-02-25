@@ -1,6 +1,6 @@
 ---
 title: The Linux Command Line a book for the Linux beginner
-author: Danesh
+author: Danesh Manoharan
 date: 2012-07-26T09:13:34+00:00
 pvc_views:
   - 1236

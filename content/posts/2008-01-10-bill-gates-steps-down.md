@@ -1,6 +1,6 @@
 ---
 title: Bill Gates Steps Down
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-10T02:10:43+00:00
 pvc_views:
   - 3485

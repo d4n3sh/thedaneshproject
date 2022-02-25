@@ -1,6 +1,6 @@
 ---
 title: Changing my permalinks structure
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-19T18:55:56+00:00
 pvc_views:
   - 2099

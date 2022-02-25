@@ -1,6 +1,6 @@
 ---
 title: PDFreaders.org, open standard PDF
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-03T10:52:02+00:00
 robotsmeta:
   - index,follow

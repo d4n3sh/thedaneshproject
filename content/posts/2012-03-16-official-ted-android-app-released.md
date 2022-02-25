@@ -1,6 +1,6 @@
 ---
 title: 'android: Official TED Android app released'
-author: Danesh
+author: Danesh Manoharan
 date: 2012-03-15T21:00:50+00:00
 pvc_views:
   - 1914

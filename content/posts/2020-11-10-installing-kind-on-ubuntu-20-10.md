@@ -1,6 +1,6 @@
 ---
 title: Installing KIND on Ubuntu 20.10
-author: Danesh
+author: Danesh Manoharan
 date: 2020-11-11T02:19:36+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plants vs. Zombies FREE on Amazon App Store
-author: Danesh
+author: Danesh Manoharan
 date: 2011-06-01T01:32:27+00:00
 pvc_views:
   - 3412

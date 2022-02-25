@@ -1,6 +1,6 @@
 ---
 title: Fastest Firefox, the community shows off
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-23T04:30:55+00:00
 aktt_notify_twitter:
   - no

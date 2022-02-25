@@ -1,6 +1,6 @@
 ---
 title: Pownce invites for grabs
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-06T16:55:49+00:00
 pvc_views:
   - 3099

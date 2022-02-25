@@ -1,6 +1,6 @@
 ---
 title: Upgrading RubyGems 0.9.5 to 1.0.1
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-22T12:20:16+00:00
 pvc_views:
   - 7279

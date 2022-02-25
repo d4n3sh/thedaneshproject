@@ -1,6 +1,6 @@
 ---
 title: Windows Vista Upgrade Decision made simple
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-15T19:37:38+00:00
 pvc_views:
   - 2795

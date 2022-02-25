@@ -1,6 +1,6 @@
 ---
 title: Remove Zenworks Management Daemon
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-21T03:20:14+00:00
 pvc_views:
   - 5717

@@ -1,6 +1,6 @@
 ---
 title: How to manually add RSS feeds to Feedly
-author: Danesh
+author: Danesh Manoharan
 date: 2013-09-15T04:12:53+00:00
 dsq_thread_id:
   - 1761164700

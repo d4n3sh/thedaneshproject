@@ -1,6 +1,6 @@
 ---
 title: nov25 | Behind The Revolt by Indrani Kopal
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-08T08:58:45+00:00
 robotsmeta:
   - index,follow

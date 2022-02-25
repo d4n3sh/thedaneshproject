@@ -1,6 +1,6 @@
 ---
 title: Compare Screen Fonts
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-22T15:44:57+00:00
 pvc_views:
   - 1568

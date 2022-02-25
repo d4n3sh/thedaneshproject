@@ -1,6 +1,6 @@
 ---
 title: Reduce your income TAX
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-26T02:39:36+00:00
 pvc_views:
   - 1948

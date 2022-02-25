@@ -1,6 +1,6 @@
 ---
 title: My password manager
-author: Danesh
+author: Danesh Manoharan
 date: 2007-06-30T21:18:48+00:00
 pvc_views:
   - 5239

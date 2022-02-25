@@ -1,6 +1,6 @@
 ---
 title: Maxis 4G LTE APN Settings
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-06T17:23:35+00:00
 dsq_thread_id:
   - 2095849894

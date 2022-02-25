@@ -1,6 +1,6 @@
 ---
 title: Hosting move complete.
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-18T08:53:57+00:00
 pvc_views:
   - 1857

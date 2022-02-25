@@ -1,6 +1,6 @@
 ---
 title: Tattoo and piercing shops in Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-06T12:21:16+00:00
 pvc_views:
   - 31986

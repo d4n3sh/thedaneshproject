@@ -1,6 +1,6 @@
 ---
 title: Creating Partitions with GNU Parted
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-01T18:55:11+00:00
 pvc_views:
   - 2561

@@ -1,6 +1,6 @@
 ---
 title: My Astro gold smart card upgrade experince
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-17T16:08:56+00:00
 pvc_views:
   - 9894

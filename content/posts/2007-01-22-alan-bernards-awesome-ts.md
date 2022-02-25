@@ -1,6 +1,6 @@
 ---
 title: Alan Bernard’s awesome Ts
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-22T07:41:12+00:00
 pvc_views:
   - 2195

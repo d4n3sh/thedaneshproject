@@ -1,6 +1,6 @@
 ---
 title: Volkswagen’s new Germany plant.
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-19T15:00:45+00:00
 pvc_views:
   - 11519

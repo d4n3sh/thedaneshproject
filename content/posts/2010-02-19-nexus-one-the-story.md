@@ -1,6 +1,6 @@
 ---
 title: 'Nexus One: The Story'
-author: Danesh
+author: Danesh Manoharan
 date: 2010-02-19T07:07:06+00:00
 pvc_views:
   - 3563

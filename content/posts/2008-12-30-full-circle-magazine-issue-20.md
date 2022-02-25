@@ -1,6 +1,6 @@
 ---
 title: Full Circle Magazine Issue 20
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-30T15:31:36+00:00
 pvc_views:
   - 3053

@@ -1,6 +1,6 @@
 ---
 title: Google’s got a new favicon
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-12T15:25:00+00:00
 robotsmeta:
   - index,follow

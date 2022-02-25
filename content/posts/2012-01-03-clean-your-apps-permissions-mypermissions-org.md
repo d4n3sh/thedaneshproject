@@ -1,6 +1,6 @@
 ---
 title: Clean Your Apps Permissions. mypermissions.org
-author: Danesh
+author: Danesh Manoharan
 date: 2012-01-03T15:50:35+00:00
 pvc_views:
   - 1374

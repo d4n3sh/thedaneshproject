@@ -1,6 +1,6 @@
 ---
 title: Freaking slow internet
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-15T15:19:18+00:00
 pvc_views:
   - 12463

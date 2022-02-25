@@ -1,6 +1,6 @@
 ---
 title: I’m a registered voter now.
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-24T12:05:20+00:00
 pvc_views:
   - 3421

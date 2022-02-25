@@ -1,6 +1,6 @@
 ---
 title: PMR and SPM trial exam papers
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-24T06:40:30+00:00
 aktt_notify_twitter:
   - no

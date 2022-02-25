@@ -1,6 +1,6 @@
 ---
 title: Firefox 3 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-18T01:29:57+00:00
 pvc_views:
   - 2942

@@ -1,6 +1,6 @@
 ---
 title: openSUSE 11.0 , it’s out
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-19T16:53:05+00:00
 pvc_views:
   - 9324

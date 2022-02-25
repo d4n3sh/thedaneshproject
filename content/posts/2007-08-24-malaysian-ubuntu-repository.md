@@ -1,6 +1,6 @@
 ---
 title: Malaysian Ubuntu repository
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-24T04:22:50+00:00
 pvc_views:
   - 2943

@@ -1,6 +1,6 @@
 ---
 title: Free computer eBooks from Computer-Books.us
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-06T03:44:02+00:00
 robotsmeta:
   - index,follow

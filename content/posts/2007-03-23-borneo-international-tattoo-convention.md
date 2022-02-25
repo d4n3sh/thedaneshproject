@@ -1,6 +1,6 @@
 ---
 title: Borneo International Tattoo Convention
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-23T03:27:37+00:00
 pvc_views:
   - 6743

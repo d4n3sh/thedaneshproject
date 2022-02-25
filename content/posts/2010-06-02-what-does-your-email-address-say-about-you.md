@@ -1,6 +1,6 @@
 ---
 title: What does your email address say about you?
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-02T11:31:41+00:00
 pvc_views:
   - 4474

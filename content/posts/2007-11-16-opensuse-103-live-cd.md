@@ -1,6 +1,6 @@
 ---
 title: openSUSE 10.3 live cd
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-16T06:58:50+00:00
 pvc_views:
   - 5215

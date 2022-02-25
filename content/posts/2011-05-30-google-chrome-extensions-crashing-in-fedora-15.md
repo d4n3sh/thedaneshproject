@@ -1,6 +1,6 @@
 ---
 title: Google Chrome extensions crashing in Fedora 15
-author: Danesh
+author: Danesh Manoharan
 date: 2011-05-30T03:43:53+00:00
 pvc_views:
   - 5917

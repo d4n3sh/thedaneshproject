@@ -1,6 +1,6 @@
 ---
 title: openSUSE X.Org patch released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-26T15:07:48+00:00
 pvc_views:
   - 1628

@@ -1,6 +1,6 @@
 ---
 title: H1N1 shuts down 3 schools
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-23T09:03:00+00:00
 aktt_notify_twitter:
   - no

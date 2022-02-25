@@ -1,6 +1,6 @@
 ---
 title: MacStudio grand opening at Bangsar Village
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-18T20:04:31+00:00
 pvc_views:
   - 2039

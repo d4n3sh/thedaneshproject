@@ -1,6 +1,6 @@
 ---
 title: Follow the 2008 presidential election on Twitter
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-26T08:40:37+00:00
 robotsmeta:
   - index,follow

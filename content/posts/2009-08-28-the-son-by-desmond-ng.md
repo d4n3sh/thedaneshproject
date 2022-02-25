@@ -1,6 +1,6 @@
 ---
 title: The Son by Desmond Ng
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-28T02:48:43+00:00
 aktt_notify_twitter:
   - no

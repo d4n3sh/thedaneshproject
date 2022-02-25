@@ -1,6 +1,6 @@
 ---
 title: Screen | Linux Command
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-26T10:07:57+00:00
 pvc_views:
   - 28515

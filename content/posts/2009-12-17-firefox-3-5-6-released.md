@@ -1,6 +1,6 @@
 ---
 title: Firefox 3.5.6 released
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-17T08:42:42+00:00
 pvc_views:
   - 1601

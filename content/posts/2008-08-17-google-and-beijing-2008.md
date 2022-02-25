@@ -1,6 +1,6 @@
 ---
 title: Google and Beijing 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-17T10:05:28+00:00
 robotsmeta:
   - index,follow

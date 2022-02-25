@@ -1,6 +1,6 @@
 ---
 title: What do you use your IE for?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-06T09:34:43+00:00
 pvc_views:
   - 2620

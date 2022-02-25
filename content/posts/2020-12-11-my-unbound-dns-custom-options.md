@@ -1,6 +1,6 @@
 ---
 title: My Unbound DNS custom options
-author: Danesh
+author: Danesh Manoharan
 date: 2020-12-12T04:55:57+00:00
 
 ---

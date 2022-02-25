@@ -1,6 +1,6 @@
 ---
 title: How to setup an OpenSSH Server on Ubuntu 9.04 Jaunty Jackalope
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-23T17:08:29+00:00
 aktt_notify_twitter:
   - no

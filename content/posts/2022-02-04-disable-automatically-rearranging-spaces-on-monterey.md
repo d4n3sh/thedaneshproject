@@ -1,6 +1,6 @@
 ---
 title: Disable automatically rearranging spaces on Monterey
-author: Danesh
+author: Danesh Manoharan
 date: 2022-02-04T15:06:21+00:00
 publishdate: 2022-02-04
 lastmod: 2022-02-04

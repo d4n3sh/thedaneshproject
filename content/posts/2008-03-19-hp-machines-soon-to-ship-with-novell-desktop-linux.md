@@ -1,6 +1,6 @@
 ---
 title: HP machines soon to ship with Novell Desktop Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-18T16:26:27+00:00
 pvc_views:
   - 2326

@@ -1,6 +1,6 @@
 ---
 title: PlexyDesk coming to your desktop soon
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-16T20:14:31+00:00
 pvc_views:
   - 2188

@@ -1,6 +1,6 @@
 ---
 title: HTC Desire on it’s way to Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-21T23:59:13+00:00
 pvc_views:
   - 7682

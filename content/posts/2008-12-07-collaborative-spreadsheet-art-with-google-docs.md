@@ -1,6 +1,6 @@
 ---
 title: Collaborative Spreadsheet Art with Google Docs
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-06T16:46:17+00:00
 robotsmeta:
   - index,follow

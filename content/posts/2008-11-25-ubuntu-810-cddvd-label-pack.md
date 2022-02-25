@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 8.10 CD/DVD label pack
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-25T15:36:36+00:00
 robotsmeta:
   - index,follow

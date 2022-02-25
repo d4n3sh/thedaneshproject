@@ -1,6 +1,6 @@
 ---
 title: Lenova issues Battery recall
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-20T23:00:24+00:00
 aktt_notify_twitter:
   - no

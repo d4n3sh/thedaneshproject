@@ -1,6 +1,6 @@
 ---
 title: Clearing out your tray
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-14T06:37:26+00:00
 pvc_views:
   - 6597

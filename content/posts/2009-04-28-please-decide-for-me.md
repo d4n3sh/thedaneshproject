@@ -1,6 +1,6 @@
 ---
 title: Please decide for me
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-28T04:49:12+00:00
 pvc_views:
   - 6132

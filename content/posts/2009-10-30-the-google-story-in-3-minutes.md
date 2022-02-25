@@ -1,6 +1,6 @@
 ---
 title: The Google Story in 3 Minutes
-author: Danesh
+author: Danesh Manoharan
 date: 2009-10-30T06:26:47+00:00
 pvc_views:
   - 1978

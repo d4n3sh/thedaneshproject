@@ -1,6 +1,6 @@
 ---
 title: 10 hours till Firefox 3 download day 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-17T07:17:56+00:00
 pvc_views:
   - 5111

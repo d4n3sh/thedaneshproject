@@ -1,6 +1,6 @@
 ---
 title: P1 W1MAX DS300 Modem admin password revealed
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-08T17:06:29+00:00
 pvc_views:
   - 76867

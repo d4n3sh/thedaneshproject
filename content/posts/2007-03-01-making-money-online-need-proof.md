@@ -1,6 +1,6 @@
 ---
 title: Making money online. Need proof?
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-01T15:23:48+00:00
 pvc_views:
   - 3501

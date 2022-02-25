@@ -1,6 +1,6 @@
 ---
 title: The Danesh Project outage
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-07T03:56:40+00:00
 pvc_views:
   - 2905

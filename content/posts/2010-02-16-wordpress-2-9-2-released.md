@@ -1,6 +1,6 @@
 ---
 title: wordpress 2.9.2 released
-author: Danesh
+author: Danesh Manoharan
 date: 2010-02-16T05:30:31+00:00
 pvc_views:
   - 3413

@@ -1,6 +1,6 @@
 ---
 title: Disable Nuffnang Polls
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-18T03:46:10+00:00
 pvc_views:
   - 3167

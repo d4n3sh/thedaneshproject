@@ -1,6 +1,6 @@
 ---
 title: How to give someone root access in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-07T06:38:41+00:00
 robotsmeta:
   - index,follow

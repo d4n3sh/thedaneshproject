@@ -1,6 +1,6 @@
 ---
 title: Photoshop yourself into a Navi
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-11T03:45:33+00:00
 pvc_views:
   - 14152

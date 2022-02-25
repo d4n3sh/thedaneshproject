@@ -1,6 +1,6 @@
 ---
 title: 'Movie: Free Movie Screening'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-18T15:52:19+00:00
 pvc_views:
   - 5105

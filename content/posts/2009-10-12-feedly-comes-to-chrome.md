@@ -1,6 +1,6 @@
 ---
 title: Feedly comes to Chrome
-author: Danesh
+author: Danesh Manoharan
 date: 2009-10-12T09:22:50+00:00
 pvc_views:
   - 3015

@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #3: System uptime with uptime'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-23T13:03:25+00:00
 robotsmeta:
   - index,follow

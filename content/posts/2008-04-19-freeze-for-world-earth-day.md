@@ -1,6 +1,6 @@
 ---
 title: Freeze For World Earth Day
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-18T19:34:06+00:00
 pvc_views:
   - 5258

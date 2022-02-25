@@ -1,6 +1,6 @@
 ---
 title: New Banner | Site Update
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-22T12:47:51+00:00
 pvc_views:
   - 4399

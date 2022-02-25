@@ -1,6 +1,6 @@
 ---
 title: How to enable presto in Fedora 11
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-21T23:00:55+00:00
 aktt_notify_twitter:
   - no

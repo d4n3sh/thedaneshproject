@@ -1,6 +1,6 @@
 ---
 title: I am 74% addicted to blogging
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-11T07:17:00+00:00
 pvc_views:
   - 3619

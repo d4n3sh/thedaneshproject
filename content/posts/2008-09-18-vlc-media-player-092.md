@@ -1,6 +1,6 @@
 ---
 title: VLC media player 0.9.2
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-19T00:42:57+00:00
 pvc_views:
   - 2846

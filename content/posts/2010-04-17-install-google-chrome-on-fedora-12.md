@@ -1,6 +1,6 @@
 ---
 title: Install Google Chrome on Fedora 12
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-17T07:37:49+00:00
 pvc_views:
   - 7487

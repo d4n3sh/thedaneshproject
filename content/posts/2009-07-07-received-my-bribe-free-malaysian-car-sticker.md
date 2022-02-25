@@ -1,6 +1,6 @@
 ---
 title: Received my BRIBE-FREE MALAYSIAN car sticker
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-07T00:00:11+00:00
 aktt_notify_twitter:
   - no

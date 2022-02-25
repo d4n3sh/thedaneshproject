@@ -1,6 +1,6 @@
 ---
 title: Annular Solar Eclipse live!!
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-15T07:30:26+00:00
 pvc_views:
   - 4176

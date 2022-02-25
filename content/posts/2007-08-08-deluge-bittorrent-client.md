@@ -1,6 +1,6 @@
 ---
 title: Deluge BitTorrent Client
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-08T09:02:16+00:00
 pvc_views:
   - 4380

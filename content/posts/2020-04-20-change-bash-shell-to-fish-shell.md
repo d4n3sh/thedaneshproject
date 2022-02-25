@@ -1,6 +1,6 @@
 ---
 title: Change BASH shell to FISH shell
-author: Danesh
+author: Danesh Manoharan
 date: 2020-04-20T10:25:59+00:00
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pot Holder
-author: Danesh
+author: Danesh Manoharan
 date: 2010-02-23T00:00:22+00:00
 pvc_views:
   - 3499

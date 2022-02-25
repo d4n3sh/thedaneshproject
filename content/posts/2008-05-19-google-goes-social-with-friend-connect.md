@@ -1,6 +1,6 @@
 ---
 title: Google goes social with Friend Connect
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-19T14:23:42+00:00
 pvc_views:
   - 4847

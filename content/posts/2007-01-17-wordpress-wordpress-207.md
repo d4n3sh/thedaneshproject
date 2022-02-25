@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.0.7 Released | WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-17T11:33:10+00:00
 pvc_views:
   - 2127

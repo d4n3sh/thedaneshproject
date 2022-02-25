@@ -1,6 +1,6 @@
 ---
 title: Ubuntu cheat sheet by FOSSwire
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-12T09:27:11+00:00
 robotsmeta:
   - index,follow

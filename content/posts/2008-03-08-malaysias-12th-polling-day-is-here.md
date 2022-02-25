@@ -1,6 +1,6 @@
 ---
 title: Malaysia’s 12th polling day is here
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-07T17:33:56+00:00
 pvc_views:
   - 7132

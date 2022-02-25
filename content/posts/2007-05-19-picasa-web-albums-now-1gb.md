@@ -1,6 +1,6 @@
 ---
 title: Picasa Web Albums now 1GB
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-19T11:25:09+00:00
 pvc_views:
   - 1996

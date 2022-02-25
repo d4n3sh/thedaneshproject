@@ -1,6 +1,6 @@
 ---
 title: yes releases postpaid unlimited data packages
-author: Danesh
+author: Danesh Manoharan
 date: 2012-03-01T20:00:54+00:00
 pvc_views:
   - 2216

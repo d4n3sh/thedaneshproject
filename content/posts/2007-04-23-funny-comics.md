@@ -1,6 +1,6 @@
 ---
 title: Funny Comics
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-23T02:52:16+00:00
 pvc_views:
   - 2919

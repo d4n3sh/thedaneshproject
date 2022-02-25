@@ -1,6 +1,6 @@
 ---
 title: Apply for your Transformer Prime TF201 GPS Extension Kit
-author: Danesh
+author: Danesh Manoharan
 date: 2012-04-17T02:11:42+00:00
 pvc_views:
   - 2654

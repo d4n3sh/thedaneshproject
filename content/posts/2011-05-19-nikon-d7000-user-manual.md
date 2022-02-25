@@ -1,6 +1,6 @@
 ---
 title: Nikon D7000 User Manual
-author: Danesh
+author: Danesh Manoharan
 date: 2011-05-19T09:31:51+00:00
 pvc_views:
   - 12513

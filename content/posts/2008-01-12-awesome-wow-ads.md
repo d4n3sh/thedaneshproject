@@ -1,6 +1,6 @@
 ---
 title: Awesome WOW ads
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-12T02:30:14+00:00
 pvc_views:
   - 6546

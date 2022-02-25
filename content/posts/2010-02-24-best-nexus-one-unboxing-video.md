@@ -1,6 +1,6 @@
 ---
 title: Best Nexus One Unboxing Video
-author: Danesh
+author: Danesh Manoharan
 date: 2010-02-24T00:00:04+00:00
 pvc_views:
   - 2014

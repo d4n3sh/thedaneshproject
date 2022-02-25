@@ -1,6 +1,6 @@
 ---
 title: Installing nVidia driver on openSUSE 10.2 | Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-19T15:43:26+00:00
 pvc_views:
   - 3738

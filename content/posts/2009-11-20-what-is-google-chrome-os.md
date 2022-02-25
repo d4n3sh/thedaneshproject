@@ -1,6 +1,6 @@
 ---
 title: What is Google Chrome OS?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-20T10:07:53+00:00
 pvc_views:
   - 7635

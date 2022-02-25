@@ -1,6 +1,6 @@
 ---
 title: Twitter Hacked
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-18T07:39:24+00:00
 pvc_views:
   - 2215

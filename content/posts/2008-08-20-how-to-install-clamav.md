@@ -1,6 +1,6 @@
 ---
 title: How to install ClamAV
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-20T13:28:37+00:00
 robotsmeta:
   - index,follow

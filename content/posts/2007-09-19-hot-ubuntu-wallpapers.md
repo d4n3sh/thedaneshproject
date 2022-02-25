@@ -1,6 +1,6 @@
 ---
 title: Hot Ubuntu Wallpapers
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-18T16:53:57+00:00
 pvc_views:
   - 36364

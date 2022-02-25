@@ -1,6 +1,6 @@
 ---
 title: PIKOM PC FAIR 2009 (II)
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-30T17:39:08+00:00
 aktt_notify_twitter:
   - no

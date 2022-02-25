@@ -1,6 +1,6 @@
 ---
 title: Select all files but one on linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-10T02:00:29+00:00
 pvc_views:
   - 4175

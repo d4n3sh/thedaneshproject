@@ -1,6 +1,6 @@
 ---
 title: Cool photos from Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-24T18:01:00+00:00
 pvc_views:
   - 2278

@@ -1,6 +1,6 @@
 ---
 title: Shinjiru Merdeka Raya domain sale. 50% off
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-03T11:00:07+00:00
 pvc_views:
   - 1944

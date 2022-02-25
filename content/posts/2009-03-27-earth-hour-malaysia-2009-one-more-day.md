@@ -1,6 +1,6 @@
 ---
 title: Earth Hour Malaysia 2009, One more day!!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-27T03:29:16+00:00
 robotsmeta:
   - index,follow

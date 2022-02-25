@@ -1,6 +1,6 @@
 ---
 title: Extract .xz file
-author: Danesh
+author: Danesh Manoharan
 date: 2019-06-10T22:20:49+00:00
 
 ---

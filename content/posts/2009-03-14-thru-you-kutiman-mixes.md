@@ -1,6 +1,6 @@
 ---
 title: THRU YOU | Kutiman mixes
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-13T19:02:45+00:00
 pvc_views:
   - 2574

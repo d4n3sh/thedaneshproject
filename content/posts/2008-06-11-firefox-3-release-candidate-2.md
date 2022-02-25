@@ -1,6 +1,6 @@
 ---
 title: Firefox 3 Release Candidate 2
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-11T10:48:05+00:00
 pvc_views:
   - 4981

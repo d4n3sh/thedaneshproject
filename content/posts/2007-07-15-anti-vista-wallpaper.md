@@ -1,6 +1,6 @@
 ---
 title: Anti Vista wallpaper
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-15T06:24:32+00:00
 pvc_views:
   - 7778

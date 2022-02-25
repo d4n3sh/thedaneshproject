@@ -1,6 +1,6 @@
 ---
 title: Microsoft wants to buy Yahoo
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-01T17:47:21+00:00
 pvc_views:
   - 3020

@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #4: Simple sort with the sort command'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-27T08:41:02+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: iPhone 3G coming to Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-23T09:52:05+00:00
 robotsmeta:
   - index,follow

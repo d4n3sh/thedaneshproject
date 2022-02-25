@@ -1,6 +1,6 @@
 ---
 title: 'Hacks: Windows Genuine Advantage removal'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-18T11:54:51+00:00
 pvc_views:
   - 9583

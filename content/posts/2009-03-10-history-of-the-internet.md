@@ -1,6 +1,6 @@
 ---
 title: History of the Internet
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-10T09:20:04+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Robots express themselves
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-19T05:07:34+00:00
 robotsmeta:
   - index,follow

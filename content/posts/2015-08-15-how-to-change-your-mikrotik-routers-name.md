@@ -1,6 +1,6 @@
 ---
 title: How to change your MikroTik router’s name
-author: Danesh
+author: Danesh Manoharan
 date: 2015-08-15T02:11:37+00:00
 dsq_thread_id:
   - 4034066041

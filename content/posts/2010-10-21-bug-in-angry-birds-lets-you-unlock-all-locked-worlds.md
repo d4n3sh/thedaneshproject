@@ -1,6 +1,6 @@
 ---
 title: Bug In Angry Birds Lets You Unlock All Locked Worlds
-author: Danesh
+author: Danesh Manoharan
 date: 2010-10-20T19:07:21+00:00
 pvc_views:
   - 2259

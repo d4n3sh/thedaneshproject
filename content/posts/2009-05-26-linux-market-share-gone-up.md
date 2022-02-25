@@ -1,6 +1,6 @@
 ---
 title: Linux market share gone up!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-26T05:56:13+00:00
 aktt_notify_twitter:
   - no

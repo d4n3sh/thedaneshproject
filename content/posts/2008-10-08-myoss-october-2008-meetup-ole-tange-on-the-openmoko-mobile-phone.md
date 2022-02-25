@@ -1,6 +1,6 @@
 ---
 title: MyOSS October 2008 Meetup – Ole Tange on the OpenMoko Mobile Phone
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-08T04:26:52+00:00
 robotsmeta:
   - index,follow

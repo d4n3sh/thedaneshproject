@@ -1,6 +1,6 @@
 ---
 title: Newzleech is down for now
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-19T03:42:42+00:00
 pvc_views:
   - 1747

@@ -1,6 +1,6 @@
 ---
 title: Oracle’s Acquisitions over the years
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-23T09:13:32+00:00
 pvc_views:
   - 5132

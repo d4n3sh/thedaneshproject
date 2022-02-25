@@ -1,6 +1,6 @@
 ---
 title: How to reset the root password for MySQL
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-13T10:09:40+00:00
 robotsmeta:
   - index,follow

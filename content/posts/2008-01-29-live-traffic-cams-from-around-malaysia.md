@@ -1,6 +1,6 @@
 ---
 title: Live traffic cams from around Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-29T14:23:21+00:00
 pvc_views:
   - 32660

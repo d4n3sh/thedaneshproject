@@ -1,6 +1,6 @@
 ---
 title: Mozilla Firefox 3.0.8 released
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-31T01:46:47+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: “My Life, My Way” Tattoo | ModBlog
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-04T14:38:31+00:00
 pvc_views:
   - 6364

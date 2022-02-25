@@ -1,6 +1,6 @@
 ---
 title: Won myself some WordPress stickers
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-13T23:43:03+00:00
 pvc_views:
   - 4060

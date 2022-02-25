@@ -1,6 +1,6 @@
 ---
 title: Alan Bernard’s F’kn Mayhem featured at WSMY
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-26T02:00:26+00:00
 pvc_views:
   - 5688

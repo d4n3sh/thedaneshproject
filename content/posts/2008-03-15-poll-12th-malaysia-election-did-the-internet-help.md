@@ -1,6 +1,6 @@
 ---
 title: 'Poll: 12th Malaysia Election, did the internet help?'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-14T16:41:35+00:00
 pvc_views:
   - 5097

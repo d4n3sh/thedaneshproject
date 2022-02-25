@@ -1,6 +1,6 @@
 ---
 title: Doninos Pizza, improve your call centers
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-28T15:40:14+00:00
 robotsmeta:
   - index,follow

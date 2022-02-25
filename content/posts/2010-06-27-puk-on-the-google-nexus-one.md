@@ -1,6 +1,6 @@
 ---
 title: PUK on the Google Nexus One
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-27T01:51:35+00:00
 pvc_views:
   - 8951

@@ -1,6 +1,6 @@
 ---
 title: World Cup Results By Google
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-09T02:28:09+00:00
 pvc_views:
   - 3049

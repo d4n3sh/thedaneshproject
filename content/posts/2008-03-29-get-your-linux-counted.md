@@ -1,6 +1,6 @@
 ---
 title: Get your Linux counted
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-29T13:16:43+00:00
 pvc_views:
   - 8550

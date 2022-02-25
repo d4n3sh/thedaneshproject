@@ -1,6 +1,6 @@
 ---
 title: How to add route in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-30T08:53:23+00:00
 robotsmeta:
   - index,follow

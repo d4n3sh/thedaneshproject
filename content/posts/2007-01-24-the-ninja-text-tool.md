@@ -1,6 +1,6 @@
 ---
 title: The Ninja text tool
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-24T11:08:09+00:00
 pvc_views:
   - 6478

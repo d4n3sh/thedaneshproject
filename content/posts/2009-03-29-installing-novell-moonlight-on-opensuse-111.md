@@ -1,6 +1,6 @@
 ---
 title: Installing Novell Moonlight on openSUSE 11.1
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-29T12:48:41+00:00
 robotsmeta:
   - index,follow

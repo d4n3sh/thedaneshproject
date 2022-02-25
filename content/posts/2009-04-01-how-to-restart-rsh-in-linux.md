@@ -1,6 +1,6 @@
 ---
 title: How to restart RSH in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-01T05:07:22+00:00
 robotsmeta:
   - index,follow

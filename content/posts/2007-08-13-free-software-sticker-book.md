@@ -1,6 +1,6 @@
 ---
 title: Free Software Sticker Book
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-12T19:15:38+00:00
 pvc_views:
   - 14495

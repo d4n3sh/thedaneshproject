@@ -1,6 +1,6 @@
 ---
 title: Free WiFi HotSpots
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-15T12:54:51+00:00
 pvc_views:
   - 7695

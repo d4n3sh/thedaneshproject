@@ -1,6 +1,6 @@
 ---
 title: Firefox 3 beats IE7 in memory consumption
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-19T12:26:57+00:00
 pvc_views:
   - 3424

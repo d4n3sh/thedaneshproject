@@ -1,6 +1,6 @@
 ---
 title: Photos from foss.my 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-16T17:19:41+00:00
 pvc_views:
   - 2891

@@ -1,6 +1,6 @@
 ---
 title: .htaccess password generator
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-19T15:12:36+00:00
 pvc_views:
   - 8670

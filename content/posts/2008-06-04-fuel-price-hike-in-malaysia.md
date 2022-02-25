@@ -1,6 +1,6 @@
 ---
 title: Fuel price hike in Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-04T10:19:21+00:00
 pvc_views:
   - 16981

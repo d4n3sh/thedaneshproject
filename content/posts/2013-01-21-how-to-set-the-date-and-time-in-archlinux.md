@@ -1,6 +1,6 @@
 ---
 title: How to set the date and time in Archlinux
-author: Danesh
+author: Danesh Manoharan
 date: 2013-01-20T17:04:58+00:00
 pvc_views:
   - 180

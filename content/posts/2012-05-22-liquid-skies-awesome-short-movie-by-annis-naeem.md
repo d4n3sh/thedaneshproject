@@ -1,6 +1,6 @@
 ---
 title: 'Liquid Skies , awesome short movie by  Annis Naeem'
-author: Danesh
+author: Danesh Manoharan
 date: 2012-05-22T08:20:01+00:00
 pvc_views:
   - 3591

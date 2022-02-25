@@ -1,6 +1,6 @@
 ---
 title: Disable laptop lid action for proxmox
-author: Danesh
+author: Danesh Manoharan
 date: 2018-05-22T22:13:31+00:00
 
 ---

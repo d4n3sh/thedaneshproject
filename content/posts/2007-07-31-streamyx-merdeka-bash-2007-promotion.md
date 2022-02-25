@@ -1,6 +1,6 @@
 ---
 title: Streamyx Merdeka Bash 2007 Promotion
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-31T12:09:40+00:00
 pvc_views:
   - 2987

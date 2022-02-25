@@ -1,6 +1,6 @@
 ---
 title: Gmail as your SMTP server
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-15T10:02:19+00:00
 pvc_views:
   - 7758

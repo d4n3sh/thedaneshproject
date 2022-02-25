@@ -1,6 +1,6 @@
 ---
 title: Cool Wallpapers
-author: Danesh
+author: Danesh Manoharan
 date: 2009-10-14T10:15:51+00:00
 pvc_views:
   - 6015

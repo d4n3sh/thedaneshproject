@@ -1,6 +1,6 @@
 ---
 title: How to install Fedora Utils on Fedora 20
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-08T07:41:38+00:00
 dsq_thread_id:
   - 2098200185

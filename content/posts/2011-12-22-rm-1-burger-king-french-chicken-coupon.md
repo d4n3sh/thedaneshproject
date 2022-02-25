@@ -1,6 +1,6 @@
 ---
 title: RM 1 Burger King French Chicken Coupon
-author: Danesh
+author: Danesh Manoharan
 date: 2011-12-22T07:26:42+00:00
 pvc_views:
   - 2581

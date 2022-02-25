@@ -1,6 +1,6 @@
 ---
 title: How to get Hard Disk Details on Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2011-11-16T17:27:51+00:00
 pvc_views:
   - 6405

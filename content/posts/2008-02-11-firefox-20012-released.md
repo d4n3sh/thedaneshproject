@@ -1,6 +1,6 @@
 ---
 title: Firefox 2.0.0.12 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-11T09:31:09+00:00
 pvc_views:
   - 3286

@@ -1,6 +1,6 @@
 ---
 title: Dropbox client now available for Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-06T05:51:18+00:00
 robotsmeta:
   - index,follow

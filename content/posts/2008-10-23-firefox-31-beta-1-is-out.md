@@ -1,6 +1,6 @@
 ---
 title: Firefox 3.1 beta 1 is out
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-23T03:02:54+00:00
 robotsmeta:
   - index,follow

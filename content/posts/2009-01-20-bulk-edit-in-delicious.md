@@ -1,6 +1,6 @@
 ---
 title: Bulk edit in Delicious
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-20T09:40:31+00:00
 robotsmeta:
   - index,follow

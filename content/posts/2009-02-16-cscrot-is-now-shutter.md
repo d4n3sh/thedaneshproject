@@ -1,6 +1,6 @@
 ---
 title: CScrot is now Shutter
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-15T17:29:01+00:00
 pvc_views:
   - 2877

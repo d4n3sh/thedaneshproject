@@ -1,6 +1,6 @@
 ---
 title: OpenOffice.org 3 beta released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-09T19:23:50+00:00
 pvc_views:
   - 4065

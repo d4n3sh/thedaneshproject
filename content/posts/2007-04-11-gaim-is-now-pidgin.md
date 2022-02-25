@@ -1,6 +1,6 @@
 ---
 title: Gaim is now Pidgin
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-10T17:44:42+00:00
 pvc_views:
   - 1318

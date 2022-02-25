@@ -1,6 +1,6 @@
 ---
 title: Latest in the digg labs “arc”
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-17T04:13:29+00:00
 pvc_views:
   - 1715

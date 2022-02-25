@@ -1,6 +1,6 @@
 ---
 title: The Thread Zoo
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-02T19:13:26+00:00
 pvc_views:
   - 63425

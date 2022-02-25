@@ -1,6 +1,6 @@
 ---
 title: SSH Tunneling with Putty | Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-13T06:58:56+00:00
 pvc_views:
   - 48446

@@ -1,6 +1,6 @@
 ---
 title: No more Beta for Google
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-08T09:04:02+00:00
 aktt_notify_twitter:
   - no

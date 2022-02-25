@@ -1,6 +1,6 @@
 ---
 title: My first 3 Google Chrome extensions
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-18T00:00:36+00:00
 pvc_views:
   - 1435

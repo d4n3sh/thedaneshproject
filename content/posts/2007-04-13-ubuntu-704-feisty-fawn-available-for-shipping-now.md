@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 7.04 (Feisty Fawn) available for shipping now
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-13T02:27:28+00:00
 pvc_views:
   - 2175

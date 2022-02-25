@@ -1,6 +1,6 @@
 ---
 title: openSUSE 11.1 installation screenshots
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-22T03:07:28+00:00
 pvc_views:
   - 3438

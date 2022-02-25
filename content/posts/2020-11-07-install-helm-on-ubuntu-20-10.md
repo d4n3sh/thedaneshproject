@@ -1,6 +1,6 @@
 ---
 title: Install Helm on Ubuntu 20.10
-author: Danesh
+author: Danesh Manoharan
 date: 2020-11-08T02:00:00+00:00
 
 ---

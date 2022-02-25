@@ -1,6 +1,6 @@
 ---
 title: Goodbye Sam from Comedy Court
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-11T17:18:56+00:00
 pvc_views:
   - 5498

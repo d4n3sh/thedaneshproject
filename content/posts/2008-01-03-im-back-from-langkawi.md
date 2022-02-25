@@ -1,6 +1,6 @@
 ---
 title: I’m back from Langkawi
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-03T03:57:32+00:00
 pvc_views:
   - 8250

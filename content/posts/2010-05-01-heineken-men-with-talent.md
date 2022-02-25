@@ -1,6 +1,6 @@
 ---
 title: Heineken – Men With Talent
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-01T03:28:16+00:00
 pvc_views:
   - 1449

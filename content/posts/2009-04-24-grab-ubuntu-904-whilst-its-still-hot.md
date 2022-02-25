@@ -1,6 +1,6 @@
 ---
 title: Grab Ubuntu 9.04 whilst it’s still hot!!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-24T05:24:45+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: '/usr/local/bin/oinkmaster.pl: Error: the output directory “/etc/snort/rules” isn’t writable by you.'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-29T08:21:12+00:00
 pvc_views:
   - 8170

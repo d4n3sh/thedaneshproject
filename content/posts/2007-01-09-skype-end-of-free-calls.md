@@ -1,6 +1,6 @@
 ---
 title: 'Skype: End of free calls'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-08T23:27:23+00:00
 pvc_views:
   - 1878

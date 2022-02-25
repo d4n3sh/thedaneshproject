@@ -1,6 +1,6 @@
 ---
 title: Free GSC movie tickets
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-17T14:59:31+00:00
 pvc_views:
   - 16561

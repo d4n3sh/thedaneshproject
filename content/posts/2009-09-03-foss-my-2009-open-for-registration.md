@@ -1,6 +1,6 @@
 ---
 title: FOSS.my 2009 open for registration
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-02T18:22:49+00:00
 aktt_notify_twitter:
   - no

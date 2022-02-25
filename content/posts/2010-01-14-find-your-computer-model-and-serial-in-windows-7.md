@@ -1,6 +1,6 @@
 ---
 title: Find your computer model and serial in Windows 7
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-14T20:29:46+00:00
 pvc_views:
   - 10598

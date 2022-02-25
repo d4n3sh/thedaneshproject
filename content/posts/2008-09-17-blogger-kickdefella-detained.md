@@ -1,6 +1,6 @@
 ---
 title: Blogger Kickdefella detained
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-17T12:01:54+00:00
 pvc_views:
   - 2305

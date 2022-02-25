@@ -1,6 +1,6 @@
 ---
 title: Google’s Jules Verne 183rd birthday Doodle
-author: Danesh
+author: Danesh Manoharan
 date: 2011-02-07T18:15:59+00:00
 pvc_views:
   - 1633

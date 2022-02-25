@@ -1,6 +1,6 @@
 ---
 title: 'Free eBook: The Art & Science of CSS'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-23T16:17:45+00:00
 robotsmeta:
   - index,follow

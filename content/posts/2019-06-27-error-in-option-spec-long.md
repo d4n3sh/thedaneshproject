@@ -1,6 +1,6 @@
 ---
 title: 'Error in option spec: “long|!”'
-author: Danesh
+author: Danesh Manoharan
 date: 2019-06-27T00:09:28+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Malaysia Today blocked by TMNET
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-26T17:44:24+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Happy 50th birthday Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-01T18:48:56+00:00
 pvc_views:
   - 2255

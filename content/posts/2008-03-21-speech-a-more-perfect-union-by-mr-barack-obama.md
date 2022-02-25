@@ -1,6 +1,6 @@
 ---
 title: 'Speech: A More Perfect Union by Mr. Barack Obama'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-21T13:57:40+00:00
 pvc_views:
   - 2901

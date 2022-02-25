@@ -1,6 +1,6 @@
 ---
 title: Win a HP Kensington Wireless mouse
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-25T02:44:26+00:00
 pvc_views:
   - 3147

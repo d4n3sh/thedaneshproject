@@ -1,6 +1,6 @@
 ---
 title: Defensio anti spam 1.1.3 released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-22T04:35:10+00:00
 pvc_views:
   - 1703

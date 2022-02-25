@@ -1,6 +1,6 @@
 ---
 title: Adobe Reader now on the Android
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-29T11:25:49+00:00
 pvc_views:
   - 2029

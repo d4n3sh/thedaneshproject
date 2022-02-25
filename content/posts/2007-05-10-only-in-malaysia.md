@@ -1,6 +1,6 @@
 ---
 title: Only in Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-10T07:37:41+00:00
 robotsmeta:
   - index,follow

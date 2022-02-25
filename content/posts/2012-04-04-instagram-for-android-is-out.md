@@ -1,6 +1,6 @@
 ---
 title: Instagram for Android is out
-author: Danesh
+author: Danesh Manoharan
 date: 2012-04-04T12:59:27+00:00
 pvc_views:
   - 1647

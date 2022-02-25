@@ -1,6 +1,6 @@
 ---
 title: Good collection of Linux Tutorials
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-15T10:43:12+00:00
 aktt_notify_twitter:
   - no

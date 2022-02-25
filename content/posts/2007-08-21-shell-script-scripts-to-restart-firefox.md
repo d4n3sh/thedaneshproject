@@ -1,6 +1,6 @@
 ---
 title: Shell script scripts to restart firefox
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-20T22:30:23+00:00
 pvc_views:
   - 9069

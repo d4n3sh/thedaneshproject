@@ -1,6 +1,6 @@
 ---
 title: Kickdefella is back!!
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-20T16:47:31+00:00
 robotsmeta:
   - index,follow

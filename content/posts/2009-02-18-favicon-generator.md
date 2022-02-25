@@ -1,6 +1,6 @@
 ---
 title: Favicon generator
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-18T00:00:00+00:00
 pvc_views:
   - 31884

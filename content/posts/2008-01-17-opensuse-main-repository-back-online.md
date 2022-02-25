@@ -1,6 +1,6 @@
 ---
 title: openSUSE main repository back online
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-16T16:31:17+00:00
 pvc_views:
   - 12315

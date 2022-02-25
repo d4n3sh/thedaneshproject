@@ -1,6 +1,6 @@
 ---
 title: How to disable the beep in Windows XP
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-13T00:42:44+00:00
 pvc_views:
   - 3948

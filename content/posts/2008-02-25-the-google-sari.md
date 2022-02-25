@@ -1,6 +1,6 @@
 ---
 title: The Google Sari
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-24T17:09:49+00:00
 pvc_views:
   - 9665

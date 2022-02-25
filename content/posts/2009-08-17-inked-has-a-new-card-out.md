@@ -1,6 +1,6 @@
 ---
 title: Inked has a new card out…
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-17T02:02:18+00:00
 aktt_notify_twitter:
   - no

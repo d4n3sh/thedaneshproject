@@ -1,6 +1,6 @@
 ---
 title: Astro goes HD with B.yond
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-16T06:10:00+00:00
 pvc_views:
   - 6356

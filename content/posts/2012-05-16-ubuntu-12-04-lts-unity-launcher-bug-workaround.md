@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 12.04 LTS Unity Launcher bug workaround
-author: Danesh
+author: Danesh Manoharan
 date: 2012-05-15T21:00:31+00:00
 pvc_views:
   - 12855

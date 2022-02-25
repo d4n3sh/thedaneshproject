@@ -1,6 +1,6 @@
 ---
 title: Watermarks for WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-09T04:15:06+00:00
 pvc_views:
   - 1595

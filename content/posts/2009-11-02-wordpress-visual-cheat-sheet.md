@@ -1,6 +1,6 @@
 ---
 title: WordPress Visual Cheat Sheet
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-02T03:18:45+00:00
 pvc_views:
   - 2334

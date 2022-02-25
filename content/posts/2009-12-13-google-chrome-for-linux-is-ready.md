@@ -1,6 +1,6 @@
 ---
 title: Google Chrome for Linux is Ready
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-13T12:00:05+00:00
 pvc_views:
   - 2084

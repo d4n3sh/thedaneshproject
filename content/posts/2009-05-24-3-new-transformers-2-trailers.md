@@ -1,6 +1,6 @@
 ---
 title: 3 new “Transformers 2” trailers
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-23T20:28:36+00:00
 aktt_notify_twitter:
   - no

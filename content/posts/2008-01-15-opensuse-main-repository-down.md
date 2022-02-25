@@ -1,6 +1,6 @@
 ---
 title: openSUSE main repository down
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-15T13:30:39+00:00
 pvc_views:
   - 11074

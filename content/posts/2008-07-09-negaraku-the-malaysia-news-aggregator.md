@@ -1,6 +1,6 @@
 ---
 title: Negaraku! – The Malaysia News Aggregator
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-08T16:56:08+00:00
 robotsmeta:
   - index,follow

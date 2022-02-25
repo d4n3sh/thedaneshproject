@@ -1,6 +1,6 @@
 ---
 title: Social Media Revolution 2
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-18T07:00:13+00:00
 pvc_views:
   - 1779

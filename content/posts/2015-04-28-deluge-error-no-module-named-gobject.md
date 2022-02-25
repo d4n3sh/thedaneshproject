@@ -1,6 +1,6 @@
 ---
 title: Deluge Error. No module named gobject
-author: Danesh
+author: Danesh Manoharan
 date: 2015-04-28T14:07:05+00:00
 dsq_thread_id:
   - 3719709222

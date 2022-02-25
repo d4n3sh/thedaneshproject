@@ -1,6 +1,6 @@
 ---
 title: Transformers USB Flash Drive
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-25T13:40:40+00:00
 aktt_notify_twitter:
   - no

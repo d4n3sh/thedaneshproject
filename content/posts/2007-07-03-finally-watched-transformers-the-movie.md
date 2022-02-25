@@ -1,6 +1,6 @@
 ---
 title: Finally watched Transformers the movie
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-02T17:18:34+00:00
 pvc_views:
   - 3470

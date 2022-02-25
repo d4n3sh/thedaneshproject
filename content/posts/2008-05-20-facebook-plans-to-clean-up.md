@@ -1,6 +1,6 @@
 ---
 title: Facebook plans to clean up
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-20T06:29:14+00:00
 pvc_views:
   - 4722

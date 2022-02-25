@@ -1,6 +1,6 @@
 ---
 title: Google Chrome stable version out
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-25T18:09:49+00:00
 pvc_views:
   - 3602

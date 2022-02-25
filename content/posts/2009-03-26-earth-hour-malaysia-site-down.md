@@ -1,6 +1,6 @@
 ---
 title: Earth Hour Malaysia site down
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-26T04:55:12+00:00
 pvc_views:
   - 2055

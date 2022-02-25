@@ -1,6 +1,6 @@
 ---
 title: How to install hddtemp on CentOS 6.2
-author: Danesh
+author: Danesh Manoharan
 date: 2012-02-14T07:04:45+00:00
 pvc_views:
   - 1984

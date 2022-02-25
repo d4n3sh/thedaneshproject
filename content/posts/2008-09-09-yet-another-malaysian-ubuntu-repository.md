@@ -1,6 +1,6 @@
 ---
 title: Yet another Malaysian Ubuntu repository
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-08T17:06:48+00:00
 robotsmeta:
   - index,follow

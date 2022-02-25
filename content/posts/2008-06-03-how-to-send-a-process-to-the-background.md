@@ -1,6 +1,6 @@
 ---
 title: How to send a process to the background
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-03T07:23:13+00:00
 pvc_views:
   - 35357

@@ -1,6 +1,6 @@
 ---
 title: ImageShack starts torrent service
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-16T15:32:54+00:00
 pvc_views:
   - 20581

@@ -1,6 +1,6 @@
 ---
 title: Another Malaysian URL shrinker, lynx.my
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-06T04:12:42+00:00
 aktt_notify_twitter:
   - no

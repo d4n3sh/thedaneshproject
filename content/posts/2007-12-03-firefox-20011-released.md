@@ -1,6 +1,6 @@
 ---
 title: Firefox 2.0.0.11 released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-03T15:30:58+00:00
 pvc_views:
   - 4924

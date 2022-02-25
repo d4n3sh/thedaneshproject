@@ -1,6 +1,6 @@
 ---
 title: 2 days to go till openSUSE 11.1
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-16T05:01:44+00:00
 pvc_views:
   - 2588

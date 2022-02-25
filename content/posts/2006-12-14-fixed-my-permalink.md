@@ -1,6 +1,6 @@
 ---
 title: Fixed my permalink | WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-14T12:30:18+00:00
 pvc_views:
   - 12126

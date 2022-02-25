@@ -1,6 +1,6 @@
 ---
 title: Super Monstrous Big Bad Wolf Book Sale December 2012
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-01T10:40:18+00:00
 pvc_views:
   - 2043

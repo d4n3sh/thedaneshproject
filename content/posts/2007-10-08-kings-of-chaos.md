@@ -1,6 +1,6 @@
 ---
 title: Kings Of Chaos
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-08T07:40:49+00:00
 pvc_views:
   - 6874

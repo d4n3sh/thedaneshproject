@@ -1,6 +1,6 @@
 ---
 title: Download Internet Explorer 8
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-24T14:00:09+00:00
 robotsmeta:
   - index,follow

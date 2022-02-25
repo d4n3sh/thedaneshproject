@@ -1,6 +1,6 @@
 ---
 title: rlslog down for now
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-26T20:42:45+00:00
 pvc_views:
   - 2184

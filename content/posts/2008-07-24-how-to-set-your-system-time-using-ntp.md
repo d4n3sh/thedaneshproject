@@ -1,6 +1,6 @@
 ---
 title: How to set your system time using NTP
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-24T08:13:27+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: 100 opensource applications
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-22T00:58:03+00:00
 pvc_views:
   - 1651

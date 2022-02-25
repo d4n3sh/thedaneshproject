@@ -1,6 +1,6 @@
 ---
 title: Sudo enable Yast in openSUSE 11
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-06T13:24:29+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.6.2 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-09T07:31:18+00:00
 robotsmeta:
   - index,follow

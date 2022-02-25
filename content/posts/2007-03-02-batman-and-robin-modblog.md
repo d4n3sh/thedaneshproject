@@ -1,6 +1,6 @@
 ---
 title: Batman and Robin tattoo|ModBlog
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-02T02:56:49+00:00
 pvc_views:
   - 3493

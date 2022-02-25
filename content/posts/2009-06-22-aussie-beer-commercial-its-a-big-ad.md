@@ -1,6 +1,6 @@
 ---
 title: Aussie Beer Commercial – It’s a big Ad
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-22T09:09:11+00:00
 aktt_notify_twitter:
   - no

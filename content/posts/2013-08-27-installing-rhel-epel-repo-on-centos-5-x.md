@@ -1,6 +1,6 @@
 ---
 title: Installing RHEL EPEL Repo on CentOS 5.x
-author: Danesh
+author: Danesh Manoharan
 date: 2013-08-27T08:15:23+00:00
 dsq_thread_id:
   - 1653411171

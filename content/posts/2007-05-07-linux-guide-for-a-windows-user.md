@@ -1,6 +1,6 @@
 ---
 title: Linux guide for a windows user
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-07T07:02:44+00:00
 pvc_views:
   - 2920

@@ -1,6 +1,6 @@
 ---
 title: Shiatsu Self Massage
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-16T20:52:08+00:00
 pvc_views:
   - 22219

@@ -1,6 +1,6 @@
 ---
 title: Updated my RSS feed
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-15T13:10:35+00:00
 robotsmeta:
   - index,follow

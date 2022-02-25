@@ -1,6 +1,6 @@
 ---
 title: How to install RpmForge in Fedora 15
-author: Danesh
+author: Danesh Manoharan
 date: 2011-06-08T02:22:16+00:00
 pvc_views:
   - 13753

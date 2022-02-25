@@ -1,6 +1,6 @@
 ---
 title: Vista not working with DHCP
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-04T01:44:31+00:00
 pvc_views:
   - 87603

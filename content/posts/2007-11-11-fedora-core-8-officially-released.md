@@ -1,6 +1,6 @@
 ---
 title: Fedora 8 Officially Released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-11T10:54:02+00:00
 pvc_views:
   - 1583

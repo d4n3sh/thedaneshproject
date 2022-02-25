@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.3.1 Beta 1 Released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-21T18:46:43+00:00
 pvc_views:
   - 2602

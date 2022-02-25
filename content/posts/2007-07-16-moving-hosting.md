@@ -1,6 +1,6 @@
 ---
 title: Moving hosting
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-16T08:10:53+00:00
 pvc_views:
   - 2931

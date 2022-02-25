@@ -1,6 +1,6 @@
 ---
 title: Malaysia Today Hacked!!
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-02T07:21:29+00:00
 robotsmeta:
   - index,follow

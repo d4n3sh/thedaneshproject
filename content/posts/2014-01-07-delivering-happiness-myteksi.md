@@ -1,6 +1,6 @@
 ---
 title: Delivering Happiness with MYTEKSI
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-07T15:09:02+00:00
 dsq_thread_id:
   - 2097864260

@@ -1,6 +1,6 @@
 ---
 title: Free SMS with Mobik
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-11T07:24:21+00:00
 pvc_views:
   - 12691

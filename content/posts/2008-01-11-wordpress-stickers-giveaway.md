@@ -1,6 +1,6 @@
 ---
 title: WordPress Stickers giveaway
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-11T02:00:13+00:00
 pvc_views:
   - 8062

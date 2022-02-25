@@ -1,6 +1,6 @@
 ---
 title: Skype service fully restored.
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-19T08:46:17+00:00
 pvc_views:
   - 2758

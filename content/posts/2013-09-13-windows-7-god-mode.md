@@ -1,6 +1,6 @@
 ---
 title: Windows 7 god mode
-author: Danesh
+author: Danesh Manoharan
 date: 2013-09-14T01:24:43+00:00
 dsq_thread_id:
   - 1755857124

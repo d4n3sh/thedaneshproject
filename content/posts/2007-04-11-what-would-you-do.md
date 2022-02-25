@@ -1,6 +1,6 @@
 ---
 title: What would you do?
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-11T10:42:00+00:00
 pvc_views:
   - 1973

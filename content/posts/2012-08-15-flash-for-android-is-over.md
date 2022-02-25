@@ -1,6 +1,6 @@
 ---
 title: Flash for Android is over
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-15T02:32:13+00:00
 pvc_views:
   - 1054

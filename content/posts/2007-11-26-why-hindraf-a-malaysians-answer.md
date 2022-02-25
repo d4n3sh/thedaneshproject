@@ -1,6 +1,6 @@
 ---
 title: Why HINDRAF? A Malaysians’ answer!
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-26T15:22:00+00:00
 pvc_views:
   - 4690

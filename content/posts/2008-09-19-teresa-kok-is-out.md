@@ -1,6 +1,6 @@
 ---
 title: Teresa Kok is out
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-19T07:15:18+00:00
 pvc_views:
   - 1151

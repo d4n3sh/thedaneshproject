@@ -1,6 +1,6 @@
 ---
 title: HongKiat.com defaced
-author: Danesh
+author: Danesh Manoharan
 date: 2007-06-26T09:24:05+00:00
 pvc_views:
   - 5511

@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Month Of Screencasts
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-01T17:59:01+00:00
 pvc_views:
   - 2011

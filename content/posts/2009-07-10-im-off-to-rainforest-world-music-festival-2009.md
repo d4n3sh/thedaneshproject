@@ -1,6 +1,6 @@
 ---
 title: I’m off to Rainforest World Music Festival 2009
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-09T17:32:31+00:00
 aktt_notify_twitter:
   - no

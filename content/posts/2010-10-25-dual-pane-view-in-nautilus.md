@@ -1,6 +1,6 @@
 ---
 title: Dual pane view in Nautilus
-author: Danesh
+author: Danesh Manoharan
 date: 2010-10-24T17:10:33+00:00
 pvc_views:
   - 2199

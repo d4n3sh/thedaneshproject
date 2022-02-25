@@ -1,6 +1,6 @@
 ---
 title: Yearly pilgrimage
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-27T02:10:42+00:00
 pvc_views:
   - 20906

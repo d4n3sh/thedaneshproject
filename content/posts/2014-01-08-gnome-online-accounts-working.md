@@ -1,6 +1,6 @@
 ---
 title: Gnome online accounts not working
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-08T15:58:18+00:00
 dsq_thread_id:
   - 2100332514

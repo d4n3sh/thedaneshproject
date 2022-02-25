@@ -1,6 +1,6 @@
 ---
 title: How to find the number of physical CPUs in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-14T09:52:29+00:00
 robotsmeta:
   - index,follow

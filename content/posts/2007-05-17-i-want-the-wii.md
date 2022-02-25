@@ -1,6 +1,6 @@
 ---
 title: I want the Wii!!
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-17T05:42:19+00:00
 pvc_views:
   - 2331

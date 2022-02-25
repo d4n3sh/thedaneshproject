@@ -1,6 +1,6 @@
 ---
 title: BRIBE-FREE MALAYSIAN car sticker
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-17T09:56:01+00:00
 aktt_notify_twitter:
   - no

@@ -1,6 +1,6 @@
 ---
 title: Oracle E-Delivery
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-12T16:39:51+00:00
 robotsmeta:
   - index,follow

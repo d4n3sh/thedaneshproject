@@ -1,6 +1,6 @@
 ---
 title: Free TUX stickers by Wing Loon
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-01T22:47:16+00:00
 robotsmeta:
   - index,follow

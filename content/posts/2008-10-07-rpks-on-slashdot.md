@@ -1,6 +1,6 @@
 ---
 title: RPK’s on Slashdot
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-07T08:55:52+00:00
 robotsmeta:
   - index,follow

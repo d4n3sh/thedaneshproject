@@ -1,6 +1,6 @@
 ---
 title: Downloading gOS
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-24T10:27:44+00:00
 pvc_views:
   - 8499

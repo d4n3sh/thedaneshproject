@@ -1,6 +1,6 @@
 ---
 title: Pirated vs. Legal DVD
-author: Danesh
+author: Danesh Manoharan
 date: 2010-02-21T04:13:33+00:00
 pvc_views:
   - 2423

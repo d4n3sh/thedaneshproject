@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.1.2 released. Urgent update!! | WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-04T16:04:05+00:00
 pvc_views:
   - 3656

@@ -1,6 +1,6 @@
 ---
 title: Google search does SSL
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-23T17:19:15+00:00
 pvc_views:
   - 2698

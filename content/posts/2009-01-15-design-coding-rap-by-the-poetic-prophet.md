@@ -1,6 +1,6 @@
 ---
 title: Design Coding Rap by The Poetic Prophet
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-15T12:33:28+00:00
 robotsmeta:
   - index,follow

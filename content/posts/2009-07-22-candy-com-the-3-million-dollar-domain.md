@@ -1,6 +1,6 @@
 ---
 title: candy.com the 3 million dollar domain
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-22T00:00:07+00:00
 aktt_notify_twitter:
   - no

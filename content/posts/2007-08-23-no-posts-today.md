@@ -1,6 +1,6 @@
 ---
 title: No posts today
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-23T12:02:11+00:00
 pvc_views:
   - 1818

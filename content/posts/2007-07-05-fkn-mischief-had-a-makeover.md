@@ -1,6 +1,6 @@
 ---
 title: F’kn Mischief had a makeover
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-05T16:32:14+00:00
 pvc_views:
   - 1468

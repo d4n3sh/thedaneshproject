@@ -1,6 +1,6 @@
 ---
 title: Looking inside the Apple MacBook Air
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-06T04:38:06+00:00
 pvc_views:
   - 25370

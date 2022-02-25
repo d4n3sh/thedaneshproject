@@ -1,6 +1,6 @@
 ---
 title: Rambo 4, my review
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-27T09:46:39+00:00
 pvc_views:
   - 10826

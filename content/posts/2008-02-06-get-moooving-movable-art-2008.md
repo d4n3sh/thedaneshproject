@@ -1,6 +1,6 @@
 ---
 title: Get Moooving Movable Art 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-05T18:14:17+00:00
 pvc_views:
   - 3529

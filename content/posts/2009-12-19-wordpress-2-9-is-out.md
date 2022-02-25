@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.9 is out
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-19T03:09:47+00:00
 pvc_views:
   - 1923

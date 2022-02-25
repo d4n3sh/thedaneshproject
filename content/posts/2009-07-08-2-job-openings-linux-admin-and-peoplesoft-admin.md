@@ -1,6 +1,6 @@
 ---
 title: 2 job openings, Linux admin and PeopleSoft admin
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-07T16:58:44+00:00
 aktt_notify_twitter:
   - no

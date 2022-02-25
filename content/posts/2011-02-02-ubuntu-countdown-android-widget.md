@@ -1,6 +1,6 @@
 ---
 title: Ubuntu countdown android widget
-author: Danesh
+author: Danesh Manoharan
 date: 2011-02-02T09:17:55+00:00
 pvc_views:
   - 2464

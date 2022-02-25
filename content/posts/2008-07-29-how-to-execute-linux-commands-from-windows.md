@@ -1,6 +1,6 @@
 ---
 title: How To Execute Linux commands from Windows
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-28T16:35:11+00:00
 robotsmeta:
   - index,follow

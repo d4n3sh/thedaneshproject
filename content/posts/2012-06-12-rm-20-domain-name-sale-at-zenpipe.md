@@ -1,6 +1,6 @@
 ---
 title: RM 20 Domain Name Sale at Zenpipe
-author: Danesh
+author: Danesh Manoharan
 date: 2012-06-12T08:44:19+00:00
 pvc_views:
   - 2006

@@ -1,6 +1,6 @@
 ---
 title: PayPal phishing
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-24T18:14:48+00:00
 pvc_views:
   - 6928

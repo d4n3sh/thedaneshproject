@@ -1,6 +1,6 @@
 ---
 title: Tattooed Professors Recruit Students
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-12T10:36:01+00:00
 pvc_views:
   - 2025

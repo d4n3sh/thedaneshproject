@@ -1,6 +1,6 @@
 ---
 title: mkfifo | Linux Command
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-22T08:18:38+00:00
 pvc_views:
   - 9089

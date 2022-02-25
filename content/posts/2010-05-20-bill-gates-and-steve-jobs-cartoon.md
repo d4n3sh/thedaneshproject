@@ -1,6 +1,6 @@
 ---
 title: Bill Gates And Steve Jobs Cartoon
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-20T10:02:41+00:00
 pvc_views:
   - 6154

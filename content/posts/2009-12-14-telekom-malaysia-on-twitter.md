@@ -1,6 +1,6 @@
 ---
 title: Telekom Malaysia on Twitter
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-14T06:00:55+00:00
 pvc_views:
   - 1343

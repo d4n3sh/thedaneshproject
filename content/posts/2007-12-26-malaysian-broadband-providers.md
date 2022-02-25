@@ -1,6 +1,6 @@
 ---
 title: Malaysian broadband providers
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-26T02:00:57+00:00
 pvc_views:
   - 49174

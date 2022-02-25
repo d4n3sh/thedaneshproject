@@ -1,6 +1,6 @@
 ---
 title: 'Torrents: ISO Hunt shutdown by MPAA!!'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-17T20:39:23+00:00
 pvc_views:
   - 7002

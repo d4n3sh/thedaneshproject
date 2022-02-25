@@ -1,6 +1,6 @@
 ---
 title: Seesmic acquires Ping.fm
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-06T01:48:33+00:00
 pvc_views:
   - 1933

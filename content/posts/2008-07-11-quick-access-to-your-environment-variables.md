@@ -1,6 +1,6 @@
 ---
 title: quick access to your environment variables
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-11T06:54:20+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: How to find partition UUID on Arch Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2013-10-22T15:31:07+00:00
 dsq_thread_id:
   - 1887215485

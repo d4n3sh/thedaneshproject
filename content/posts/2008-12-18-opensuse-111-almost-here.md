@@ -1,6 +1,6 @@
 ---
 title: openSUSE 11.1 almost here
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-18T01:46:29+00:00
 robotsmeta:
   - index,follow

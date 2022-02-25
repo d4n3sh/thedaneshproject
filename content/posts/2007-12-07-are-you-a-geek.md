@@ -1,6 +1,6 @@
 ---
 title: Are you a geek?
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-07T04:10:00+00:00
 pvc_views:
   - 7517

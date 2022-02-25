@@ -1,6 +1,6 @@
 ---
 title: Permatang Pauh by-election results soon
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-26T11:49:33+00:00
 robotsmeta:
   - index,follow

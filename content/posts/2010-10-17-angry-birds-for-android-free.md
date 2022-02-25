@@ -1,6 +1,6 @@
 ---
 title: Angry Birds for Android, Free
-author: Danesh
+author: Danesh Manoharan
 date: 2010-10-17T15:14:16+00:00
 pvc_views:
   - 3179

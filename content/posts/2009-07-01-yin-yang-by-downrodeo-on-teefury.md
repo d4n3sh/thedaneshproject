@@ -1,6 +1,6 @@
 ---
 title: Yin Yang by downrodeo on TEEFury
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-01T10:12:36+00:00
 aktt_notify_twitter:
   - no

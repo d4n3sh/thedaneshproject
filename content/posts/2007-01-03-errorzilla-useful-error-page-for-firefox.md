@@ -1,6 +1,6 @@
 ---
 title: ErrorZilla – Useful error page for Firefox
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-03T03:50:31+00:00
 pvc_views:
   - 1389

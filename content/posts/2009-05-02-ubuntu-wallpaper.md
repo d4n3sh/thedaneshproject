@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Wallpaper
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-01T19:38:34+00:00
 aktt_notify_twitter:
   - no

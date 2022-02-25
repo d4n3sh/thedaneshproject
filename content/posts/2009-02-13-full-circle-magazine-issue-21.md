@@ -1,6 +1,6 @@
 ---
 title: Full Circle Magazine Issue 21
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-13T02:00:43+00:00
 robotsmeta:
   - index,follow

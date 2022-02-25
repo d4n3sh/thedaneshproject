@@ -1,6 +1,6 @@
 ---
 title: Received my Ubuntu 8.04 LTS
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-27T16:38:25+00:00
 pvc_views:
   - 6087

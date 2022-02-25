@@ -1,6 +1,6 @@
 ---
 title: Google Public DNS down?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-27T05:38:04+00:00
 pvc_views:
   - 2785

@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.3 Plugin Compatibility List
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-17T05:46:45+00:00
 pvc_views:
   - 3001

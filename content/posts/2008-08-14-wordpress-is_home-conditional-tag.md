@@ -1,6 +1,6 @@
 ---
 title: WordPress is_home() conditional tag
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-14T09:04:11+00:00
 robotsmeta:
   - index,follow

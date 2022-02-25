@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.1.1 released | WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-22T03:41:46+00:00
 pvc_views:
   - 4560

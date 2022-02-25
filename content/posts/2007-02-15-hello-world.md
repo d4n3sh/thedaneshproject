@@ -1,6 +1,6 @@
 ---
 title: Hello world! The new begining, again!!
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-15T10:54:16+00:00
 pvc_views:
   - 12206

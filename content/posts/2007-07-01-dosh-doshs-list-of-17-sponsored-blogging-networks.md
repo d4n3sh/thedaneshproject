@@ -1,6 +1,6 @@
 ---
 title: Dosh Dosh’s List of 17 Sponsored Blogging Networks
-author: Danesh
+author: Danesh Manoharan
 date: 2007-06-30T17:57:06+00:00
 pvc_views:
   - 2612

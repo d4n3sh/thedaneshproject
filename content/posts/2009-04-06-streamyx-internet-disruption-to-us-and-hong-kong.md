@@ -1,6 +1,6 @@
 ---
 title: Streamyx Internet disruption to US and Hong Kong
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-05T16:47:43+00:00
 robotsmeta:
   - index,follow

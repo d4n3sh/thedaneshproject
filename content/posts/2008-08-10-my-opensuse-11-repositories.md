@@ -1,6 +1,6 @@
 ---
 title: My openSUSE 11 repositories
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-10T09:15:08+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: I have an iPhone!!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-03T08:03:39+00:00
 pvc_views:
   - 983

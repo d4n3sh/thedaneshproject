@@ -1,6 +1,6 @@
 ---
 title: Deluge BitTorrent Client 0.5.8.1 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-21T06:12:25+00:00
 pvc_views:
   - 6320

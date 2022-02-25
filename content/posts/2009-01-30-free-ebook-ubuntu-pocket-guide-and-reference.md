@@ -1,6 +1,6 @@
 ---
 title: 'Free eBook : Ubuntu Pocket Guide and Reference'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-30T06:55:31+00:00
 pvc_views:
   - 5488

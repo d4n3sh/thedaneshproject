@@ -1,6 +1,6 @@
 ---
 title: Top 10 Worst Company URLs
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-21T22:05:11+00:00
 pvc_views:
   - 9347

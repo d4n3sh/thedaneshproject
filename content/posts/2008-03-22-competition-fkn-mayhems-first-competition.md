@@ -1,6 +1,6 @@
 ---
 title: 'Competition: F’kn Mayhem’s first competition'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-22T15:57:51+00:00
 pvc_views:
   - 1637

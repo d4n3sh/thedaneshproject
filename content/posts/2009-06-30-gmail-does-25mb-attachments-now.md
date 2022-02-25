@@ -1,6 +1,6 @@
 ---
 title: Gmail does 25MB attachments now
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-30T00:00:23+00:00
 aktt_notify_twitter:
   - no

@@ -1,6 +1,6 @@
 ---
 title: Malaysian Proxy Servers
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-11T06:18:39+00:00
 pvc_views:
   - 8918

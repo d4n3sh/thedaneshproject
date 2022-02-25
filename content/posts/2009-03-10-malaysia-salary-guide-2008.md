@@ -1,6 +1,6 @@
 ---
 title: Malaysia Salary Guide 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-09T18:45:45+00:00
 robotsmeta:
   - index,follow

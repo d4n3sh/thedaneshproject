@@ -1,6 +1,6 @@
 ---
 title: Malaysian Web Hosting
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-19T02:45:51+00:00
 pvc_views:
   - 18412

@@ -1,6 +1,6 @@
 ---
 title: Linux is like religion
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-19T02:10:04+00:00
 pvc_views:
   - 2495

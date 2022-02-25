@@ -1,6 +1,6 @@
 ---
 title: Bash Completion on CentOS 5
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-09T07:19:08+00:00
 pvc_views:
   - 16059

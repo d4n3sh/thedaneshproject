@@ -1,6 +1,6 @@
 ---
 title: 15Malaysia by Pete Teo
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-18T10:20:25+00:00
 aktt_notify_twitter:
   - no

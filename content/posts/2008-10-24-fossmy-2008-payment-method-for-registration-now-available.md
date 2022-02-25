@@ -1,6 +1,6 @@
 ---
 title: FOSS.my 2008 Payment method for registration now available
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-24T03:57:02+00:00
 robotsmeta:
   - index,follow

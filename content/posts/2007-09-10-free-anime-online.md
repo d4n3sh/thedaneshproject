@@ -1,6 +1,6 @@
 ---
 title: Free anime online at AnimeMafia
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-10T12:46:16+00:00
 pvc_views:
   - 5273

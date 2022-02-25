@@ -1,6 +1,6 @@
 ---
 title: Follow the Dalai Lama on Twitter
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-10T09:17:56+00:00
 robotsmeta:
   - index,follow

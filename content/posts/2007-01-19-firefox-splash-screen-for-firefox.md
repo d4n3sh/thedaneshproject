@@ -1,6 +1,6 @@
 ---
 title: 'Firefox: Splash Screen for Firefox'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-18T20:28:14+00:00
 pvc_views:
   - 4285

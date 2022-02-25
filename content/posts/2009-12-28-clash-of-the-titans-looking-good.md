@@ -1,6 +1,6 @@
 ---
 title: Clash of the Titans looking good
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-28T05:04:42+00:00
 pvc_views:
   - 1673

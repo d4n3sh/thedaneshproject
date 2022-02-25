@@ -1,6 +1,6 @@
 ---
 title: Square is for everyone now
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-11T17:08:29+00:00
 pvc_views:
   - 2683

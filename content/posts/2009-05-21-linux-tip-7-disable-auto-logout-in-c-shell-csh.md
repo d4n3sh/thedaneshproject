@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #7: Disable auto logout in C Shell (csh)'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-20T18:24:10+00:00
 aktt_notify_twitter:
   - no

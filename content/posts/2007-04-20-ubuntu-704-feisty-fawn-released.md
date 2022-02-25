@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 7.04 (Feisty Fawn) released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-20T02:08:46+00:00
 pvc_views:
   - 3162

@@ -1,6 +1,6 @@
 ---
 title: Install minikube on Ubuntu 20.10
-author: Danesh
+author: Danesh Manoharan
 date: 2020-11-07T00:33:25+00:00
 
 ---

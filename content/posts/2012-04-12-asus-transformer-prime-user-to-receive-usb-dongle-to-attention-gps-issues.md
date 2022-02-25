@@ -1,6 +1,6 @@
 ---
 title: Asus Transformer Prime user to receive USB dongle to attention GPS issues.
-author: Danesh
+author: Danesh Manoharan
 date: 2012-04-12T13:12:48+00:00
 pvc_views:
   - 2605

@@ -1,6 +1,6 @@
 ---
 title: Videos now on Flickr
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-14T07:26:36+00:00
 pvc_views:
   - 4461

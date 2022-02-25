@@ -1,6 +1,6 @@
 ---
 title: P1W1MAX modem now with WIFI
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-14T17:03:34+00:00
 aktt_notify_twitter:
   - no

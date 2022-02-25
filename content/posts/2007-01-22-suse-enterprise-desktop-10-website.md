@@ -1,6 +1,6 @@
 ---
 title: SUSE Enterprise Desktop 10 website
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-22T03:18:41+00:00
 pvc_views:
   - 1799

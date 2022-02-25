@@ -1,6 +1,6 @@
 ---
 title: Kingston releases 128GB Data Traveler 200 USB flsh drive
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-25T00:00:18+00:00
 aktt_notify_twitter:
   - no

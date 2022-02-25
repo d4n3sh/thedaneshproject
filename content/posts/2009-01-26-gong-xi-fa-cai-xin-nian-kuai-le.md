@@ -1,6 +1,6 @@
 ---
 title: Gong Xi Fa Cai , Xin Nian Kuai Le
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-26T12:15:04+00:00
 robotsmeta:
   - index,follow

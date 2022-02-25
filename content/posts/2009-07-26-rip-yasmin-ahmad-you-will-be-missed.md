@@ -1,6 +1,6 @@
 ---
 title: RIP Yasmin Ahmad, you will be missed
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-25T21:49:20+00:00
 aktt_notify_twitter:
   - no

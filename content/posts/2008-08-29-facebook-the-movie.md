@@ -1,6 +1,6 @@
 ---
 title: Facebook the movie
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-29T03:00:57+00:00
 robotsmeta:
   - index,follow

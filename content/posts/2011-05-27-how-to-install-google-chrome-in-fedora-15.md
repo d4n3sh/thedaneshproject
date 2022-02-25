@@ -1,6 +1,6 @@
 ---
 title: How to install Google Chrome in Fedora 15
-author: Danesh
+author: Danesh Manoharan
 date: 2011-05-27T23:37:06+00:00
 pvc_views:
   - 9145

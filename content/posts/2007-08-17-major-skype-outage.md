@@ -1,6 +1,6 @@
 ---
 title: Major Skype outage
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-16T19:04:44+00:00
 pvc_views:
   - 4085

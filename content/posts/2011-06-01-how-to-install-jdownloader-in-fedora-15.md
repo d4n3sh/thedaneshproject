@@ -1,6 +1,6 @@
 ---
 title: How to install JDownloader in Fedora 15
-author: Danesh
+author: Danesh Manoharan
 date: 2011-06-01T04:06:59+00:00
 pvc_views:
   - 16888

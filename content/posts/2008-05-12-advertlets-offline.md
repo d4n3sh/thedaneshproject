@@ -1,6 +1,6 @@
 ---
 title: advertlets offline
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-11T16:27:03+00:00
 pvc_views:
   - 2399

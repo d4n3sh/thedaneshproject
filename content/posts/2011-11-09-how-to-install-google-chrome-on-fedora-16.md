@@ -1,6 +1,6 @@
 ---
 title: How to install Google Chrome on Fedora 16
-author: Danesh
+author: Danesh Manoharan
 date: 2011-11-09T12:09:39+00:00
 pvc_views:
   - 11713

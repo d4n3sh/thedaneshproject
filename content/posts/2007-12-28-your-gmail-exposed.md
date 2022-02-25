@@ -1,6 +1,6 @@
 ---
 title: Your Gmail Exposed
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-28T02:00:28+00:00
 pvc_views:
   - 10096

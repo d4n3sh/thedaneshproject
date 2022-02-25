@@ -1,6 +1,6 @@
 ---
 title: Malaysian GSOC student in the media
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-29T18:41:22+00:00
 robotsmeta:
   - index,follow

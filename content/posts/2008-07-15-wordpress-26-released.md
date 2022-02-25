@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.6 Released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-15T14:14:31+00:00
 robotsmeta:
   - index,follow

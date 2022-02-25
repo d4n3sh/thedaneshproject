@@ -1,6 +1,6 @@
 ---
 title: Inspiring WWF ads
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-27T00:00:48+00:00
 aktt_notify_twitter:
   - no

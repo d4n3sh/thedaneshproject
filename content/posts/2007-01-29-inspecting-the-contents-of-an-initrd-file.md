@@ -1,6 +1,6 @@
 ---
 title: Inspecting the contents of an initrd file.
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-29T09:01:18+00:00
 pvc_views:
   - 5112

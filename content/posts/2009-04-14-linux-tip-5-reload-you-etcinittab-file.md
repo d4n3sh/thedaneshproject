@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #5: Reload you /etc/inittab file'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-14T11:19:10+00:00
 robotsmeta:
   - index,follow

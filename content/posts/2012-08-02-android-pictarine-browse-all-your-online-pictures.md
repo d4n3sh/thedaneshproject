@@ -1,6 +1,6 @@
 ---
 title: 'Android: Pictarine, browse all your online pictures.'
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-01T16:46:06+00:00
 pvc_views:
   - 1102

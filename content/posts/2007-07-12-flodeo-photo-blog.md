@@ -1,6 +1,6 @@
 ---
 title: Flodeo photo blog
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-12T00:00:48+00:00
 pvc_views:
   - 4613

@@ -1,6 +1,6 @@
 ---
 title: Sneak Peak at Amarok 2
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-02T08:50:22+00:00
 robotsmeta:
   - index,follow

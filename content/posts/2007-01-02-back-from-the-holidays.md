@@ -1,6 +1,6 @@
 ---
 title: Back from the holidays
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-02T02:58:34+00:00
 pvc_views:
   - 1458

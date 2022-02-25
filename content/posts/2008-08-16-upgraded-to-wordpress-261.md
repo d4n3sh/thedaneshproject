@@ -1,6 +1,6 @@
 ---
 title: Upgraded to WordPress 2.6.1
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-16T12:24:30+00:00
 robotsmeta:
   - index,follow

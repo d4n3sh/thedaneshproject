@@ -1,6 +1,6 @@
 ---
 title: Demonoid goes down
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-12T05:34:02+00:00
 pvc_views:
   - 3235

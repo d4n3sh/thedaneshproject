@@ -1,6 +1,6 @@
 ---
 title: Twitter’s World Cup Page
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-11T09:17:50+00:00
 pvc_views:
   - 3888

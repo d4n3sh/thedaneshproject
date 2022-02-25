@@ -1,6 +1,6 @@
 ---
 title: Malaysia Today moving
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-02T00:14:46+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Auto upgrade Firefox 2 to Firefox 3
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-26T08:24:12+00:00
 robotsmeta:
   - index,follow

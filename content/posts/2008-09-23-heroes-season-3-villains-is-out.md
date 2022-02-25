@@ -1,6 +1,6 @@
 ---
 title: 'Heroes Season 3: Villains is out'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-23T08:10:31+00:00
 pvc_views:
   - 6758

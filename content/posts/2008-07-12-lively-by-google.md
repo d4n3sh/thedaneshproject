@@ -1,6 +1,6 @@
 ---
 title: Lively by Google
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-12T10:35:46+00:00
 robotsmeta:
   - index,follow

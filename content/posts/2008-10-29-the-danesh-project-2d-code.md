@@ -1,6 +1,6 @@
 ---
 title: The Danesh Project 2D Code
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-29T09:40:44+00:00
 robotsmeta:
   - index,follow

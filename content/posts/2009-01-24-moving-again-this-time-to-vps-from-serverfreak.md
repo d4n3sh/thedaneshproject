@@ -1,6 +1,6 @@
 ---
 title: Moving again, this time to VPS from ServerFreak
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-23T20:11:18+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Firefox slow on Ubuntu 10.04
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-06T03:36:05+00:00
 pvc_views:
   - 2814

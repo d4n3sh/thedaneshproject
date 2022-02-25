@@ -1,6 +1,6 @@
 ---
 title: How to keep your Linux session alive
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-18T13:43:37+00:00
 pvc_views:
   - 5315

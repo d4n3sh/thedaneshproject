@@ -1,6 +1,6 @@
 ---
 title: Should Badawi (Pak Lah) resign?
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-09T13:44:37+00:00
 pvc_views:
   - 10953

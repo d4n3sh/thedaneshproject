@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.5 Released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-29T19:31:15+00:00
 pvc_views:
   - 7550

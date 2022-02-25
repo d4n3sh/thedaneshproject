@@ -1,6 +1,6 @@
 ---
 title: Google Earth for Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-04-24T03:10:47+00:00
 pvc_views:
   - 9916

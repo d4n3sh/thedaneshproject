@@ -1,6 +1,6 @@
 ---
 title: Get your free ORACLE Unbreakable Linux DVD kit.
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-06T10:25:47+00:00
 pvc_views:
   - 7575

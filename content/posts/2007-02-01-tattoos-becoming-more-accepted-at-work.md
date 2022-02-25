@@ -1,6 +1,6 @@
 ---
 title: Tattoos Becoming More Accepted At Work
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-31T20:50:21+00:00
 pvc_views:
   - 2981

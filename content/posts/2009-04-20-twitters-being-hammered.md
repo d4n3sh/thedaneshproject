@@ -1,6 +1,6 @@
 ---
 title: Twitter’s being hammered
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-20T02:02:36+00:00
 robotsmeta:
   - index,follow

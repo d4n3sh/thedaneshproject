@@ -1,6 +1,6 @@
 ---
 title: Flipboard for Android leaked!!
-author: Danesh
+author: Danesh Manoharan
 date: 2012-05-09T12:40:03+00:00
 pvc_views:
   - 3368

@@ -1,6 +1,6 @@
 ---
 title: 'LPI 101 & 102 Training , I-WORLD'
-author: Danesh
+author: Danesh Manoharan
 date: 2010-10-19T05:25:30+00:00
 pvc_views:
   - 2010

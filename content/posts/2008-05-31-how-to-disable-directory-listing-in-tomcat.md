@@ -1,6 +1,6 @@
 ---
 title: How to disable directory listing in Tomcat
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-30T19:27:47+00:00
 pvc_views:
   - 10744

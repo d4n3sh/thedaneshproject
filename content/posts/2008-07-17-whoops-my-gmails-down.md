@@ -1,6 +1,6 @@
 ---
 title: Whoops, my Gmail’s down
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-17T06:01:26+00:00
 robotsmeta:
   - index,follow

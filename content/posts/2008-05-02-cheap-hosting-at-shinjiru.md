@@ -1,6 +1,6 @@
 ---
 title: Cheap hosting at Shinjiru
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-02T13:21:18+00:00
 pvc_views:
   - 10731

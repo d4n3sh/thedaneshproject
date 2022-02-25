@@ -1,6 +1,6 @@
 ---
 title: 'How Do I Check In [Off the Grid] in FourSquare'
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-05T18:55:10+00:00
 pvc_views:
   - 3909

@@ -1,6 +1,6 @@
 ---
 title: Red Hat updated RCHT and RCHE exams
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-02T17:06:35+00:00
 aktt_notify_twitter:
   - no

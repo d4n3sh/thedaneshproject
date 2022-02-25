@@ -1,6 +1,6 @@
 ---
 title: 'Adobe: Flash 9 released for Linux'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-18T20:56:38+00:00
 pvc_views:
   - 2505

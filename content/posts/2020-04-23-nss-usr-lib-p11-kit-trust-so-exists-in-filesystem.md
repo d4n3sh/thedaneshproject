@@ -1,6 +1,6 @@
 ---
 title: 'nss: /usr/lib/p11-kit-trust.so exists in filesystem'
-author: Danesh
+author: Danesh Manoharan
 date: 2020-04-23T10:18:20+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: How To Install Jelly Bean on 4.2 on Galaxy Nexus 7 WiFi JZO54K
-author: Danesh
+author: Danesh Manoharan
 date: 2012-11-14T08:22:21+00:00
 pvc_views:
   - 1349

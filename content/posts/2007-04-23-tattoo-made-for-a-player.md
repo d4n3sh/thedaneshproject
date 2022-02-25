@@ -1,6 +1,6 @@
 ---
 title: Tattoo made for a player
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-22T16:39:45+00:00
 pvc_views:
   - 6962

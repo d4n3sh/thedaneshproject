@@ -1,6 +1,6 @@
 ---
 title: Computer Friends by Sniper Twins
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-04T02:33:21+00:00
 pvc_views:
   - 3160

@@ -1,6 +1,6 @@
 ---
 title: How to add static routes in IPCop
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-25T03:45:53+00:00
 robotsmeta:
   - index,follow

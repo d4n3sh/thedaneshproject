@@ -1,6 +1,6 @@
 ---
 title: How to control your TV with your Astro B.yond remote control
-author: Danesh
+author: Danesh Manoharan
 date: 2013-09-17T00:00:01+00:00O
 ---
 {{< figure alt="astro byond remote map" src="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png" align="center" >}}

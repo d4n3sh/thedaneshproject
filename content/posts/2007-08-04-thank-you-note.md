@@ -1,6 +1,6 @@
 ---
 title: Thank you note
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-03T16:50:42+00:00
 pvc_views:
   - 3994

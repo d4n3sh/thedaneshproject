@@ -1,6 +1,6 @@
 ---
 title: 20 free Linux eBooks by Linux Links
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-07T04:19:02+00:00
 robotsmeta:
   - index,follow

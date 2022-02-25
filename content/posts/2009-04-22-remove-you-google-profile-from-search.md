@@ -1,6 +1,6 @@
 ---
 title: Remove you Google profile from search
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-22T04:20:19+00:00
 robotsmeta:
   - index,follow

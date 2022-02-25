@@ -1,6 +1,6 @@
 ---
 title: How to disable the beep in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-19T16:54:01+00:00
 pvc_views:
   - 26564

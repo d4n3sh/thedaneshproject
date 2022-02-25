@@ -1,6 +1,6 @@
 ---
 title: 'Must try!! AT&T Labs text-to-speech demo.'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-29T01:00:17+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: Latest Transformers Poster
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-04T08:09:15+00:00
 aktt_notify_twitter:
   - no

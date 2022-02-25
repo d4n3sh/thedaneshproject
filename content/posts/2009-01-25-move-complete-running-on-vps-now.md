@@ -1,6 +1,6 @@
 ---
 title: Move complete, running on VPS now
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-25T02:03:15+00:00
 robotsmeta:
   - index,follow

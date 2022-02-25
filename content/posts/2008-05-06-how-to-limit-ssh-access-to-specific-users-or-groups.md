@@ -1,6 +1,6 @@
 ---
 title: How to limit ssh access to specific users or groups
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-06T02:00:23+00:00
 pvc_views:
   - 17846

@@ -1,6 +1,6 @@
 ---
 title: Oprah’s coming to Twitter
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-17T10:10:17+00:00
 robotsmeta:
   - index,follow

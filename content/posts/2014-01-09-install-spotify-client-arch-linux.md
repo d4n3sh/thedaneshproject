@@ -1,6 +1,6 @@
 ---
 title: How to Install Spotify client on Arch Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-09T14:40:54+00:00
 dsq_thread_id:
   - 2102524860

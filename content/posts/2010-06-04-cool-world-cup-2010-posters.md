@@ -1,6 +1,6 @@
 ---
 title: Cool World Cup 2010 Posters
-author: Danesh
+author: Danesh Manoharan
 date: 2010-06-04T10:55:13+00:00
 pvc_views:
   - 3228

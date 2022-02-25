@@ -1,6 +1,6 @@
 ---
 title: 'eBook: Linux Kernel in a Nutshell'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-15T02:22:10+00:00
 pvc_views:
   - 2827

@@ -1,6 +1,6 @@
 ---
 title: Facebook adds usernames
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-16T17:52:30+00:00
 aktt_notify_twitter:
   - no

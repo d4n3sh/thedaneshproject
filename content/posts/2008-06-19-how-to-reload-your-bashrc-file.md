@@ -1,6 +1,6 @@
 ---
 title: How to reload your bashrc file
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-19T10:26:38+00:00
 pvc_views:
   - 25285

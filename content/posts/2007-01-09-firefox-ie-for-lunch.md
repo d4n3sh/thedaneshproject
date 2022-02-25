@@ -1,6 +1,6 @@
 ---
 title: 'Firefox: IE for lunch?'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-09T03:49:48+00:00
 pvc_views:
   - 1220

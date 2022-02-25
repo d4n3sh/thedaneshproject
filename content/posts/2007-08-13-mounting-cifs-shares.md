@@ -1,6 +1,6 @@
 ---
 title: Mounting CIFS shares
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-12T18:26:06+00:00
 pvc_views:
   - 6795

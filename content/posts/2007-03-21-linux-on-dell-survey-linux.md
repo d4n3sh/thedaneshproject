@@ -1,6 +1,6 @@
 ---
 title: Linux On Dell Survey | Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2007-03-21T02:49:27+00:00
 pvc_views:
   - 1250

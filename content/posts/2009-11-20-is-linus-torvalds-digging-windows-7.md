@@ -1,6 +1,6 @@
 ---
 title: Is Linus Torvalds digging Windows 7?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-21T00:29:22+00:00
 pvc_views:
   - 1643

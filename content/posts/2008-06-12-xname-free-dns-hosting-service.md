@@ -1,6 +1,6 @@
 ---
 title: XName free DNS hosting service
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-12T08:53:02+00:00
 pvc_views:
   - 9920

@@ -1,6 +1,6 @@
 ---
 title: My first post;
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-12T05:29:54+00:00
 pvc_views:
   - 16824

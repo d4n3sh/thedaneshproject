@@ -1,6 +1,6 @@
 ---
 title: HOUSE by Linus Chung
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-24T13:14:03+00:00
 aktt_notify_twitter:
   - no

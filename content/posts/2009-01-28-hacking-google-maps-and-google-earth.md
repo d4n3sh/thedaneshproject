@@ -1,6 +1,6 @@
 ---
 title: Hacking Google Maps and Google Earth
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-27T17:15:35+00:00
 robotsmeta:
   - index,follow

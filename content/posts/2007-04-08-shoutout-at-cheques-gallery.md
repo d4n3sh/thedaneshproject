@@ -1,6 +1,6 @@
 ---
 title: Shoutout at cheques gallery
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-08T14:48:50+00:00
 pvc_views:
   - 1471

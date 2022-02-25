@@ -1,6 +1,6 @@
 ---
 title: New player to fight spam, Defensio
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-12T11:43:22+00:00
 pvc_views:
   - 7063

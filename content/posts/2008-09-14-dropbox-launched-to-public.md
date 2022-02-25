@@ -1,6 +1,6 @@
 ---
 title: Dropbox launched to public
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-14T23:38:59+00:00
 robotsmeta:
   - index,follow

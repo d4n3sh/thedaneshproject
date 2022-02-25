@@ -1,6 +1,6 @@
 ---
 title: Streamyx 4.0 mbps
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-17T12:47:27+00:00
 pvc_views:
   - 4253

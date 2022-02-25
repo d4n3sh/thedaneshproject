@@ -1,6 +1,6 @@
 ---
 title: PS3 meets Facebook in PS3 update 3.10
-author: Danesh
+author: Danesh Manoharan
 date: 2009-11-17T14:14:41+00:00
 pvc_views:
   - 4400

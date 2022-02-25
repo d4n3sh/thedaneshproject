@@ -1,6 +1,6 @@
 ---
 title: Server time slow
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-16T18:43:15+00:00
 pvc_views:
   - 9175

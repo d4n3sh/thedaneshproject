@@ -1,6 +1,6 @@
 ---
 title: How to install Java 7 on Ubuntu 12.04 LTS
-author: Danesh
+author: Danesh Manoharan
 date: 2012-05-14T21:00:50+00:00
 pvc_views:
   - 25327

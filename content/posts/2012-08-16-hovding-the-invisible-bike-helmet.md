@@ -1,6 +1,6 @@
 ---
 title: HÖVDING , The invisible bike helmet
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-15T17:20:49+00:00
 pvc_views:
   - 1706

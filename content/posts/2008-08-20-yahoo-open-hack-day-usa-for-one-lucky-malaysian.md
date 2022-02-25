@@ -1,6 +1,6 @@
 ---
 title: Yahoo! Open Hack Day (USA) for one lucky Malaysian
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-19T17:58:17+00:00
 robotsmeta:
   - index,follow

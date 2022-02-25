@@ -1,6 +1,6 @@
 ---
 title: Live Streaming Video of the Swearing-in of Barack Obama
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-20T16:36:53+00:00
 pvc_views:
   - 3471

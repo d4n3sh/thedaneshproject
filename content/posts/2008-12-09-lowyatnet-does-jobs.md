@@ -1,6 +1,6 @@
 ---
 title: lowyat.net does jobs
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-09T15:28:08+00:00
 robotsmeta:
   - index,follow

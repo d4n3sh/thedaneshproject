@@ -1,6 +1,6 @@
 ---
 title: Monitor your servers with Uptime Party
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-14T17:12:16+00:00
 robotsmeta:
   - index,follow

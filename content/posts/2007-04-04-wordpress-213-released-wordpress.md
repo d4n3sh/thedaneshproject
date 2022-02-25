@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.1.3 released | WordPress
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-04T01:50:53+00:00
 pvc_views:
   - 1055

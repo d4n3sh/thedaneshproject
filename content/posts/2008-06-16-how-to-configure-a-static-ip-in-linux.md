@@ -1,6 +1,6 @@
 ---
 title: How to configure a static ip in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-06-16T14:56:20+00:00
 pvc_views:
   - 71614

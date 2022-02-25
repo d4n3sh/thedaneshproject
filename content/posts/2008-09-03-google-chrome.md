@@ -1,6 +1,6 @@
 ---
 title: Google Chrome
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-04T01:51:25+00:00
 robotsmeta:
   - index,follow

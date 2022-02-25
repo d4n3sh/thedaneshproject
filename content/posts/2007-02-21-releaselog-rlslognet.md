@@ -1,6 +1,6 @@
 ---
 title: Releaselog | RLSLOG.net
-author: Danesh
+author: Danesh Manoharan
 date: 2007-02-21T11:03:18+00:00
 pvc_views:
   - 18947

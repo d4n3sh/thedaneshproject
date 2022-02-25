@@ -1,6 +1,6 @@
 ---
 title: Facebook hits 150 million users
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-09T05:28:59+00:00
 robotsmeta:
   - index,follow

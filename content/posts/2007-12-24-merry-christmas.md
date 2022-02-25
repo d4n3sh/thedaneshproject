@@ -1,6 +1,6 @@
 ---
 title: Merry Christmas
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-24T12:00:29+00:00
 pvc_views:
   - 2214

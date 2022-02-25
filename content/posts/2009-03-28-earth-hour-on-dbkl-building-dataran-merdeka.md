@@ -1,6 +1,6 @@
 ---
 title: Earth Hour on DBKL Building @ Dataran Merdeka
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-28T08:07:50+00:00
 robotsmeta:
   - index,follow

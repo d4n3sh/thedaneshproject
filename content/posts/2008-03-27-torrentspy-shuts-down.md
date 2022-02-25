@@ -1,6 +1,6 @@
 ---
 title: Torrentspy shuts down
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-27T12:45:17+00:00
 pvc_views:
   - 3567

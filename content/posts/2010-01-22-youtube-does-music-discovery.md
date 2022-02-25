@@ -1,6 +1,6 @@
 ---
 title: YouTube does music discovery
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-22T03:37:21+00:00
 pvc_views:
   - 6131

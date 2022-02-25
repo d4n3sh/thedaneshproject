@@ -1,6 +1,6 @@
 ---
 title: FOSS.MY 2009 Fees updated
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-14T04:18:27+00:00
 aktt_notify_twitter:
   - no

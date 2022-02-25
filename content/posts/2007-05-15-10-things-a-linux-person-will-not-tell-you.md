@@ -1,6 +1,6 @@
 ---
 title: 10 Things a Linux person will not tell you
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-15T06:20:18+00:00
 pvc_views:
   - 2275

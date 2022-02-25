@@ -1,6 +1,6 @@
 ---
 title: Beijing 2008 is over
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-27T01:00:07+00:00
 robotsmeta:
   - index,follow

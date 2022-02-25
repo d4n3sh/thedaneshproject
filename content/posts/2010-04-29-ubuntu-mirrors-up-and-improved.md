@@ -1,6 +1,6 @@
 ---
 title: Ubuntu mirrors up and improved!
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-29T05:03:44+00:00
 pvc_views:
   - 1662

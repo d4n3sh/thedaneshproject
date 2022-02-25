@@ -1,6 +1,6 @@
 ---
 title: Where to buy Google Nexus 7 in Malaysia
-author: Danesh
+author: Danesh Manoharan
 date: 2012-09-25T03:36:10+00:00
 pvc_views:
   - 2176

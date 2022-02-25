@@ -1,6 +1,6 @@
 ---
 title: Fedora 9 “Sulphur” Screenshots
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-17T03:37:30+00:00
 pvc_views:
   - 5614

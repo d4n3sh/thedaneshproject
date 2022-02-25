@@ -1,6 +1,6 @@
 ---
 title: PC, Mac… meet Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2007-04-03T06:46:02+00:00
 pvc_views:
   - 1296

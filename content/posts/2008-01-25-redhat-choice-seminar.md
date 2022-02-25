@@ -1,6 +1,6 @@
 ---
 title: Redhat Choice Seminar
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-24T17:48:56+00:00
 pvc_views:
   - 1962

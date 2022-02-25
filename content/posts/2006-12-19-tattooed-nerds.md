@@ -1,6 +1,6 @@
 ---
 title: Tattooed Nerds?
-author: Danesh
+author: Danesh Manoharan
 date: 2006-12-19T15:31:23+00:00
 tags: [tattoos]
 ---

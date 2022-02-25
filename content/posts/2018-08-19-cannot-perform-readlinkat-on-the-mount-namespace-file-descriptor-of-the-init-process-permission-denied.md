@@ -1,6 +1,6 @@
 ---
 title: 'cannot perform readlinkat() on the mount namespace file descriptor of the init process: Permission denied'
-author: Danesh
+author: Danesh Manoharan
 date: 2018-08-18T19:00:48+00:00
 
 ---

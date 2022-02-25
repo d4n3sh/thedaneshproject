@@ -1,6 +1,6 @@
 ---
 title: How to install Google Music Manager on Fedora 16
-author: Danesh
+author: Danesh Manoharan
 date: 2011-11-17T14:28:28+00:00
 pvc_views:
   - 5527

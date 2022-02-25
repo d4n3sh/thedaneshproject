@@ -1,6 +1,6 @@
 ---
 title: Halal by Liew Seng Tat
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-26T03:34:57+00:00
 aktt_notify_twitter:
   - no

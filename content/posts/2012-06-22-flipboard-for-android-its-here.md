@@ -1,6 +1,6 @@
 ---
 title: Flipboard for Android. It’s here.
-author: Danesh
+author: Danesh Manoharan
 date: 2012-06-22T10:26:10+00:00
 pvc_views:
   - 1470

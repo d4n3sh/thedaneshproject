@@ -1,6 +1,6 @@
 ---
 title: OpenSSH 5.1 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-24T18:17:34+00:00
 robotsmeta:
   - index,follow

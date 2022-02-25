@@ -1,6 +1,6 @@
 ---
 title: Restart network service in Ubuntu
-author: Danesh
+author: Danesh Manoharan
 date: 2011-02-21T02:26:02+00:00
 pvc_views:
   - 2532

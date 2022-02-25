@@ -1,6 +1,6 @@
 ---
 title: Google Analytics on your desktop with Polaris
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-26T23:00:56+00:00
 aktt_notify_twitter:
   - no

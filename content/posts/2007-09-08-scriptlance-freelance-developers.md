@@ -1,6 +1,6 @@
 ---
 title: ScriptLance freelance developers
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-08T15:05:18+00:00
 pvc_views:
   - 2724

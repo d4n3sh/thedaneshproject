@@ -1,6 +1,6 @@
 ---
 title: AMBP Coffee Therapy for Bloggers
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-14T00:30:00+00:00
 pvc_views:
   - 7428

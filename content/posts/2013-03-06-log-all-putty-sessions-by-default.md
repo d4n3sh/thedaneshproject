@@ -1,6 +1,6 @@
 ---
 title: Log all Putty sessions by default
-author: Danesh
+author: Danesh Manoharan
 date: 2013-03-05T22:59:25+00:00
 dsq_thread_id:
   - 1120051936

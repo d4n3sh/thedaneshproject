@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.3.1 upgrade completed
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-13T14:40:55+00:00
 pvc_views:
   - 6565

@@ -1,6 +1,6 @@
 ---
 title: Burger King discount coupons
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-11T13:45:17+00:00
 pvc_views:
   - 30484

@@ -1,6 +1,6 @@
 ---
 title: GT 5 release date revealed, March 2010
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-24T09:08:23+00:00
 aktt_notify_twitter:
   - no

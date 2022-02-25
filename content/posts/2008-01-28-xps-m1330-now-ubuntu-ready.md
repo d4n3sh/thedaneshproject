@@ -1,6 +1,6 @@
 ---
 title: XPS M1330 now Ubuntu ready
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-28T09:08:53+00:00
 pvc_views:
   - 9973

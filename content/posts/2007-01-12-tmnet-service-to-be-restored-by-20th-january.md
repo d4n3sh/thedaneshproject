@@ -1,6 +1,6 @@
 ---
 title: 'TMNET: Service to be restored by 20th January'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-12T08:33:57+00:00
 pvc_views:
   - 2254

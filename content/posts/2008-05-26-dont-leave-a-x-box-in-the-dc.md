@@ -1,6 +1,6 @@
 ---
 title: Don’t leave a X-Box in the DC
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-25T17:18:48+00:00
 pvc_views:
   - 5831

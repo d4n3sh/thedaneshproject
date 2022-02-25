@@ -1,6 +1,6 @@
 ---
 title: Android Neon Lamp
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-15T09:17:32+00:00
 pvc_views:
   - 1347

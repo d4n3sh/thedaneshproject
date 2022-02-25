@@ -1,6 +1,6 @@
 ---
 title: Deluge 1.0.0 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-26T11:17:14+00:00
 robotsmeta:
   - index,follow

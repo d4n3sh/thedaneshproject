@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.3 Beta 1 released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-29T02:47:23+00:00
 pvc_views:
   - 2337

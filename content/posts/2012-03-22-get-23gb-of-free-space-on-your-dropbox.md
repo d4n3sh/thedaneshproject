@@ -1,6 +1,6 @@
 ---
 title: Get 23GB Of Free Space On Your Dropbox
-author: Danesh
+author: Danesh Manoharan
 date: 2012-03-22T09:44:11+00:00
 pvc_views:
   - 2444

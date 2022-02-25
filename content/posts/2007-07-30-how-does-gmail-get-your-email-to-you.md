@@ -1,6 +1,6 @@
 ---
 title: How does Gmail get your email to you
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-30T02:19:04+00:00
 pvc_views:
   - 5298

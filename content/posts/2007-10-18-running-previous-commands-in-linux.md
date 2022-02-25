@@ -1,6 +1,6 @@
 ---
 title: Running previous commands in Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-17T16:38:53+00:00
 pvc_views:
   - 14300

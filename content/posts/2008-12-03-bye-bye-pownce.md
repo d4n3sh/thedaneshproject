@@ -1,6 +1,6 @@
 ---
 title: Bye Bye Pownce
-author: Danesh
+author: Danesh Manoharan
 date: 2008-12-03T12:13:11+00:00
 robotsmeta:
   - index,follow

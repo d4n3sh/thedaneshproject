@@ -1,6 +1,6 @@
 ---
 title: Facebook allows username change
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-24T07:56:27+00:00
 aktt_notify_twitter:
   - no

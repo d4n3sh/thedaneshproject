@@ -1,6 +1,6 @@
 ---
 title: Namecheap Coupon for July 2009
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-03T00:00:00+00:00
 aktt_notify_twitter:
   - no

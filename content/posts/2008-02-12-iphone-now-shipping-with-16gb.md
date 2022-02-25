@@ -1,6 +1,6 @@
 ---
 title: iPhone now shipping with 16GB
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-12T03:14:52+00:00
 pvc_views:
   - 3168

@@ -1,6 +1,6 @@
 ---
 title: Skype now on PSP
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-13T02:00:46+00:00
 pvc_views:
   - 4453

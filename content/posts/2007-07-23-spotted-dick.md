@@ -1,6 +1,6 @@
 ---
 title: Spotted Dick
-author: Danesh
+author: Danesh Manoharan
 date: 2007-07-23T08:44:57+00:00
 pvc_views:
   - 5023

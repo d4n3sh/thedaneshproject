@@ -1,6 +1,6 @@
 ---
 title: Malaysiakini mirrors
-author: Danesh
+author: Danesh Manoharan
 date: 2013-05-02T16:01:37+00:00
 dsq_thread_id:
   - 1254988921

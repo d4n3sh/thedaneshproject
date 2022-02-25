@@ -1,6 +1,6 @@
 ---
 title: Anjuta overwriting Nautilus
-author: Danesh
+author: Danesh Manoharan
 date: 2016-05-31T14:26:40+00:00
 dsq_thread_id:
   - 4872172557

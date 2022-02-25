@@ -1,6 +1,6 @@
 ---
 title: Crash Masters at MRR2
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-14T03:36:22+00:00
 pvc_views:
   - 1928

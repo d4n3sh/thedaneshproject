@@ -1,6 +1,6 @@
 ---
 title: Bug in openSUSE xorg security update
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-22T12:55:00+00:00
 pvc_views:
   - 10592

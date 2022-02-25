@@ -1,6 +1,6 @@
 ---
 title: The Internet Bus Project by Google
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-04T09:38:27+00:00
 robotsmeta:
   - index,follow

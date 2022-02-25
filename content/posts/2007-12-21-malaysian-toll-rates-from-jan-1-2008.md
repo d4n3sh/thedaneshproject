@@ -1,6 +1,6 @@
 ---
 title: Malaysian toll rates from Jan 1 2008
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-21T12:00:31+00:00
 pvc_views:
   - 12720

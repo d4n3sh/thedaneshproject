@@ -1,6 +1,6 @@
 ---
 title: 2 new features for the iPad
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-17T08:11:57+00:00
 pvc_views:
   - 3044

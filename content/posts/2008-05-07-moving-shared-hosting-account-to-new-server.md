@@ -1,6 +1,6 @@
 ---
 title: Moving shared hosting account to new server
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-07T13:32:14+00:00
 pvc_views:
   - 2705

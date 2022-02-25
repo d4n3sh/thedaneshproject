@@ -1,6 +1,6 @@
 ---
 title: Adobe Flash Player 10.2 released
-author: Danesh
+author: Danesh Manoharan
 date: 2011-02-11T04:03:38+00:00
 pvc_views:
   - 2858

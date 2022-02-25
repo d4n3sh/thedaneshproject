@@ -1,6 +1,6 @@
 ---
 title: 'Speech: Inside the Black Box, Technological Innovation at Google'
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-24T16:42:51+00:00
 pvc_views:
   - 2626

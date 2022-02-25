@@ -1,6 +1,6 @@
 ---
 title: Cheap domains from Shinjiru
-author: Danesh
+author: Danesh Manoharan
 date: 2009-08-17T14:00:04+00:00
 aktt_notify_twitter:
   - no

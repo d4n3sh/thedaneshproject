@@ -1,6 +1,6 @@
 ---
 title: Are you ready for the future?
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-19T17:24:57+00:00
 aktt_notify_twitter:
   - no

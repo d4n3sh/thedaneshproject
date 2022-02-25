@@ -1,6 +1,6 @@
 ---
 title: 'Error: 25099. Unzipping Core Files Failed'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-09-23T08:26:09+00:00
 aktt_notify_twitter:
   - no

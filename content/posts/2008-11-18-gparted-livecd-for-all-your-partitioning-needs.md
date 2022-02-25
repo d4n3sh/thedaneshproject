@@ -1,6 +1,6 @@
 ---
 title: GParted LiveCD for all your partitioning needs
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-18T19:12:07+00:00
 robotsmeta:
   - index,follow

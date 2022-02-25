@@ -1,6 +1,6 @@
 ---
 title: Digg released their first Firefox 3 extension
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-08T02:00:17+00:00
 robotsmeta:
   - index,follow

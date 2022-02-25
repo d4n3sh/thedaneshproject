@@ -1,6 +1,6 @@
 ---
 title: Duplicate ssh sessions without password prompt
-author: Danesh
+author: Danesh Manoharan
 date: 2007-06-15T03:33:08+00:00
 pvc_views:
   - 4191

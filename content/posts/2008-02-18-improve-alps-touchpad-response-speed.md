@@ -1,6 +1,6 @@
 ---
 title: Improve ALPS touchpad response speed
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-18T10:01:09+00:00
 pvc_views:
   - 12491

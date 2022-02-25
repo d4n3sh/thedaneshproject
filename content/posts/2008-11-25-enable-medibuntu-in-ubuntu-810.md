@@ -1,6 +1,6 @@
 ---
 title: Enable Medibuntu in Ubuntu 8.10
-author: Danesh
+author: Danesh Manoharan
 date: 2008-11-25T06:37:13+00:00
 pvc_views:
   - 11822

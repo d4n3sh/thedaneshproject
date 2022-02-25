@@ -1,6 +1,6 @@
 ---
 title: How to list mounted volumes in TSM
-author: Danesh
+author: Danesh Manoharan
 date: 2013-10-28T15:33:55+00:00
 dsq_thread_id:
   - 1910842490

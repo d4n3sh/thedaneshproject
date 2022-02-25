@@ -1,6 +1,6 @@
 ---
 title: HOW A BICYCLE IS MADE in the old days.
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-13T09:10:08+00:00
 pvc_views:
   - 1803

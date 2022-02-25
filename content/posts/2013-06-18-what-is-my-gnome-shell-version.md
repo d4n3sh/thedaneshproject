@@ -1,6 +1,6 @@
 ---
 title: What is my Gnome Shell version?
-author: Danesh
+author: Danesh Manoharan
 date: 2013-06-18T15:19:10+00:00
 dsq_thread_id:
   - 1410116395

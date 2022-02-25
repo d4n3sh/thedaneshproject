@@ -1,6 +1,6 @@
 ---
 title: Demonoid.com open for registration
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-07T09:39:18+00:00
 aktt_notify_twitter:
   - no

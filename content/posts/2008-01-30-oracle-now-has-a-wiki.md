@@ -1,6 +1,6 @@
 ---
 title: Oracle now has a Wiki
-author: Danesh
+author: Danesh Manoharan
 date: 2008-01-30T13:25:38+00:00
 pvc_views:
   - 6973

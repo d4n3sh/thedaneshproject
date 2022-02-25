@@ -1,6 +1,6 @@
 ---
 title: How to Fix Ubuntu 10.10 VirtualBox Guest Additions Problems
-author: Danesh
+author: Danesh Manoharan
 date: 2010-09-27T14:08:07+00:00
 pvc_views:
   - 13015

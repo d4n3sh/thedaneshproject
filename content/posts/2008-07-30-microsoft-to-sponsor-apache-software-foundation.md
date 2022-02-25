@@ -1,6 +1,6 @@
 ---
 title: Microsoft to sponsor Apache Software Foundation
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-30T10:49:13+00:00
 robotsmeta:
   - index,follow

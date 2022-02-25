@@ -1,6 +1,6 @@
 ---
 title: 'Archlinux: Can’t find ifconfig'
-author: Danesh
+author: Danesh Manoharan
 date: 2013-06-10T14:23:43+00:00
 dsq_thread_id:
   - 1385442648

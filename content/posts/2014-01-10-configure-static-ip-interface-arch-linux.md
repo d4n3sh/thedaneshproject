@@ -1,6 +1,6 @@
 ---
 title: How to configure a static IP interface on Arch Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2014-01-10T14:58:48+00:00
 dsq_thread_id:
   - 2104948257

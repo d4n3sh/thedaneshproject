@@ -1,6 +1,6 @@
 ---
 title: TM upgrading it’s core network
-author: Danesh
+author: Danesh Manoharan
 date: 2009-06-18T17:07:18+00:00
 aktt_notify_twitter:
   - no

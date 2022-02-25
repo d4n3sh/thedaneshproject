@@ -1,6 +1,6 @@
 ---
 title: Najib joins the internet
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-17T06:01:44+00:00
 pvc_views:
   - 1195

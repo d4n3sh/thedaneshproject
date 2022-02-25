@@ -1,6 +1,6 @@
 ---
 title: iPhone 5 launch coverage – Live blogs
-author: Danesh
+author: Danesh Manoharan
 date: 2012-09-12T09:51:01+00:00
 pvc_views:
   - 1552

@@ -1,6 +1,6 @@
 ---
 title: Samsung offering 10% off Samsung Galaxy S3
-author: Danesh
+author: Danesh Manoharan
 date: 2012-08-06T09:43:11+00:00
 pvc_views:
   - 1116

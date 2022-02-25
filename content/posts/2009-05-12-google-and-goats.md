@@ -1,6 +1,6 @@
 ---
 title: Google and Goats
-author: Danesh
+author: Danesh Manoharan
 date: 2009-05-12T09:37:13+00:00
 aktt_notify_twitter:
   - no

@@ -1,6 +1,6 @@
 ---
 title: Amarok 2.0 Alpha 2 (Aulanerk) released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-22T18:52:55+00:00
 robotsmeta:
   - index,follow

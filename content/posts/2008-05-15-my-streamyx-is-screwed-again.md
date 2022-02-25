@@ -1,6 +1,6 @@
 ---
 title: My Streamyx is screwed again
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-14T16:57:14+00:00
 pvc_views:
   - 5543

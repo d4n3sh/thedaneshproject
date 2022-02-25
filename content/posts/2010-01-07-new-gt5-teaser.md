@@ -1,6 +1,6 @@
 ---
 title: New GT5 Teaser
-author: Danesh
+author: Danesh Manoharan
 date: 2010-01-07T01:50:03+00:00
 pvc_views:
   - 1935

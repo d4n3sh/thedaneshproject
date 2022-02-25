@@ -1,6 +1,6 @@
 ---
 title: Adding thunderbolt devices in Fedora server 30
-author: Danesh
+author: Danesh Manoharan
 date: 2019-06-29T21:04:52+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Malaysia’s 12th election results coming in
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-08T13:30:27+00:00
 pvc_views:
   - 7889

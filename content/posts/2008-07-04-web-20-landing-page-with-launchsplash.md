@@ -1,6 +1,6 @@
 ---
 title: Web 2.0 landing page with LaunchSplash
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-03T20:16:48+00:00
 robotsmeta:
   - index,follow

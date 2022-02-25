@@ -1,6 +1,6 @@
 ---
 title: P1 WiMAX goes live in KL
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-23T12:48:55+00:00
 robotsmeta:
   - index,follow

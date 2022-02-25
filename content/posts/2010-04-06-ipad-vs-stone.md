@@ -1,6 +1,6 @@
 ---
 title: iPad vs Stone
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-06T02:36:51+00:00
 pvc_views:
   - 2267

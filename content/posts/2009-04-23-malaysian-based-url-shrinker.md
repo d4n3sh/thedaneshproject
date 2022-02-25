@@ -1,6 +1,6 @@
 ---
 title: Malaysian based URL shrinker
-author: Danesh
+author: Danesh Manoharan
 date: 2009-04-23T05:55:56+00:00
 robotsmeta:
   - index,follow

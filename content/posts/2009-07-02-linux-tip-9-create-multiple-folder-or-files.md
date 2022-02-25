@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #9: Create multiple folder or files'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-02T00:00:00+00:00
 aktt_notify_twitter:
   - no

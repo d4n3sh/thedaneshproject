@@ -1,6 +1,6 @@
 ---
 title: cannot allocate memory error
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-29T15:55:04+00:00
 robotsmeta:
   - index,follow

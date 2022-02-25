@@ -1,6 +1,6 @@
 ---
 title: Left Brain Right Brain
-author: Danesh
+author: Danesh Manoharan
 date: 2007-10-25T19:24:50+00:00
 pvc_views:
   - 4323

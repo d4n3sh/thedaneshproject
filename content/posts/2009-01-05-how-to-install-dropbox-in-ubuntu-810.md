@@ -1,6 +1,6 @@
 ---
 title: How to install Dropbox in Ubuntu 8.10
-author: Danesh
+author: Danesh Manoharan
 date: 2009-01-05T13:39:48+00:00
 pvc_views:
   - 21408

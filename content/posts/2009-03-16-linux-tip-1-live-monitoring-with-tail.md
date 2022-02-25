@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #1: Live monitoring with tail'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-16T04:40:17+00:00
 robotsmeta:
   - index,follow

@@ -1,6 +1,6 @@
 ---
 title: 'HowTo: Resize ext3 partitions without data lose.'
-author: Danesh
+author: Danesh Manoharan
 date: 2007-01-09T02:47:24+00:00
 pvc_views:
   - 1421

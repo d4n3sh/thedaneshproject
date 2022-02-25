@@ -1,6 +1,6 @@
 ---
 title: DownForEveryoneOrJustMe site checker
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-10T19:27:00+00:00
 robotsmeta:
   - index,follow

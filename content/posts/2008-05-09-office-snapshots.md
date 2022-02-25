@@ -1,6 +1,6 @@
 ---
 title: Office snapshots
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-09T02:00:58+00:00
 pvc_views:
   - 5106

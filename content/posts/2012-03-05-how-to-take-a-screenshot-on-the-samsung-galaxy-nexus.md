@@ -1,6 +1,6 @@
 ---
 title: How to take a screenshot on the Samsung Galaxy Nexus
-author: Danesh
+author: Danesh Manoharan
 date: 2012-03-05T06:49:06+00:00
 pvc_views:
   - 2540

@@ -1,6 +1,6 @@
 ---
 title: ShowYourself widget
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-06T12:26:55+00:00
 pvc_views:
   - 12608

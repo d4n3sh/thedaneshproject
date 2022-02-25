@@ -1,6 +1,6 @@
 ---
 title: Hulu opens to public
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-16T12:54:05+00:00
 pvc_views:
   - 7349

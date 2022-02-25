@@ -1,6 +1,6 @@
 ---
 title: 'Online Pet Stores In Malaysia : Update March 29 2015'
-author: Danesh
+author: Danesh Manoharan
 date: 2015-03-29T15:36:59+00:00
 dsq_thread_id:
   - 3636992986

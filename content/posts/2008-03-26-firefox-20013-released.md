@@ -1,6 +1,6 @@
 ---
 title: Firefox 2.0.0.13 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-26T03:01:42+00:00
 pvc_views:
   - 4238

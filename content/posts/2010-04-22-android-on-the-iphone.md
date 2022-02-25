@@ -1,6 +1,6 @@
 ---
 title: Android on the iPhone
-author: Danesh
+author: Danesh Manoharan
 date: 2010-04-22T09:41:19+00:00
 pvc_views:
   - 2721

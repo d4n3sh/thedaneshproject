@@ -1,6 +1,6 @@
 ---
 title: Firefox 3.0.1 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-07-17T04:43:01+00:00
 robotsmeta:
   - index,follow

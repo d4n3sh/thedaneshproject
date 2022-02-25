@@ -1,6 +1,6 @@
 ---
 title: Petronas Deepavali 2008 advertisment
-author: Danesh
+author: Danesh Manoharan
 date: 2008-10-23T06:40:55+00:00
 pvc_views:
   - 3495

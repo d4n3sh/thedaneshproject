@@ -1,6 +1,6 @@
 ---
 title: Google Public DNS
-author: Danesh
+author: Danesh Manoharan
 date: 2009-12-04T01:34:58+00:00
 pvc_views:
   - 3290

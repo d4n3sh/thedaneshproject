@@ -1,6 +1,6 @@
 ---
 title: Installing yum fastest mirror plugin on CentOS 5
-author: Danesh
+author: Danesh Manoharan
 date: 2007-05-08T07:02:28+00:00
 pvc_views:
   - 7664

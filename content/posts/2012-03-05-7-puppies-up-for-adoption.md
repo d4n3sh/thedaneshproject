@@ -1,6 +1,6 @@
 ---
 title: 7 puppies up for adoption
-author: Danesh
+author: Danesh Manoharan
 date: 2012-03-05T09:14:16+00:00
 pvc_views:
   - 1425

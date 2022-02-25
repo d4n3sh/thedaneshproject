@@ -1,6 +1,6 @@
 ---
 title: Special Streamyx packages for Disabled Citizen (OKU)
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-03T10:32:30+00:00
 pvc_views:
   - 7240

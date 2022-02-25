@@ -1,6 +1,6 @@
 ---
 title: How to configure SSL on Tomcat 5
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-20T12:00:44+00:00
 pvc_views:
   - 28999

@@ -1,6 +1,6 @@
 ---
 title: How to view line numbers in vi
-author: Danesh
+author: Danesh Manoharan
 date: 2007-12-28T02:05:15+00:00
 pvc_views:
   - 21626

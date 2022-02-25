@@ -1,6 +1,6 @@
 ---
 title: Linux cheat sheet by FOSSwire
-author: Danesh
+author: Danesh Manoharan
 date: 2009-02-12T09:00:28+00:00
 pvc_views:
   - 5794

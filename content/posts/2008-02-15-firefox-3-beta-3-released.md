@@ -1,6 +1,6 @@
 ---
 title: Firefox 3 Beta 3 released
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-15T11:52:27+00:00
 pvc_views:
   - 11753

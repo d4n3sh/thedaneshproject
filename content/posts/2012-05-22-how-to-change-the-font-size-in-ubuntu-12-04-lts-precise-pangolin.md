@@ -1,6 +1,6 @@
 ---
 title: How to change the font size in Ubuntu 12.04 LTS Precise Pangolin
-author: Danesh
+author: Danesh Manoharan
 date: 2012-05-21T21:00:15+00:00
 pvc_views:
   - 7029

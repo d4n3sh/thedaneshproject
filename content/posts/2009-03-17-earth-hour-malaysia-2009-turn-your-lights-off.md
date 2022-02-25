@@ -1,6 +1,6 @@
 ---
 title: Earth Hour Malaysia 2009 | Turn your lights off!
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-16T16:32:15+00:00
 robotsmeta:
   - index,follow

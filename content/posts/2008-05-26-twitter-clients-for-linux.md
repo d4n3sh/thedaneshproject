@@ -1,6 +1,6 @@
 ---
 title: Twitter clients for Linux
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-26T12:29:33+00:00
 pvc_views:
   - 4681

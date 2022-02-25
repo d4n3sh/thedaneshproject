@@ -1,6 +1,6 @@
 ---
 title: Save the dogs, sign the petition
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-16T04:48:28+00:00
 pvc_views:
   - 5961

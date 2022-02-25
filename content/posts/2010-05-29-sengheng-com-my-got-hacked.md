@@ -1,6 +1,6 @@
 ---
 title: SengHeng.com.my got hacked!!
-author: Danesh
+author: Danesh Manoharan
 date: 2010-05-29T14:34:39+00:00
 pvc_views:
   - 2304

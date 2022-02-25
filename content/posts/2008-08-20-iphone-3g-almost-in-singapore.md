@@ -1,6 +1,6 @@
 ---
 title: iPhone 3G almost in Singapore
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-20T03:29:45+00:00
 robotsmeta:
   - index,follow

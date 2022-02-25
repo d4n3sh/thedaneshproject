@@ -1,6 +1,6 @@
 ---
 title: Skribit , content suggestion for blogs
-author: Danesh
+author: Danesh Manoharan
 date: 2008-05-08T02:10:52+00:00
 pvc_views:
   - 5998

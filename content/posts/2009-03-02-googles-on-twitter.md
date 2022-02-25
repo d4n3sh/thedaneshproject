@@ -1,6 +1,6 @@
 ---
 title: Google’s on Twitter
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-02T15:45:26+00:00
 robotsmeta:
   - index,follow

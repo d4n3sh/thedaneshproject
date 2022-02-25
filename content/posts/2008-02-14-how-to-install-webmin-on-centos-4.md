@@ -1,6 +1,6 @@
 ---
 title: How to install webmin on CentOS 4
-author: Danesh
+author: Danesh Manoharan
 date: 2008-02-14T13:51:00+00:00
 pvc_views:
   - 37950

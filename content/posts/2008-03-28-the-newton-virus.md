@@ -1,6 +1,6 @@
 ---
 title: The Newton Virus
-author: Danesh
+author: Danesh Manoharan
 date: 2008-03-28T12:31:12+00:00
 pvc_views:
   - 5558

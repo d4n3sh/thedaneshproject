@@ -1,6 +1,6 @@
 ---
 title: Password protect single user mode
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-12T09:53:04+00:00
 pvc_views:
   - 19416

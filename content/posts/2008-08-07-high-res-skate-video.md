@@ -1,6 +1,6 @@
 ---
 title: High-Res skate video
-author: Danesh
+author: Danesh Manoharan
 date: 2008-08-07T10:01:03+00:00
 robotsmeta:
   - index,follow

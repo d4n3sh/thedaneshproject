@@ -1,6 +1,6 @@
 ---
 title: I’m done with the Arkayne Related Posts plugin
-author: Danesh
+author: Danesh Manoharan
 date: 2007-11-28T13:47:07+00:00
 pvc_views:
   - 3193

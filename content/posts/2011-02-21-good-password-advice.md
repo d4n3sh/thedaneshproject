@@ -1,6 +1,6 @@
 ---
 title: Good Password advice
-author: Danesh
+author: Danesh Manoharan
 date: 2011-02-21T09:53:06+00:00
 pvc_views:
   - 2673

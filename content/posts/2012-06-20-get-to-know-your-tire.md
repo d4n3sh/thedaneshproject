@@ -1,6 +1,6 @@
 ---
 title: Get to know your tire.
-author: Danesh
+author: Danesh Manoharan
 date: 2012-06-19T16:30:26+00:00
 pvc_views:
   - 1475

@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.2.3 released
-author: Danesh
+author: Danesh Manoharan
 date: 2007-09-08T14:06:28+00:00
 pvc_views:
   - 1338

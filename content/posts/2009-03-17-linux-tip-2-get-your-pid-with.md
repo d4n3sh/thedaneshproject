@@ -1,6 +1,6 @@
 ---
 title: 'Linux Tip #2: Get your PID with $$'
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-17T02:00:11+00:00
 robotsmeta:
   - index,follow

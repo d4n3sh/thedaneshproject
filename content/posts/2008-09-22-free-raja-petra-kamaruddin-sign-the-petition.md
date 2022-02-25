@@ -1,6 +1,6 @@
 ---
 title: Free Raja Petra Kamaruddin, Sign the petition
-author: Danesh
+author: Danesh Manoharan
 date: 2008-09-21T16:01:04+00:00
 robotsmeta:
   - index,follow

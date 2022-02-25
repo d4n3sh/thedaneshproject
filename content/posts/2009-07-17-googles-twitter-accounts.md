@@ -1,6 +1,6 @@
 ---
 title: Google’s twitter accounts
-author: Danesh
+author: Danesh Manoharan
 date: 2009-07-17T08:53:17+00:00
 aktt_notify_twitter:
   - no

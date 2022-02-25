@@ -1,6 +1,6 @@
 ---
 title: My free sketch
-author: Danesh
+author: Danesh Manoharan
 date: 2007-08-20T16:34:23+00:00
 pvc_views:
   - 5354

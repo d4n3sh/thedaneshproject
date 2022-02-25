@@ -1,6 +1,6 @@
 ---
 title: Facebook rolling out new user homepage today
-author: Danesh
+author: Danesh Manoharan
 date: 2009-03-12T04:36:28+00:00
 robotsmeta:
   - index,follow
