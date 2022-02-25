@@ -9,6 +9,9 @@ stages:
   - testing
   - production
 
+include:
+- template: Security/SAST.gitlab-ci.yml
+
 image: registry.gitlab.com/pages/hugo/hugo:0.92.2
 
 variables:
@@ -37,6 +40,4 @@ pages:
       - main
 
 sast:
-  stage: testing
-include:
-- template: Security/SAST.gitlab-ci.yml
+  stage: production

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+# Trim spaces from title.
+post_title="$(echo $1 | tr -s [:space:])"
+
+# Print the title so that I can copy it later.
+echo "Post title: ${post_title}"
+
+# Replace all spaces with "-".
+post_title="${post_title// /-}"
+
+# Setup the ISO date format YYYY-MM-DD.
+date="$(date +%F)"
+
+# Check if title is provided
+if [[ -z ${post_title} ]]; then
+  echo "You need to provide a title for the post."
+  echo "e.g. $0 \"My first post\""
+  exit 1
+fi
+
+# Okay then, let's create that post.
+echo "Executing: hugo new --kind post posts/${date}-${post_title}"
+hugo new --kind post "posts/${date}-${post_title}"
+
+vim "content/posts/${date}-${post_title}/index.md"

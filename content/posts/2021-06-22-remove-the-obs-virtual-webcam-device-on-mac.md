@@ -18,4 +18,4 @@ The OBS virtual webcam device doesn't always get removed properly when OBS studi
     
   3. Verify if the "obs-virtual-camera" device has been removed.  
     The screenshot below is from MS Teams.  
-<img loading="lazy" width="455" height="186" class="wp-image-8429" style="width: 450px;" src="/wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img1.png" alt="webcam list in MS Teams" srcset="/wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img1.png 455w, /wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img1-450x184.png 450w" sizes="(max-width: 455px) 100vw, 455px" />
+{{< figure src="/wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img1.png" link="/wp-content/uploads/2021/06/remove-the-obs-virtual-webcam-device-on-mac-img1.png" alt="webcam list in MS Teams" width=450 position="center" >}}
