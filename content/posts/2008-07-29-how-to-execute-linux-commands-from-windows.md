@@ -16,7 +16,7 @@ Most of the time, users are having a Windows Machine on their desk or laptop. No
 
 A simple example of usage is:
 
-_**C:\> plink USERNAME@SERVERNAME &#8216;YOUR-LINUX-COMMAND'**_
+_**C:\> plink USERNAME@SERVERNAME 'YOUR-LINUX-COMMAND'**_
 
 If you have a dozen of servers...then you probably want to write a batch script in Windows to loop through a list of servers and mention the list of commands juz like what i did.....
 

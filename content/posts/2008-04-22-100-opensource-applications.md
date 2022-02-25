@@ -8,7 +8,7 @@ dsq_thread_id:
   - 931907307
 
 ---
-[Here][1]&#8216;s a list of 100 popular opensource applications. From audio editing to 3d graphics, there's an application out there for everyone.
+[Here][1]'s a list of 100 popular opensource applications. From audio editing to 3d graphics, there's an application out there for everyone.
 
 The list comes in handy for those new to Linux. Moving to Linux has never been easy for Windows users. The major reason being applications. Hopefully the list will make that transition smoother ans give them a reason not to go back to Windows 🙂
 

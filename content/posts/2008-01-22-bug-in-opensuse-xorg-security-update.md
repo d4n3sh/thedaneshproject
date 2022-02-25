@@ -14,9 +14,9 @@ VLC, Filezilla and a few other applications stopped working. The bug has somethi
 
 My error,
 
-> The program &#8216;Filezilla' received an X Window System error.  
+> The program 'Filezilla' received an X Window System error.  
 > This probably reflects a bug in the program.  
-> The error was &#8216;BadAlloc (insufficient resources for operation)'.  
+> The error was 'BadAlloc (insufficient resources for operation)'.  
 > (Details: serial 1072 error\_code 11 request\_code 147 minor_code 5)  
 > (Note to programmers: normally, X errors are reported asynchronously;  
 > that is, you will receive the error a while after causing it.  

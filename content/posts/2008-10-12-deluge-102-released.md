@@ -27,7 +27,7 @@ Changelog; [Read more][2]
 > * Fix display of tracker error messages  
 > * Fix add\_torrent\_url() to download the torrent file in a thread to prevent  
 > the main thread from blocking and causing the daemon to freeze.  
-> * Removed the &#8216;Maximum Connections Per Second' setting and replaced it with a  
+> * Removed the 'Maximum Connections Per Second' setting and replaced it with a  
 > default setting of 20. This should alleviate speed issues some are experiencing.  
 > * Changed max half-open connections default limit to 8 on XP/2000 and 4 on Vista  
 > * Prevent being able to set file priorities for compactly allocated torrents as  

@@ -18,7 +18,7 @@ This is how I did it;
 2. # chkconfig mysqld on (Adds mysqld to the startup services)  
 3. # service mysqld start (Starts the MySQL server)  
 4. # mysql -u root@localhost (Brings up the MySQL console)  
-5. #mysql> set password for root=password(&#8216;password'); (Sets the root password to "password")  
+5. #mysql> set password for root=password('password'); (Sets the root password to "password")  
 6. #mysql> reload privileges; (Reloads the grant tables)
 
 **Method 2**
@@ -37,8 +37,8 @@ That's it, the next time you want to get the MySQL console up you'll have to run
 
 This will work too.
 
-/usr/bin/mysqladmin -u root password &#8216;new-password'  
-/usr/bin/mysqladmin -u root -h pandora.crib password &#8216;new-password'
+/usr/bin/mysqladmin -u root password 'new-password'  
+/usr/bin/mysqladmin -u root -h pandora.crib password 'new-password'
 
  [1]: http://www.mysql.com/
  [2]: http://centos.org/

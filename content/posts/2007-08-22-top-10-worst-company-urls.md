@@ -12,7 +12,7 @@ Picked this up from my forum Hangout@TheDaneshProject thanks to **maccaroni n ch
 
 What happens when you don't put enough thought into you company's domain name. Apprently these domain names were not examined from all possible angles before put out there for the public.
 
-1. A site called &#8216;Who Represents &#8216; where you can find the name of the agent that represents a celebrity. Their domain nameÃ¢â‚¬Â¦ wait for itÃ¢â‚¬Â¦ is  
+1. A site called 'Who Represents ' where you can find the name of the agent that represents a celebrity. Their domain nameÃ¢â‚¬Â¦ wait for itÃ¢â‚¬Â¦ is  
 [www.whorepresents.com][1]
 
 2. Experts Exchange, a knowledge base where programmers can exchange advice and views at  

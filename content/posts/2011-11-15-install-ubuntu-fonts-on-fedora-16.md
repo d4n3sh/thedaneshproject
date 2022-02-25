@@ -22,7 +22,7 @@ dsq_thread_id:
 `su -c 'chmod 755 /usr/share/fonts/ubuntu-font-family'`  
 7. Scan and build the fonts cache files for the new Ubuntu files.  
 cd /usr/share/fonts  
-su -c &#8216;fc-cache ubuntu-font-family'
+su -c 'fc-cache ubuntu-font-family'
 
 That's it, you should now be able to use the Ubuntu fonts in your applications and documents. 
 

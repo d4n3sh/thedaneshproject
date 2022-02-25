@@ -12,7 +12,7 @@ dsq_thread_id:
 
 This has to be amongst the coolest Google doodles out there. It's to celebrate Jules Verne's 183rd birthday.
 
-If you didn't already know, [Jules Verne][1]&#8216;s the man behind the well known Novells Twenty Thousand Leagues Under the Sea, Journey to the Center of the Earth and Around the World in Eighty Days.
+If you didn't already know, [Jules Verne][1]'s the man behind the well known Novells Twenty Thousand Leagues Under the Sea, Journey to the Center of the Earth and Around the World in Eighty Days.
 
 Use the joystick control on the right to navigate the GOOGLE submarine around :D, cool ha?
 

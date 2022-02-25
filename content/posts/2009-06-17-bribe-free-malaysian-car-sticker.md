@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Need a new bumber sticker? BFM has a cool one out which says "BRIBE-FREE MALAYSIAN".
 
-[BFM][2]&#8216;s giving them away for free. Drop them a request [here][3] and you'll get your sticker by mail in a few days.
+[BFM][2]'s giving them away for free. Drop them a request [here][3] and you'll get your sticker by mail in a few days.
 
 It's gonna be interesting to see how many [hypocrites][4] will have this sticker on their cars. Being Malaysian means learning to BRIBE right? sigh......
 

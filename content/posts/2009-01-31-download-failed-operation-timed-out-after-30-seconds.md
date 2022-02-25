@@ -20,11 +20,11 @@ The workaround's a simple hack to the file.php file in the /wp-admin/includes/ f
 
 2. Look for the line;
 
-" $response = wp\_remote\_get($url, array(&#8216;timeout' => 30)); "
+" $response = wp\_remote\_get($url, array('timeout' => 30)); "
 
 and replace it with;
 
-" $response = wp\_remote\_get($url, array(&#8216;timeout' => 60)); "
+" $response = wp\_remote\_get($url, array('timeout' => 60)); "
 
 function download_url() at wp-admin/includes/file.php
 
