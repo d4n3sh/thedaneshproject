@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889866145
 
 ---
-Here&#8217;s a quick way to find out more about your hard disk. You can get the serial number, part number, firmware level, size and much more. Just see the sample below.  
+Here's a quick way to find out more about your hard disk. You can get the serial number, part number, firmware level, size and much more. Just see the sample below.  
 hdparm -I [device]  
 `hdparm -I /dev/sda`  
 `[danesh@pandora Movies]$ sudo hdparm -I /dev/sda`

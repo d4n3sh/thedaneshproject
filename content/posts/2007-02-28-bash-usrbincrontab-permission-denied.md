@@ -12,7 +12,7 @@ _&#8221; -bash: /usr/bin/crontab: Permission denied &#8220;._
 
 I was getting this error earlier today while trying to add cron jobs for my login on my [SLES 10][1] box at work. Turns out that all users in [SLES 10][1] by default have no access to cron.
 
-The fix is to add the user to the &#8220;trusted&#8221; group in the group file (/etc/group). Let&#8217;s assume mu login is &#8220;elf&#8221;.
+The fix is to add the user to the &#8220;trusted&#8221; group in the group file (/etc/group). Let's assume mu login is &#8220;elf&#8221;.
 
 1. Make sure you are &#8220;root&#8221;.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <a href="/posts/get-to-know-your-tire/534365_3761600191933_988549557_n/" rel="attachment wp-att-2530"><img loading="lazy" class="alignnone size-medium wp-image-2530" title="534365_3761600191933_988549557_n" src="/wp-content/uploads/2012/06/534365_3761600191933_988549557_n-450x377.jpg" alt="" width="450" height="377" srcset="/wp-content/uploads/2012/06/534365_3761600191933_988549557_n-450x377.jpg 450w, /wp-content/uploads/2012/06/534365_3761600191933_988549557_n.jpg 960w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
-How well do you know your tire safety? Besides knowing that Klang has the cheapest tires around most of us don&#8217;t think much about out vehicle&#8217;s tires. They keep you on the road and alive!
+How well do you know your tire safety? Besides knowing that Klang has the cheapest tires around most of us don't think much about out vehicle's tires. They keep you on the road and alive!
 
 The infographic above will enlighten you on tire safety, lifespan and suitability.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 912720268
 
 ---
-They make a sweet couple don&#8217;t you think?
+They make a sweet couple don't you think?
 
 <img loading="lazy" src="http://modblog.bmezine.com/wp-content/uploads/200703011934-pix1.jpg" height="435" width="550" /> 
 

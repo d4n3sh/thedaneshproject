@@ -11,9 +11,9 @@ dsq_thread_id:
 
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3170/3118572810_ee59ddf409.jpg" alt="Suse11.1_Box" width="471" height="500" />][1]  
-Woo Hoo openSUSE 11.1&#8217;s out!! [Grab it here][2]
+Woo Hoo openSUSE 11.1's out!! [Grab it here][2]
 
-What&#8217;s new?
+What's new?
 
 Brand new license
 
@@ -42,7 +42,7 @@ openSUSE 11.1 KDE 4 64-bit Live CD
 
 [Start downloading now!][2] or if you prefer purchase the [openSUSE 11.1 Box Set][3].
 
-Don&#8217;t forget to share your openSUSE 11.1 experience through the [multiple channels][4]!
+Don't forget to share your openSUSE 11.1 experience through the [multiple channels][4]!
 
  [1]: http://www.flickr.com/photos/dannyportal/3118572810/ "Suse11.1_Box by Danesh Manoharan, on Flickr"
  [2]: http://software.opensuse.org/

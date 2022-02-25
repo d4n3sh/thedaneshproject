@@ -14,9 +14,9 @@ dsq_thread_id:
 
 Robots with facial expression, being able to convey emotions. Now this is freaking awesome. Imagine their application in the real world.
 
-There&#8217;s one place I&#8217;d love to see them, Malaysian toll booths. So called for the physically challenged but yet everyone reports never meeting a physically challeged person at a toll booth.
+There's one place I'd love to see them, Malaysian toll booths. So called for the physically challenged but yet everyone reports never meeting a physically challeged person at a toll booth.
 
-O!! the stupidity, a person to dispatch tickets, how dumb do you need to be to take a job like this? Parking lots have automated systems don&#8217;t they?
+O!! the stupidity, a person to dispatch tickets, how dumb do you need to be to take a job like this? Parking lots have automated systems don't they?
 
 Source: [National Geographic][1]
 

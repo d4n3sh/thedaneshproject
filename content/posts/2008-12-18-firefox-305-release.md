@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <figure id="attachment_577" aria-describedby="caption-attachment-577" style="width: 192px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-577" title="Firefox" src="/wp-content/uploads/2008/05/firefoxlogopi91.png" alt="Firefox" width="192" height="192" srcset="/wp-content/uploads/2008/05/firefoxlogopi91.png 192w, /wp-content/uploads/2008/05/firefoxlogopi91-150x150.png 150w" sizes="(max-width: 192px) 100vw, 192px" /><figcaption id="caption-attachment-577" class="wp-caption-text">Firefox</figcaption></figure>
 
-Mozilla Firefox 3.0.5 is out. It&#8217;s a security release so make sure you get it. [Download Firefox 3.05][1]
+Mozilla Firefox 3.0.5 is out. It's a security release so make sure you get it. [Download Firefox 3.05][1]
 
 Fixes with this release;
 

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="/wp-content/uploads/2012/05/Virtualbox-4.1_4.1.16-ubuntu-1204-lts1.png" alt="" width="450" height="354" />
 
-1. Download and install Oracle&#8217;s public key.
+1. Download and install Oracle's public key.
 
 `danesh@python:~$ wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -`
 

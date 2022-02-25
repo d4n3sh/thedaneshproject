@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Many have been complaining of their chrome extensions crashing in Fedora 15. In my case it was LastPass and Xmarks.
 
-The issue is caused by SELinux and the quick fix is to disable SELinux. Here&#8217;s how you get it done;
+The issue is caused by SELinux and the quick fix is to disable SELinux. Here's how you get it done;
 
 1. Fire up a terminal
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736367
 
 ---
-Being in Malaysia don&#8217;t expect the best speeds when running &#8220;**_yum -y update_**&#8220;. I recommend installing the yum fastest mirror plugin to see some better results.
+Being in Malaysia don't expect the best speeds when running &#8220;**_yum -y update_**&#8220;. I recommend installing the yum fastest mirror plugin to see some better results.
 
 The plugin basically goes through the list of mirrors and determines which mirrors have the best response time. The results are then sorted and stored in a local cached copy.
 

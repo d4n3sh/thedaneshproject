@@ -46,7 +46,7 @@ Updated on 3rd January 2009
 
 27. Amax &#8211; http://www.amax.my
 
-**My Opinion:** _MetroFon/PenangFon is the best provider I have ever used here in Malaysia. I was using them during my stay in Penang for more then a year. RM60 for 2mbps up/down. Can&#8217;t beat that now can you damn Streamyx!!_ 
+**My Opinion:** _MetroFon/PenangFon is the best provider I have ever used here in Malaysia. I was using them during my stay in Penang for more then a year. RM60 for 2mbps up/down. Can't beat that now can you damn Streamyx!!_ 
 
 _If you realize, many of the providers above only offer up to a maximum of 2mbps and the prices are ridicules. Is there a limitation to what providers can give to end users set by the gov?_ 
 

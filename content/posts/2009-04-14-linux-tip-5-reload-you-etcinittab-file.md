@@ -10,9 +10,9 @@ dsq_thread_id:
   - 889816211
 
 ---
-You made changes to your /etc/inittab file but can&#8217;t effort any downtime. 
+You made changes to your /etc/inittab file but can't effort any downtime. 
 
-There&#8217;s a simple trick to reload and apply changes in your /etc/inittab file without a reboot.
+There's a simple trick to reload and apply changes in your /etc/inittab file without a reboot.
 
 Run &#8220;init q&#8221; or &#8220;init Q&#8221;
 

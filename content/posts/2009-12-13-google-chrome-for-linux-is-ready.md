@@ -8,7 +8,7 @@ dsq_thread_id:
   - 925759316
 
 ---
-Google Chrome for Linux is finally out!! It&#8217;s in BETA for now so expect to run into a few bugs here and there.
+Google Chrome for Linux is finally out!! It's in BETA for now so expect to run into a few bugs here and there.
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 7px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">
   23 developer builds

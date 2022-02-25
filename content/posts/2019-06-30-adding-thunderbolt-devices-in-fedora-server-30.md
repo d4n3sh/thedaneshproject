@@ -10,7 +10,7 @@ The network interface was not showing up when I connected the adapter. Some goog
 
 Thunderbolt devices need to be authorized and added to the thunderbolt device manager before they can be used. This requirement can be changed in the BIOS if desired. 
 
-Here&#8217;s how I added my 10GbE adapter.
+Here's how I added my 10GbE adapter.
 
 Install the thunderbolt device manager.
 

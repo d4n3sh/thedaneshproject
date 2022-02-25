@@ -8,15 +8,15 @@ dsq_thread_id:
   - 894110460
 
 ---
-I&#8217;ve been hit by [bug #345131][1] since updating to the latest xorg-server [7.2-143.9] security update on my openSUSE 10.3 installation. xorg-server version 7.2-143.6 to 7.2-143.9.
+I've been hit by [bug #345131][1] since updating to the latest xorg-server [7.2-143.9] security update on my openSUSE 10.3 installation. xorg-server version 7.2-143.6 to 7.2-143.9.
 
 VLC, Filezilla and a few other applications stopped working. The bug has something to do with the X Window shared memory (MIT-SHM) overflowing.
 
 My error,
 
-> The program &#8216;Filezilla&#8217; received an X Window System error.  
+> The program &#8216;Filezilla' received an X Window System error.  
 > This probably reflects a bug in the program.  
-> The error was &#8216;BadAlloc (insufficient resources for operation)&#8217;.  
+> The error was &#8216;BadAlloc (insufficient resources for operation)'.  
 > (Details: serial 1072 error\_code 11 request\_code 147 minor_code 5)  
 > (Note to programmers: normally, X errors are reported asynchronously;  
 > that is, you will receive the error a while after causing it.  
@@ -32,7 +32,7 @@ Section &#8220;Extensions&#8221;
 Option &#8220;MIT-SHM&#8221; &#8220;no&#8221;  
 EndSection
 
-2. Downgrade back to the previous version [7.2-143.6] of xorg-server. This will come with quite a few dependency warnings so be prepared to work through them. Worked for me but look at option 3 as it&#8217;s the best one.
+2. Downgrade back to the previous version [7.2-143.6] of xorg-server. This will come with quite a few dependency warnings so be prepared to work through them. Worked for me but look at option 3 as it's the best one.
 
 3. Download and install the Beta fix xorg-server [7.2-143.10] from Novell from here. This one worked best for me.
 

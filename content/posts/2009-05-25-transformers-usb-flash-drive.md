@@ -14,11 +14,11 @@ dsq_thread_id:
 
 This is something all transformers fans should have.
 
-The 2GB USB flash drive transforms from a regular looking flash drive into Ravage.  However, in  it&#8217;s transformed state, Ravage&#8217;s USB port is not longer accessible. Who cares right? As long as it looks cool!
+The 2GB USB flash drive transforms from a regular looking flash drive into Ravage.  However, in  it's transformed state, Ravage's USB port is not longer accessible. Who cares right? As long as it looks cool!
 
-It&#8217;s not cheap, USD 42.99 for a thumb drive. You&#8217;d have to be a die hard fan to drop that kind of cash for a 2GB USB drive. Also, for an extra 2 bucks you could get the collector&#8217;s edition. It&#8217;s hand chosen, guaranteed to be in mint condition and meant to got on display in it&#8217;s packaging.
+It's not cheap, USD 42.99 for a thumb drive. You'd have to be a die hard fan to drop that kind of cash for a 2GB USB drive. Also, for an extra 2 bucks you could get the collector's edition. It's hand chosen, guaranteed to be in mint condition and meant to got on display in it's packaging.
 
-Besides price, it&#8217;s still an awesome looking flash drive.
+Besides price, it's still an awesome looking flash drive.
 
 Source: [BIGBADTOYSTORE][2]
 

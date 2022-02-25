@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889793952
 
 ---
-Here a quick walk through on how to install and perform a file system scan with ClamAV. I&#8217;ll be installing and scanning on a RedHat 7.3 machine.
+Here a quick walk through on how to install and perform a file system scan with ClamAV. I'll be installing and scanning on a RedHat 7.3 machine.
 
 First download the required files listed below. For other distributions you should refer to the [download page][1] to get the suitable packages. I saved the files to /opt/clamav/
 
@@ -22,7 +22,7 @@ First download the required files listed below. For other distributions you shou
 
 4. daily.cvd (Virus database update file)
 
-Let&#8217;s start installing the packages.
+Let's start installing the packages.
 
 `[root@pinky:~]# rpm -ivh clamav-db-0.93.3-1.rh7.rf.i386.rpm`
 

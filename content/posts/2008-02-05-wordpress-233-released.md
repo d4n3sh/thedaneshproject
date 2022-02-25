@@ -13,7 +13,7 @@ A new security release for WordPress is out. This will be an urgent fix as it at
 
 Besides the fix this release also includes a few [bug fixes][2].
 
-I&#8217;ve done my upgrade, have you?
+I've done my upgrade, have you?
 
 Download the WordPress 2.3.3 [here][3].
 

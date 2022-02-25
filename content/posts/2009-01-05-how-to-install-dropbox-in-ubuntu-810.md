@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1111" title="dropbox_logo" src="/wp-content/uploads/2009/01/dropbox_logo.png" alt="dropbox_logo" width="211" height="54" />
 
-[Dropbox][1] is my favorite online storage solution. Here&#8217;s how to install it on Ubuntu 8.10 Interpid
+[Dropbox][1] is my favorite online storage solution. Here's how to install it on Ubuntu 8.10 Interpid
 
 1. Add the Dropbox repository for Ubuntu package source file. I use **/etc/apt/source.list.d/dropbox.list** file.
 
@@ -56,7 +56,7 @@ Setting up nautilus-dropbox (0.5.0-1) &#8230;
 
 `root@dingo:~# killall nautilus`
 
-That&#8217;s it. Enjoy this get service.
+That's it. Enjoy this get service.
 
 Buzz me if you need help&#8230;
 

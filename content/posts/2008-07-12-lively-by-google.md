@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=5YbwfOucET8[/youtube]
 
-Lively is Google&#8217;s answer to [Second Life][1]. An online 3D social network which allows users to interact with each other and their surroundings. Build your avatar, choose and room and you are ready to mingle.
+Lively is Google's answer to [Second Life][1]. An online 3D social network which allows users to interact with each other and their surroundings. Build your avatar, choose and room and you are ready to mingle.
 
-Second Life has been around for a few years now, it&#8217;s going to be interesting to see how Lively competes with the big boy.
+Second Life has been around for a few years now, it's going to be interesting to see how Lively competes with the big boy.
 
 [See Lively in action][2].
 

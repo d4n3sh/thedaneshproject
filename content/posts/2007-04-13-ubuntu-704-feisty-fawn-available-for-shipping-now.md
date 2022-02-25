@@ -14,7 +14,7 @@ Ubuntu 7.04 (Feisty Fawn) is now shipping now through [ShipIt][1].
 
 ShipIt is also accepting request for [Kubuntu 7.04 (Feisty Fawn)][4] and Edubuntu 7.04 (Feisty Fawn) CDs.
 
-Below are the request options but if you need more CDs, then use the special request form for that. Remember that the special request takes longer to process and goes through an approval process. Don&#8217;t be surprised to get rejected.
+Below are the request options but if you need more CDs, then use the special request form for that. Remember that the special request takes longer to process and goes through an approval process. Don't be surprised to get rejected.
 
 1 CD (1 64-bit PC Edition)  
 1 CD (1 PC Edition)  

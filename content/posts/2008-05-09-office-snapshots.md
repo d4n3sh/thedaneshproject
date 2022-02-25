@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-543" title="Googleplex" src="/wp-content/uploads/2008/05/gp5-500x357.jpg" alt="Googleplex" width="500" height="357" srcset="/wp-content/uploads/2008/05/gp5-500x357.jpg 500w, /wp-content/uploads/2008/05/gp5.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
-That&#8217;s the famous Googleplex. A place many dream to work at.
+That's the famous Googleplex. A place many dream to work at.
 
 But why? Is it their brilliant ideas or os it the alternative office workspace that Google practices? Either way I would love to work for them someday.
 

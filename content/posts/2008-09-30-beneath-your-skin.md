@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3249/2901325980_d601bb14e4.jpg" alt="Beneath Your Skin" width="500" height="400" />][1]
 
-[Alan&#8217;s][2] got a new T out on DBH. If you like the design then [vote][3] to see it on a T soon.
+[Alan's][2] got a new T out on DBH. If you like the design then [vote][3] to see it on a T soon.
 
 I voted and I love the purple.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736607
 
 ---
-<img align="left" alt="Gmail" id="image9" title="Gmail" src="/techblog/wp-content/uploads/2006/12/gmail-logo.jpg" /> Have you installed software that required you to have a SMTP server for it to send out updates by mail? This has always been an issue for me but I&#8217;ve always managed to find a server with some research. Another scenario who be for people who are constantly traveling, they&#8217;d have problems when working on different networks by different ISPs.
+<img align="left" alt="Gmail" id="image9" title="Gmail" src="/techblog/wp-content/uploads/2006/12/gmail-logo.jpg" /> Have you installed software that required you to have a SMTP server for it to send out updates by mail? This has always been an issue for me but I've always managed to find a server with some research. Another scenario who be for people who are constantly traveling, they'd have problems when working on different networks by different ISPs.
 
 Google offers a portable SMTP server(freebie) to send mail from any network to any email address provided you have a [Gmail][1] Account.
 

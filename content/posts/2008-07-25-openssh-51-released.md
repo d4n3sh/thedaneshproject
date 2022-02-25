@@ -16,7 +16,7 @@ OpenSSH 5.1 is out.
 
 OpenSSH fully supports SSH protocol versions 1.3, 1.5 and 2.0. It also includes client and server support for sftp.
 
-A few bug fixes, security fixes and new features come with the new 5.1 release. It&#8217;s already released to the mirrors so make sure to get patched. [FTP mirrors][2] || [HTTP mirrors][3]
+A few bug fixes, security fixes and new features come with the new 5.1 release. It's already released to the mirrors so make sure to get patched. [FTP mirrors][2] || [HTTP mirrors][3]
 
 [Read the changelog][4]
 

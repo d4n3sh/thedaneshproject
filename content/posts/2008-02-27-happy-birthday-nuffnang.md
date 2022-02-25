@@ -14,7 +14,7 @@ Happy 1st birthday Nuffnang.
 
 The name Nuffnang is no more a stranger amongst bloggers across Asia. From a humble beginng Nuffnang has grown considerably in past year. Almost every blogger I know is on Nuffnang now or has heard about it. The recent TV coverage really helped.
 
-Today, Nuffnang is a year old and to show it&#8217;s appreciation Nuffnang has put together the &#8220;Nuffnang Pajama Party&#8221; which is scheduled for the 15th March 2008. Initialiy it was scheduled for the 8th but that date later conflicted with our general elections thus the move.
+Today, Nuffnang is a year old and to show it's appreciation Nuffnang has put together the &#8220;Nuffnang Pajama Party&#8221; which is scheduled for the 15th March 2008. Initialiy it was scheduled for the 8th but that date later conflicted with our general elections thus the move.
 
 [Read about the Pajama Party][1].
 

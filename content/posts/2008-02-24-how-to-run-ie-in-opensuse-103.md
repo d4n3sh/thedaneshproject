@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890153260
 
 ---
-You decided to switch desktops to Linux and now you can&#8217;t access your office IE only intranet. What do you do?
+You decided to switch desktops to Linux and now you can't access your office IE only intranet. What do you do?
 
 Well, you could IEs4Linux on WINE. [WINE][1] is a opensource Windows API implementation for the Linux platform and [IEs4Linux][2] is the &#8220;installer&#8221; which will download, install and get IE to work with WINE.
 
@@ -32,7 +32,7 @@ YaST2 -> Software -> Software Management.
 
 <pre>wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz</pre>
 
-4. Extract and run the IEs4Linux installer. You don&#8217;t need to be root for this.
+4. Extract and run the IEs4Linux installer. You don't need to be root for this.
 
  ``
 
@@ -43,11 +43,11 @@ cd ies4linux-*
 [![][8]][9] [![][10]][11] [![][12]][13] [![][14]][15]  
 [![][16]][16] [![][17]][18]
 
-That&#8217;s it, enjoy your IE in Linux but note the there is no support for streaming video, currently only flash is supported.
+That's it, enjoy your IE in Linux but note the there is no support for streaming video, currently only flash is supported.
 
 [![][17]][18]
 
-Once you&#8217;re bored (like I did) then it&#8217;s time to get rid of IE, here&#8217;s how you&#8217;ll do that since there is no uninstaller for IEs4Linux.
+Once you're bored (like I did) then it's time to get rid of IE, here's how you'll do that since there is no uninstaller for IEs4Linux.
 
  ``
 

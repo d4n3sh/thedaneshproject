@@ -16,7 +16,7 @@ Append either line below to the end of your .bashrc file, start a new bash term
 <pre class="toolbar:2 lang:default decode:true">set +o history
 </pre>
 
-<span style="line-height: 1.5;">Don&#8217;t forget </span><span style="line-height: 1.5;">clear</span><span style="line-height: 1.5;"> out the old history file too.</span>
+<span style="line-height: 1.5;">Don't forget </span><span style="line-height: 1.5;">clear</span><span style="line-height: 1.5;"> out the old history file too.</span>
 
 <pre class="toolbar:2 lang:default decode:true"># history -c;</pre>
 

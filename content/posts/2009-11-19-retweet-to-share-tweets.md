@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1870" title="twitter-rt" src="/wp-content/uploads/2009/11/twitter-rt-450x145.png" alt="twitter-rt" width="450" height="145" srcset="/wp-content/uploads/2009/11/twitter-rt-450x145.png 450w, /wp-content/uploads/2009/11/twitter-rt.png 782w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
-Looks like I&#8217;m gonna be testing  Twitter&#8217;s new &#8220;Retweet&#8221; feature. Received the above when I logged in to Twitter today.
+Looks like I'm gonna be testing  Twitter's new &#8220;Retweet&#8221; feature. Received the above when I logged in to Twitter today.
 
 Source: [Blog @ Twitter][2]
 

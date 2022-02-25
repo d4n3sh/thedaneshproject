@@ -10,11 +10,11 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-572" title="linuxolution" src="/wp-content/uploads/2008/05/linuxolution1-500x191.png" alt="linuxolution" width="500" height="191" srcset="/wp-content/uploads/2008/05/linuxolution1-500x191.png 500w, /wp-content/uploads/2008/05/linuxolution1.png 680w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
-Linux to me is like religion. Even though I am not religious but I feel that Linux in some way is like religion. It&#8217;s free, goes by many different names, it&#8217;s changes over time to suit needs but ultimately it&#8217;s personal.
+Linux to me is like religion. Even though I am not religious but I feel that Linux in some way is like religion. It's free, goes by many different names, it's changes over time to suit needs but ultimately it's personal.
 
 There will never be one &#8220;ultimate distribution&#8221;. It will always be a personal choice for the end user.
 
-I love openSUSE, my hardcore Linux friends love Debian and BSD. Many others love Fedora but then a few prefer Ubuntu. It&#8217;s individual.
+I love openSUSE, my hardcore Linux friends love Debian and BSD. Many others love Fedora but then a few prefer Ubuntu. It's individual.
 
 Source: [Zoitz][2]
 

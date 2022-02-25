@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1566" title="WordPress Download Counter" src="/wp-content/uploads/2009/06/WordPress-Download-Counter-500x389.png" alt="WordPress Download Counter" width="500" height="389" srcset="/wp-content/uploads/2009/06/WordPress-Download-Counter-500x389.png 500w, /wp-content/uploads/2009/06/WordPress-Download-Counter.png 811w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
-12 days after it&#8217;s release, WordPress 2.8 has managed to clock 1 million downloads.
+12 days after it's release, WordPress 2.8 has managed to clock 1 million downloads.
 
-As of today, the download count stands at 1,175,317 and counting. It&#8217;s pretty obvious that WordPress is the current blogging platform of choice.
+As of today, the download count stands at 1,175,317 and counting. It's pretty obvious that WordPress is the current blogging platform of choice.
 
 Check out the WordPress [download counter][2] page to stay up-to-date with the downloads.
 

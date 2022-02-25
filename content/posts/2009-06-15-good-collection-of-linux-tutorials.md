@@ -20,20 +20,20 @@ Check it out, a must have if you into Linux The list below was taken from [EduCh
 
   * [Introduction to Linux][2]{.external} &#8211; This IBM tutorial is designed for people who want to learn what Linux is and how it can be used.
   * [Linux Desktop 101][3]{.external} &#8211; This 14-week course teaches students how to run the Linux operating system on a PC.
-  * [Hands-On Introduction to Linux][4]{.external} &#8211; Machtelt Garrels&#8217; well-organized tutorial provides a hands-on introduction to Linux.
+  * [Hands-On Introduction to Linux][4]{.external} &#8211; Machtelt Garrels' well-organized tutorial provides a hands-on introduction to Linux.
   * Real Time Linux Introduction &#8211; A series of introductory Linux tutorials from the National Institute of Standards and Technology.
   * Getting Started with Linux &#8211; This 20-lesson course from Linux Online is designed for people who are just getting started with Linux.
-  * [Linux Fundamentals Course][5]{.external} &#8211; The Shuttleworth Foundation&#8217;s fundamentals course takes approximately 18 hours to complete and gives students a basic understanding of the Linux operating system.
+  * [Linux Fundamentals Course][5]{.external} &#8211; The Shuttleworth Foundation's fundamentals course takes approximately 18 hours to complete and gives students a basic understanding of the Linux operating system.
   * [The 35-Command Tutorial][6]{.external} &#8211; This basic Linux tutorial from BeginLinux.org teaches 35 commands that every Linux user should know.
-  * [Getting Started with Linux Desktop][7]{.external} &#8211; Novell&#8217;s self-study course teaches basic Linux desktop skills.
+  * [Getting Started with Linux Desktop][7]{.external} &#8211; Novell's self-study course teaches basic Linux desktop skills.
 
 ### Free UNIX Tutorials for Beginners {#section--FreeUNIXTutorialsForBeginners}
 
-  * [UNIX Tutorial for Beginners][8]{.external} &#8211; The University of Surrey&#8217;s beginner&#8217;s guide to the UNIX operating system features eight easy-to-follow tutorials.
+  * [UNIX Tutorial for Beginners][8]{.external} &#8211; The University of Surrey's beginner's guide to the UNIX operating system features eight easy-to-follow tutorials.
   * [A Basic UNIX Tutorial][9]{.external} &#8211; This Idaho State University tutorial teaches the fundamental of UNIX computing. The tutorial includes examples and exercises.
   * [UNIX Training Manual][10]{.external} &#8211; This free 88-page training manual utilizes examples to teach UNIX filesystem commands. Not exactly a tutorial, but useful nevertheless.
   * [UNIX Command Tutorial][11]{.external} &#8211; University of Mississippi course that teaches students how to interact with a UNIX operating system and perform various commands.
-  * Learn UNIX Tutorial &#8211; Soft Lookup&#8217;s comprehensive UNIX tutorial can take almost anyone from a beginner to an expert.
+  * Learn UNIX Tutorial &#8211; Soft Lookup's comprehensive UNIX tutorial can take almost anyone from a beginner to an expert.
   * [UNIX &#8211; The Bare Minimum][12]{.external} &#8211; This tutorial, from a UC Davis professor, offers a basic introduction to UNIX.
   * [Learning About UNIX][13]{.external} &#8211; The University of Toronto offers open access to UNIX and Linux course notes. This course focuses on UNIX and Linux tools.
   * [What is UNIX?][14]{.external} &#8211; This tutorial offers a simple introduction to UNIX and offers access to a forum for UNIX beginners.
@@ -42,19 +42,19 @@ Check it out, a must have if you into Linux The list below was taken from [EduCh
 
 ### Free Linux Tutorials for Experts {#section--FreeLinuxTutorialsForExperts}
 
-  * Linux Online&#8217;s Course for Advanced Users &#8211; This advanced course from Linux Online is fashioned into a series of how-to documents. Designed for people who want to learn more about installation, configuration and maintenance tasks.
+  * Linux Online's Course for Advanced Users &#8211; This advanced course from Linux Online is fashioned into a series of how-to documents. Designed for people who want to learn more about installation, configuration and maintenance tasks.
   * [Linux System Administration Course][15]{.external} &#8211; This 28-module course provides comprehensive training for system administrators.
   * [Kernel Tutorials][16]{.external} &#8211; The kernel tutorials at HowToForge are a great way for Linux users to learn everything they need to know about kernels.
   * [Advanced Routing and Traffic Control Tutorial][17]{.external} &#8211; This advanced Linux tutorial teaches users about routing, filtering and traffic shaping.
   * [Linux Enterprise Server Courses][18]{.external} &#8211; Novell Training Services offers several different courses for advanced Linux users.
-  * [Linux Network Administration Course][19]{.external} &#8211; The Shuttleworth Foundation&#8217;s Linux Network Administration Course is split into separate tutorials that teach the fundamentals of network administration.
+  * [Linux Network Administration Course][19]{.external} &#8211; The Shuttleworth Foundation's Linux Network Administration Course is split into separate tutorials that teach the fundamentals of network administration.
   * [Advanced Linux Programming][20]{.external} &#8211; This tutorial is actually a book that can be downloaded for free. The book teaches users how to develop Linux software and write sophisticated programming.
-  * [IBM&#8217;s Technical Library][21]{.external} &#8211; IBM&#8217;s Technical Library offers a number of useful tutorials for advanced Linux users.
+  * [IBM's Technical Library][21]{.external} &#8211; IBM's Technical Library offers a number of useful tutorials for advanced Linux users.
 
 ### Free UNIX Tutorials for Experts {#section--FreeUNIXTutorialsForExperts}
 
-  * [UNIX for Advanced Users][22]{.external} &#8211; Indiana University&#8217;s UNIX Workstation Support Group offers a great UNIX course for advanced users.
-  * [Kevin Heard&#8217;s UNIX Tutorial][23]{.external} &#8211; Kevin Heard (UC Berkeley) has a fantastic three-part tutorial that starts with an overview of UNIX and ends with advanced topics.
+  * [UNIX for Advanced Users][22]{.external} &#8211; Indiana University's UNIX Workstation Support Group offers a great UNIX course for advanced users.
+  * [Kevin Heard's UNIX Tutorial][23]{.external} &#8211; Kevin Heard (UC Berkeley) has a fantastic three-part tutorial that starts with an overview of UNIX and ends with advanced topics.
   * [Advanced UNIX Commands][24]{.external} &#8211; Although this is more of a list than a tutorial, it makes a good reference for advanced UNIX users.
   * [Parallel Programming Tutorial][25]{.external} &#8211; This UNIX tutorial teaches advanced users the ins and outs of parallel programming.
   * [Advanced Bash Scripting Guide][26]{.external} &#8211; This UNIX tutorial from the Linux Document Project starts out with a programming overview and moves on to advanced scripting topics.

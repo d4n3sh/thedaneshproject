@@ -8,7 +8,7 @@ dsq_thread_id:
   - 894445183
 
 ---
-It&#8217;s RUMORED that the new fuel price in Malaysia effective midnight today will be raised from RM1.92 to RM2.70. That&#8217;s a 78 cents hike which adds up to about 40%. My Wira gonna cost me about RM110 for a full tank. 
+It's RUMORED that the new fuel price in Malaysia effective midnight today will be raised from RM1.92 to RM2.70. That's a 78 cents hike which adds up to about 40%. My Wira gonna cost me about RM110 for a full tank. 
 
 Looks like the petrol pumps around town are gonna be filled up today. 
 

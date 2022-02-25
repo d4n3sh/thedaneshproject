@@ -12,13 +12,13 @@ dsq_thread_id:
 
 Do you develop using [web application frameworks][1]?
 
-I like the idea of using frameworks to develop. I&#8217;ve played around with Ruby On Rails, Symphony, Django and a few others. They generally help simplify code.
+I like the idea of using frameworks to develop. I've played around with Ruby On Rails, Symphony, Django and a few others. They generally help simplify code.
 
-For example, I don&#8217;t waste time on my db connection , presentation layer, form validation codes anymore and I get to spend more time on the functionality of my applications instead.
+For example, I don't waste time on my db connection , presentation layer, form validation codes anymore and I get to spend more time on the functionality of my applications instead.
 
-Frameworks also help cut down your development time. Handy when slapped with ridiculas project time lines. Go through the [Ruby On Rails demos][2] and you&#8217;ll see.
+Frameworks also help cut down your development time. Handy when slapped with ridiculas project time lines. Go through the [Ruby On Rails demos][2] and you'll see.
 
-Here&#8217;s a list of [web application frameworks][3] widely used today and their [features comparison][4].
+Here's a list of [web application frameworks][3] widely used today and their [features comparison][4].
 
  [1]: http://en.wikipedia.org/wiki/Web_application_framework
  [2]: http://www.rubyonrails.org/screencasts

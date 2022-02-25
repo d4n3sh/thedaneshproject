@@ -21,6 +21,6 @@ Part 2/2
 
 [youtube]http://www.youtube.com/watch?v=H2GkIrWhZeQ[/youtube]
 
-Don&#8217;t thank me, thank [CypherHackz][1] for highlighting these awesome videos.
+Don't thank me, thank [CypherHackz][1] for highlighting these awesome videos.
 
  [1]: http://www.cypherhackz.net/archives/2008/01/08/video-the-dawn-of-the-net/#more-1045

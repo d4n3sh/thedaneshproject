@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://farm4.static.flickr.com/3191/2392375922_88b3850f8b.jpg" height="212" width="500" />
 
-Can&#8217;t believe I&#8217;m 2 versions back. Not been torrentting much the past weeks thanks to work.
+Can't believe I'm 2 versions back. Not been torrentting much the past weeks thanks to work.
 
 Anyway, the latest version out is 0.5.8.7. Mostly bug fixes and tweaks.
 

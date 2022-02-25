@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=tprMEs-zfQA[/youtube]
 
-The video&#8217;s the work of [Kutiman][1]. It&#8217;s a compilation of many YouTube videos with different instrumanents  glued together to make some really interesting tracks. I was blown away by the precision editing work put into his work.
+The video's the work of [Kutiman][1]. It's a compilation of many YouTube videos with different instrumanents  glued together to make some really interesting tracks. I was blown away by the precision editing work put into his work.
 
 The video above is just one of the many, check out the rest at [thru-you.com][1] and tell me what ya think.
 

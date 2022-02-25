@@ -12,7 +12,7 @@ I was researching on the net last night and stumbled upon this post at DoshDosh.
 
 My blog is still new and so am I to the whole blogging scene. I have to work hard for some time before I consider start looking at advertising on my blog.
 
-For now I&#8217;m thinking of looking at sponsered posts. I think it will help me discipline myself in the blogging space by forcing me to blog frequently and with quality.
+For now I'm thinking of looking at sponsered posts. I think it will help me discipline myself in the blogging space by forcing me to blog frequently and with quality.
 
 Are you into sponsored post? Tell me bout them&#8230;
 

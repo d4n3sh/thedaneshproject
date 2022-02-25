@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1922" title="simple-tags-wp2.9-error" src="/wp-content/uploads/2009/12/simple-tags-wp2.9-error.png" alt="" width="395" height="129" />  
-Upgraded to WordPress 2.9 and your simple tags plugin stopped working? Here&#8217;s a quick fix till the [author][1] releases a new version.
+Upgraded to WordPress 2.9 and your simple tags plugin stopped working? Here's a quick fix till the [author][1] releases a new version.
 
 `// Check version.<br />
 global $wp_version;<br />
@@ -23,6 +23,6 @@ global $wp_version;<br />
 if ( strpos($wp_version, '2.7') !== false || strpos($wp_version, '2.8') !== false || strpos($wp_version, '2.9') !== false  ) {<br />
 require(dirname(__FILE__).'/2.7/simple-tags.client.php');`
 
-Basically add &#8220;|| strpos($wp_version, &#8216;2.9&#8217;) !== false&#8221; at the end of the if statement.
+Basically add &#8220;|| strpos($wp_version, &#8216;2.9') !== false&#8221; at the end of the if statement.
 
  [1]: http://wordpress.org/extend/plugins/simple-tags/

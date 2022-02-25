@@ -14,11 +14,11 @@ dsq_thread_id:
 
 iPhone 3G is coming to Singapore.
 
-22nd August&#8217;s the date. 12:01am&#8217;s the time. So make sure you&#8217;re [there][2] ( [Singtel stores][3] )to pick yours up.
+22nd August's the date. 12:01am's the time. So make sure you're [there][2] ( [Singtel stores][3] )to pick yours up.
 
-[Singtel][4] will be carrying the phone. The price [plans][5] have also been published. For lower plans you&#8217;ll have to pay for the phone but for those on premium plans the iPhone 3G will be free.
+[Singtel][4] will be carrying the phone. The price [plans][5] have also been published. For lower plans you'll have to pay for the phone but for those on premium plans the iPhone 3G will be free.
 
-Was thinking of getting myself an iPhone 3G but the plan has since changed with HTC&#8217;s plans to release HTC Dream ( powered by Android ) in the coming months.
+Was thinking of getting myself an iPhone 3G but the plan has since changed with HTC's plans to release HTC Dream ( powered by Android ) in the coming months.
 
 Source: [I.Z. Reloaded][5]
 

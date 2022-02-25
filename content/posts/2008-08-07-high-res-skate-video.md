@@ -14,4 +14,4 @@ dsq_thread_id:
 
 Awesome high-res shate video I stumbled onto today. Enjoy.
 
-It&#8217;s available in HD too if you have the bandwidth.
+It's available in HD too if you have the bandwidth.

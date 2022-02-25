@@ -8,7 +8,7 @@ dsq_thread_id:
   - 897540632
 
 ---
-With the recent [internet issues][1], byte craft&#8217;s local Ubuntu mirror was not being up2date due to overlapping cron jobs.
+With the recent [internet issues][1], byte craft's local Ubuntu mirror was not being up2date due to overlapping cron jobs.
 
 They have since moved to [ubumirror][2] running on apache/ngix and all seems good. Releases are on a 3 hour sync and archives 4  hours sync.
 

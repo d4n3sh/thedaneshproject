@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Ubuntu Pocket Guide and Reference by Keir Thomas.
 
-Here&#8217;s a good book for Ubuntu users and those thinking of switching over to Ubuntu. The book&#8217;s 194 pages long and covers;
+Here's a good book for Ubuntu users and those thinking of switching over to Ubuntu. The book's 194 pages long and covers;
 
   1. Installing Ubuntu
   2. Configuring Ubuntu

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737117
 
 ---
-I am currently hosted at [godaddy][1]. My subscription ends in 2 months so the time to scout for a new hosting company has begin. This time I&#8217;m going for a local hosting provider if possible. Maybe it&#8217;s the idea of my blog being close to home, I don&#8217;t know.
+I am currently hosted at [godaddy][1]. My subscription ends in 2 months so the time to scout for a new hosting company has begin. This time I'm going for a local hosting provider if possible. Maybe it's the idea of my blog being close to home, I don't know.
 
 Anyways, this is what I have narrowed down to so far.
 

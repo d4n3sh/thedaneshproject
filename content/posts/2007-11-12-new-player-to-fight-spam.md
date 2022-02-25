@@ -38,9 +38,9 @@ Denfensio and Askimet both use centralized APIs to validate comment spams but De
 >   </li>
 > </ul>
 
-Defensio is a replacement for Askimet but I don&#8217;t see this happening anytime soon and Askimet has been around for sometime now. It&#8217;s going to be hard to get users to switch.
+Defensio is a replacement for Askimet but I don't see this happening anytime soon and Askimet has been around for sometime now. It's going to be hard to get users to switch.
 
-The latest plugin for Defensio can be downloaded [here][15] if you would like to take it for a spin. I&#8217;ve installed it at home today so it&#8217;s going to take sometime to come to a conclusion to see which path I will follow. For now Askimet works best for me.
+The latest plugin for Defensio can be downloaded [here][15] if you would like to take it for a spin. I've installed it at home today so it's going to take sometime to come to a conclusion to see which path I will follow. For now Askimet works best for me.
 
 Source : [Defensio][16]
 

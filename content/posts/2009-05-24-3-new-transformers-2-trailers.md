@@ -14,7 +14,7 @@ Woo Hoo!! 3 new &#8220;Transformers 2&#8221; trailers just got released.
 
 Catch them below
 
-[It&#8217;s On&#8230;..][1]
+[It's On&#8230;..][1]
 
 [vimeo][http://vimeo.com/4719904][2]{.linkification-ext}[/vimeo]
 
@@ -26,7 +26,7 @@ Catch them below
 
 [vimeo][http://vimeo.com/4719348][6]{.linkification-ext}[/vimeo]
 
-I can&#8217;t wait to catch the movie!! How bout you, into Transformers??
+I can't wait to catch the movie!! How bout you, into Transformers??
 
  [1]: http://vimeo.com/4719904
  [2]: http://vimeo.com/4719904 "Linkification: http://vimeo.com/4719904"

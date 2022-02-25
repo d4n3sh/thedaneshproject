@@ -14,7 +14,7 @@ Get Mooving Movable Art 2008 will be held at Palate Pallete, Bukit Bintang, Kual
 
 My best pal [Alan][2] will be featured together with a line-up of other local and international designers. If you have time to burn then make sure to drop by to check out the alternative art scene.
 
-What&#8217;s lined up for the event,
+What's lined up for the event,
 
 1. Lucky draws.  
 2. Live performances.  

@@ -17,7 +17,7 @@ Ubuntu Tweak is an application to help users easily configure their Ubuntu insta
 
 I have been using Ubuntu Tweak on my Ubuntu machines at home for awhile now. When all you need is a functioning desktop then Ubuntu together with Ubuntu TweakÂ  in my book is the best choice. Not everyone fanciesÂ  the command line or editing files everytime they install new software. Especially my non IT savvy family members. Ubuntu and Ubuntu Tweak just work.
 
-Anyway, back to Ubuntu Tweak&#8217;s feature List;
+Anyway, back to Ubuntu Tweak's feature List;
 
 * View of Basic System Information(Distribution, Kernel, CPU, Memory, etc.)  
 * GNOME Session Control  
@@ -63,6 +63,6 @@ deb-src http://ppa.launchpad.net/tualatrix/ubuntu hardy main`
 
 3. Run the package manager and refresh the source list when prompted. Search for Unbuntu Tweak and install it.
 
-That&#8217;s it.
+That's it.
 
 Source: Ubuntu Tweak

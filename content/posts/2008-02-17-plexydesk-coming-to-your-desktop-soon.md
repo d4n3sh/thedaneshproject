@@ -14,9 +14,9 @@ PlexyDesk is the latest project to come out of Sri Lanka. The project team consi
 
 PlexyDesk is a Desktop but not a full desktop environment like KDE and Gnome. The goal for Plexydesk is to simplify and improve the desktop experience by by rendering your desktop workspace and optimally organizing yourÃ‚Â  information thought it support for multi touch screens. Plexdesk will run on top of both KDE and Gnome.
 
-Even though Plexydesk is well within it&#8217;s infant state the team has already managed to come upÃ‚Â  with a working model to show the world. Plexy glass was even shown to Mr. Ricard Stallman during his recent [visit to Sri Lanka][1].
+Even though Plexydesk is well within it's infant state the team has already managed to come upÃ‚Â  with a working model to show the world. Plexy glass was even shown to Mr. Ricard Stallman during his recent [visit to Sri Lanka][1].
 
-The project team is actively looking for help with the project so if you have any skills don&#8217;t hesitate to join the team. [What are the looking for?][2]
+The project team is actively looking for help with the project so if you have any skills don't hesitate to join the team. [What are the looking for?][2]
 
 Source: [PlexyDesk][2]
 

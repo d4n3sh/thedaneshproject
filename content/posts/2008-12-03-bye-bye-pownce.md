@@ -14,13 +14,13 @@ dsq_thread_id:
 [<img loading="lazy" src="http://farm4.static.flickr.com/3180/3079968784_754d0f23d1_m.jpg" alt="six_apart_logo" width="240" height="140" />][2]  
 I remember posting about [Pownce][3] some time back. The Django powered, Kevin Rose cofounded micro-blogging service.
 
-It&#8217;s offically closing it&#8217;s doors on the 15th of December 2008 as a direct result from a buyout by Six Apart. The blogging platform specialist.
+It's offically closing it's doors on the 15th of December 2008 as a direct result from a buyout by Six Apart. The blogging platform specialist.
 
-Current Pownce users might not be happy about this but somethings sometime just don&#8217;t work out the way you want them to. Twitter&#8217;s dominance in the micro-blogging world can be seen everywhere today and I&#8217;m quite confident that it might have been a challenge for Pownce to keep up with the giant. However, all is not lost. If you&#8217;re a current Pownce user, there&#8217;s an export option for you to migrate your data over to other services.
+Current Pownce users might not be happy about this but somethings sometime just don't work out the way you want them to. Twitter's dominance in the micro-blogging world can be seen everywhere today and I'm quite confident that it might have been a challenge for Pownce to keep up with the giant. However, all is not lost. If you're a current Pownce user, there's an export option for you to migrate your data over to other services.
 
 2009 is going to be interesting. The guys from Pownce and now with Six Apart. Something awesome is bound to come out from this new aliance.
 
-Let&#8217;s wait and see. Thanks Pownce!
+Let's wait and see. Thanks Pownce!
 
 Sources: [Pownce][4] | [SixApart][5] | FuckedStartups
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1595573005
 
 ---
-It&#8217;s here, Firefox 3 is finally here. The best web browser to date. [Check out the improved features][1].
+It's here, Firefox 3 is finally here. The best web browser to date. [Check out the improved features][1].
 
 [<img loading="lazy" class="alignnone size-medium wp-image-622" title="firefox3" src="/wp-content/uploads/2008/06/firefox3-500x221.png" alt="" width="500" height="221" srcset="/wp-content/uploads/2008/06/firefox3-500x221.png 500w, /wp-content/uploads/2008/06/firefox3.png 1029w" sizes="(max-width: 500px) 100vw, 500px" />][2]
 

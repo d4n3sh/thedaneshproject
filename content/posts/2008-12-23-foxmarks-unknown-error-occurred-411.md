@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [Foxmarks][1] is the first extension I install every time I setup Firefox.I never have to worry about loosing my bookmarks anymore and now my passwords too!
 
-Recently it&#8217;s being acting up with a &#8220;unknown error occurred (411)&#8221;Â  error during setup. The workaround fortunately is quite simple.
+Recently it's being acting up with a &#8220;unknown error occurred (411)&#8221;Â  error during setup. The workaround fortunately is quite simple.
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3090/3130353505_8ff4eb7f5d.jpg" alt="Foxmarks-error" width="500" height="281" />][2]
 
@@ -21,7 +21,7 @@ Recently it&#8217;s being acting up with a &#8220;unknown error occurred (411)&#
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3124/3130353501_cef3692233.jpg" alt="foxmarks-error2" width="500" height="281" />][3]
 
-That&#8217;s it.
+That's it.
 
  [1]: http://www.foxmarks.com/
  [2]: http://www.flickr.com/photos/dannyportal/3130353505/ "Foxmarks-error by Danesh Manoharan, on Flickr"

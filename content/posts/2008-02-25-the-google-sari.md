@@ -17,7 +17,7 @@ Well, looks like Google influence is everywhere today. Just look at the latest o
 
 The sari seen above actually says Oogle and not Google but the search results that fill the sari surely is convincing.
 
-Hopefully Google doesn&#8217;t get ideas to start making uniforms for Indian woman now.
+Hopefully Google doesn't get ideas to start making uniforms for Indian woman now.
 
  [1]: http://farm3.static.flickr.com/2090/2288147103_015a7f6a3c_o.jpg
  [2]: http://www.satyapaul.com/

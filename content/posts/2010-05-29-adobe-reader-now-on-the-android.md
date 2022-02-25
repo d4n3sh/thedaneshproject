@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="size-full wp-image-2152 alignleft" title="reader-200x300" src="/wp-content/uploads/2010/05/reader-200x300.jpg" alt="" width="200" height="300" />
 
-Adobe has finally released it&#8217;s PDF reader for the Android platform. User have been waiting long for this and now Adobe&#8217;s gonna put smiles on their faces.
+Adobe has finally released it's PDF reader for the Android platform. User have been waiting long for this and now Adobe's gonna put smiles on their faces.
 
 Go grab it.
 

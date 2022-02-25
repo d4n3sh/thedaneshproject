@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 <img class="alignnone" src="http://farm3.static.flickr.com/2012/2524352558_c05c17cce5_o.jpg" alt="Twitter" />
 
-Know someone who&#8217;s never heard of [twitter][1]? I don&#8217;t.
+Know someone who's never heard of [twitter][1]? I don't.
 
-There are loads of twitter desktop clients out there for Windows. I&#8217;m a Linux person so twittering from my command line is just one of the many was I twitter.
+There are loads of twitter desktop clients out there for Windows. I'm a Linux person so twittering from my command line is just one of the many was I twitter.
 
 Linux and OpenSource Blog has published a list for desktop clients for Linux. Might come in handy for you.
 

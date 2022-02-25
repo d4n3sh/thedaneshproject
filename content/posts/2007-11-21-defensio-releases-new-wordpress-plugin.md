@@ -16,7 +16,7 @@ Changes in this release;
 
 **New plugin name.** 
 
-Formerly Defensio but now it&#8217;s Defensio-anti-spam. &#8220;/wp-content/plugins/defensio&#8221; &#8211;> /wp-content/plugins/defensio-anti-spam
+Formerly Defensio but now it's Defensio-anti-spam. &#8220;/wp-content/plugins/defensio&#8221; &#8211;> /wp-content/plugins/defensio-anti-spam
 
 Make sure to delete the old Defensio folder within the plugin folder before installing this update.
 
@@ -28,18 +28,18 @@ If the Defensio service goes down spam will be queued and can be resubmitted thr
 
 **New defensio counter widget.**
 
-Just like what Askimet&#8217;s widget does, it shows the total spam count in quarantine. I have the widget turned on, I like Defensio so I&#8217;ll help spread the word too.
+Just like what Askimet's widget does, it shows the total spam count in quarantine. I have the widget turned on, I like Defensio so I'll help spread the word too.
 
 ![][5]![][6] 
 
 **Quarantine status in Dashboard  
 ** 
 
-Defensio quarantine stats now shows up in the WordPress admin dashboard under latest activity. Askimet always had this and it&#8217;s good that Defensio now has it too as admins love quick access to the stats.
+Defensio quarantine stats now shows up in the WordPress admin dashboard under latest activity. Askimet always had this and it's good that Defensio now has it too as admins love quick access to the stats.
 
 ![][7] 
 
-Strong start for Defensio. The plugin added some much needed enhancements. Again, I stress that simplicity is the main goal and if Defensio keeps doing what they are doing now, Defensio&#8217;s user base will surely skyrocket. Kudos.
+Strong start for Defensio. The plugin added some much needed enhancements. Again, I stress that simplicity is the main goal and if Defensio keeps doing what they are doing now, Defensio's user base will surely skyrocket. Kudos.
 
 Source: [Defensio Blog][8]
 

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 thedaneshproject.com is worth USD224.00 based on [LeapFish][1].
 
-I looked up my friend&#8217;s sites too. Check them out,
+I looked up my friend's sites too. Check them out,
 
 alanbernard.com &#8211; $576.00  
 earlmarcus.com &#8211; $252.00  
@@ -22,7 +22,7 @@ wingloon.wordpress.com &#8211; $41.00
   3. <strike>[Thaweesak][3] &#8211; USD 34.00</strike>
   4. <strike>[WingLoon][4] &#8211; USD42.00</strike>
 
-What&#8217;s your&#8217;s? Look it up at [LeapFish][1]
+What's your's? Look it up at [LeapFish][1]
 
 Source : ScreenShots
 

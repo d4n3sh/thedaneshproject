@@ -8,9 +8,9 @@ dsq_thread_id:
   - 891038746
 
 ---
-Can you access support.microsoft.com? Chances are you can&#8217;t if you&#8217;re behind a squid proxy.
+Can you access support.microsoft.com? Chances are you can't if you're behind a squid proxy.
 
-Here&#8217;s the fix/workaround,
+Here's the fix/workaround,
 
 Add the lines below into your squid.conf file. should be in /etc/squid/squid.conf. Restart squid and you should be good to go.
 
@@ -23,7 +23,7 @@ header_access Accept-Encoding deny support.microsoft.com
 
 #> service squid restart
 
-The other way is to remove the tick from &#8220;Use HTTP1.1 through proxy connections&#8221; in IE&#8217;s Advanced internet options tab. Beware that this might break other sites.
+The other way is to remove the tick from &#8220;Use HTTP1.1 through proxy connections&#8221; in IE's Advanced internet options tab. Beware that this might break other sites.
 
 Source: [Whirlpool.net.au][1]
 

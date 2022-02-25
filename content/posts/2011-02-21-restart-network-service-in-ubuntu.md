@@ -8,6 +8,6 @@ dsq_thread_id:
   - 890656345
 
 ---
-Here&#8217;s how to restart the network service on Ubuntu without restarting the OS
+Here's how to restart the network service on Ubuntu without restarting the OS
 
 `:~$ sudo /etc/init.d/networking restart`

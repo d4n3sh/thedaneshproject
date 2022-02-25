@@ -16,7 +16,7 @@ Drop Streamyx, go [P1 WiMAX][1]&#8230;
 
 WiMAX by P1( Packet One ) finally goes live in KL. Packages start from RM49 for 400Kbps and go up to RM269 for 2.4 Mbps. This the the non promotional price.
 
-P1 is currently running their introduction promotion which starts on August 20th and ends on 30rd September. The prices have been significantly reduced and the modem (RM999) is included for free so sign up fast to enjoy the savings. I&#8217;m thinking about it too.
+P1 is currently running their introduction promotion which starts on August 20th and ends on 30rd September. The prices have been significantly reduced and the modem (RM999) is included for free so sign up fast to enjoy the savings. I'm thinking about it too.
 
 Source: [Delirium][2]
 

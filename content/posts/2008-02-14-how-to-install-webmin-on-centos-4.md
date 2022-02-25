@@ -14,7 +14,7 @@ This is how you would install Webmin on Centos 4.
 
 1. First start by downloading the latest version of [Webmin][2]. The current version is 1.400.
 
-I prefer to use use wget to directly download the file onto the server but it&#8217;s up to you.
+I prefer to use use wget to directly download the file onto the server but it's up to you.
 
 <pre>wget http://prdownloads.sourceforge.net/webadmin/webmin-1.400-1.noarch.rpm</pre>
 
@@ -37,7 +37,7 @@ as root with your root password.</pre>
 <pre>[root@proxy0 /]# service webmin status
 webmin (pid 4878) is running</pre>
 
-That&#8217;s it, you can now login using your _**root**_ id at https://localhost:10000
+That's it, you can now login using your _**root**_ id at https://localhost:10000
 
 <!--more-->
 

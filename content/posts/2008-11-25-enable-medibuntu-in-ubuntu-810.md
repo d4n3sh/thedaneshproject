@@ -12,7 +12,7 @@ dsq_thread_id:
   - 895984348
 
 ---
-[Medibuntu][1] if you don&#8217;t already know is the Ubuntu repository for [non-free][2] [packages][3] which can&#8217;t be bundled with Ubuntu for regal reasons. Acrobat reader, quick time player, windows specific video/audio codecs, DVD support and the list goes on.
+[Medibuntu][1] if you don't already know is the Ubuntu repository for [non-free][2] [packages][3] which can't be bundled with Ubuntu for regal reasons. Acrobat reader, quick time player, windows specific video/audio codecs, DVD support and the list goes on.
 
 Adding the Medibuntu repository into your Ubuntu 8.10 is easy.
 

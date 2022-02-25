@@ -22,14 +22,14 @@ sleep 5<br />
 done<br />
 #End``
 
-Now let&#8217;s see how it&#8217;s done.
+Now let's see how it's done.
 
 `[user@abubu root]$./test.sh &`  
 This starts test.sh and sends it to the background. You will be back at shell but should see the &#8220;Test&#8221; message every 5 seconds.
 
 `[user@abubu root]$jobs<br />
 [1]+  Running                 ./test.sh &`  
-The jobs command will print all the background processes. Each process is represented by a number to it&#8217;s left. For example, tesh.sh is represented by 1.
+The jobs command will print all the background processes. Each process is represented by a number to it's left. For example, tesh.sh is represented by 1.
 
 `[user@abubu root]$fg 1`  
 The fg command will send the test.sh process to the foreground and return control to the shell.
@@ -44,9 +44,9 @@ The bg command will send test.sh to the background.
 
 `[user@abubu root]jobs<br />
 [1]+  Running                 ./test.sh &`  
-The jobs command will print all the background processes. Each process will be represented by a number to it&#8217;s left. tesh.sh is represented by 1.
+The jobs command will print all the background processes. Each process will be represented by a number to it's left. tesh.sh is represented by 1.
 
 `[user@abubu root]$fg 1`  
 The fg command will send the test.sh process to the foreground and return control to the shell.
 
-That&#8217;s it.
+That's it.

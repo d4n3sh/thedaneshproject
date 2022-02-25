@@ -16,9 +16,9 @@ Back in school I was part of a skate crew, this was back in Cameron Highlands. B
 
 If I remember right, I went through 5 decks. Powell, Mapel, Shortys and World Industries, Blind tires, Panther bearings andÃ‚Â  not to forget, my DC, ES, Emerica and Globe shoes.
 
-Good old days, it&#8217;s been a couple of years and I&#8217;ve put on a few pounds. I was fit, light, fast and full of energy. Wish I could turn back time, haa haa&#8230;.
+Good old days, it's been a couple of years and I've put on a few pounds. I was fit, light, fast and full of energy. Wish I could turn back time, haa haa&#8230;.
 
-Anyways, here&#8217;s 2 skate videos I found interesting. [Antiz the Z Movie][3] andÃ‚Â  [411VM Skateboarding Volume15 Issue1][4].
+Anyways, here's 2 skate videos I found interesting. [Antiz the Z Movie][3] andÃ‚Â  [411VM Skateboarding Volume15 Issue1][4].
 
 Hope you enjoy them.
 

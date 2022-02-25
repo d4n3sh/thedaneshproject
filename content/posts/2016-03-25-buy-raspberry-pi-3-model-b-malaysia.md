@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone wp-image-3615 size-medium" src="/wp-content/uploads/2016/03/Rpi3-box-510x600-450x529.jpg" alt="Raspberry Pi 3 Model B" width="450" height="529" srcset="/wp-content/uploads/2016/03/Rpi3-box-510x600-450x529.jpg 450w, /wp-content/uploads/2016/03/Rpi3-box-510x600.jpg 510w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
-Looking to buy the new Raspberry Pi 3 model B? Here&#8217;s list of places locally where you&#8217;ll be able to purchase one from.
+Looking to buy the new Raspberry Pi 3 model B? Here's list of places locally where you'll be able to purchase one from.
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Quite a few sellers on Lelong are selling the Raspberry Pi 3 now, prices vary de
 
 ### [<img loading="lazy" class="alignnone" src="http://www.tmt.my/onlinestore/image/cache/catalog/logo-233x50.png" alt="tmt.my" width="233" height="50" />][5] [tmt.my][5] &#8211; No Pricing Detail at time of posting
 
-TMT.my is a subsidiary of the popular IT chain storeThunder Match Technology Sdn. Bhd. They don&#8217;t have the Raspberry Pi 3 listed on their site yet but it might be worth [calling][6] them up as they have been known to have stock in the stores for walk-in customers.
+TMT.my is a subsidiary of the popular IT chain storeThunder Match Technology Sdn. Bhd. They don't have the Raspberry Pi 3 listed on their site yet but it might be worth [calling][6] them up as they have been known to have stock in the stores for walk-in customers.
 
 * * *
 
@@ -40,11 +40,11 @@ TMT.my is a subsidiary of the popular IT chain storeThunder Match Technology Sdn
 
 ### [<img loading="lazy" class="alignnone" src="https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-12109-157644/313-48/element14+LOGO.png" alt="element14 Sdn. Bhd" width="267" height="41" />][8] [my.element14.com][8] &#8211; RM170
 
-RS and Element 14 are both official distributors for the Raspberry Pi globally. Getting the Raspberry Pi from either one will be the cheapest option especially if you&#8217;re planning to buy in bulk.
+RS and Element 14 are both official distributors for the Raspberry Pi globally. Getting the Raspberry Pi from either one will be the cheapest option especially if you're planning to buy in bulk.
 
-Ok, that&#8217;s it for now. Hope this post helps you get started on your Raspberry Pi 3 adventure.
+Ok, that's it for now. Hope this post helps you get started on your Raspberry Pi 3 adventure.
 
-If you know of any other businesses carrying the Raspberry Pi 3 Model B locally please let me know and I&#8217;ll update the list.
+If you know of any other businesses carrying the Raspberry Pi 3 Model B locally please let me know and I'll update the list.
 
  [1]: /wp-content/uploads/2016/03/Rpi3-box-510x600.jpg
  [2]: http://www.raspberryware.com/product/raspberry-pi-3-b/

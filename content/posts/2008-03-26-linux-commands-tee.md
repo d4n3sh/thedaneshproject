@@ -22,7 +22,7 @@ A lightly more complex use of the command. I have a file with duplicate entries.
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3072/2363810812_64802df38b.jpg" alt="tee3" border="0" height="500" width="457" />][2]
 
-There are way more usages for the tee command but for today I stuck to the basic. I&#8217;ll try to post more about it in the future.
+There are way more usages for the tee command but for today I stuck to the basic. I'll try to post more about it in the future.
 
  [1]: http://www.flickr.com/photos/dannyportal/2363788930/ "tee1 by vwvr9, on Flickr"
  [2]: http://www.flickr.com/photos/dannyportal/2363810812/ "tee3 by vwvr9, on Flickr"

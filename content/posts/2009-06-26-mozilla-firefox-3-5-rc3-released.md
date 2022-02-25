@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1562" title="Firefox 3.5" src="/wp-content/uploads/2009/06/firefoxWordMarkHorizontal.png" alt="Firefox 3.5" width="500" height="140" />][1]
 
-Mozilla&#8217;s Firefox 3.5 RC3 is out. [Download Firefox RC3][2]
+Mozilla's Firefox 3.5 RC3 is out. [Download Firefox RC3][2]
 
-Hopefully it&#8217;s the last release candidate before Firefox 3.5 goes public. From what I&#8217;ve heard the release date is set for next week, start of July.
+Hopefully it's the last release candidate before Firefox 3.5 goes public. From what I've heard the release date is set for next week, start of July.
 
 The [video][3] below, by Mike Beltzner gives a quick preview of what’s new and exciting in Firefox 3.5.
 
@@ -22,7 +22,7 @@ The [video][3] below, by Mike Beltzner gives a quick preview of what’s new and
 
 Also, check out the [demos][4] to see what Firefox 3.5 is capable of.
 
-Take release candidate for a spin, you&#8217;ll realize it&#8217;s much faster compared to the previous versions of the browser. However, remember that it&#8217;s not the final product. Some extensions might not work and you might run into a few bugs.
+Take release candidate for a spin, you'll realize it's much faster compared to the previous versions of the browser. However, remember that it's not the final product. Some extensions might not work and you might run into a few bugs.
 
 [Download Firefox RC3][2]
 

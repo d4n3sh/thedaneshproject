@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Firefox 3.1 beta 1 is out.
 
-What&#8217;s new?
+What's new?
 
   * Web standards improvements in the Gecko layout engine
   * Added support for CSS 2.1 and CSS 3 properties

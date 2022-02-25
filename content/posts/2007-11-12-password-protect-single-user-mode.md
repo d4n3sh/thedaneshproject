@@ -19,4 +19,4 @@ See sample below,
 > \# password protect single user mode  
 > su:S:wait:/sbin/sulogin
 
-PS: Always remember you password, if you can&#8217;t then write in down in a safe place.
+PS: Always remember you password, if you can't then write in down in a safe place.

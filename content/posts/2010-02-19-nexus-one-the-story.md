@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1013856845
 
 ---
-A few short movies walking you through the birth of Google&#8217;s Nexus One. Man I can see myself owning one soon 😀
+A few short movies walking you through the birth of Google's Nexus One. Man I can see myself owning one soon 😀
 
 Episode 1: Concept & Design
 

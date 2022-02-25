@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889819319
 
 ---
-Running the &#8216; history &#8216; command only gives you line numbers. Sometimes it&#8217;s useful to have a time stamp attached to each command to build a clearer picture.
+Running the &#8216; history &#8216; command only gives you line numbers. Sometimes it's useful to have a time stamp attached to each command to build a clearer picture.
 
 Simply set the &#8221; HISTTIMEFORMAT &#8221; env variable to enable time stamps in &#8216; history &#8216;.
 

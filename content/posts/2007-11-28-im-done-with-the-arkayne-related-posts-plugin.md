@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737628
 
 ---
-It&#8217;s been over 24 hours since I activated my Arkayne Related Posts plugin but no related posts have even shown up so far. I expected 30 mins as stated by Arkayned eventually 24 hours later and nothing is happening.
+It's been over 24 hours since I activated my Arkayne Related Posts plugin but no related posts have even shown up so far. I expected 30 mins as stated by Arkayned eventually 24 hours later and nothing is happening.
 
 > Arkayne parses and links your blog in 30 min flat.
 
@@ -16,7 +16,7 @@ It&#8217;s been over 24 hours since I activated my Arkayne Related Posts plugin 
 
 I sent 4 mails asking for support but never heard back from Arkayne.
 
-Apparently the Arkayne Related plugin is not working as advertised. The only thing left to do now is to drop the plugin. Till then I&#8217;m back to [Simple Tags&#8217;s][2] related posts feature.
+Apparently the Arkayne Related plugin is not working as advertised. The only thing left to do now is to drop the plugin. Till then I'm back to [Simple Tags's][2] related posts feature.
 
 I love the concept behind Arkayne and hope they get it running soon.
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 
 `[danesh@jackal ~]$ su -`
 
-2. Grab the latest vesion of Adobe AIR from Adobe&#8217;s [download page][1].
+2. Grab the latest vesion of Adobe AIR from Adobe's [download page][1].
 
 `<span>[root@jackal ~]# wget  <a href="http://airdownload.adobe.com/air/lin/download/latest/AdobeAIRInstaller.bin">http://airdownload.adobe.com/air/lin/download/latest/AdobeAIRInstaller.bin</a></span>`
 
@@ -24,7 +24,7 @@ dsq_thread_id:
 
 `[root@jackal ~]# ./AdobeAIRInstaller.bin`
 
-Follow the screens and your install&#8217;s complete.
+Follow the screens and your install's complete.
 
 NOTE:
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Stumbled upon this cool wallpaper while browsing through deviantart. I is the handy work of [emoryu21][1].
 
-I love the anti Vista message embedded in it. It&#8217;s the
+I love the anti Vista message embedded in it. It's the
 
 The full size image is 1024px by 640px.
 

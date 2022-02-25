@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890980465
 
 ---
-So you messed up the Gnome desktop and don&#8217;t know how to restore it back to it&#8217;s default settings. Here&#8217;s how with no risks.
+So you messed up the Gnome desktop and don't know how to restore it back to it's default settings. Here's how with no risks.
 
 1. Log out and then hit &#8220;Ctrl + ALT + F1&#8221; to opening up a terminal.
 

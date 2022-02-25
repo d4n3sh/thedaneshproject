@@ -8,15 +8,15 @@ dsq_thread_id:
   - 889736262
 
 ---
-[<img src="/techblog/wp-content/uploads/2007/02/my-vista-20070203.thumbnail.jpg" alt="my-vista-20070203.jpg" title="my-vista-20070203.jpg" align="left" />][1]Just had my Dell Latitude D610 upgraded to Vista Enterprise. Smooth graphics, good speed, good security (small box pops up each time you do something like install apps or change settings, just like Linux) and the side bar&#8217;s pretty sweet too.
+[<img src="/techblog/wp-content/uploads/2007/02/my-vista-20070203.thumbnail.jpg" alt="my-vista-20070203.jpg" title="my-vista-20070203.jpg" align="left" />][1]Just had my Dell Latitude D610 upgraded to Vista Enterprise. Smooth graphics, good speed, good security (small box pops up each time you do something like install apps or change settings, just like Linux) and the side bar's pretty sweet too.
 
 Even with all the above I still prefer my openSUSE 10.2 with XGL and [Beryl][2], It makes Vista look like a kitten. What did they put into all the source code?
 
-Personally I feel that Vista ain&#8217;t as user friendly as I expected it to be or as they claimed it to be. It&#8217;s hard to find what you need when you need it.
+Personally I feel that Vista ain't as user friendly as I expected it to be or as they claimed it to be. It's hard to find what you need when you need it.
 
 Hit my first bug when I got back. My Intel pro 2200 BG wireless connection was not getting DHCP lease from my [IPCOP][3] server. The weird thing was that my LAN card was fine and my wireless connection worked fine if I used a static IP.
 
-Spent a whole night trying to feagure out the problem.Good news is I manged to fix it with some help from [MS knowledgebase][4] and a few registry tweaks. It seems to be a problem with the BROADCAST flag in DHCP discovery packets. In XP it&#8217;s off and in Vista it&#8217;s on. Non Microsoft DHCP servers don&#8217;t like this.
+Spent a whole night trying to feagure out the problem.Good news is I manged to fix it with some help from [MS knowledgebase][4] and a few registry tweaks. It seems to be a problem with the BROADCAST flag in DHCP discovery packets. In XP it's off and in Vista it's on. Non Microsoft DHCP servers don't like this.
 
 See the fix on the next page;<!--more-->
 

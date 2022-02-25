@@ -22,7 +22,7 @@ This release covers over 20 bugs. The list of bugs fixed can be viewed [here][2]
 
 The Danesh Project is running 2.2.3 as I have not found a good reason to upgrade yet. Maybe in a month or so. For now I have it running on my Dev machines at home.
 
-How&#8217;s your experience been with Dexter?
+How's your experience been with Dexter?
 
 Source : [boren.nu][3]
 

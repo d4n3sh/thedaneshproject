@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892118629
 
 ---
-Here&#8217;s a list of Hindu festivals for 2009 and their respective dates.
+Here's a list of Hindu festivals for 2009 and their respective dates.
 
 **January 2009**
 
@@ -104,4 +104,4 @@ Gita Jayanti â€“ 28th November, 2009 Saturday
 
 Vaikunta Ekadasi â€“ 28th December, 2009 Monday
 
-If you find a date to be wrong or if I missed out something please free to drop me a comment and I&#8217;ll update the post.
+If you find a date to be wrong or if I missed out something please free to drop me a comment and I'll update the post.

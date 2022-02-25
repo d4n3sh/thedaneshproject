@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1125" title="matt-mullenweg-turns-25" src="/wp-content/uploads/2009/01/matt-mullenweg-turns-25.jpg" alt="matt-mullenweg-turns-25" width="500" height="342" />
 
-For those who don&#8217;t know, [Matt Mullenweg][1] is the guy behindAutomattic. The company behind the world&#8217;s most popular publishing platform WordPress (6 years old) and it&#8217;s accompanying services. Askimet, Gravatar, bbPress, IntenseDebate, BuddyPress and WordPress.com the free WordPress hosting service.
+For those who don't know, [Matt Mullenweg][1] is the guy behindAutomattic. The company behind the world's most popular publishing platform WordPress (6 years old) and it's accompanying services. Askimet, Gravatar, bbPress, IntenseDebate, BuddyPress and WordPress.com the free WordPress hosting service.
 
-Today, Matt is amongst [The 25 Most Influential People on the Web][2] and [30 under 30 America&#8217;s Coolest Young Entrepreneurs][3] . At only 25 Matt has managed to accomplish so much and there is still a long way to go.
+Today, Matt is amongst [The 25 Most Influential People on the Web][2] and [30 under 30 America's Coolest Young Entrepreneurs][3] . At only 25 Matt has managed to accomplish so much and there is still a long way to go.
 
 Great stuff Matt and enjoy your 25th!
 

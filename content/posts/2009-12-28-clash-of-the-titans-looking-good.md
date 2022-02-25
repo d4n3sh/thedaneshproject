@@ -12,7 +12,7 @@ http://www.youtube.com/watch?v=qpZ5D_Wc4cA
 
 Wow&#8230;.. 
 
-Can&#8217;t wait for this remake to hit the big screen in March 2010.
+Can't wait for this remake to hit the big screen in March 2010.
 
 Source: [IMDB][1] || [Clash of the Titans][2]
 

@@ -8,13 +8,13 @@ dsq_thread_id:
   - 889737879
 
 ---
-Can you access [YouTube][1]? I can&#8217;t. All I get is _**&#8220;Http/1.1 Service Unavailable&#8221;**_
+Can you access [YouTube][1]? I can't. All I get is _**&#8220;Http/1.1 Service Unavailable&#8221;**_
 
 [![youtubedown.png][2]][3]
 
-<strike>[Mashable][4] had an update stating that YouTube was down but came back after a 6 hour outage but somehow I still can&#8217;t get throug.</strike>
+<strike>[Mashable][4] had an update stating that YouTube was down but came back after a 6 hour outage but somehow I still can't get throug.</strike>
 
-Sorry guys, Mashable&#8217;s post was from 2006. My bad, totally missed that. Thanks David.
+Sorry guys, Mashable's post was from 2006. My bad, totally missed that. Thanks David.
 
 Update (21:11 GMT +8) : YouTube is back up.
 

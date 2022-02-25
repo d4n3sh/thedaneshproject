@@ -12,9 +12,9 @@ dsq_thread_id:
 
 The Unity launcher for Ubuntu 12.04 LTS Precise Pangolin has a bug. When auto hide is enabled, there is a lag when trying to get the panel to show. When working correctly the panel should show when the mouse cursor hits the edge but the bug requires you to move your mouse beyond the edge to get the panel to show. Feels heavy.
 
-There&#8217;s no official fix out at the time of this post. Do you?
+There's no official fix out at the time of this post. Do you?
 
-Currently, the workaround to get the panel working is through a config tweak using the &#8220;compizconfig-settings-manager&#8221; tool. Here&#8217;s how.
+Currently, the workaround to get the panel working is through a config tweak using the &#8220;compizconfig-settings-manager&#8221; tool. Here's how.
 
 1. Download compizconfig-settings-manager tool. Command line or from the app store.
 

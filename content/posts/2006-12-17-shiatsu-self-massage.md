@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737717
 
 ---
-Tired? Can&#8217;t focus? Can&#8217;t think straight? Try Shiatsu Self Massage. Some of my pals said it help but I think it&#8217;s all in your head :). You be the judge of that.
+Tired? Can't focus? Can't think straight? Try Shiatsu Self Massage. Some of my pals said it help but I think it's all in your head :). You be the judge of that.
 
 Click on the thumbnail below to get a better pic&#8230;
 

@@ -15,7 +15,7 @@ The DBA I work with was reporting this error on the server she was working on. E
 > </p>
 
 <p class="MsoNormal">
-  From the error it&#8217;s quite obvious that it&#8217;s a space related issue. It&#8217;s not fun when you get woken up at 3am but anyway this is how I fixed the problem.<!--more-->
+  From the error it's quite obvious that it's a space related issue. It's not fun when you get woken up at 3am but anyway this is how I fixed the problem.<!--more-->
 </p>
 
 <p class="MsoNormal">
@@ -26,7 +26,7 @@ Next I ran &#8220;df -i&#8221; and the result painted a different picture instea
 ][1]  
 [![][2]][3] [![][4]][5] [![][6]][7]
 
-Ok, so now I know the issue was in &#8220;/var&#8221;. There&#8217;s most likely a directory within &#8220;/var&#8221; with a whole bunch of files in it causing the problem.
+Ok, so now I know the issue was in &#8220;/var&#8221;. There's most likely a directory within &#8220;/var&#8221; with a whole bunch of files in it causing the problem.
 
 Running &#8220;find /var -size -8k&#8221; would return me all files within &#8220;/var&#8221; smaller then 8k. What I found was a long list of unsent mails in the &#8220;/var/spool/mquee&#8221; directory. 261517 files to be exact.
 

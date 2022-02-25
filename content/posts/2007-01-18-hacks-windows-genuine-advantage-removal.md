@@ -8,7 +8,7 @@ dsq_thread_id:
   - 904267329
 
 ---
-Want to work around Microsoft&#8217;s protection, Windows Genuine Advantage? The people at [releaselog][1] have a good walk through with screen shots that will help you work around the the protection. Check it out by going to the link below.
+Want to work around Microsoft's protection, Windows Genuine Advantage? The people at [releaselog][1] have a good walk through with screen shots that will help you work around the the protection. Check it out by going to the link below.
 
 Windows Genuine Advantage (WGA) Removal
 

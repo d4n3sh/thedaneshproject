@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 <a href="/posts/how-to-install-jelly-bean-on-4-2-on-galaxy-nexus-7-wifi-jzo54k/jb-new-logo/" rel="attachment wp-att-3081"><img loading="lazy" class="alignnone size-full wp-image-3081" title="jb-new-logo" src="/wp-content/uploads/2012/11/jb-new-logo.png" alt="" width="206" height="316" /></a>
 
-Google has released the official Jelly Bean 4.2 images to its servers. If you can&#8217;t wait for the OTA like me then the manual method will get you 4.2 now. See how below,
+Google has released the official Jelly Bean 4.2 images to its servers. If you can't wait for the OTA like me then the manual method will get you 4.2 now. See how below,
 
-I&#8217;m doing this on Fedora 17
+I'm doing this on Fedora 17
 
 **<span style="color: #ff0000;">NOTICE: Do this at your own risk. There is a chance of things going wrong and you might end up with a brick.</span>**
 

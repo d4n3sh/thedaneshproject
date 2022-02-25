@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ALPS touchpad generaly have slower response when compared to the synaptic based touchpads.
 
-Here&#8217;s a simple X hack to boost the sensitivity of my ALPS touchpad which has dramatically improved my experience with my touchpad. This worked on my openSUSE 10.3
+Here's a simple X hack to boost the sensitivity of my ALPS touchpad which has dramatically improved my experience with my touchpad. This worked on my openSUSE 10.3
 
 1. First, check if you really do have a ALPS touchpad.
 

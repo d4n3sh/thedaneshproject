@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Some fun pics I got in my mail. Only in Malaysia.
 
-1. Awesome street sign. Let&#8217;s say it in English and BM in the same sentence.
+1. Awesome street sign. Let's say it in English and BM in the same sentence.
 
 [![thisroadsignislocatedinsungaibesikualalumpur.jpg][1]][2]
 
@@ -28,7 +28,7 @@ Some fun pics I got in my mail. Only in Malaysia.
 
 [![takenalongthekesashighwayrecently.jpg][7]][8]
 
-5. Don&#8217;t litter, the right way!!
+5. Don't litter, the right way!!
 
 [![sign.jpg][9]][10]
 

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-2023" title="DIGI-iphone" src="/wp-content/uploads/2010/03/DIGI-iphone.jpg" alt="" width="400" height="600" />
 
-Guess you already know that DIGI&#8217;s bringing in the [iPhone][1] now.
+Guess you already know that DIGI's bringing in the [iPhone][1] now.
 
 No pricing details have been officially released by DIGI so far but somehow yesterday the plans leaked out. I would not be surprised if the leak was intentional, they gotta hype it up right 😀
 

@@ -14,7 +14,7 @@ Slapped [openSUSE 11.1][1] into VirtualBox. Here are the install screenshots.
 
 For full size images go to [my flickr][2].
 
-Update: My primary desktop is now back to openSUSE once again. I&#8217;m spoiled for choice with Linux!
+Update: My primary desktop is now back to openSUSE once again. I'm spoiled for choice with Linux!
 
  [1]: /posts/opensuse-111-released/
  [2]: http://www.flickr.com/photos/dannyportal/sets/72157611433336843/with/3126218227/

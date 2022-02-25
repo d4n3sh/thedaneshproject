@@ -12,7 +12,7 @@ dsq_thread_id:
 
 This is me,Ã‚Â  a Linux geek and a RC geek.
 
-Scott Johnson is working on a geek poster which currently has 57 different types of geeks on it. This poster will keep growing as new geeks get added so if you don&#8217;t find your geek now chances are you will down the road.
+Scott Johnson is working on a geek poster which currently has 57 different types of geeks on it. This poster will keep growing as new geeks get added so if you don't find your geek now chances are you will down the road.
 
 He has the [full poster][3] on Flickr and and [individual geek][4] avatars made available through Flickr too.
 

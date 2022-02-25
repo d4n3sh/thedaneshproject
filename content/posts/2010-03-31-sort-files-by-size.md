@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889914425
 
 ---
-Here&#8217;s how to sort files by size in Linux.
+Here's how to sort files by size in Linux.
 
 Standard;
 

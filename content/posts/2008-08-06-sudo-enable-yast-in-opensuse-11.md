@@ -14,6 +14,6 @@ One of annoyance I found on openSUSE 11 is that Yast is no longer sudo enabled. 
 
 In versions prior to openSUSE 11 sudo worked fine with Yast. Apparently in openSUSE 11 Yast sudo was switched to su.
 
-Here&#8217;s how you&#8217;d get Yast to start working with sudo again.
+Here's how you'd get Yast to start working with sudo again.
 
 `danny@pandora:~> kwriteconfig -file kdesurc -group super-user-command -key super-user-command sudo`

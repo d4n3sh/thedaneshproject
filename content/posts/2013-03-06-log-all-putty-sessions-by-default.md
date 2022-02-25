@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 Putty has a feature to log your sessions to log files. This is a handy and I use it a lot. Comes in handy when you want to roll back what you did or to simply remember a command you ran.
 
-Session logging is not enabled by default but if you want logging enabled by default for all your sessions then here&#8217;s how.
+Session logging is not enabled by default but if you want logging enabled by default for all your sessions then here's how.
 
 Fire up Putty and go to the &#8220;Logging&#8221; tab. Check &#8220;Printable output&#8221; option and insert your desired log file name and location into the location field.
 

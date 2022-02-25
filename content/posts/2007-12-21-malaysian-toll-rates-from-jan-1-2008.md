@@ -8,4 +8,4 @@ dsq_thread_id:
   - 889737101
 
 ---
-Get ready people, the increase may look small but for those who use these routes daily it&#8217;s gonna cost them dearly over a long period.
+Get ready people, the increase may look small but for those who use these routes daily it's gonna cost them dearly over a long period.

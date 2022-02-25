@@ -12,7 +12,7 @@ dsq_thread_id:
 
 [TED][2] has finally released its official Android app. You can now watch all your favorite TEDtalks on your Android phones and tablets.
 
-2 main features to love. First, Offline browsing, useful when I&#8217;m on a plane or out of coverage. Second, Audio only, handy while driving to work.
+2 main features to love. First, Offline browsing, useful when I'm on a plane or out of coverage. Second, Audio only, handy while driving to work.
 
 Other common features include latest videos, search, sharing and bookmarks.
 

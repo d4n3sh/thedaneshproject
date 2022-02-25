@@ -8,11 +8,11 @@ dsq_thread_id:
   - 891702860
 
 ---
-Nuffnang recently launched it&#8217;s [smart poll][1] feature which enabled polls to be shown together with your campaign ads. Since it&#8217;s launch I&#8217;ve only seen one poll across all blogs and sites running Nuffnang ads.
+Nuffnang recently launched it's [smart poll][1] feature which enabled polls to be shown together with your campaign ads. Since it's launch I've only seen one poll across all blogs and sites running Nuffnang ads.
 
-It&#8217;s a cool idea to run polls but till the poll questions increase I&#8217;d rather have the polls feature turned off since it&#8217;s taking up too much real estate.
+It's a cool idea to run polls but till the poll questions increase I'd rather have the polls feature turned off since it's taking up too much real estate.
 
-If you&#8217;re in the same boat with then the screen shots below might help. A simple walk through to turn off the polls feature.
+If you're in the same boat with then the screen shots below might help. A simple walk through to turn off the polls feature.
 
 1. On the main main click the green &#8220;More&#8221; link.
 

@@ -10,4 +10,4 @@ dsq_thread_id:
 ---
 http://www.youtube.com/watch?v=i3TjcMAQR64
 
-Love this ad&#8230; Now that&#8217;s some strong Cheese!!
+Love this ad&#8230; Now that's some strong Cheese!!

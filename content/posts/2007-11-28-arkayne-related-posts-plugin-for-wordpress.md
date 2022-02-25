@@ -8,9 +8,9 @@ dsq_thread_id:
   - 889737827
 
 ---
-I&#8217;m trying out a new related posts plugin called &#8220;Arkayne&#8221; for a few weeks on my blog.
+I'm trying out a new related posts plugin called &#8220;Arkayne&#8221; for a few weeks on my blog.
 
-I&#8217;ve been looking around for related posts plugins and been testing a few recently but most of them either only use tags or categories to find related posts. So far my favorite has been [Related Entrie by WASABI][1] because it uses keywords instead.
+I've been looking around for related posts plugins and been testing a few recently but most of them either only use tags or categories to find related posts. So far my favorite has been [Related Entrie by WASABI][1] because it uses keywords instead.
 
 **What is Arkayne?**
 
@@ -30,7 +30,7 @@ Some of the benefits of Arkayne,
 
 **WordPress Plugin**
 
-The Arkayne widget will add a section with related posts to the bottom of every post when viewed in single page mode. For new post you will have to wait about 30 minutes before related posts start showing up. This is because Arkayne takes about 30minutes to scan through it&#8217;s database of posts and find the most relevant posts for the newly added post.
+The Arkayne widget will add a section with related posts to the bottom of every post when viewed in single page mode. For new post you will have to wait about 30 minutes before related posts start showing up. This is because Arkayne takes about 30minutes to scan through it's database of posts and find the most relevant posts for the newly added post.
 
 When displaying related posts, the Arkayne widget will always list your own blog posts near the top followed by relevant posts from other blogs at the bottom.
 

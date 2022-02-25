@@ -12,6 +12,6 @@ dsq_thread_id:
 
 Haa haa, [SengHeng.com.my][1] got hacked!! As usual by a bunch of Indonesian hackers.
 
-Hate aside, this had to be one of the best hate raps I&#8217;ve heard. Not bad 😀
+Hate aside, this had to be one of the best hate raps I've heard. Not bad 😀
 
  [1]: http://www.senheng.com.my/

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 892852080
 
 ---
-Been having a hard time finding a suitable notebook cooler for me. I&#8217;ve gone through almost all types of coolers available on the market today. Cheapest to the premium priced, single fan to 4 fans, usb powered to adapter powered but yet none did met my standards.
+Been having a hard time finding a suitable notebook cooler for me. I've gone through almost all types of coolers available on the market today. Cheapest to the premium priced, single fan to 4 fans, usb powered to adapter powered but yet none did met my standards.
 
 I decided to go ahead and build my own notebook cooler. Played around with acrylic and other materials but what happen was I need to jack my notebook up to get the best air flow. This worked fine while on my lap but not when place on a desk. 
 

@@ -12,15 +12,15 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1185" title="serverfreak-header" src="/wp-content/uploads/2009/01/serverfreak-header.gif" alt="serverfreak-header" width="376" height="112" />
 
-I&#8217;m moving to a new hosting provider. Yup, again and this time for a good reason.
+I'm moving to a new hosting provider. Yup, again and this time for a good reason.
 
 Hosting with Fivio has been good and since it was sponsored I have nothing to complain about.
 
-Been looking at VPS for a few months now and finally decided to make the leap.I&#8217;ve also been working on a few personal projects that I&#8217;d love to publish online sometime in the future and the VPS is what I will need.
+Been looking at VPS for a few months now and finally decided to make the leap.I've also been working on a few personal projects that I'd love to publish online sometime in the future and the VPS is what I will need.
 
 I chose to go with VPS by [ServerFreak][1]. Their packages are cheap and the specs quite OK I feel.Â  Full root access, 10GB storage, 150GB transfer, 256MB RAM and my choice of Linux Distros, all for RM 95 a month.
 
-Looking forward to the long weekend. I&#8217;ll have some quality time to spend with my new VPS 😀
+Looking forward to the long weekend. I'll have some quality time to spend with my new VPS 😀
 
 Please note that thedaneshproject might be offline for a few hours during the migration.
 

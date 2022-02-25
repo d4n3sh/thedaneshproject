@@ -12,11 +12,11 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1481" title="w3counter-global-web-stats_april2009" src="/wp-content/uploads/2009/05/w3counter-global-web-stats_april2009.png" alt="w3counter-global-web-stats_april2009" width="373" height="337" />][1]
 
-Based on W3Counter&#8217;s April report, Linux&#8217;s market share has grown over the past year to a steady 2.16%. At around the same time last year that value stood at 1.89%.
+Based on W3Counter's April report, Linux's market share has grown over the past year to a steady 2.16%. At around the same time last year that value stood at 1.89%.
 
-The number&#8217;s surely to go up as the Linux desktop environment continues to improve with every new release.
+The number's surely to go up as the Linux desktop environment continues to improve with every new release.
 
-I&#8217;m 100% Linux at home now running Ubuntu and openSUSE and I&#8217;m glad to have contrubuted to growth of Linux.
+I'm 100% Linux at home now running Ubuntu and openSUSE and I'm glad to have contrubuted to growth of Linux.
 
 Source: [W3Counter][2] | [Planet Malaysia][3]
 

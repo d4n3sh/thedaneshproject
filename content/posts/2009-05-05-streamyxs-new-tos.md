@@ -10,9 +10,9 @@ dsq_thread_id:
   - 915724006
 
 ---
-Streamyx got smart and officially fucked it&#8217;s customers!!
+Streamyx got smart and officially fucked it's customers!!
 
-We can&#8217;t complain about slow international access any more as streamyx&#8217;s new TOS clearly states that speedy access is only guaranteed for local content access.
+We can't complain about slow international access any more as streamyx's new TOS clearly states that speedy access is only guaranteed for local content access.
 
 > Quoted from Streamyx;
 > 

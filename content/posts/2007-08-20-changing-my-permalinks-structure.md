@@ -28,9 +28,9 @@ The plug in was initially installed to help add a trailing slash &#8220;/&#8221;
 
 &#8220;/voip/major-skype-outage/&#8221; will now point to &#8220;/posts/major-skype-outage/&#8221;
 
-That&#8217;s it, now I&#8217;ll have to wait and if anything broke.
+That's it, now I'll have to wait and if anything broke.
 
-If you need any help applying the same changes to your WP blog please leave a comment or get in touch with me though the [Contact Me][8] form and I&#8217;ll be glad to help.
+If you need any help applying the same changes to your WP blog please leave a comment or get in touch with me though the [Contact Me][8] form and I'll be glad to help.
 
  [1]: /wp-content/uploads/2007/08/permalink-structure.jpg
  [2]: /wp-content/uploads/2007/08/permalink-structure.jpg "permalink structure"

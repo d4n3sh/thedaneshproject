@@ -14,9 +14,9 @@ dsq_thread_id:
 
 Me tattooed my self and being constantly scrutinized for my love of tattoos to see people opening up like this really lightens up my day.
 
-Times are changing and so must we. It&#8217;s art people!!!
+Times are changing and so must we. It's art people!!!
 
-I&#8217;ve never seein an Acedemic ad like this one.
+I've never seein an Acedemic ad like this one.
 
 Needled: Tattooed Professors Recruit Students
 

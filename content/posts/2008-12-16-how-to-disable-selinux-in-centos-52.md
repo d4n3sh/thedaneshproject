@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889760653
 
 ---
-Here&#8217;s how you would disable SELinux permanently.
+Here's how you would disable SELinux permanently.
 
 1. vi the &#8220;**/etc/selinux/config**&#8221; file.
 

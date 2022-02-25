@@ -18,7 +18,7 @@ dsq_thread_id:
 
 `[root@jackal ~]# yum -y install xterm gtk2-devel gnome-keyring libxml2-devel libxslt rpm-devel nss`
 
-3. Grab the latest vesion of Adobe AIR from Adobe&#8217;s [download page][1].
+3. Grab the latest vesion of Adobe AIR from Adobe's [download page][1].
 
 `[root@jackal ~]# wget http://airdownload.adobe.com/air/lin/download/latest/AdobeAIRInstaller.bin`
 
@@ -30,7 +30,7 @@ dsq_thread_id:
 
 `[root@jackal ~]# ./AdobeAIRInstaller.bin`
 
-Follow the screens and your install&#8217;s complete.
+Follow the screens and your install's complete.
 
 <div id='gallery-4' class='gallery galleryid-1638 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

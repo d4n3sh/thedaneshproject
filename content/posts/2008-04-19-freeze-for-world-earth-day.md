@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 The recent &#8220;KL Freeze In Unison&#8221; which had over 1000 individuals contribute by freezing themselfs for 5 mins at &#8220;The Pavilion&#8221; and &#8220;Lot 10&#8221; was a total success.
 
-Good news, the Freeze is back and it&#8217;s hitting &#8220;Sunway Piramid&#8221; Sunday April 20. This time for the World Earth Day. Hopefully I&#8217;ll get to join this time.
+Good news, the Freeze is back and it's hitting &#8220;Sunway Piramid&#8221; Sunday April 20. This time for the World Earth Day. Hopefully I'll get to join this time.
 
 Here are the rules;
 
@@ -24,11 +24,11 @@ Here are the rules;
 
 4. Mingle. Enjoy the rest of your evening. (As earth friendly as possible)
 
-Why Freeze for Earth? We spend more energy then we need. It&#8217;s time to give back and save for the future. [Read More][2]
+Why Freeze for Earth? We spend more energy then we need. It's time to give back and save for the future. [Read More][2]
 
 <!--more-->
 
-The idea to freeze spawned recently, I remember watching it on [YouTube][3] not too long ago. It&#8217;s was an awesome idea and a sure way to grab the general public&#8217;s attention. What better way to build awareness.
+The idea to freeze spawned recently, I remember watching it on [YouTube][3] not too long ago. It's was an awesome idea and a sure way to grab the general public's attention. What better way to build awareness.
 
 Watch the recent &#8220;KL Freeze in Unison&#8221; in action.
 

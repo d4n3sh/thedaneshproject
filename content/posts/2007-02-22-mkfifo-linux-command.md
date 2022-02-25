@@ -22,9 +22,9 @@ _&#8220;ls > test-pipe&#8221;_, this pipes the output of the _ls_ command into t
 
 _&#8220;cat name-pipe | while read line i; do rm -f $i; done&#8221;_ this will delete the files passed. At this point the &#8220;test-pipe&#8221; will be empty. _&#8220;cat test-pipe&#8221;_ will come up blank.
 
-I&#8217;ve added a screen-shots of the above in action on the next page. Check it out.
+I've added a screen-shots of the above in action on the next page. Check it out.
 
-I&#8217;m not a Linux guru yet, so guys if my information not accurate or if there is a better way to improve my example please feel free to comment.
+I'm not a Linux guru yet, so guys if my information not accurate or if there is a better way to improve my example please feel free to comment.
 
 <!--more-->
 

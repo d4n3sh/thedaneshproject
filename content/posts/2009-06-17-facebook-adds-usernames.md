@@ -18,7 +18,7 @@ See [mine][3] below.
 
 [<img loading="lazy" class="alignnone size-full wp-image-1514" title="Facebook-sername1" src="/wp-content/uploads/2009/06/Facebook-sername1.png" alt="Facebook-sername1" width="339" height="34" />][4]
 
-Go to the <http://www.facebook.com/username/> page and set you desired username. That&#8217;s all, now share your new easy to read profile.
+Go to the <http://www.facebook.com/username/> page and set you desired username. That's all, now share your new easy to read profile.
 
  [1]: /wp-content/uploads/2009/06/facebook-username.png
  [2]: http://blog.facebook.com/blog.php?post=90316352130

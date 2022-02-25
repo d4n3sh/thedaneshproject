@@ -12,15 +12,15 @@ dsq_thread_id:
 
 Apple will be announcing its latest iPhone 5 and a few other devices (maybe) at its media event tomorrow, September 12th 2012 10AM PT, 1PM ET (1am GMT +8 Kuala Lumpur, Malaysia) .
 
-There is not live stream so you will have to tune into the many live blogs covering the event to know what&#8217;s coming out. Here&#8217;s a list of live blogs I know covering the event.
+There is not live stream so you will have to tune into the many live blogs covering the event to know what's coming out. Here's a list of live blogs I know covering the event.
 
 <a title="gdgt - Live iPhone 5 launch coverage" href="http://live.gdgt.com/live-iphone-5-launch-coverage/" target="_blank">gdgt &#8211; Live iPhone 5 launch coverage</a>
 
 <a title="The Verge - apple-iphone-5-live-blog" href="http://live.theverge.com/apple-iphone-5-live-blog/" target="_blank">The Verge &#8211; apple-iphone-5-live-blog</a>
 
-<a title="CNET's Apple event Live Blog" href="http://live.cnet.com/Event/CNETs_Apple_event_live_blog_Wednesday_September_12" target="_blank">CNET&#8217;s Apple event Live Blog</a>
+<a title="CNET's Apple event Live Blog" href="http://live.cnet.com/Event/CNETs_Apple_event_live_blog_Wednesday_September_12" target="_blank">CNET's Apple event Live Blog</a>
 
-<a title="Engadget - Apple's next generation iPhone liveblog" href="http://www.engadget.com/2012/09/12/apple-iphone-5-liveblog/" target="_blank">Engadget &#8211; Apple&#8217;s next generation iPhone liveblog</a>
+<a title="Engadget - Apple's next generation iPhone liveblog" href="http://www.engadget.com/2012/09/12/apple-iphone-5-liveblog/" target="_blank">Engadget &#8211; Apple's next generation iPhone liveblog</a>
 
 <a title="TIME - iPhone 5 live blog" href="http://time.com/iphone5" target="_blank">TIME &#8211; iPhone 5 live blog</a>
 
@@ -30,4 +30,4 @@ There is not live stream so you will have to tune into the many live blogs cover
 
 <a title="GIZMODO - iPhone 5 live blog" href="http://live.gizmodo.com/" target="_blank">GIZMODO &#8211; iPhone 5 live blog</a>
 
-I&#8217;ll update the list as I find more. Also, please do share if you have more.
+I'll update the list as I find more. Also, please do share if you have more.

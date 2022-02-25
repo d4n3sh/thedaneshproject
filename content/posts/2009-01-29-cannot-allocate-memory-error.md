@@ -14,7 +14,7 @@ Had a weird memory error my Linux servers at work today. These were heavy duty m
 
 Some digging around later we found the fix. Kernel 2.6 has a new parameter &#8220;min\_free\_kbytes&#8221; which allows it to reserve a dedicated amount of memory for itself to process jobs. This kept the kernel from choking up when the servers were faced with sudden spikes in heavy jobs.
 
-I set my server&#8217;sÂ  &#8220;min\_free\_kbytes&#8221; to &#8220;4096&#8221; kbytes which was the recommended value. It&#8217;s more of a trial and error configuration so I&#8217;ll have to monitor the server over a period of time and increase the value if needed till I hit the sweet spot.
+I set my server'sÂ  &#8220;min\_free\_kbytes&#8221; to &#8220;4096&#8221; kbytes which was the recommended value. It's more of a trial and error configuration so I'll have to monitor the server over a period of time and increase the value if needed till I hit the sweet spot.
 
 How to set it?
 

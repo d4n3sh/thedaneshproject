@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-787" title="rss_icon" src="/wp-content/uploads/2008/08/rss_icon.jpg" alt="" width="403" height="366" />][1]
 
-Please be informed that my RSS feed has changed. The feed&#8217;s now available at <http://feedproxy.google.com/TheDaneshProjectFeed>
+Please be informed that my RSS feed has changed. The feed's now available at <http://feedproxy.google.com/TheDaneshProjectFeed>
 
-I&#8217;ll post about why ItÃ‚Â  changed in my next post.
+I'll post about why ItÃ‚Â  changed in my next post.
 
 Sorry for the inconvinence caused guys&#8230;..
 

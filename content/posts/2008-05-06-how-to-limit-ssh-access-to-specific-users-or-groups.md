@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Its sometimes necessary to limit who has access to a server via SSH. Most Linux security hardening checklist today require this to be enforced.
 
-Fortunately this can be easily done with openSSH. Just edit the /etc/ssh/sshd_config file and add the desired directives shown below. You don&#8217;t need them all, just use what suits you needs.
+Fortunately this can be easily done with openSSH. Just edit the /etc/ssh/sshd_config file and add the desired directives shown below. You don't need them all, just use what suits you needs.
 
 openSSH provides 4 directives, AllowUsers, AllowGroups, DenyUsers and DenyGroups
 

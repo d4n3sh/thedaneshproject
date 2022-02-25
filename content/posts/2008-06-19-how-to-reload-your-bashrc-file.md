@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889735529
 
 ---
-Here&#8217;s a quick way to reload your bachrc file without having to invoke a new shell.
+Here's a quick way to reload your bachrc file without having to invoke a new shell.
 
 `[root@bambee]# source ~/.bashrc`
 

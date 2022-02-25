@@ -18,6 +18,6 @@ actual command,
 
     :%s/^V^M//g
 
-Here&#8217;s a walk through video I made. My first actually 🙂
+Here's a walk through video I made. My first actually 🙂
 
 [youtube]http://www.youtube.com/watch?v=Fy_w3VDkxKU[/youtube]

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://img223.imageshack.us/img223/2623/fedoralogoup3.png" alt="Fedora" height="56" width="52" />My favourite distro, [Fedora][1] has been officially released on the 8th of November.
 
-[Ars Technica][2] has a rundown on whats new with it. Being a firm believer of clean installs, its time for me to &#8216;prepare&#8217; my machine for this upgrade.
+[Ars Technica][2] has a rundown on whats new with it. Being a firm believer of clean installs, its time for me to &#8216;prepare' my machine for this upgrade.
 
 Considering its Sunday, I guess my switch will have to wait till next weekend 🙁
 

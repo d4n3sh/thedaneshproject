@@ -18,13 +18,13 @@ Some of the important changes;
 
 Linux kernel 2.6.27rc5.
 
-GNOME 2.24 and KDE 4.1.x will be the default desktop choices. KDE 3.5.10 will still available under the &#8220;other window managers&#8221; section. I&#8217;m not a big fan of KDE 4 yet but for testing I&#8217;ll take it for a spin.
+GNOME 2.24 and KDE 4.1.x will be the default desktop choices. KDE 3.5.10 will still available under the &#8220;other window managers&#8221; section. I'm not a big fan of KDE 4 yet but for testing I'll take it for a spin.
 
 Amarok 2.0 Beta 1 for KDE 4 and Banshee 3.1 for GNOME. Amarok 2 is gonna rock!!
 
 IPv6 support. Run in an IPv6 environment and run IPv6 based web servers.
 
-Support for SELinux alongside the Novell&#8217;s AppArmor.
+Support for SELinux alongside the Novell's AppArmor.
 
 [Read about the other changes][2] while you [download the ISO][3].
 

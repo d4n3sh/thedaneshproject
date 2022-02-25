@@ -18,9 +18,9 @@ dsq_thread_id:
 
 Those are just a few of the inspiring ads from WWF to bring awareness to us about what we are doing wrong. I got them from [Abinesh][4] and [DeWebTimes][5].
 
-We need to turn back the clock on nature and bring her back to here original state. NGOs like WWF can&#8217;t do it alone, all they can do is promote awareness amongst us in hope that we actually to the same by promoting awareness to those around us.
+We need to turn back the clock on nature and bring her back to here original state. NGOs like WWF can't do it alone, all they can do is promote awareness amongst us in hope that we actually to the same by promoting awareness to those around us.
 
-There&#8217;s only one earth, our home. Make sure you take good care of her and her children.
+There's only one earth, our home. Make sure you take good care of her and her children.
 
 If predictions are right, by 2015 shit will hit the fan and we will price for 50 years of ignorance.
 

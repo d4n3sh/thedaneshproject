@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889844145
 
 ---
-Here&#8217;s and easy way to find your computer model and serial in Windows 7. 
+Here's and easy way to find your computer model and serial in Windows 7. 
 
 Run the command &#8220;wmic csproduct&#8221; and you should see what you need.
 

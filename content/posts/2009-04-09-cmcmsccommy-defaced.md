@@ -16,7 +16,7 @@ Creative Multimedia Cluster, MSC Malaysia <http://cmc.msc.com.my/> has been defa
 
 Source: [security.org.my][2]
 
-Let&#8217;s see how long MSC takes to fix this&#8230;&#8230; , it&#8217;s been an hour now&#8230;
+Let's see how long MSC takes to fix this&#8230;&#8230; , it's been an hour now&#8230;
 
  [1]: http://farm4.static.flickr.com/3543/3425885988_288766dc4c.jpg
  [2]: http://security.org.my/index.php?/archives/Defaced-cmc.msc.com.my.html

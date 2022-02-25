@@ -12,7 +12,7 @@ dsq_thread_id:
 
 ShowYourself is a widget for for websites that displays all the web 2.0 sites or any social networks you belong to. For example Friendster, MySpace, YouTube, etc&#8230;..
 
-What I like about the ShowYourself widget is the fact that I don&#8217;t need to register a profile to utilize the widget. There is a similiar widget from the people at [Wink][2] that I will talk about in my next post. Wink needs you to register for a profile but it&#8217;s functionality differs when compared with ShowYourself.
+What I like about the ShowYourself widget is the fact that I don't need to register a profile to utilize the widget. There is a similiar widget from the people at [Wink][2] that I will talk about in my next post. Wink needs you to register for a profile but it's functionality differs when compared with ShowYourself.
 
 Generate your own ShowYourself widget using the simple template and copy the resulting code into your blog/site to have the widget show up.
 

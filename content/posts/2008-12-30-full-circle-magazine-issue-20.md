@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Full Circle Magazine Issue 20 is out. Read it online or download it [here][1].
 
-What&#8217;s covered in this edition;
+What's covered in this edition;
 
   * Command and Conquer &#8211; The Daunting Terminal.
   * How-To : Program in C &#8211; Part 4, Web Development &#8211; Part 1, Backup & Sync Your Music.

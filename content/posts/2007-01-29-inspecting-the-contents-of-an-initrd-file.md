@@ -8,7 +8,7 @@ dsq_thread_id:
   - 893704804
 
 ---
-Today&#8217;s kernels are moving towards initramfs type initrd files. Initramfs is basicly a cpio archive so all we have to do is uncompress it&#8217;s contents to a temp folder.
+Today's kernels are moving towards initramfs type initrd files. Initramfs is basicly a cpio archive so all we have to do is uncompress it's contents to a temp folder.
 
 The example below uses the file initrd.SLES10.x64.img from a SLES 10 implementaion.
 

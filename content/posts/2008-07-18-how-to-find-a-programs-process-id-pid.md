@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889822770
 
 ---
-Here&#8217;s an easy way to get the pid of a running process.
+Here's an easy way to get the pid of a running process.
 
 Running the &#8220;pidof&#8221; command will return the pid(s) for a running program. See sample below,
 

@@ -6,7 +6,7 @@ pvc_views:
   - 2505
 
 ---
-<img align="left" title="flash-logo.jpg" id="image57" alt="flash-logo.jpg" src="/techblog/wp-content/uploads/2007/01/flash-logo.jpg" />It&#8217;s finally out!! Yes, flash 9 for Linux is officially  
+<img align="left" title="flash-logo.jpg" id="image57" alt="flash-logo.jpg" src="/techblog/wp-content/uploads/2007/01/flash-logo.jpg" />It's finally out!! Yes, flash 9 for Linux is officially  
 released as mentioned stated on their [blog][1].
 
 Download the tar files here or if you fancy the rpm  

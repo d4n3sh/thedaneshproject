@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890794478
 
 ---
-If you&#8217;re trying to run Ubuntu 10.10 Beta on your VirtualBox, you&#8217;re most likely having issues with the screen resolution. Installing the default VirtualBox client doesn&#8217;t quite help. Try the steps below,
+If you're trying to run Ubuntu 10.10 Beta on your VirtualBox, you're most likely having issues with the screen resolution. Installing the default VirtualBox client doesn't quite help. Try the steps below,
 
 1. Open terminal and enter the following command:
 

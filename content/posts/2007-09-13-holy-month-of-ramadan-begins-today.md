@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://img389.imageshack.us/img389/9236/puasa3sa.jpg" height="300" width="400" />
 
-Muslims around the world begin fasting today as it marks the beginning of the Holy month of Ramadan. Fasting is not easy task, it takes motivation, determination, faith and willpower. I have never fasted for more then a day. Maybe I&#8217;ll try it with my Muslim pals this time.
+Muslims around the world begin fasting today as it marks the beginning of the Holy month of Ramadan. Fasting is not easy task, it takes motivation, determination, faith and willpower. I have never fasted for more then a day. Maybe I'll try it with my Muslim pals this time.
 
 Ramadan will end with the festival of &#8220;Eid al-Fitr&#8221; or &#8220;Hari Raya Aidilfitri&#8221; as we know it here. New clothes, big feasts, cookies galore and my favourite, visiting my Muslim friends.
 

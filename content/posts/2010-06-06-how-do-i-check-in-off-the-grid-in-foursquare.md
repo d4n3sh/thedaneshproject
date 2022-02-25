@@ -10,8 +10,8 @@ dsq_thread_id:
 ---
 Wonder how your friends checkin in &#8220;Off The Grid&#8221; in [FourSquare][1]?
 
-Simple, when you check in using your mobile device make sure all share options are not selected. Don&#8217;t share with your friends, don&#8217;t post to twitter and don&#8217;t post to FB.
+Simple, when you check in using your mobile device make sure all share options are not selected. Don't share with your friends, don't post to twitter and don't post to FB.
 
-That&#8217;s it. Tell me if it works for you.
+That's it. Tell me if it works for you.
 
  [1]: http://foursquare.com/

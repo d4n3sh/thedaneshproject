@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737866
 
 ---
-The &#8220;last&#8221; command. Not many people I know use it but there are a quite a few things one could do with it often. Let&#8217;s look at users, shutdowns and reboots.
+The &#8220;last&#8221; command. Not many people I know use it but there are a quite a few things one could do with it often. Let's look at users, shutdowns and reboots.
 
 The &#8220;last or lastb&#8221; command is typically used to show a listing of the last logged in/out users. To view when a particular user last logged in run &#8220;last [username]&#8221;. See output below.
 

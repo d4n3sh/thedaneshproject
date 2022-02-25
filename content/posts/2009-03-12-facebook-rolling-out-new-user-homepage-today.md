@@ -16,7 +16,7 @@ Been seeing this for the past few days? Get excited!!
 
 Facebook is giving you a spanking new home page and he roll out happens today.
 
-This time, it&#8217;s actually looking good. Clutter free, clean, fast and best of all it&#8217;s a live home page. Meaning that all social content from your network will be reflected to you in real time. Now how cool it that!
+This time, it's actually looking good. Clutter free, clean, fast and best of all it's a live home page. Meaning that all social content from your network will be reflected to you in real time. Now how cool it that!
 
 Check out the layout below and read about the new home page.
 

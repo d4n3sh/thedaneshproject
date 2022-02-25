@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737708
 
 ---
-[<img src="/wp-content/uploads/2007/05/260px-wii_wiimotea.png" title="260px-wii_wiimotea.png" alt="260px-wii_wiimotea.png" align="left" />][1][Giving away a Nintendo Wii][2], that&#8217;s what [John Chow][3] is offering. I would really like to have one of those sweet looking Wii.
+[<img src="/wp-content/uploads/2007/05/260px-wii_wiimotea.png" title="260px-wii_wiimotea.png" alt="260px-wii_wiimotea.png" align="left" />][1][Giving away a Nintendo Wii][2], that's what [John Chow][3] is offering. I would really like to have one of those sweet looking Wii.
 
 John Chow dot com is blog that helps you [make money online][4] .
 

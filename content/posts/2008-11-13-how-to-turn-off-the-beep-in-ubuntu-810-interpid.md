@@ -10,7 +10,7 @@ dsq_thread_id:
   - 906212722
 
 ---
-Hate the damn beep? Let&#8217;s get rid of it!!
+Hate the damn beep? Let's get rid of it!!
 
 Run &#8220;**lsmod**&#8221; and look for pcspkr.
 

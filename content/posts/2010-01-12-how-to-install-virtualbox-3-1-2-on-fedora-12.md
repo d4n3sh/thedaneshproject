@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1953" title="vbox_logo2_gradient" src="/wp-content/uploads/2010/01/vbox_logo2_gradient.png" alt="" width="140" height="180" />
 
-Here&#8217;s a quick guide to install [VirtualBox][1] 3.1.2 on Fedora 12
+Here's a quick guide to install [VirtualBox][1] 3.1.2 on Fedora 12
 
-1. Import Sun&#8217;s public key
+1. Import Sun's public key
 
 `[dexter]# wget -q http://download.virtualbox.org/virtualbox/debian/sun_vbox.asc -O- | rpm --import -`
 
@@ -28,6 +28,6 @@ Here&#8217;s a quick guide to install [VirtualBox][1] 3.1.2 on Fedora 12
 
 `[dexter]# yum install VirtualBox-3.1`
 
-That&#8217;s it!
+That's it!
 
  [1]: http://www.virtualbox.org/wiki/Linux_Downloads

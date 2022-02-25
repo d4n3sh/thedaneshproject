@@ -14,7 +14,7 @@ What is [Deluge][1]?
 
 BitTorrent Client for Linux, Mac, and now Windows. Works on almost all desktop environments. KDE, GNOME, XFCE, Windows and others. Deluge is lightweight with low system resource requirements and this makes it standout better when compared with others.
 
-Deluge boasts an extensive list of features applied through the use of plugins. My favorite would be the full stream encryption feature which disables my ISP&#8217;s throttling capabilities on BitTorrent traffic.
+Deluge boasts an extensive list of features applied through the use of plugins. My favorite would be the full stream encryption feature which disables my ISP's throttling capabilities on BitTorrent traffic.
 
   * Web UI
   * BitTorrent Protocol Encryption

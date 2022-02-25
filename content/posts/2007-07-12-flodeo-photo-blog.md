@@ -13,7 +13,7 @@ Received an invite to Flodeo this morning.
 
 What is Flodeo?
 
-Flodeo is another photo blog. Currently in beta, who isn&#8217;t?
+Flodeo is another photo blog. Currently in beta, who isn't?
 
 3 Steps to successfully Flodeo-ing,
 

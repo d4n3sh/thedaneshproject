@@ -12,12 +12,12 @@ dsq_thread_id:
 
 Received my Ubuntu 8.04 LTS Hardy Heron cds in the mail today.
 
-Who doesn&#8217;t like to receive internatioanl packages with goodies? The best part is when I tell my non OSSÃ‚Â  friends that the cds were shipped free of charge.
+Who doesn't like to receive internatioanl packages with goodies? The best part is when I tell my non OSSÃ‚Â  friends that the cds were shipped free of charge.
 
-You will be suprised to know that many people don&#8217;t believe that there are people out there providing wonderfull services not for money but out of passion. Welcome to the world of opensource is what I normally my response would be to them.
+You will be suprised to know that many people don't believe that there are people out there providing wonderfull services not for money but out of passion. Welcome to the world of opensource is what I normally my response would be to them.
 
 Go Go OSS!!
 
-Anyways, if you want your own Ubuntu cd, go to Ubuntu&#8217;s [ShipIt][1] page and place your order. Remember, it&#8217;s a free service so don&#8217;t expect speedy delivery unless your are willing to pay.
+Anyways, if you want your own Ubuntu cd, go to Ubuntu's [ShipIt][1] page and place your order. Remember, it's a free service so don't expect speedy delivery unless your are willing to pay.
 
  [1]: https://shipit.ubuntu.com/

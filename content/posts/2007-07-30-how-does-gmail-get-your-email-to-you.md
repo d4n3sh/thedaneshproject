@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 How does Gmail get your email to you?
 
-The people at Gmail want you to come up with your own short video depicting how your Gmail message travels around the world before it reaches you or it&#8217;s destination.
+The people at Gmail want you to come up with your own short video depicting how your Gmail message travels around the world before it reaches you or it's destination.
 
 Submit your creations by August 13th at [Gmail: A Behind The Scenes Video][1]. Your videos will be regularly rotated on this page.
 
@@ -21,6 +21,6 @@ Submit your creations by August 13th at [Gmail: A Behind The Scenes Video][1]. Y
   3. Upload your video.
 
   
-I am thinking of working on a short video myself.I have a good line-up of casts I can use. I use Gmail everyday so it&#8217;s time to give back.
+I am thinking of working on a short video myself.I have a good line-up of casts I can use. I use Gmail everyday so it's time to give back.
 
  [1]: http://mail.google.com/mail/help/gmail_video.html

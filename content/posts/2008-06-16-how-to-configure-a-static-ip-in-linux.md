@@ -12,13 +12,13 @@ This is a newbie question I get quite often.
 
 Configuring your Linux machine to run on a static IP is easy. Tools like system-config-network and netconfig provide you simple GUIs to do this.
 
-For today, I&#8217;ll show you how to do this from the command line instead.
+For today, I'll show you how to do this from the command line instead.
 
 Navigate to /etc/sysconfig/network-scripts/  
 `<br />
 [root@baboo]# cd /etc/sysconfig/network-scripts/`
 
-Every network interface will have it&#8217;s own interface script file. eth0,eth1,eth2 and so on. Vi the ifcfg-eth0 interface script file for interface eth0. Replace the contents of the ifcfg-eth0 file with the parameters below.
+Every network interface will have it's own interface script file. eth0,eth1,eth2 and so on. Vi the ifcfg-eth0 interface script file for interface eth0. Replace the contents of the ifcfg-eth0 file with the parameters below.
 
 `[root@baboo]# vi ifcfg-eth0.`  
 `<br />
@@ -57,4 +57,4 @@ search example.com<br />
 nameserver 192.168.0.5<br />
 nameserver 192.168.0.6`
 
-That&#8217;s it. Drop me a note if you need any help.
+That's it. Drop me a note if you need any help.

@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 <a href="/posts/install-spotify-client-arch-linux/spotify-logo-primary-horizontal-light-background-rgb-450x175/" rel="attachment wp-att-3411"><img loading="lazy" class="alignnone size-full wp-image-3411" alt="spotify-logo-primary-horizontal-light-background-rgb-450x175" src="/wp-content/uploads/2014/01/spotify-logo-primary-horizontal-light-background-rgb-450x175.jpg" width="450" height="175" /></a>
 
-I&#8217;m running Spotify version 0.9.4.183-1 and  local mp3 files don&#8217;t play anymore.
+I'm running Spotify version 0.9.4.183-1 and  local mp3 files don't play anymore.
 
 All I get from the logs is &#8220;15:58:39.156 I [audio\_driver\_linux.cpp:18 ] Using PulseAudio&#8221;, no proper error message 🙁
 

@@ -12,7 +12,7 @@ An awesome book for the average Windows user who is thinking about getting start
 
 The book is authored by [Scott Morris][1] from [openSUSE Linux Rant.][2] 25 versions from 5 different OS platforms and 20 years of experince is what he bring to the table. [Read his bio][1].
 
-I have gone through the book and personally found it to be really good for those who are eager to get started in the Linux world but don&#8217;t want to be overwhelmed by too much information. The information is simple and supported by detailed screenshots. One can never go wrong with screenshots.
+I have gone through the book and personally found it to be really good for those who are eager to get started in the Linux world but don't want to be overwhelmed by too much information. The information is simple and supported by detailed screenshots. One can never go wrong with screenshots.
 
 The book stresses that Linux today is fully functional through it GUI interface alone and the need for the command line is more suitable for those with more experience who prefer working in the CLI environment. Limited packages and complicated installation procedures are something of the past as now there are tons of quality software packages bundled with Linux and with the addition of the GUI based package managers the end user is able to easily install/uninstall the packages of their choice.
 

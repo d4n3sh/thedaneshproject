@@ -18,7 +18,7 @@ The autobots with their land vehicles were really something. Optimus prime, Mr.n
 
 I came out of the movie with the feeling of total satisfaction. I was expecting as always a bad adaptation of a good comic but I was wrong big time. All the hype was totally worth it. The best part is, rumor has it that we will get 2 more sequels to the movie to look forward to in the future. I am planning to watch it again but in true IMAX.
 
-Awesome movie, that was me and my opiniion being a die hard transformers fand since I was a kid. What about you, what&#8217;s your opinion?
+Awesome movie, that was me and my opiniion being a die hard transformers fand since I was a kid. What about you, what's your opinion?
 
 [Â Transformers | Transformers Movie | Official Site][2]
 

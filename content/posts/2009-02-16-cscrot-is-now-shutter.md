@@ -14,7 +14,7 @@ dsq_thread_id:
 
 [GScrot][1] is a powerful screen capture tool for Linux. The project went through a re-branding exercise earlier this month and now takes on a new, more appropriate name, &#8220;Shutter&#8221;.
 
-The project&#8217;sÂ  launchpad project name together with it&#8217;s PPA have also been renamed to Shutter.
+The project'sÂ  launchpad project name together with it's PPA have also been renamed to Shutter.
 
 The new project page : <https://launchpad.net/shutter>
 

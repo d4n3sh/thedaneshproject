@@ -18,7 +18,7 @@ SRJKC Jalan Davison has 3 confirmed cases, Assunta reported 1 case so far and Ce
 
 If your child has the flu, make sure he/her gets looked at by medical personnel. Keep them indoors, prevent any contact with others and drop school till the flu blows away.
 
-Parents, time to freak out. Keep your children safe, it&#8217;s not the time to be ignorant. It&#8217;s not worth gambling with your child&#8217;s health.
+Parents, time to freak out. Keep your children safe, it's not the time to be ignorant. It's not worth gambling with your child's health.
 
  [1]: http://www.themalaysianinsider.com/index.php/malaysia/30133-kl-primary-school-closed-temporarily-due-to-ah1n1
  [2]: http://www.themalaysianinsider.com/index.php/malaysia/30209-second-school-closed-as-more-h1n1-cases-reported-

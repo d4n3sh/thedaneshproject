@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3181/2889031121_b690c5fbdd.jpg" width="500" height="297" alt="deluge-1.0.0" />][1]
 
-Deluge 1.0.0 codenamed &#8220;Sharks Are Bulletproof&#8221; is out. It&#8217;s a complete rewrite from the ground up with a host of new features.
+Deluge 1.0.0 codenamed &#8220;Sharks Are Bulletproof&#8221; is out. It's a complete rewrite from the ground up with a host of new features.
 
-1. It&#8217;s now possible to run Deluge as a daemon since the core and UI have been separated.
+1. It's now possible to run Deluge as a daemon since the core and UI have been separated.
 
 2. The GTK UI has also been redesigned as seen in the screen shot above.
 

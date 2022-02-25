@@ -12,7 +12,7 @@ dsq_thread_id:
 
 My [free sketch][3] by [Samsudin Ismail][4] is in progress.
 
-It took him only 7 minutes to iron out this rough sketch. There is still some work to be done before the final caricature is ready. Can&#8217;t wait 😉
+It took him only 7 minutes to iron out this rough sketch. There is still some work to be done before the final caricature is ready. Can't wait 😉
 
 Samsudin offers low-res sketches for free but if you are looking for something hi-res, it will run you USD 5. I find that to be a bargain.
 

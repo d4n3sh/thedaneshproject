@@ -14,7 +14,7 @@ ZYB is currently the only web service providing a one stop mobile data backup so
 
 ZYB enables you to backup and share your mobile data (contacts, sms, and calendar) online easily without the need for bluetooth or any other software. You will then be able to share your mobile data (contacts, sms, and calendar) with other ZYB users.
 
-Currently ZYB supports over <strike>200</strike> 400 mobile phone models and the list is keeps growing. Currently my Samsung X700 is not fully supported so I can&#8217;t utilize the service.
+Currently ZYB supports over <strike>200</strike> 400 mobile phone models and the list is keeps growing. Currently my Samsung X700 is not fully supported so I can't utilize the service.
 
 Ok, so now you have your mobile data online and you can share them with others, what next?
 
@@ -35,7 +35,7 @@ Currently ZYB will enables you to,
 
 This is a brilliant idea and I am surprised that no one had used it before till now. Please test the service if you are interested. I would love to hear your comments on this great tool.
 
-Watch a presentation on ZYB | Life titled &#8220;[Contact Is King!!][3]&#8221; at [ZYB&#8217;s blog][4].
+Watch a presentation on ZYB | Life titled &#8220;[Contact Is King!!][3]&#8221; at [ZYB's blog][4].
 
 Source : ZYB
 

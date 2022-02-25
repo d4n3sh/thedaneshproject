@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Full Circle Magazine Issue 23 is out.
 
-What&#8217;s in it;
+What's in it;
 
   * Command and Conquer &#8211; Troubleshooting.
   * How-To : Program in C &#8211; Part 7, Web Development &#8211; Part 4, and Spreading Ubuntu &#8211; Part 2.

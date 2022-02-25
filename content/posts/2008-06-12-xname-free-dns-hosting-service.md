@@ -12,10 +12,10 @@ dsq_thread_id:
 
 Stumbled upon a free DNS hosting service today. XName provides free DNS to all and in return only expects a donation if you like the service. However, if you plan to use XName for commercial purpose then a donation is mandatory.
 
-From a infrastructure standpoint XName provides 3 DNS servers. 1 primary and 2 secondary servers. All DNS records are replicated across all servers so it&#8217;s best practice to use all 3 servers when possible to archive the best redundancy possible.
+From a infrastructure standpoint XName provides 3 DNS servers. 1 primary and 2 secondary servers. All DNS records are replicated across all servers so it's best practice to use all 3 servers when possible to archive the best redundancy possible.
 
-I&#8217;m currently working on a mini ISP setup for a client myself. The primary DNS server is in place but for my secondary servers I&#8217;m thinking of using XName instead as it&#8217;s going to save me a few dollars.
+I'm currently working on a mini ISP setup for a client myself. The primary DNS server is in place but for my secondary servers I'm thinking of using XName instead as it's going to save me a few dollars.
 
-I&#8217;ll tell you how it goes.
+I'll tell you how it goes.
 
  [1]: /wp-content/uploads/2008/06/xnamebanner1.png

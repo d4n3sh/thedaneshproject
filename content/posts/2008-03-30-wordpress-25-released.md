@@ -16,7 +16,7 @@ The shiny new WordPress has gone through a major overhaul with tones of new feat
 [<img loading="lazy" src="http://farm4.static.flickr.com/3225/2371962482_7bc1464d1a_o.png" alt="ss-1" border="0" height="303" width="466" />][1]  
 New dashboard, enhanced tag support, updated WYSIWYG editor, better search better encryption for passwords and cookies, built in galleries, one-click plugin upgrades and support for multiple uploads. [Full feature list][2]
 
-I&#8217;ve been playing the RC for the past week and I&#8217;m loving it. It&#8217;s going to be sometime before my plugins are fully supported but ya, this is one WordPress release you should not miss.
+I've been playing the RC for the past week and I'm loving it. It's going to be sometime before my plugins are fully supported but ya, this is one WordPress release you should not miss.
 
 [Download WordPress 2.5 here][3].
 

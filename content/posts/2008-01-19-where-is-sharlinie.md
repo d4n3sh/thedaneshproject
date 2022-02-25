@@ -18,7 +18,7 @@ _**My fix,**_
 
 Legalize porn and prostitution, ya ya&#8230;.. bitch all you want. We have politicians walking around in their own porn videos,multiple wife, multiple keeps and the best, girls giving BJs to their boyfriends in public(remember edisi siasat, KLCC park?) but what to we bitch about. No no Pink, Beyonce too much skin, you might teach us the wrong thing. What you call that?
 
-Remember,Ã‚Â  there are a lot of sick desperate people out there needing to be satisfied, we must provide a means for them to vent their despration else innocent victims like Sharlinie fall victim. I wonder what&#8217;s the rape rate in Amsterdam?
+Remember,Ã‚Â  there are a lot of sick desperate people out there needing to be satisfied, we must provide a means for them to vent their despration else innocent victims like Sharlinie fall victim. I wonder what's the rape rate in Amsterdam?
 
 Just my 2cents&#8230;&#8230;.
 

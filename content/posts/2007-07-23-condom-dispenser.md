@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 I have been in Penang for the past week now attending training for EMC, ORACLE and VMWare. I am into my second week now and should be back in KL late this week.
 
-Stumbled upon a cool vending machine near USM last night. A condom dispenser, something I&#8217;ve thought of starting myself before.
+Stumbled upon a cool vending machine near USM last night. A condom dispenser, something I've thought of starting myself before.
 
-Malaysian generally are not too open to the idea of walking into 7eleven and picking up a pack of condoms. I myself don&#8217;t have a problem walking into 7eleven and picking up a pack of condoms. Why should I feel embarrassed? I am proud actually, I&#8217;m only buying it to promote safe sex with my partner and in return we have a healthy relationships as my act shows that I respect her.
+Malaysian generally are not too open to the idea of walking into 7eleven and picking up a pack of condoms. I myself don't have a problem walking into 7eleven and picking up a pack of condoms. Why should I feel embarrassed? I am proud actually, I'm only buying it to promote safe sex with my partner and in return we have a healthy relationships as my act shows that I respect her.
 
 The condom dispenser is a good idea as there is no human interaction needed when purchasing the condom. The human interaction part is what keeps most people away.
 

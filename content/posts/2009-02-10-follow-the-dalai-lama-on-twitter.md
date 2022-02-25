@@ -16,11 +16,11 @@ You can now follow &#8220;His Holiness, The 14th Dalai Lama Of Tibet&#8221; on t
 
 The twitter account is managed by &#8220;OHHDL&#8221; ,[The Office of His Holiness the Dalai Lama][1].
 
-If you are like me then peace is the only thing you wish. To me, religion, color, race, status in society don&#8217;t mean anything. They are just reasons that fuel hatred today and are being leveraged but those in power to stay in power or gain more power. NO GOD WILL ASK TO KILL!! HE WHO CREATES WILL NOT DESTROY, HE WHO IS FILLED WITH HATRED WHO DESTROYS.
+If you are like me then peace is the only thing you wish. To me, religion, color, race, status in society don't mean anything. They are just reasons that fuel hatred today and are being leveraged but those in power to stay in power or gain more power. NO GOD WILL ASK TO KILL!! HE WHO CREATES WILL NOT DESTROY, HE WHO IS FILLED WITH HATRED WHO DESTROYS.
 
 Well, before I get carried away again by my emotions. If you wish, you can follow the Dalai Lama on twitter at [@OHHDL][2] or visit him at <http://www.dalailama.com>.
 
-Update: Sigh&#8230;. looks like [@OHHDL could be fake][3]. It&#8217;s currentlyÂ  suspended.
+Update: Sigh&#8230;. looks like [@OHHDL could be fake][3]. It's currentlyÂ  suspended.
 
  [1]: http://www.dalailama.com/page.9.htm
  [2]: http://twitter.com/OHHDL

@@ -15,7 +15,7 @@ dsq_thread_id:
 
 What happened on [November 25th 2007][4]. From the hearts of those who were there. 
 
-My family was part of this interview by MalaysiaKini and you&#8217;ll see from the footage that my Dad was quite emotional about the whole event.
+My family was part of this interview by MalaysiaKini and you'll see from the footage that my Dad was quite emotional about the whole event.
 
 Thanks Indrani Kopal
 

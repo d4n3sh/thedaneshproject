@@ -12,7 +12,7 @@ This is the signature I use with most of my mails.
 
 <img loading="lazy" class="alignnone size-full wp-image-2088" title="eco-signature" src="/wp-content/uploads/2010/04/eco-signature.png" alt="" width="426" height="30" /> 
 
-Here&#8217;s a couple more I found on the net.
+Here's a couple more I found on the net.
 
 [<img loading="lazy" class="alignnone size-full wp-image-2089" title="green-email-signature-cmyk-2" src="/wp-content/uploads/2010/04/green-email-signature-cmyk-2.png" alt="" width="318" height="196" />][1]
 

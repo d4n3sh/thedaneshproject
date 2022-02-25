@@ -14,13 +14,13 @@ dsq_thread_id:
 
 This just in, [Facebook][1] has reached 150 million users world wide.
 
-About 50% of it&#8217;s users log in everyday. Facebook&#8217;s users today range from students right up to grandparents, this is no surprise to me as everyone in my home has a Facebook account including my Dad who&#8217;s 63 this year. Facebook now covers over 170 countries in 35 different languages, anyone from anywhere on the globe can get a piece of Facebook in their own language.
+About 50% of it's users log in everyday. Facebook's users today range from students right up to grandparents, this is no surprise to me as everyone in my home has a Facebook account including my Dad who's 63 this year. Facebook now covers over 170 countries in 35 different languages, anyone from anywhere on the globe can get a piece of Facebook in their own language.
 
-There&#8217;s hardly anyone today who has not heard of Facebook. To some social networks seem overwhelming with the mountains of data being made available to them but not me, to me data drives our daily lives. With all the new web 2.0 services today plugging into Facebook, there is so much information waiting to be picked, and when you have great mediums like Facebook to simplify the process why not endorse it.
+There's hardly anyone today who has not heard of Facebook. To some social networks seem overwhelming with the mountains of data being made available to them but not me, to me data drives our daily lives. With all the new web 2.0 services today plugging into Facebook, there is so much information waiting to be picked, and when you have great mediums like Facebook to simplify the process why not endorse it.
 
-I don&#8217;t log in everyday but Facebook is quite important to me nowadays. I use it to keep in touch with friends and family, make business deals, follow interest groups, organize events and the list keeps growing.
+I don't log in everyday but Facebook is quite important to me nowadays. I use it to keep in touch with friends and family, make business deals, follow interest groups, organize events and the list keeps growing.
 
-If you&#8217;re not on Facebook the least you could do is take it for a spin. BEWARE!! IT&#8217;S HIGHLY ADDICTIVE 😀
+If you're not on Facebook the least you could do is take it for a spin. BEWARE!! IT'S HIGHLY ADDICTIVE 😀
 
 Source: [Facebook][2]
 

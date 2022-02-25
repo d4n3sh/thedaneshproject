@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 While I was skateboarding back in the da days up in CH it was the wrong thing to do but today, the tables have flipped. With media coverage from the Asian X games and local sports organizations pitching in to promote the sport it has began to grow.
 
-We have local skate DVDs coming out, locally produced decks, local designs, Ts and skate shops popping up everywhere. This is good. It&#8217;s always nice to see a dream one had come true.
+We have local skate DVDs coming out, locally produced decks, local designs, Ts and skate shops popping up everywhere. This is good. It's always nice to see a dream one had come true.
 
-There are 2 comps scheduled for December. One by VANS and the other by Putrajaya. The price money is decent, even though it&#8217;s not as high as what&#8217;s being paid out overseas but is certainly a good start and motivator for local talent.
+There are 2 comps scheduled for December. One by VANS and the other by Putrajaya. The price money is decent, even though it's not as high as what's being paid out overseas but is certainly a good start and motivator for local talent.
 
 [VANS KING OF GAP][1]
 

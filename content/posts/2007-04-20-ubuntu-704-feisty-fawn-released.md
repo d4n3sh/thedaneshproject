@@ -16,7 +16,7 @@ I also like the fact that the new CDs are now being shipped as live CDs. This pu
 
 There are 3 ways to obtain the latest Ubuntu distribution. You could [download][4], [buy online][5] or request for the CDs to be shipped to you for free via [shipit][6].
 
-The download servers may be overloaded due to increased download requests so don&#8217;t expect good speeds. [Ubuntu 7.04 download page.][4]
+The download servers may be overloaded due to increased download requests so don't expect good speeds. [Ubuntu 7.04 download page.][4]
 
 I would suggest going with the torrent way to get better download speeds. [Ubuntu 7.04 torrent files.][7]
 

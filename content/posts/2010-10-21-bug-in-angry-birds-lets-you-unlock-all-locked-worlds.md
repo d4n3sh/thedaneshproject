@@ -12,9 +12,9 @@ dsq_thread_id:
 
 The guys behind Angry Birds for Android decided to include a small easter egg / trick that unlocked all the locked worlds.
 
-I&#8217;ve completed the game on my iPhone so I decided to give this a try and it worked like a charm!!
+I've completed the game on my iPhone so I decided to give this a try and it worked like a charm!!
 
-Here&#8217;s how you unlock all worlds.<!--more-->
+Here's how you unlock all worlds.<!--more-->
 
 1. Launch Angry Birds and go to the world select screen.  
 2. Select a locked world on the screen. ( The one with a pad-lock 😀 )  

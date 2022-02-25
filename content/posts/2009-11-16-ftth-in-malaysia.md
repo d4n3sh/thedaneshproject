@@ -12,13 +12,13 @@ Looks like the [FTTH][1] ( Fiber To The Home ) in Malaysia ball is rolling again
 
 [<img loading="lazy" class="alignnone size-full wp-image-1851" title="623119038" src="/wp-content/uploads/2009/11/623119038.png" alt="623119038" width="300" height="135" />][2]
 
-This what Alan Tan who&#8217;s currently [beta testing the Maxis FTTH][3] is getting. WOW! &#8230;. Sigh&#8230; I want, I want.
+This what Alan Tan who's currently [beta testing the Maxis FTTH][3] is getting. WOW! &#8230;. Sigh&#8230; I want, I want.
 
-According to Alan, he&#8217;s experience so far has been good. Awesome torrenting speeds ( at 600 kB/s, I guess no fair policy yet) and  [fluid HD video][4] streaming without a glitch.
+According to Alan, he's experience so far has been good. Awesome torrenting speeds ( at 600 kB/s, I guess no fair policy yet) and  [fluid HD video][4] streaming without a glitch.
 
-I&#8217;ve not heard any performance related details about TM&#8217;s FTTH so far. With TM you can never be optimistic, based on my experience with them so far nothing has ever been what it was supposed to be. When you have to go to MCMC to sort out a 1Mbps line, you know they suck.
+I've not heard any performance related details about TM's FTTH so far. With TM you can never be optimistic, based on my experience with them so far nothing has ever been what it was supposed to be. When you have to go to MCMC to sort out a 1Mbps line, you know they suck.
 
-TM is the backbone, they have the money which gave them some advantage before but now the competition is getting fierce with other  wireless, fiber and ADSL providers coming into the picture. Hopefully they don&#8217;t get served.
+TM is the backbone, they have the money which gave them some advantage before but now the competition is getting fierce with other  wireless, fiber and ADSL providers coming into the picture. Hopefully they don't get served.
 
 Source: [Alan Tan][3] | [Fain][5]
 

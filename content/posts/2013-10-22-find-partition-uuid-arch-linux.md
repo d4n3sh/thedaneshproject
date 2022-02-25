@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 Using UUID to identify you partitions is better then using kernel device names .i.e /dev/sd?. Mainly on systems where drives get move around frequently. Dev names change when the physical order of the drives are change but the UUID always remains the same. 
 
-You can use the &#8220;lsblk&#8221; or &#8220;blkid&#8221; command to get the UUID of your partitions. In this case I&#8217;m running it on my Arch Linux box.
+You can use the &#8220;lsblk&#8221; or &#8220;blkid&#8221; command to get the UUID of your partitions. In this case I'm running it on my Arch Linux box.
 
 `[root@r2d2 ~]# lsblk -no NAME,UUID /dev/sdb1<br />
 sdb1 eb2cb768-7306-4fe5-a981-14d27d0c25fa`

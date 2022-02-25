@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 There wasÃ‚Â  scheduled maintenance workÃ‚Â  carried out on the servers hosting The DaneshÃ‚Â  Project these past 2 days.Ã‚Â  The servers were gettingÃ‚Â  new IPs and better infrastructure.
 
-The outage was planned for the 22nd but somehow the hosting guys got the notification mails mixed up which explains why you did not see a post from me regarding the outage beforehand. The notification mail&#8217;s subject line read 22nd but the mail body stated 23rd.Ã‚Â  My mind was set on the 23rd. See below.
+The outage was planned for the 22nd but somehow the hosting guys got the notification mails mixed up which explains why you did not see a post from me regarding the outage beforehand. The notification mail's subject line read 22nd but the mail body stated 23rd.Ã‚Â  My mind was set on the 23rd. See below.
 
 > Subject:Ã‚Â  Shared Server \*\\*\*.\*\*\*.\*\*\*.\*\** IP Migration on 22/12/2007 at 8AM (GMT+8)
 > 
@@ -25,4 +25,4 @@ The outage was planned for the 22nd but somehow the hosting guys got the notific
 
 Well, I guess it was a genuine mistake that I would have made myself under pressure but what got to me was the 30hours outage that was initialy suppsed to only be 5-10hours. Apparently the DNS servers were propagating slower then expected.
 
-Good thing is the site&#8217;s back up with improved performance now and I have my smile back.
+Good thing is the site's back up with improved performance now and I have my smile back.

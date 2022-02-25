@@ -14,7 +14,7 @@ The [FOSS.MY 2009][1] fee structure has been updated. It looks good now, accessi
 
 [<img loading="lazy" class="alignnone size-full wp-image-1760" title="FOSS.my 2009 Registration Overview" src="/wp-content/uploads/2009/09/FOSS.my-2009-Registration-Overview.png" alt="FOSS.my 2009 Registration Overview" width="496" height="180" />][2]
 
-Here&#8217;s the breakdown of the update structure.
+Here's the breakdown of the update structure.
 
 Bare Bones Price (RM 20) **<span style="color: #ff6600;">NEW!</span>**
 

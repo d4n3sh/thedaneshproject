@@ -12,7 +12,7 @@ dsq_thread_id:
 
 I have about 20 bookmarks waiting to be blinked today which are currently sitting in my Firefox bookmarks list. I need to share!!!
 
-I&#8217;ve dropped them an email, let&#8217;s see how it goes.  
+I've dropped them an email, let's see how it goes.  
 <img src="http://img91.imageshack.us/img91/6282/blinklisterrornb6.png" width="500" /> 
 
 <img src="http://img523.imageshack.us/img523/631/blinklisterror1iu0.png" width="500" /> 

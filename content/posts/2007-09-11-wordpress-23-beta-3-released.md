@@ -12,7 +12,7 @@ dsq_thread_id:
 
 WordPress 2.3 Beta 3 released a few hours ago. This will be the final beta before the first release candidate is released next Monday 17th September 2007.
 
-The [bughunt][1] will be on as usual on IRC&#8217;sÃ‚Â  <a href="irc://irc.freenode.net/wordpress-bugs" onclick="javascript:urchinTracker ('/outbound/article/irc.freenode.net');">#wordpress-bugs</a> channel so join in if you feel like contributing. You could also report bugs or join the [wp-testers mailing list][2].
+The [bughunt][1] will be on as usual on IRC'sÃ‚Â  <a href="irc://irc.freenode.net/wordpress-bugs" onclick="javascript:urchinTracker ('/outbound/article/irc.freenode.net');">#wordpress-bugs</a> channel so join in if you feel like contributing. You could also report bugs or join the [wp-testers mailing list][2].
 
 [Download WordPress 2.3 Beta here.][3]
 

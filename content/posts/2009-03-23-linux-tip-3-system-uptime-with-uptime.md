@@ -16,7 +16,7 @@ Simple, just run the &#8220;uptime&#8221; command and you will be rewarded with 
 
 `8:58pm  up  19:54,  1 user,  load average: 0.47, 0.62, 0.35`
 
-Above is the typical reply from uptime. On the left is the current time, followed by the system&#8217;s uptime, logged in users and finally the system&#8217;s load average.
+Above is the typical reply from uptime. On the left is the current time, followed by the system's uptime, logged in users and finally the system's load average.
 
 Sample output;
 

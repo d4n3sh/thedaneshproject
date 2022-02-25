@@ -14,7 +14,7 @@ A friend needed to re-size his Windows NT OS partition from the default 4GB to 8
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3164/3039583419_995d3556d8.jpg" alt="gparted_screenshot" width="500" height="337" />][1]
 
-GParted is a Gnome based partition editor which uses the libparted library from the popular [GNU Parted][2] package to do all it&#8217;s fancy partitioning stuff.
+GParted is a Gnome based partition editor which uses the libparted library from the popular [GNU Parted][2] package to do all it's fancy partitioning stuff.
 
 Current supported file systems are ext2, ext3, fat16, fat32, hfs, hfs+, jfs, linux-swap, ntfs, reiser-4, reiserfs, ufs and xfs. GParted lets you detect, read, create, grow, shrink, move ,copy, check and label your partitions. However, not all the features will work across all file systems. See table below.
 

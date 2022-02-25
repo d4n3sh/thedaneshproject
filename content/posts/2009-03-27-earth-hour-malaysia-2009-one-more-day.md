@@ -14,7 +14,7 @@ dsq_thread_id:
 
 [Earth Hour Malaysia 2009][1] is one day away.
 
-Mother earth has a fever and it&#8217;s been going up, not sure how much longer she&#8217;ll last. We are the aibiotics but somehow forgotten our purpose. It&#8217;s time to step up and own up to our purpose on planet earth.
+Mother earth has a fever and it's been going up, not sure how much longer she'll last. We are the aibiotics but somehow forgotten our purpose. It's time to step up and own up to our purpose on planet earth.
 
 Start with Earth Hour&#8230;
 

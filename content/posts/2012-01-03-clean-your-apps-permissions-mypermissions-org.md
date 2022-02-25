@@ -14,4 +14,4 @@ I always find it hard to remember which apps have access to my social networks.
 
 Found something handy today,  <a title="mypermissions.org" href="http://mypermissions.org/" target="_blank">mypermissions.org</a> helps you with that. It provides you with direct links to you app permissions pages. For now it covers the main 8 social network seen in the picture above.
 
-If you like the page and want to reminded to come back often, don&#8217;t forget to set a reminder at <a title="Set a reminder" href="http://ifttt.com/recipes/13865" target="_blank">ifttt</a>.
+If you like the page and want to reminded to come back often, don't forget to set a reminder at <a title="Set a reminder" href="http://ifttt.com/recipes/13865" target="_blank">ifttt</a>.

@@ -12,7 +12,7 @@ Can you control you TV volume from your Astro B.yond remote control?
 
 I could turn on/off my TV using my Astro remote, but the volume needed a few extra steps to get working.
 
-  1. Make sure you can turn on/off your TV from your Astro remote. Follow my [guide][2] if you can&#8217;t.
+  1. Make sure you can turn on/off your TV from your Astro remote. Follow my [guide][2] if you can't.
   2. Make sure your Astro decoder volume is full and your TV volume is low.
   3. Press the **OK** and **Vol+**(volume up) button together until the indicator blinks twice.
   4. Press the **Vol+**(volume up) button. If your volume increases the everything went well.

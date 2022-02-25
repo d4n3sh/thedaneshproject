@@ -4,7 +4,7 @@ author: Danesh
 date: 2020-11-07T00:33:25+00:00
 
 ---
-I&#8217;m installing minikube on my shiny new Pop!OS 20.10 install which is based on Ubuntu 20.10.
+I'm installing minikube on my shiny new Pop!OS 20.10 install which is based on Ubuntu 20.10.
 
 <pre class="wp-block-code"><code>>_lsb_release -a
 No LSB modules are available.
@@ -33,7 +33,7 @@ drwxrwxr-x  9 danesh danesh 4.0K Oct 30 14:29 google-cloud-sdk
 &gt;_ rm minikube-linux-amd64
 </code></pre>
 
-Verify if it&#8217;s working
+Verify if it's working
 
 <pre class="wp-block-code"><code>&gt;_ cd ~
 &gt;_ which minikube

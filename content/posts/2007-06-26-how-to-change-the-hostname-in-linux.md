@@ -8,7 +8,7 @@ dsq_thread_id:
   - 904554911
 
 ---
-Changing your Linux machine&#8217;s hostname is easy. Just follow the steps below.
+Changing your Linux machine's hostname is easy. Just follow the steps below.
 
 **_root# hostname [new-host-name]_**
 

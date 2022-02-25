@@ -16,7 +16,7 @@ dsq_thread_id:
 
 
 
-Watched today&#8217;s 15MALAYSIA short film. HOUSE by Linus Chung
+Watched today's 15MALAYSIA short film. HOUSE by Linus Chung
 
 An Indian boy is asked to build a model of his house at school. A tale on the social economic plight faced by many Malaysians.
 

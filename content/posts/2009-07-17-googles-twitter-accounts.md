@@ -10,9 +10,9 @@ dsq_thread_id:
   - 910227625
 
 ---
-If you&#8217;re a Google fan and use Twitter then you should already be following Google on Twitter. But do you know that Google has an Twitter account for almost all it&#8217;s products. iGoogle, Calendar, Reader, Voice, YouTube, Images, yada&#8230;.. yada&#8230; yada&#8230;. they all have Twitter accounts!
+If you're a Google fan and use Twitter then you should already be following Google on Twitter. But do you know that Google has an Twitter account for almost all it's products. iGoogle, Calendar, Reader, Voice, YouTube, Images, yada&#8230;.. yada&#8230; yada&#8230;. they all have Twitter accounts!
 
-These are the current Twitter accounts by Google. Grabed them off [Google&#8217;s Blog][1]
+These are the current Twitter accounts by Google. Grabed them off [Google's Blog][1]
 
 <a id="ya_." style="color: #551a8b;" title="twitter.com/google" href="http://twitter.com/google">twitter.com/Google</a> &#8211; our central account  
 [twitter.com/Blogger][2]{#zzci} &#8211; for Blogger fans  
@@ -21,7 +21,7 @@ These are the current Twitter accounts by Google. Grabed them off [Google&#8217;
 <a id="dx8y" style="color: #551a8b;" title="twitter.com/googlenews" href="http://twitter.com/googlenews">twitter.com/GoogleNews</a> &#8211; latest headlines via Google News  
 <a id="srkj" style="color: #551a8b;" title="twitter.com/googlereader" href="http://twitter.com/googlereader">twitter.com/GoogleReader</a> &#8211; from our feed reader team  
 [twitter.com/GoogleVoice][3] &#8211; updates & info on Google Voice*  
-<a id="yrpe" style="color: #551a8b;" title="twitter.com/igoogle" href="http://twitter.com/igoogle">twitter.com/iGoogle</a> &#8211; news & notes from Google&#8217;s personalized homepage  
+<a id="yrpe" style="color: #551a8b;" title="twitter.com/igoogle" href="http://twitter.com/igoogle">twitter.com/iGoogle</a> &#8211; news & notes from Google's personalized homepage  
 <a id="p2-e" style="color: #551a8b;" title="twitter.com/googlestudents" href="http://twitter.com/googlestudents">twitter.com/GoogleStudents</a> &#8211; news of interest to students using Google  
 <a id="ws9i" style="color: #551a8b;" title="twitter.com/youtube" href="http://twitter.com/youtube">twitter.com/YouTube</a> &#8211; for YouTube fans  
 <a id="ys7n" style="color: #551a8b;" title="twitter.com/youtubees" href="http://twitter.com/youtubees">twitter.com/YouTubeES</a> &#8211; en Espanol  
@@ -29,7 +29,7 @@ These are the current Twitter accounts by Google. Grabed them off [Google&#8217;
 
 **Geo-related**  
 <a id="ev4w" style="color: #551a8b;" title="twitter.com/sketchup" href="http://twitter.com/sketchup">twitter.com/SketchUp</a> &#8211; Google SketchUp news  
-[twitter.com/3DWH][4]{#v39e} &#8211; SketchUp&#8217;s 3D Warehouse  
+[twitter.com/3DWH][4]{#v39e} &#8211; SketchUp's 3D Warehouse  
 [twitter.com/Modelyourtown][5]{#svfk} &#8211; 3D modeling to build your favorite places  
 <a id="rob0" style="color: #551a8b;" title="twitter.com/earthoutreach" href="http://twitter.com/earthoutreach">twitter.com/EarthOutreach</a> &#8211; Earth & Maps tools for nonprofits & orgs  
 [twitter.com/GoogleEarth][6] &#8211; updates from the Google Earth team*  
@@ -64,7 +64,7 @@ These are the current Twitter accounts by Google. Grabed them off [Google&#8217;
 <a id="fos3" style="color: #551a8b;" title="twitter.com/app_engine" href="http://twitter.com/app_engine">twitter.com/app_engine</a> &#8211; web apps run on Google infrastructure  
 <a id="j5-t" style="color: #551a8b;" title="twitter.com/dataliberation" href="http://twitter.com/dataliberation">twitter.com/DataLiberation</a> &#8211; our initiative for complete import/export of all data  
 <a id="kt95" style="color: #551a8b;" title="twitter.com/googlemapsapi" href="http://twitter.com/googlemapsapi">twitter.com/GoogleMapsAPI</a> &#8211; about using Google Maps embedded in websites  
-<a id="gdvw" style="color: #551a8b;" title="twitter.com/googleio" href="http://twitter.com/googleio">twitter.com/GoogleIO</a> &#8211; Google&#8217;s largest annual developer event
+<a id="gdvw" style="color: #551a8b;" title="twitter.com/googleio" href="http://twitter.com/googleio">twitter.com/GoogleIO</a> &#8211; Google's largest annual developer event
 
 **Culture, People**  
 <a id="stnc" style="color: #551a8b;" title="twitter.com/googletalks" href="http://twitter.com/googletalks">twitter.com/googletalks</a> &#8211; notes from our @Google speaker series  

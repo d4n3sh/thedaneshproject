@@ -10,15 +10,15 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-2423" title="DropBox-Logo" src="/wp-content/uploads/2012/03/DropBox-Logo-450x152.png" alt="" width="450" height="152" srcset="/wp-content/uploads/2012/03/DropBox-Logo-450x152.png 450w, /wp-content/uploads/2012/03/DropBox-Logo.png 590w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
-Here&#8217;s how to get an extra 23GB added to your DropBox account.
+Here's how to get an extra 23GB added to your DropBox account.
 
-**Remember!!**, this might not be legit so proceed at your own risk. Not sure how Dropbox&#8217;s going to react to this. They might remove the extra space or ban your account.
+**Remember!!**, this might not be legit so proceed at your own risk. Not sure how Dropbox's going to react to this. They might remove the extra space or ban your account.
 
 Step 1: If you already have Dropbox installed on your Android device, you must Clear data, Force close and uninstall it from Settings &#8211;> Applications &#8211;> Manage Applications &#8211;> Dropbox.
 
 Step 2: Download and install the Dropbox+23GB APK [[Dropbox Link][2] || [MediaFire Link][3]].
 
-Don&#8217;t forget to enable Unknown sources under Settings &#8211;> Applications or Settings &#8211;> Security (on ICS) before installing the APK.
+Don't forget to enable Unknown sources under Settings &#8211;> Applications or Settings &#8211;> Security (on ICS) before installing the APK.
 
 Step 3: Launch the app as usual and log in. Upload and download a few files.
 

@@ -14,7 +14,7 @@ Finally we have a date for when Firefox 3 will be released. 17th June 2008, add 
 
 ![][2] 
 
-Don&#8217;t forget to pledge to [Firefox 3 Download Day][3] and make your mark in history.
+Don't forget to pledge to [Firefox 3 Download Day][3] and make your mark in history.
 
 Source: [Mozilla Dev News][4]
 

@@ -18,7 +18,7 @@ date: 2020-09-01T02:28:16+00:00
   </p>
   
   <p>
-    Restating the docker service, <code>systemctl restart docker</code> fixes this but I&#8217;d rather the containers come up properly the first time.
+    Restating the docker service, <code>systemctl restart docker</code> fixes this but I'd rather the containers come up properly the first time.
   </p>
   
   <h2>

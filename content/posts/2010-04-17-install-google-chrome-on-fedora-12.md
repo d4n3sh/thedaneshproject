@@ -38,4 +38,4 @@ Installed:<br />
   google-chrome-beta.i386 0:5.0.342.9-43360                                                                                                                     ..........................<br />
 Complete!`
 
-That&#8217;s it, enjoy your Chrome 😀
+That's it, enjoy your Chrome 😀

@@ -12,7 +12,7 @@ Look at the lady in the picture below. Is she spinning clockwise or anti-clockwi
 
 ![][1] 
 
-We use both sides of our brains to understand what we see, feel and smell. In this example your brain will either tell you that she is spinning clockwise or anti-clockwise. If you use your right brain then she would spin clockwise and if you use your left brain you&#8217;ll see her spin anti-clockwise, this is what most people see but I saw her spin clockwise initially.
+We use both sides of our brains to understand what we see, feel and smell. In this example your brain will either tell you that she is spinning clockwise or anti-clockwise. If you use your right brain then she would spin clockwise and if you use your left brain you'll see her spin anti-clockwise, this is what most people see but I saw her spin clockwise initially.
 
 Can you change the direction she spins? The answer is yes. Concentrate and you might pull it off, I did 🙂
 

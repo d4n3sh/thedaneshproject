@@ -8,11 +8,11 @@ dsq_thread_id:
   - 889736969
 
 ---
-Like to see ladies on your desktop? Ravi over at [All About Linux][1] (Thanks Ravi!!)has compiled a list of hot Ubuntu wallpapers from gnome-look.org. I&#8217;m quite sure that your manager won&#8217;t be happy if he saw a pair butt chicks with Ubuntu tattooed on them on your workstation.
+Like to see ladies on your desktop? Ravi over at [All About Linux][1] (Thanks Ravi!!)has compiled a list of hot Ubuntu wallpapers from gnome-look.org. I'm quite sure that your manager won't be happy if he saw a pair butt chicks with Ubuntu tattooed on them on your workstation.
 
 My favorite 2 would be the bent over devil and the butt chick with Ubuntu tattooed on it. Hot!!
 
-I don&#8217;t feel the wallpapers are suitable for children so please be cautious while viewing them.
+I don't feel the wallpapers are suitable for children so please be cautious while viewing them.
 
 [<img src="http://img503.imageshack.us/img503/892/52404systemimmunizedsxgvc8.th.jpg" border="0" />][2] [<img src="http://img503.imageshack.us/img503/7656/52405pure3xganw6.th.jpg" border="0" />][3]
 

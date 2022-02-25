@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Stumbled onto this a few days back. Thought it might come in handy for you too 😀
 
-Sometimes I wonder if the data published is really accurate. Based on what&#8217;s published, most Malaysians look like there are earning peanuts.
+Sometimes I wonder if the data published is really accurate. Based on what's published, most Malaysians look like there are earning peanuts.
 
 Well anyway, [download it here][1] and tell me what ya think.
 

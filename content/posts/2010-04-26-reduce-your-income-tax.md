@@ -8,9 +8,9 @@ dsq_thread_id:
   - 913682812
 
 ---
-It&#8217;s tax month. Few more days to go so make sure to have your [e-filling][1] done.
+It's tax month. Few more days to go so make sure to have your [e-filling][1] done.
 
-Here&#8217;s a few tips to optimize your income tax contribution fr the coming years.
+Here's a few tips to optimize your income tax contribution fr the coming years.
 
 
 

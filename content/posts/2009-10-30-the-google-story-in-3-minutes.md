@@ -10,6 +10,6 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=EjN5avRvApk[/youtube]
 
-Grabbed this off [Abinesh][1]. A short 3 minute movie on Google&#8217;s journey.
+Grabbed this off [Abinesh][1]. A short 3 minute movie on Google's journey.
 
  [1]: http://www.abinesh.com/delirium/posts/the-google-story/

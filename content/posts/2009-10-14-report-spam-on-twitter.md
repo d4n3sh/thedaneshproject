@@ -14,11 +14,11 @@ dsq_thread_id:
 
 To report someone as spam, simple go to their profile and click the &#8220;report [usename] for spam&#8221; link. This will prevent them from messaging or following you.
 
-All reported accounts will get forwarded to Twitter&#8217;s officials for review before getting banned.
+All reported accounts will get forwarded to Twitter's officials for review before getting banned.
 
 The process to report has been simplified.Just by doing that, users are now more empowered to keep spammers at bay.
 
-This is good, I&#8217;ve been getting spammed like there&#8217;s no tomorrow. Can&#8217;t wait to start clicking that link 😀
+This is good, I've been getting spammed like there's no tomorrow. Can't wait to start clicking that link 😀
 
 Source: [Twitter Help][2]
 

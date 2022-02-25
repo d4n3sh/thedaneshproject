@@ -14,7 +14,7 @@ The main openSUSE repositories have been down for about 12 hours now due to hard
 
 _**So what do you do?**_
 
-It&#8217;s advisable to use a mirror closer to your location. I use Japan. The performance is better when compared with the other Asian mirros.
+It's advisable to use a mirror closer to your location. I use Japan. The performance is better when compared with the other Asian mirros.
 
 For the full list of mirrors go to the openSUSE Wiki
 

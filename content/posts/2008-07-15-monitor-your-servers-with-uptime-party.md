@@ -20,7 +20,7 @@ Services currently monitored are Web, Ping, SMTP, POP3, IMAP, FTP and SSH. Serve
 
 [<img loading="lazy" class="alignnone size-medium wp-image-673" title="uptimeparty2" src="/wp-content/uploads/2008/07/uptimeparty2.png" alt="" width="500" height="257" />][3]
 
-The monitoring service is free for 1 server, anything more and you&#8217;ll need to pay.
+The monitoring service is free for 1 server, anything more and you'll need to pay.
 
   * 10 servers for $9.99/month, checked every 15 minutes
   * 5 servers for $4.99/month, checked every 30 minutes
@@ -30,11 +30,11 @@ The monitoring service is free for 1 server, anything more and you&#8217;ll need
 
 I had a short mail interview with the guys behind Uptime Party, here what they had to say about the service.
 
-> We basically created Uptime Party for our own server monitoring needs, and later adapted it into a public product. Our main goal is keep things as simple as possible. We don&#8217;t plan to add complex (and expensive) features that 90% of our users won&#8217;t need.
+> We basically created Uptime Party for our own server monitoring needs, and later adapted it into a public product. Our main goal is keep things as simple as possible. We don't plan to add complex (and expensive) features that 90% of our users won't need.
 > 
-> We&#8217;re hoping to target small businesses,Ã‚Â  especially small web development shops that have many client sites to monitor.
+> We're hoping to target small businesses,Ã‚Â  especially small web development shops that have many client sites to monitor.
 > 
-> We just launched last week, so we&#8217;re still getting things polished. Any suggestions would be welcome!
+> We just launched last week, so we're still getting things polished. Any suggestions would be welcome!
 
 Source: [Uptime Party][2]
 

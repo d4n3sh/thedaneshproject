@@ -14,6 +14,6 @@ The trip was fun but at the same time I felt sad to see my once beautiful hometo
 
 The only thing left to enjoy now is the cold weather and the clean air. This will not be for long, over the past 6 years the temperature has raised about 3 degrees. So, imagine with all the new destruction in the name of tourismÃ‚Â  what would happen in the next 10 years.
 
-O ya one more thing, Camerons once boasted that it was a favorite amongst foreigners but not anymore. I hardly saw any foreigners this time. They come for the nature, you take it away and they have no reason to come back. It&#8217;s all for the local tourist now. They come, mess the place up and leave. sigh&#8230;&#8230;&#8230;&#8230;.
+O ya one more thing, Camerons once boasted that it was a favorite amongst foreigners but not anymore. I hardly saw any foreigners this time. They come for the nature, you take it away and they have no reason to come back. It's all for the local tourist now. They come, mess the place up and leave. sigh&#8230;&#8230;&#8230;&#8230;.
 
 See come pictures from my trip on the next page.<!--more-->

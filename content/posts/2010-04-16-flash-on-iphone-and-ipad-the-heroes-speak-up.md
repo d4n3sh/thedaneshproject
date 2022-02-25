@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890874927
 
 ---
-<img class="alignnone size-full wp-image-2047" title="the-flash-iphone-ipad-spoof" src="/wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof.jpg" alt="" width="450" srcset="/wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof.jpg 600w, /wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof-450x352.jpg 450w" sizes="(max-width: 600px) 100vw, 600px" />Let&#8217;s see what the heroes have to say about the iPhone and iPad. 😀
+<img class="alignnone size-full wp-image-2047" title="the-flash-iphone-ipad-spoof" src="/wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof.jpg" alt="" width="450" srcset="/wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof.jpg 600w, /wp-content/uploads/2010/04/the-flash-iphone-ipad-spoof-450x352.jpg 450w" sizes="(max-width: 600px) 100vw, 600px" />Let's see what the heroes have to say about the iPhone and iPad. 😀
 
 Source: [1][1] | [2][2]
 

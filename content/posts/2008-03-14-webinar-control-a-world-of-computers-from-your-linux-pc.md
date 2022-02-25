@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3050/2331774897_ce37b9fba6_o.jpg" alt="Webinar: Control a World of Computers From Your Linux PC" border="0" height="200" width="450" />][1]
 
-A new O&#8217;Reilly webinar is coming soon.
+A new O'Reilly webinar is coming soon.
 
 [Carla Schroder][2], author of the book &#8220;Linux Cookbook&#8221; will be presenting. She will be talking about GUI based secure remote administration via the Linux desktop. Some of the key points covered will be;
 

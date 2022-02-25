@@ -10,13 +10,13 @@ dsq_thread_id:
   - 890122420
 
 ---
-Most of the time, users are having a Windows Machine on their desk or laptop. Normally, we want to perform a full scale data retrieval from our Linux servers in the DC, where we don&#8217;t have a trusted Linux server to manage it&#8230;.the answer to it is use &#8220;PLINK&#8221; utility.
+Most of the time, users are having a Windows Machine on their desk or laptop. Normally, we want to perform a full scale data retrieval from our Linux servers in the DC, where we don't have a trusted Linux server to manage it&#8230;.the answer to it is use &#8220;PLINK&#8221; utility.
 
 <a title="Plink Download" href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html" target="_blank">Plink </a>comes together with the Putty&#8230;
 
 A simple example of usage is:
 
-_**C:\> plink USERNAME@SERVERNAME &#8216;YOUR-LINUX-COMMAND&#8217;**_
+_**C:\> plink USERNAME@SERVERNAME &#8216;YOUR-LINUX-COMMAND'**_
 
 If you have a dozen of servers&#8230;then you probably want to write a batch script in Windows to loop through a list of servers and mention the list of commands juz like what i did&#8230;..
 

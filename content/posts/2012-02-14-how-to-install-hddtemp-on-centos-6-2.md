@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [hddtemp][1] is a simple small app to monitor your hard disk temperature. It works by accessing the SMART capability of modern disks.
 
-Here&#8217;s how to install it.
+Here's how to install it.
 
 Download and compile from source.  
 `#cd /tmp<br />

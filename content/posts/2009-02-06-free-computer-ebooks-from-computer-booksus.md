@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Computer-Books.us provides free computer eBooks for download. All books are legal as the authors / publisher have been kind enough to allow the eBooks to be published online for free.
 
-Books are broken down into categories and each hosted on it&#8217;s own domain.
+Books are broken down into categories and each hosted on it's own domain.
 
   * [Linux-Books.us ( Ubuntu, CentOS, Debian, ..etc )  
 ][1] 

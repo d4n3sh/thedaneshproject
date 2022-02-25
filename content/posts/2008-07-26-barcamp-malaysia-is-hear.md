@@ -12,11 +12,11 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone" src="/wp-content/uploads/2008/07/barcamp-banner.png" alt="" width="450" height="142" />
 
-BarCamp&#8217;s in a few hours. It&#8217;s gonna be my first. The Google Android session is what I&#8217;m going for first.
+BarCamp's in a few hours. It's gonna be my first. The Google Android session is what I'm going for first.
 
-What is BarCamp? It&#8217;s an Unconference .
+What is BarCamp? It's an Unconference .
 
-Interested? Initialy seats were [limited][1] but due to overwhelming interest from the public, BarCamp decided to opened up it&#8217;s door to all. Just walk in.
+Interested? Initialy seats were [limited][1] but due to overwhelming interest from the public, BarCamp decided to opened up it's door to all. Just walk in.
 
 See you there,
 

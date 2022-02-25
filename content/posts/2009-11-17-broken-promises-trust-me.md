@@ -12,6 +12,6 @@ dsq_thread_id:
 
 .
 
-Man, Apple&#8217;s all out to diss Windows 7. [Have fun][1]
+Man, Apple's all out to diss Windows 7. [Have fun][1]
 
  [1]: http://www.apple.com/getamac/ads/

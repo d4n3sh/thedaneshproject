@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889772961
 
 ---
-Here&#8217;s how to install Google Chrome on Linux Mint 12 &#8220;Maya&#8221;.
+Here's how to install Google Chrome on Linux Mint 12 &#8220;Maya&#8221;.
 
 1. Download the signing key.
 

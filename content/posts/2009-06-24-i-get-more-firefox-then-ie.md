@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 This is awesome. Was going through my Google Analytics reports today. Most of my visitors run Firefox and not IE.
 
-Looking at my stats from the past month. Firefox&#8217;s at 59.70%. IE was only at 27.75 % coming 2nd, followed by Chrome at 4.34%.
+Looking at my stats from the past month. Firefox's at 59.70%. IE was only at 27.75 % coming 2nd, followed by Chrome at 4.34%.
 
 Looking at my stats, I guess most of my visitors are internet savvy else Firefox would not be on top. Not that Firefox is a pain to use but the fact is that most non internet savvy users generally just stick with the default browser that comes with their OS which in most cases is IE 🙁
 

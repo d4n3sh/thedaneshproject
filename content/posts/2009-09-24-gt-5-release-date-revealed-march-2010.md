@@ -14,7 +14,7 @@ dsq_thread_id:
 
 The latest installment to my favorite driving simulator of all time, Grand Turismo 5 will not be out till March 2010.
 
-GT5 was initially rumor/predicted to come out around Christmas time this year but that&#8217;s not going to happen now. Looks like there are going to be many crushed children and driving enthusiast come this Christmas holidays.
+GT5 was initially rumor/predicted to come out around Christmas time this year but that's not going to happen now. Looks like there are going to be many crushed children and driving enthusiast come this Christmas holidays.
 
 The [announcement][2] was made at the Tokyo Game Show.
 

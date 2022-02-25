@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Dropped my [TwitterFox][1] for [twhirl][2] today. Runs flawlessly on Ubuntu 8.10.
 
-Installation was a breeze, here&#8217;s the walkthrough.
+Installation was a breeze, here's the walkthrough.
 
 1. Download Adobe AIR Beta from <http://labs.adobe.com/downloads/air_linux.html>
 
@@ -28,7 +28,7 @@ danesh@pandora:~/Desktop$`
 
 4. Double click the twhirl file to start the installation. The installer will install twhirl to /opt/twhirl/ .
 
-That&#8217;s it! you now have twhirl installed.
+That's it! you now have twhirl installed.
 
 <!--more-->
 

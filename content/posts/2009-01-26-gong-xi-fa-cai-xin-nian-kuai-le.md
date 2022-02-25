@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Gong Xi Fa Chai, Xin Nian Kuai Le !!Â  to all my buddies and readers celebrating the Chinese new year!!
 
-Here&#8217;s a KFC coupon I received from [iCalvyn][1]. He wanted to share come CNY love and I thought I&#8217;ll so the same. 😀
+Here's a KFC coupon I received from [iCalvyn][1]. He wanted to share come CNY love and I thought I'll so the same. 😀
 
 <img loading="lazy" class="alignnone" title="KFC Zinger Tower" src="http://img242.imageshack.us/img242/7241/kfcjm0.jpg" alt="" width="640" height="458" />
 

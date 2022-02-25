@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <a href="/posts/android-pictarine-browse-all-your-online-pictures/pictarine/" rel="attachment wp-att-2990"><img loading="lazy" class="alignnone size-medium wp-image-2990" title="Pictarine" src="/wp-content/uploads/2012/08/Pictarine-450x396.jpg" alt="" width="450" height="396" srcset="/wp-content/uploads/2012/08/Pictarine-450x396.jpg 450w, /wp-content/uploads/2012/08/Pictarine.jpg 600w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
-There&#8217;s a new photo feed app out today  from Pictarine for the Android.
+There's a new photo feed app out today  from Pictarine for the Android.
 
 Pictarine pulls photos from  all your friends on Facebook, Twitter, Instagram, Flickr and tumblr. It then presents the photos to you in a nice feed where you can like, comment or share those pictures. All you need is a Google or Facebook account, connect and the app does the rest.
 

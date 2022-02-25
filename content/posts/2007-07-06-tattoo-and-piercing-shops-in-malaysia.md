@@ -12,7 +12,7 @@ dsq_thread_id:
 
 List of tattoo and piercing shops located around Malaysia. At the time of this post only 16 shops are registered at [TattoJoy.com][3]
 
-I know there are loads of shops out there and freelance tattoo artist who are not registered online or registered on any directory services but I&#8217;ll try to digg up some information on them and get some future posts up on them.
+I know there are loads of shops out there and freelance tattoo artist who are not registered online or registered on any directory services but I'll try to digg up some information on them and get some future posts up on them.
 
 [Access the list of tattoo and piercing shops in Malaysia at TattoJoy.com][3]
 

@@ -20,6 +20,6 @@ dsq_thread_id:
 
 `danesh@jackal:/Desktop$ ./AdobeAIRInstaller.bin`
 
-That&#8217;s it, now download, install and enjoy your Adobe AIR apps.
+That's it, now download, install and enjoy your Adobe AIR apps.
 
  [1]: http://airdownload.adobe.com/air/lin/download/latest/AdobeAIRInstaller.bin

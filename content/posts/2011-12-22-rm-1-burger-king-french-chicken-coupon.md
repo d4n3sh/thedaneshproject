@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-2333" title="20111219-BKrazy-Monday-Offer" src="/wp-content/uploads/2011/12/20111219-BKrazy-Monday-Offer-450x199.jpg" alt="" width="450" height="199" srcset="/wp-content/uploads/2011/12/20111219-BKrazy-Monday-Offer-450x199.jpg 450w, /wp-content/uploads/2011/12/20111219-BKrazy-Monday-Offer.jpg 960w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
-From 19 December 2011 till 8 January 2012 enjoy BK&#8217;s French Chicken burger at RM 1 when used together with any value meal. Just print the coupon and present  it at your nearest BK.
+From 19 December 2011 till 8 January 2012 enjoy BK's French Chicken burger at RM 1 when used together with any value meal. Just print the coupon and present  it at your nearest BK.
 
 Source: [Delirium][2]
 

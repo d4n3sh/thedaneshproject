@@ -16,7 +16,7 @@ The people at Skype will be providing an announcement on what actually caused th
 
 Everything is back to normal now. All my Skype calls are going through fine but quality as usual just OK due to the excellent bandwidth provided by our brilliant ISP here in Malaysia.
 
-I&#8217;ve been on my land line for the past 2 days, I don&#8217;t even want to imagine what my bill is going to look like. Thank god Skype is back.
+I've been on my land line for the past 2 days, I don't even want to imagine what my bill is going to look like. Thank god Skype is back.
 
 Back to productive telephony for me 🙂
 

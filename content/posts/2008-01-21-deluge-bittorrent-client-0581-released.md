@@ -16,7 +16,7 @@ Changes added to this release,
 
 > Catch various exceptions from possibly corrupted persistent.state  
 > Use pieces wanted instead of total pieces to draw adv progress bar  
-> Properly catch &#8216;address already in use&#8217; error when trying to use a port that is in use  
+> Properly catch &#8216;address already in use' error when trying to use a port that is in use  
 > Attempt to fix issue where all the columns start very small  
 > Change how we handle fastresume &#8211; should prevent rechecking  
 > New theme for windows  

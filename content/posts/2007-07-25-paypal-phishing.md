@@ -24,7 +24,7 @@ Imagine the damage if IE, Firefox and most newer browsers have no phishing prote
 
 My Advice: Be very cautious when working on your financial sites. If you havethe slightest hint of suspicious activity, abort what you are doing and get in touch wiht service provider.
 
-Remember, almost all financial and secure service providers never send out emails to their clients to verify user credential. If you do receive one then chances are it&#8217;s a phishing attempt.
+Remember, almost all financial and secure service providers never send out emails to their clients to verify user credential. If you do receive one then chances are it's a phishing attempt.
 
  [1]: /wp-content/uploads/2007/07/paypal1.thumbnail.png
  [2]: /wp-content/uploads/2007/07/paypal1.png "paypal1.png"

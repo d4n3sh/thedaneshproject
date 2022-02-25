@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Upgraded my CyanogenMOD to verion cm-6.0.0-N1-alpha1 ( Froyo 🙂 ).
 
-Had to do a wipe so my APN settings disappeared. Anyways, if you face the same problem, here&#8217;s DiGi&#8217;s APN settings and how to add them in.
+Had to do a wipe so my APN settings disappeared. Anyways, if you face the same problem, here's DiGi's APN settings and how to add them in.
 
 1) Home -> Menu -> Settings -> Wireless & networks -> Mobile networks -> Access Points Name  
 2) Menu -> New APN

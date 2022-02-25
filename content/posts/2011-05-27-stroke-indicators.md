@@ -10,11 +10,11 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-2264" title="stroke_FAST_checklist" src="/wp-content/uploads/2011/05/stroke_FAST_checklist.gif" alt="" width="310" height="457" />
 
-My uncle suffered a stroke recently. It ain&#8217;t pleasant, I can tell you that.
+My uncle suffered a stroke recently. It ain't pleasant, I can tell you that.
 
 When someone is experiencing a stroke, time becomes their worst enemy. With every passing second, brain cells die and more of their bodily functions start to degrade. The faster one can identify a stroke and react, lesser the damage to the patient.
 
-To identify if someone&#8217;s having a stroke, do the following;
+To identify if someone's having a stroke, do the following;
 
 1. FACE &#8211; Ask them to smile. Is their face sagging? Are the facial muscles working?
 
@@ -22,7 +22,7 @@ To identify if someone&#8217;s having a stroke, do the following;
 
 3. SPEECH &#8211; Have a simple conversation with them. Get them to repeat simple sentences. They might have trouble doing that.
 
-4. TIME &#8211; Don&#8217;t waste time!! Call 911 or in our case 999.
+4. TIME &#8211; Don't waste time!! Call 911 or in our case 999.
 
 Via [Delirium][1]
 

@@ -18,7 +18,7 @@ This is what he had to say about the local OSS scene,
 
 > I envision a more innovation-centric industry driven by research and collaboration, especially in open source. The nature of open source is in its shared environment where experts help newbies design and implement efficient code. I think the local ICT industry needs to be more adventurous in R&D (research and development).
 
-OSS in Malaysia is still slow due to the lake of exposure but it&#8217;s people like this who help spread the word by contributing great work.
+OSS in Malaysia is still slow due to the lake of exposure but it's people like this who help spread the word by contributing great work.
 
 Good job dude!!
 

@@ -17,7 +17,7 @@ Here are some screen shots to support my previous post about [Fedora 9 &#8220;Su
 
 <!--more-->
 
-Also, here&#8217;s a feature overview video I found on YouTube.
+Also, here's a feature overview video I found on YouTube.
 
 [youtube]http://www.youtube.com/watch?v=W704XrDHxoQ[/youtube]
 

@@ -12,21 +12,21 @@ dsq_thread_id:
 
 Found my first bug in the latest Defensio plugin version 1.1.2. Upon activating the plugin a few things stop working in my WordPress admin section.
 
-1. Can&#8217;t load the Defensio quarantine page from the dash board.
+1. Can't load the Defensio quarantine page from the dash board.
 
 [![][2]][3] [![][4]][5]
 
-2. Can&#8217;t load the plugin editor anymore.
+2. Can't load the plugin editor anymore.
 
 [![][6]][7]
 
-3. Can&#8217;t load the theme editor anymore.
+3. Can't load the theme editor anymore.
 
 [![][8]][9]
 
 Once I have the Defension-anti-spam plugin turned off everything is back to normal.
 
-I ain&#8217;t no php specialist so I can&#8217;t operate on the source files but I&#8217;ve submitted a bug report at Defensio&#8217;s Community site in hopes for a quick response.
+I ain't no php specialist so I can't operate on the source files but I've submitted a bug report at Defensio's Community site in hopes for a quick response.
 
 [![][10]][11] [![][12]][13]
 

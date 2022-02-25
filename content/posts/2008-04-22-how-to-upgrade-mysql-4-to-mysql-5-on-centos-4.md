@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890811737
 
 ---
-I was playing a round with new software today which needed MySQL 5. My server&#8217;s running CentOS 4.6 which ships by default with MySQL 4.
+I was playing a round with new software today which needed MySQL 5. My server's running CentOS 4.6 which ships by default with MySQL 4.
 
 The to upgrade to MySQL 5 from MySQL 4 is easy. There are 2 options you could use.
 

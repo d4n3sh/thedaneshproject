@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 Protocol major versions differ: 1 vs. 2.Â 
 
-The error above normally comes up when you try to ssh into a machine which has it&#8217;s allowed ssh protocol versions locked down to a single version, today it&#8217;s normally version 2.
+The error above normally comes up when you try to ssh into a machine which has it's allowed ssh protocol versions locked down to a single version, today it's normally version 2.
 
-In the /etc/ssh/sshd_config file there&#8217;s a &#8220;Protocol&#8221; parameter which governs the allowed protocol version. It&#8217;s normally set to &#8220;2&#8221; for better security today.
+In the /etc/ssh/sshd_config file there's a &#8220;Protocol&#8221; parameter which governs the allowed protocol version. It's normally set to &#8220;2&#8221; for better security today.
 
 Old days;
 

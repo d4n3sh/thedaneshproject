@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
 
-Mozilla has released it&#8217;s latest beta release of Firefox 3. Firefox 3 Beta 3.
+Mozilla has released it's latest beta release of Firefox 3. Firefox 3 Beta 3.
 
 Some of the new features include improved security through better user tracking, malware detection, stricter SSL rules and also anti virus support for the built in download manager. The download manager also benefits from someÃ‚Â  changes, resume is now supported, a new search functionality and a new progress indicator in the status bar. Vista, Mac OS X and Linux will also see better integration from Firefox.
 

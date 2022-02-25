@@ -14,7 +14,7 @@ Finally, Instagram for Android has been released.
 
 Feature list is almost the same with  picplz and lightbox. It has its own advance camera and lots of filters. And yes the usual sharing options to FB,Twitter, etc&#8230;
 
-I&#8217;m using [Lightbox][2] now and love it, sadly most of my friends are on Instagram. Might have to make the move. How bout you?
+I'm using [Lightbox][2] now and love it, sadly most of my friends are on Instagram. Might have to make the move. How bout you?
 
 Grab Instagram on [Google Play][3] join the other [1 million][4] who have already downloaded it.
 

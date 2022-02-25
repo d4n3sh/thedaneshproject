@@ -10,11 +10,11 @@ dsq_thread_id:
 ---
 [<img class="alignnone" title="1080p sample" src="http://lh6.ggpht.com/_0uuFi1arkJE/SvyloXtQUwI/AAAAAAAAARI/_sKxO-q-hsE/s800/hd-1080p%20jpg.jpg" alt="" width="500" />][1]
 
-YouTube [announced][2] that it&#8217;s rolling out support for 1080p HD format this week. Up till now YouTube only went up to 720p but now it&#8217;s going further with 1080p.
+YouTube [announced][2] that it's rolling out support for 1080p HD format this week. Up till now YouTube only went up to 720p but now it's going further with 1080p.
 
 What about all the current HD video already re-encoded into lower quality formats you ask? YouTube plans to re-encode all HD video previously uploaded by users into the correct HD formats.
 
-Like many other Malaysians I&#8217;m not too excited about this. We here still don&#8217;t have the bandwidth or the low latency required to enjoy fluid streaming. Sigh&#8230;..
+Like many other Malaysians I'm not too excited about this. We here still don't have the bandwidth or the low latency required to enjoy fluid streaming. Sigh&#8230;..
 
 Watch [ [THIS VIDEO][3] or [THIS VIDEO][4]] to get a taste of 1080p on YouTube.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 895538556
 
 ---
-Hate the beep? Here&#8217;s how to get rid of it.
+Hate the beep? Here's how to get rid of it.
 
 Login as &#8220;root&#8221; and run the command below.
 

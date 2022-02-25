@@ -10,11 +10,11 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1819" title="wp_visual_cheat_sheet" src="/wp-content/uploads/2009/11/wp_visual_cheat_sheet-449x136.jpg" alt="wp_visual_cheat_sheet" width="449" height="136" srcset="/wp-content/uploads/2009/11/wp_visual_cheat_sheet-449x136.jpg 449w, /wp-content/uploads/2009/11/wp_visual_cheat_sheet.jpg 658w" sizes="(max-width: 449px) 100vw, 449px" />][1]
 
-Found this cheat sheet today. It&#8217;s for WordPress 2.8. It&#8217;s 5 pages and covers all WP template tags with sufficient info on each tag with sample code.
+Found this cheat sheet today. It's for WordPress 2.8. It's 5 pages and covers all WP template tags with sufficient info on each tag with sample code.
 
 <!--more-->
 
-Here&#8217;s a breakdown of what you will find int he cheat sheet. Read it on [Scribd][2] or [download][3] a copy for yourself.
+Here's a breakdown of what you will find int he cheat sheet. Read it on [Scribd][2] or [download][3] a copy for yourself.
 
 Include Tags
 
@@ -48,7 +48,7 @@ Trackback Tags
 
 Links Manager Tags
 
-[Read it on][4] [Scribd][2] or [download][3] a copy for yourself. If the links don&#8217;t work, here&#8217;s a local copy of the [WordPress-Visual-Cheat-Sheet][5] .
+[Read it on][4] [Scribd][2] or [download][3] a copy for yourself. If the links don't work, here's a local copy of the [WordPress-Visual-Cheat-Sheet][5] .
 
 REFERENCE AND CREDITS  
 WORDPRESS VISUAL CHEAT SHEET: Design © 2009 Antonio Lupetti  

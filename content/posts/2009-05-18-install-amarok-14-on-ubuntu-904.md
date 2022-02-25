@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Been using Jaunty since it came out. Loving the speed, simplicity and estatics!!
 
-Everything works well except for Amarok 2 which ships default with Jaunty. I&#8217;ve been an Amarok 1.4 user for a long time now, moving to Amarok 2 is not something I fancy doing right now. Fortunately getting Amarok 1.4 onto Ubuntu is easy. Here&#8217;s how;
+Everything works well except for Amarok 2 which ships default with Jaunty. I've been an Amarok 1.4 user for a long time now, moving to Amarok 2 is not something I fancy doing right now. Fortunately getting Amarok 1.4 onto Ubuntu is easy. Here's how;
 
 Create a new source file in &#8220;/etc/apt/sources.list.d/&#8221; and call it &#8220;amarok14.list&#8221;.
 
@@ -44,4 +44,4 @@ Install Amarok 1.4
 
 `root@jackal:/# apt-get install amarok14`
 
-That&#8217;s it. Buzz me if it doesn&#8217;t work.
+That's it. Buzz me if it doesn't work.

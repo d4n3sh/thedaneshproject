@@ -14,11 +14,11 @@ Being in Malaysia we are gifted with superior Internet speeds. NOT!!
 
 Services like openDNS are awesome but the lag between us and them often results in sluggish performance anyways.
 
-One way to improve performance is to use local DNS servers. I don&#8217;t use Streamyx&#8217;s DNS servers because they SUCK!!. TIME&#8217;s DNS servers are ok but I still prefer openDNS.
+One way to improve performance is to use local DNS servers. I don't use Streamyx's DNS servers because they SUCK!!. TIME's DNS servers are ok but I still prefer openDNS.
 
 To improve performance, I put together a local DNS caching-only server that forwards to openDNS. Now I have openDNS with lighting fast response.
 
-Let&#8217;s walk though the steps to get your own local DNS caching-only server setup. I&#8217;m using openSUSE 11 so the steps might vary depending on your distro.
+Let's walk though the steps to get your own local DNS caching-only server setup. I'm using openSUSE 11 so the steps might vary depending on your distro.
 
 1. Install BIND
 
@@ -42,7 +42,7 @@ To have the service start automatically run &#8221; `chkconfig named on` &#8221;
 
 `pandora:~ # service named start`
 
-4. Let&#8217;s make sure your caching server is running fine.
+4. Let's make sure your caching server is running fine.
 
 `pandora:~ # nslookup google.com localhost<br />
 Server:Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â  localhost<br />
@@ -75,7 +75,7 @@ Add the lines below to the file.
 `nameserver 127.0.0.1<br />
 nameserver 127.0.0.2`
 
-That&#8217;s it. You now have local DNS caching. Enjoy!!
+That's it. You now have local DNS caching. Enjoy!!
 
 <!--more-->
 

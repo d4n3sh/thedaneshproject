@@ -12,7 +12,7 @@ My domain and hosting transfer from [godaddy][1] to [shinjiru][2] was successful
 
 I am currently moving my forum and gallery over ans should be done later today.
 
-How&#8217;s the site speed now?
+How's the site speed now?
 
  [1]: http://www.godaddy.com/
  [2]: https://www.shinjiru.com.my/

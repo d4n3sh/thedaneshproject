@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Developers in my office constantly complain that the SMTP server is down and no mails are being sent out. We come back saying that their application is buggy. Most often after hours of troubleshooting the problem will turn out to be the application itself.
 
-Here&#8217;s a simple way to test your SMTP server over port 25 using Telnet to proof them wrong.
+Here's a simple way to test your SMTP server over port 25 using Telnet to proof them wrong.
 
 Telnet to the server via port 25.
 

@@ -27,7 +27,7 @@ For the devices, yes has the usual 12 / 24 months options for you to choose from
 
 Browsing speed is advertised to be up to 20Mbps and 128kbps when your quota is reached.
 
-I&#8217;ve been on the prepaid packages for a few months now, It&#8217;s reliable 🙂 but running out of credit while on the road sucks. I&#8217;m looking forward to going postpaid and I guess most prepaid users might feel the same too.
+I've been on the prepaid packages for a few months now, It's reliable 🙂 but running out of credit while on the road sucks. I'm looking forward to going postpaid and I guess most prepaid users might feel the same too.
 
 Find out more at <a title="yes Postpaid Plans" href="http://www.yes.my/v3/personal/plans/postpaid.do" target="_blank">yes</a>.
 

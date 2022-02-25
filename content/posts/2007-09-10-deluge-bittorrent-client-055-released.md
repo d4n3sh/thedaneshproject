@@ -16,8 +16,8 @@ Deluge is by far the best GTK based BitTorrent client available today for the Li
 
 Highlights for the new version,
 
-> 0.5.5 has been released. Here&#8217;s a quick changelog:  
-> * Editing a torrent&#8217;s tracker list is now persistent between sessions  
+> 0.5.5 has been released. Here's a quick changelog:  
+> * Editing a torrent's tracker list is now persistent between sessions  
 > * Persistence between sessions for Speed Limiter, Web Seed and Desired Ratio  
 > plugins  
 > * New wizard to aid first-time users with configuration  
@@ -43,7 +43,7 @@ Highlights for the new version,
 
 [Download the latest version here.][3]
 
-Deluge is now available for Windows also. It&#8217;s still in alpha so don&#8217;t expect a beautiful installer or a simple install. If you are feeling adventures then go ahead and grab it at [Slurdge.org][2]
+Deluge is now available for Windows also. It's still in alpha so don't expect a beautiful installer or a simple install. If you are feeling adventures then go ahead and grab it at [Slurdge.org][2]
 
 Source : [deluge-torrent.org][4]
 

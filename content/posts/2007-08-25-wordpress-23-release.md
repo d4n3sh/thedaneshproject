@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![wp-2.0-square-button.gif][1]
 
-WordPress 2.3 went into it&#8217;s feature freeze cycle on Wednesday August 23rd in preparation for it&#8217;s final release this September 27th.
+WordPress 2.3 went into it's feature freeze cycle on Wednesday August 23rd in preparation for it's final release this September 27th.
 
 All focus has been shifted from development work into testing and bug fixing. The first beta release is due this Monday August 27th. Beta release will be release every Mondays followed by bug hunts on Wednesdays. [What are WordPress bug hunts?][2]
 
@@ -20,7 +20,7 @@ Some of the new features coming out with this release,
   2. Improved post and draft management engine.
   3. WordPress version check and notification. (Automatically informs of new version availability)
 
-Full feature list available at [What&#8217;s new in WordPress 2.3?][3] .  
+Full feature list available at [What's new in WordPress 2.3?][3] .  
 Source : [Ã‚Â» WordPress 2.3 Release Timeline boren.nu][4]
 
  [1]: /wp-content/uploads/2007/02/wp-20-square-button.gif

@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=2wy0uwZ6OWQ&feature=player_embedded[/youtube]
 
-Plea from Yasmin&#8217;s family urging the public to give Yasmin and her family privacy and space through this hard time. Hope everyone will respect this.
+Plea from Yasmin's family urging the public to give Yasmin and her family privacy and space through this hard time. Hope everyone will respect this.
 
-Stay up to date on Yasmin&#8217;s condition on [twiiter][1]. 
+Stay up to date on Yasmin's condition on [twiiter][1]. 
 
 [Taken from Delirium][2]
 

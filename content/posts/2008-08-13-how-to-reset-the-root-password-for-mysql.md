@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 It happens, you set a super complicated password for your MySQL root account and 2 months down the road forget what it was.
 
-Here&#8217;s how you&#8217;d fix that.
+Here's how you'd fix that.
 
 1. Stop your current MySQL database if it is running
 

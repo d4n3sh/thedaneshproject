@@ -23,9 +23,9 @@ The update will enable users to;
   * Optional SkypeInÃ¢â€žÂ¢ number that lets users receive calls on Skype from landlines and mobiles anywhere in the world (requires the purchase of Skype credit)
   * View and modify Skype settings and account details (including username creation, SkypeOut settings, voicemail settings and call forwarding)
 
-I&#8217;m saving up some cash to get me a PSP and iPOD. Gadgets man&#8217;s toys :). What would you recommend, iPOD or PSP?
+I'm saving up some cash to get me a PSP and iPOD. Gadgets man's toys :). What would you recommend, iPOD or PSP?
 
-Since moving into my new job I&#8217;ve been saving up some moola every month but I am still on the lookout for freelance jobs though. Nothing is better then being your own boss&#8230;..  
+Since moving into my new job I've been saving up some moola every month but I am still on the lookout for freelance jobs though. Nothing is better then being your own boss&#8230;..  
 Source: [Sony][2]
 
  [1]: http://img184.imageshack.us/img184/6495/skypepspzm5.png

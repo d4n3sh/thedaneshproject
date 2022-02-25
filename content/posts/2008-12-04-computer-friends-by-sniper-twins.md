@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Catchy video by Sniper Twins.Creative duo with really cool creative projects hoping to hit it big.
 
-The video was made for Seagate. Best nerd track I&#8217;ve heard to date.
+The video was made for Seagate. Best nerd track I've heard to date.
 
 They have plans for a TV series but need a network to carry them.
 

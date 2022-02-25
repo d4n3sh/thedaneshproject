@@ -14,7 +14,7 @@ dsq_thread_id:
 
 The ballot counting has began and as of now DSAI is leading by 14K to 4K.
 
-Looks like it&#8217;s gonna stay that way. YEY!!
+Looks like it's gonna stay that way. YEY!!
 
 Keep up2date with the results through: [Politickler][2] || [MalaysianInsider][3] || [MalaysiaKini][4]
 

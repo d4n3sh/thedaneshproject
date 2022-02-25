@@ -8,8 +8,8 @@ dsq_thread_id:
   - 976400210
 
 ---
-I wake up and go to work and chill at my cube everyday to have fun with my babies. They ain&#8217;t much but they certainly keep me happy.  
-Check them out. I&#8217;m lucky that I&#8217;m fortunate enough to have awesome managers that provide me with such good tools.
+I wake up and go to work and chill at my cube everyday to have fun with my babies. They ain't much but they certainly keep me happy.  
+Check them out. I'm lucky that I'm fortunate enough to have awesome managers that provide me with such good tools.
 
 **My Laptop &#8211; Dell Latutude D610 &#8211; WinXP Pro SP2**
 

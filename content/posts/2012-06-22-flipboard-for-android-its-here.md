@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <a href="https://play.google.com/store/apps/details?id=flipboard.app" rel="attachment wp-att-2538"><img loading="lazy" class="alignnone size-medium wp-image-2538" title="samsung_graphic.2" src="/wp-content/uploads/2012/06/samsung_graphic.21-450x445.jpg" alt="" width="450" height="445" srcset="/wp-content/uploads/2012/06/samsung_graphic.21-450x445.jpg 450w, /wp-content/uploads/2012/06/samsung_graphic.21.jpg 656w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
-[Flipboard][1] needs no introduction and it&#8217;s now available for you android device.
+[Flipboard][1] needs no introduction and it's now available for you android device.
 
 <h1 style="text-align: center;">
   <a href="https://play.google.com/store/apps/details?id=flipboard.app">Get It Now</a>

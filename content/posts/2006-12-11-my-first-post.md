@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p align="left">
-  This my first official blog as I&#8217;ve been thinking of getting into blogging for a long time now. Hopefully this marks a new start for me as the new year draws near too.
+  This my first official blog as I've been thinking of getting into blogging for a long time now. Hopefully this marks a new start for me as the new year draws near too.
 </p>
 
 Technorati Profile

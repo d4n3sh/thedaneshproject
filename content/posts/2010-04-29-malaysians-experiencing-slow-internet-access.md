@@ -14,6 +14,6 @@ The disruption is due to a cable fault on the Southeast Asia-Middle East-Western
 
 Restoration work is currently in progress and scheduled to be completed on Sunday, 2nd May.
 
-In the mean time, here&#8217;s a temporary work around. [TmNet Proxy][1]
+In the mean time, here's a temporary work around. [TmNet Proxy][1]
 
  [1]: http://www.iprobot.net/internet/fix-your-streamyx-problem-today-by-using-tmnet-proxy/

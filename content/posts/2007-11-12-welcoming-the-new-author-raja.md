@@ -14,7 +14,7 @@ Raja, my buddy for the past 6 years is now part of The Danesh Project. We starte
 
 Raja is new to the the blogging arena so I thought this would be a good place for him to get started. He will primarily be posting about Linux, open-source, IT news and occasionally some local news from Malaysia.
 
-Raja&#8217;s first post : [Fedora 8 Officially Released][1]
+Raja's first post : [Fedora 8 Officially Released][1]
 
 Welcome Raja 🙂
 

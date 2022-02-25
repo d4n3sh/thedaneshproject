@@ -28,10 +28,10 @@ Method 2:
   1. Hold down the **tv**(power)  and power buttons together  until the indicator blinks twice.
   2. Key in 9 &#8211; 9 &#8211; 1. The indicator should blink twice again.
   3. Press the **tv**(power) button, aim the remote at the decoder and press the **ch+**(channel up) button.
-  4. Wait 3 seconds. If the TV does not turn off, press the  **ch+**(channel up) button and wait for 3 seconds again. Repeat the steps until the TV turns off.  You&#8217;re basically iterating through the TV codes in the remote&#8217;s database.
+  4. Wait 3 seconds. If the TV does not turn off, press the  **ch+**(channel up) button and wait for 3 seconds again. Repeat the steps until the TV turns off.  You're basically iterating through the TV codes in the remote's database.
   5. Press the OK button once you find the correct code.
 
-Source: [Astro&#8217;s Remore Setup Manual PDF][3]
+Source: [Astro's Remore Setup Manual PDF][3]
 
  [1]: /wp-content/uploads/2013/09/astro-byond-remote-map.png
  [2]: /wp-content/uploads/2013/09/astro-byond-remote-tvcodes.png

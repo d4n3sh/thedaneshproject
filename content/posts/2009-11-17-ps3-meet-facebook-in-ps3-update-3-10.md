@@ -12,7 +12,7 @@ dsq_thread_id:
 
 .
 
-Here&#8217;s a quick preview of what&#8217;t in the new PS3 firmware 3.10 which is scheduled to come out in the coming weeks.
+Here's a quick preview of what't in the new PS3 firmware 3.10 which is scheduled to come out in the coming weeks.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ To start off, Facebook is coming to your PS3 console. Yup, you will now with l
 
 [<img class="alignnone" title="PS3 Facebook" src="http://img43.imageshack.us/img43/6950/ps3fb1.png" alt="" width="500" />][1]
 
-The the other update is do with the PS3 image browser. No more a list, it&#8217;s now a wall with thumbnails to make browsing through large collections  a walk in the park.
+The the other update is do with the PS3 image browser. No more a list, it's now a wall with thumbnails to make browsing through large collections  a walk in the park.
 
 [<img class="alignnone" title="PS3 Image Browser" src="http://img35.imageshack.us/img35/2980/ps3fb6.png" alt="" width="500" />][2]
 

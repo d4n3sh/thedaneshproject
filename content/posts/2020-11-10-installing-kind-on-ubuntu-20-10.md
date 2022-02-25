@@ -6,7 +6,7 @@ date: 2020-11-11T02:19:36+00:00
 ---
 KIND == Kubernetes in Docker
 
-I will install the KIND binary into my ~/bin/ directory since that&#8217;s where I keep all my binaries.
+I will install the KIND binary into my ~/bin/ directory since that's where I keep all my binaries.
 
 <pre class="wp-block-code"><code>>_ cd ~/.bin
  

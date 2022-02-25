@@ -10,13 +10,13 @@ dsq_thread_id:
 ---
 http://www.youtube.com/watch?v=ACkXf50w70w&feature=player_embedded
 
-Cool Wallace and Gromit ad &#8216;The Hand of Dog&#8217; supporting England&#8217;s [bid][1] to host the 2018 FIFA World Cup.
+Cool Wallace and Gromit ad &#8216;The Hand of Dog' supporting England's [bid][1] to host the 2018 FIFA World Cup.
 
 via [nPower][2]
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
   <h2>
-    England&#8217;s bid to host the 2018 FIFA World Cup<sup>TM</sup>
+    England's bid to host the 2018 FIFA World Cup<sup>TM</sup>
   </h2>
 </div>
 

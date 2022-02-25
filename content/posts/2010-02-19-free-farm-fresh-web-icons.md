@@ -12,7 +12,7 @@ dsq_thread_id:
 
 FatCow is giving back to community by releasing 1000 awesome icons for free.
 
-The icons are in 16 and 32 pixel and are distributed under the [Creative Commons Atribution 3.0 license][1]. You can use the icons for commercial and personal use, all that&#8217;s required is a [link][2] back in your credits.
+The icons are in 16 and 32 pixel and are distributed under the [Creative Commons Atribution 3.0 license][1]. You can use the icons for commercial and personal use, all that's required is a [link][2] back in your credits.
 
 FatCow is a hosting company dedicatedto saving the planet. Theie datacenter is currently 100% wind power.
 

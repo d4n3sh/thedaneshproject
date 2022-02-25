@@ -10,7 +10,7 @@ dsq_thread_id:
   - 910602208
 
 ---
-Found this yesterday. It&#8217;a another Ubuntu repository for Malaysians and it&#8217;s hosted by MMU.
+Found this yesterday. It'a another Ubuntu repository for Malaysians and it's hosted by MMU.
 
 http://ubuntu.mmu.edu.my/ubuntu/
 

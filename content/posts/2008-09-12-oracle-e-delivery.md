@@ -16,7 +16,7 @@ Your one stop Oracle software download site. [<span class="OraHeader">Oracle√É‚Ä
 
 Oracle Entreprise Linux, Oracle VM, Oracle Database, Oracle Application, Oracle Database Cluster, the goes on.
 
-However, [OTN][3] provides more granule downloads. Those who know exactly what they need would prefer OTN compared to E-Delivery&#8217;s bundles.<span><br /> </span>
+However, [OTN][3] provides more granule downloads. Those who know exactly what they need would prefer OTN compared to E-Delivery's bundles.<span><br /> </span>
 
  [1]: /wp-content/uploads/2008/09/oraclec2ae-e-delivery.jpg
  [2]: http://edelivery.oracle.com/

@@ -13,4 +13,4 @@ Read the original announcement here.
 
 **My thoughts;**
 
-Personally I don&#8217;t know what to look forward to in the coming days bit for sure Michael will be moving the company in a forward motion with some good ideas up his sleeve.
+Personally I don't know what to look forward to in the coming days bit for sure Michael will be moving the company in a forward motion with some good ideas up his sleeve.

@@ -14,13 +14,13 @@ dsq_thread_id:
 
 [youtube]http://www.youtube.com/watch?v=0QRO3gKj3qw[/youtube]
 
-Google&#8217;s a year away from releasing Chrome OS but the code has already been made fully Open Source for the open source community start enjoying today.
+Google's a year away from releasing Chrome OS but the code has already been made fully Open Source for the open source community start enjoying today.
 
-Google hosted a Google Chrome OS event today to share their progress so far and the direction they&#8217;re moving in. Also, there&#8217;s demo of Google Chrome OS in action. [Watch the webcast][2].
+Google hosted a Google Chrome OS event today to share their progress so far and the direction they're moving in. Also, there's demo of Google Chrome OS in action. [Watch the webcast][2].
 
-I&#8217;m excited about Chrome OS. It&#8217;s fast (7 sec boot), it&#8217;s simple, it&#8217;s clean, it&#8217;s secure, all your data sits on the cloud and so far the UI looks awesome!
+I'm excited about Chrome OS. It's fast (7 sec boot), it's simple, it's clean, it's secure, all your data sits on the cloud and so far the UI looks awesome!
 
-We use the browser and not the OS so why keep the the OS?  That&#8217;s Google&#8217;s idea and I&#8217;m loving it so far.
+We use the browser and not the OS so why keep the the OS?  That's Google's idea and I'm loving it so far.
 
 Reality check though, they might just be taking over the world!!
 

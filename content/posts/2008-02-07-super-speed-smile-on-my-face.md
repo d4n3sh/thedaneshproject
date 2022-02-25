@@ -8,9 +8,9 @@ dsq_thread_id:
   - 895326907
 
 ---
-I&#8217;m working late tonight. Been in the office since morning and I desperately need to shower and have some food.
+I'm working late tonight. Been in the office since morning and I desperately need to shower and have some food.
 
-Thought I&#8217;ll share this picture with you since it&#8217;s the only thing keeping me motivated to work late nowadays. Speed = smile on Danny&#8217;s face. 😀
+Thought I'll share this picture with you since it's the only thing keeping me motivated to work late nowadays. Speed = smile on Danny's face. 😀
 
 [<img src="http://img135.imageshack.us/img135/5156/delugespeedssn2.jpg" border="0" />][1]
 

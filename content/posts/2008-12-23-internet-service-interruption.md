@@ -29,11 +29,11 @@ This from TM,
 > 
 > Thank You.
 
-TM released this notice to it&#8217;s subscribers notifying them of the current Internet service interruption experienced by many. The disruption was caused by 2 submarine lines ([SE-ME-WE-4][1] and [SE-ME-WE-3][2]) in the Mediterranean being severed. These were the same cables that were severed earlier this year too.
+TM released this notice to it's subscribers notifying them of the current Internet service interruption experienced by many. The disruption was caused by 2 submarine lines ([SE-ME-WE-4][1] and [SE-ME-WE-3][2]) in the Mediterranean being severed. These were the same cables that were severed earlier this year too.
 
 Restoration work is being carried out by the &#8220;France Telecom Marine&#8221; team and is scheduled to be completed by end of year or sooner.Â 
 
-To be frank, I can&#8217;t tell the difference because my Internet has always been bad. Instead of spending billions on fibre to home, I personally feel that TM to should invest in more international lines. A third world country, so we claim, the Internet is the best tool to elevate our status. don&#8217;t ya think?
+To be frank, I can't tell the difference because my Internet has always been bad. Instead of spending billions on fibre to home, I personally feel that TM to should invest in more international lines. A third world country, so we claim, the Internet is the best tool to elevate our status. don't ya think?
 
 Source: [BBC][3]
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893150530
 
 ---
-Now, here&#8217;s something every Malaysian will love. The Malaysian public holiday calender for 2009.
+Now, here's something every Malaysian will love. The Malaysian public holiday calender for 2009.
 
 <img loading="lazy" src="/wp-content/uploads/2008/12/screenshot-malaysia-public-holiday-calender-2009-mozilla-firefox-500x341.png" alt="malaysia-public-holiday-calender-2009" title="malaysia-public-holiday-calender-2009" width="500" height="341" class="alignnone size-medium wp-image-1056" srcset="/wp-content/uploads/2008/12/screenshot-malaysia-public-holiday-calender-2009-mozilla-firefox-500x341.png 500w, /wp-content/uploads/2008/12/screenshot-malaysia-public-holiday-calender-2009-mozilla-firefox.png 578w" sizes="(max-width: 500px) 100vw, 500px" /> 
 

@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Been getting this error every time I try to update my Java.
 
-Here&#8217;s the workaround.
+Here's the workaround.
 
 1. Uninstall all existing Java
 

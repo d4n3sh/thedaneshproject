@@ -25,7 +25,7 @@ Caught [Rambo 4][2] last week thanks to [AMBP][3].
 
 1. Fire power 9/10
 
-Lot&#8217;s of big guns, bombs, sniper riffles and home made machete. My favs have to be the snipper riffle and the machete.
+Lot's of big guns, bombs, sniper riffles and home made machete. My favs have to be the snipper riffle and the machete.
 
 2. Blood 9/10
 
@@ -41,11 +41,11 @@ Super super good effects. Everything looks freaking realistic.
 
 5. Rambo 5/10
 
-Well, Rambo&#8217;s old now. Shirt never comes off. Does not get captured, tortured and then escape. No more solo action, John Rambo actually works with mercenaries this time. Hardly says a word. I heard the word &#8220;John Rambo&#8221; only twice if memory serves me right.
+Well, Rambo's old now. Shirt never comes off. Does not get captured, tortured and then escape. No more solo action, John Rambo actually works with mercenaries this time. Hardly says a word. I heard the word &#8220;John Rambo&#8221; only twice if memory serves me right.
 
 6. Vehicles 4/10
 
-Besides the pirate bot in the beginning and a few military transport lorries don&#8217;t hope to see any cool helicopters or military vehicles.
+Besides the pirate bot in the beginning and a few military transport lorries don't hope to see any cool helicopters or military vehicles.
 
 7. Location 7/10
 
@@ -53,7 +53,7 @@ Nothing new, typical Asian jungle backdrop.
 
 _**Final words:**_
 
-A must watch movie for those with a strong stomach and a passion for mindless brutality. Don&#8217;t go in expecting to see the old Rambo, open your mind and you shall enjoy.
+A must watch movie for those with a strong stomach and a passion for mindless brutality. Don't go in expecting to see the old Rambo, open your mind and you shall enjoy.
 
 My favorite part from the movie is when the enemy confronting John Rambo get taken down by a head shot from the sniper. His damn head explodes on screen&#8230;.BAM!!
 

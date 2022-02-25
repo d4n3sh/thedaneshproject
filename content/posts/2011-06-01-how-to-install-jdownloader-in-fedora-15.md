@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889887085
 
 ---
-JDownloader is my favourite 1-Click-Hosters download manager. Installing it on Fedora is easy. Here&#8217;s how,
+JDownloader is my favourite 1-Click-Hosters download manager. Installing it on Fedora is easy. Here's how,
 
 1. Fire up a terminal  
 2.`wget http://212.117.163.148/jd.sh`  

@@ -16,7 +16,7 @@ The manual method. You will have to do this every time IPCop is rebooted.
 
 `root@proxy73:~ # route add -net 10.0.0.0 gw 10.38.24.1 netmask 255.0.0.0`
 
-Now let&#8217;s make the route persistent across reboots. There are 2 files for this. Use either one depending on your needs.
+Now let's make the route persistent across reboots. There are 2 files for this. Use either one depending on your needs.
 
 You can add the route command at the end of the **/etc/rc.d/rc.local** file. The route will be added every time IPCop is rebooted but not everytime the interface is restarted. Good for a box with minimal changes.
 

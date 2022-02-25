@@ -8,6 +8,6 @@ dsq_thread_id:
   - 2378298625
 
 ---
-I&#8217;m moving to a new hosting service today.My current host has been plagued with downtimes and DB issues. Hopefully in the future I can host with them again.
+I'm moving to a new hosting service today.My current host has been plagued with downtimes and DB issues. Hopefully in the future I can host with them again.
 
-Hopefully the downtime&#8217;s minimal. I will keep you posted.
+Hopefully the downtime's minimal. I will keep you posted.

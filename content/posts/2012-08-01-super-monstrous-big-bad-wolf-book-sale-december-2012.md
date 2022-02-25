@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <a href="/posts/super-monstrous-big-bad-wolf-book-sale-december-2012/smbbws/" rel="attachment wp-att-2984"><img loading="lazy" class="alignnone size-full wp-image-2984" title="smbbws" src="/wp-content/uploads/2012/08/smbbws.jpg" alt="" width="440" height="720" /></a>
 
-If you loved last year&#8217;s Big Bad Wolf book sale, get excited!! It&#8217;s coming back!
+If you loved last year's Big Bad Wolf book sale, get excited!! It's coming back!
 
 Super Monstrous Big Bad Wolf Book Sale will be happening between December 7 &#8211; 23 2012. no news on location yet, most likely the same spot as the last sale.
 

@@ -12,7 +12,7 @@ I was talking to [Wing Loon][1] a few days back about how to bypass all the band
 
 I decided to try it out last night on my openSUSE 10.2 desktop. Install was pretty simple as the rpm was made available through YaST2 by adding the [Guru source][3]. Configured some ports to be forwarded though my [IPCop][4] and finally added torrents from [releaselog][5] and [thepiratebay][6], my 2 favorite torrent sites.
 
-Immediately, I saw a miracle unfold in front of me, something I thought I would never see again since moving back from PenangFon to Streamyx when I moved back to KL. I was getting 100kB ++ download speeds. At first, I did not believe it, so I cross checked by looking at my network utilization through IPCop and truly enough it was also showing speeds in access of 100kB.(See screenshot below to believe). Well, I know 100kB ain&#8217;t much when compared to what other ISP&#8217;s provide in other countries but for now 100kB is a luxury here.
+Immediately, I saw a miracle unfold in front of me, something I thought I would never see again since moving back from PenangFon to Streamyx when I moved back to KL. I was getting 100kB ++ download speeds. At first, I did not believe it, so I cross checked by looking at my network utilization through IPCop and truly enough it was also showing speeds in access of 100kB.(See screenshot below to believe). Well, I know 100kB ain't much when compared to what other ISP's provide in other countries but for now 100kB is a luxury here.
 
 Woo Wee!!! My torrenting mood is back on now&#8230;..!!
 

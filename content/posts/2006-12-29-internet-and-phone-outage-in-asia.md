@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1008331124
 
 ---
-Bet everyone&#8217;s been experiencing slow internet access for the past 2 days. It took me 45mins just to get this post out.
+Bet everyone's been experiencing slow internet access for the past 2 days. It took me 45mins just to get this post out.
 
 Well anyway, the problem was due to the massive earthquake that hit Taiwan 2days back. The largest telco breakdown Asia has seen in quite some time.
 

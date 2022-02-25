@@ -16,7 +16,7 @@ Please be patient as his speech is 40 minutes. Grab a coffee and enjoy his speec
 
 It saddens me that none of our leaders have ever spoken like this 🙁
 
-If you&#8217;re feeling Mr. Barack Obama&#8217;s speech and want to show support. Here&#8217;s a WordPress theme for you. Probama Theme
+If you're feeling Mr. Barack Obama's speech and want to show support. Here's a WordPress theme for you. Probama Theme
 
 Source: [Obama08][1]
 

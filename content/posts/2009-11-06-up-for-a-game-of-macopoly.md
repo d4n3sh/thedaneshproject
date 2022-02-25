@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890659275
 
 ---
-Love monopoly? Love the MAC? If your answer is yes then you&#8217;ll love MACOPOLY, the Apple version of the popular board game Monopoly.
+Love monopoly? Love the MAC? If your answer is yes then you'll love MACOPOLY, the Apple version of the popular board game Monopoly.
 
 [<img class="alignnone" title="Macopoly" src="http://img94.imageshack.us/img94/759/macopoly.jpg" alt="" width="450" />][1]
 

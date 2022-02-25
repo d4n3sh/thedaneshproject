@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-2135" title="htc_desire_2" src="/wp-content/uploads/2010/05/htc_desire_2.jpg" alt="" width="316" height="500" />
 
-Finally, HTC&#8217;s Desire is coming to Malaysia. It&#8217;s scheduled to be released on the 27th May 2010. The official telco will be [Maxis][1].
+Finally, HTC's Desire is coming to Malaysia. It's scheduled to be released on the 27th May 2010. The official telco will be [Maxis][1].
 
-I&#8217;m not an iPhone person and really want to get the Desire but I&#8217;m torn between the Desire and Nexus One. Nexus One will always get updates quicker the HTC Desire since it&#8217;s a Google phone, Desire however will have to wait till HTC releases the updated patched bundled with Sense UI which normally takes time. The fix for this would require me to root my Desire.
+I'm not an iPhone person and really want to get the Desire but I'm torn between the Desire and Nexus One. Nexus One will always get updates quicker the HTC Desire since it's a Google phone, Desire however will have to wait till HTC releases the updated patched bundled with Sense UI which normally takes time. The fix for this would require me to root my Desire.
 
 Both phones go for about RM2200.
 

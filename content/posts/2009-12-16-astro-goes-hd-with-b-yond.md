@@ -16,7 +16,7 @@ If you are like me then you have an HD LCD TV with crappy Astro viewing quality.
 
 Astro just launch their HD service, yup Astro doing HD!!  The official launch was last week and the HD broadcast starts Friday.
 
-The B.yond service will cost you an additional RM20 from your current Astro bill but you won&#8217;t need to pay anything extra for the new set-top-box, smart card and outdoor dish. Astro will swap out your old DVR for the new set-top-box for free.
+The B.yond service will cost you an additional RM20 from your current Astro bill but you won't need to pay anything extra for the new set-top-box, smart card and outdoor dish. Astro will swap out your old DVR for the new set-top-box for free.
 
 Not all channels will be in HD. For now only these channels will be in HD. The HD broadcast will be in 1080i and 720p so it should work just fine on HD-Ready and Full-HD TVs.
 
@@ -28,13 +28,13 @@ Not all channels will be in HD. For now only these channels will be in HD. The H
 
 There are plans to roll out local HD-only channels somewhere next year but details and pricing are yet to be finalized.
 
-How to start enjoying Astro&#8217;s new HD channels?
+How to start enjoying Astro's new HD channels?
 
 1. Go to Astro [B.yond][2].
 
 2. Go to the &#8220;Subscribe Now&#8221; page and follow the instructions.
 
-Something to remember, if you live in an apartment with a centralized Astro dish, you&#8217;re screwed!! You will have to wait till Astro replaces the dish and that could take months. 🙁
+Something to remember, if you live in an apartment with a centralized Astro dish, you're screwed!! You will have to wait till Astro replaces the dish and that could take months. 🙁
 
 Source: [Astro B.yond][2]
 

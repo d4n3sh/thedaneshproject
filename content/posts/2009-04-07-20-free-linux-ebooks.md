@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1356" title="20ebooks_wall" src="/wp-content/uploads/2009/04/20ebooks_wall.png" alt="20ebooks_wall" width="500" height="815" />
 
-[Linux Links][1] published a list of their top 20 favorite free Linux Ebooks. Ranging from books for the newcomer, graphic designers and right up to the advanced programmer. There&#8217;s something for everyone.
+[Linux Links][1] published a list of their top 20 favorite free Linux Ebooks. Ranging from books for the newcomer, graphic designers and right up to the advanced programmer. There's something for everyone.
 
 The list of books;
 
@@ -22,7 +22,7 @@ The list of books;
 
 3. [The Linux Starter Pack][4]
 
-4. [The Easiest Linux Guide You&#8217;ll Ever Read][5]
+4. [The Easiest Linux Guide You'll Ever Read][5]
 
 5. [Producing Opensource Software][6]
 
@@ -50,9 +50,9 @@ The list of books;
 
 17. [Linux Device Drivers, Third Edition][18]
 
-18. LINUX: Rute User&#8217;s Tutorial and Exposition
+18. LINUX: Rute User's Tutorial and Exposition
 
-19. [Linux Network Administrator&#8217;s Guide &#8211; 2nd Edition][19]
+19. [Linux Network Administrator's Guide &#8211; 2nd Edition][19]
 
 20. [tuXlabs Cookbook][20]
 

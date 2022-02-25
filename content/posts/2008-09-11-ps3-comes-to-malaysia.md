@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Sony has announced that PS3 will officially start going on sale in Malaysia starting 20th September 2008. The opening price with tax will be around RM1599. Blue-Ray, Wifi, 80GB HDD, Dual Shock Controllers, just to name a few goodies that come with the PS3. [See full specs][2]
 
-Sony will also give Malaysian users their own PS3 [community site][3] which will provide users wil localized information. There&#8217;s nothing much there now but [check back][3] on the 20th to see the new site.
+Sony will also give Malaysian users their own PS3 [community site][3] which will provide users wil localized information. There's nothing much there now but [check back][3] on the 20th to see the new site.
 
 Source: [Sony Asia][2] || [PlayStation Malaysia][3] ||
 

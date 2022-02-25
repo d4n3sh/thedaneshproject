@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3296/3054439977_07306ea6a7.jpg" alt="gmail themes" width="500" height="305" />][1]
 
-Google&#8217;s Gmail finally has support for themes. There are currently 31 themes to choose from. My favorite is the Ninja theme seen the in the screen shot.
+Google's Gmail finally has support for themes. There are currently 31 themes to choose from. My favorite is the Ninja theme seen the in the screen shot.
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3012/3054439829_42fdfe3c2c.jpg" alt="gmail themes" width="500" height="305" />][2]
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1376" title="0903-p1_ds300_unlocked" src="/wp-content/uploads/2009/04/0903-p1_ds300_unlocked.jpg" alt="0903-p1_ds300_unlocked" width="390" height="364" />
 
-For those on P1 W1MAX and not being able to fully utilize your modem, you&#8217;re in luck!
+For those on P1 W1MAX and not being able to fully utilize your modem, you're in luck!
 
 Recently the admin password for the DS300 modem was leaked. Users who had the password could login and change any configuration on the modem. For those who knew what they were doing, this was jackpot.
 
@@ -24,7 +24,7 @@ Few days passed&#8230;. and bam!! Admin password  leaked again.
 
 This time  on purpose I guess. Why?
 
-First, the new login provided users with limited access to the modem&#8217;s configurations and second, no news from P1. You do the math.
+First, the new login provided users with limited access to the modem's configurations and second, no news from P1. You do the math.
 
 Even though access was limited, these were same options one would expect to find in any other router. Port forwarding, ddns, dhcp, dmz and the other standard stuff.
 

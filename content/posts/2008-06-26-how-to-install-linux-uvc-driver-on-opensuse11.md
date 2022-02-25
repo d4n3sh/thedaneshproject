@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889966894
 
 ---
-I recently purchased a webcam for skype. I&#8217;m using the [UVC driver][1] to power the webcam on my openSUSE11 machine.
+I recently purchased a webcam for skype. I'm using the [UVC driver][1] to power the webcam on my openSUSE11 machine.
 
 Getting the webcam up was simple with openSUSE.
 

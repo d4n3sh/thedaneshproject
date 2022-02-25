@@ -26,7 +26,7 @@ You can  select a date range for the stats you want to view by using the simple
 
 More stats are available as seen in the screenshot above.
 
-Take it for a spin, I think you&#8217;ll like it.
+Take it for a spin, I think you'll like it.
 
 Source: Polaris
 

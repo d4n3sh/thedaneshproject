@@ -18,7 +18,7 @@ Looks like they are moving to a larger hosting provider.Last minute rush to pled
 
 Follow the progress on their [twitter][2].
 
-Update: The site&#8217;s back up but it&#8217;s a stripped down version.
+Update: The site's back up but it's a stripped down version.
 
  [1]: http://earthhour.org.my/
  [2]: http://twitter.com/EHMalaysia

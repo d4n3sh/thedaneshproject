@@ -12,6 +12,6 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=sYZs7VJaAlQ[/youtube]
 
-Not new but it&#8217;s a freaking brilliant Aussie beer ad !!
+Not new but it's a freaking brilliant Aussie beer ad !!
 
 Gotta love it if you love your beer.

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737110
 
 ---
-Decided to install Pidgin on my notebook running openSUSE 10.2 today. If you didn&#8217;t already know Pidgin was previously know as GAIM.
+Decided to install Pidgin on my notebook running openSUSE 10.2 today. If you didn't already know Pidgin was previously know as GAIM.
 
 The install was pretty simple but I decided to share it with you anyway. If you are new to openSUSE then this may come in handy.
 
@@ -28,7 +28,7 @@ Search for &#8220;Pidgin&#8221; in the search box and then look for &#8220;Pidgi
 
 [![snapshot1.png][6]][7]
 
-That&#8217;s it for the install portion. You now have Pidgin installed. Let&#8217;s start it up.
+That's it for the install portion. You now have Pidgin installed. Let's start it up.
 
 Start -> Applications -> Internet -> Chat -> Pidgin .
 
@@ -38,11 +38,11 @@ Launching Pidgin for the first time will bring up the accounts maintenance page.
 
 [![snapshot6.png][10]][11]
 
-Once you are done with the accounts Pidgin should launch. That&#8217;s it, you have successfully installed Pidgin.
+Once you are done with the accounts Pidgin should launch. That's it, you have successfully installed Pidgin.
 
 [![snapshot3.png][12]][1]
 
-I personally feel that Pidgin feels like [Gtalk][13] but I love the [Gtalk][13] interface so I can&#8217;t complain. Clean, simple yet elegant.
+I personally feel that Pidgin feels like [Gtalk][13] but I love the [Gtalk][13] interface so I can't complain. Clean, simple yet elegant.
 
 Some cool Pidgin plugins you would want to try.
 
@@ -53,7 +53,7 @@ Sources:
 
   * [Pidgin Home][16]
   * [i-nZ BLoG][17]
-  * [Kenno&#8217;s OpenNote][18]
+  * [Kenno's OpenNote][18]
   * [openSUSE][19]
 
  [1]: /wp-content/uploads/2007/07/snapshot3.png "snapshot3.png"

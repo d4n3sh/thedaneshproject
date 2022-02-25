@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736931
 
 ---
-We had a DC shutdown last night, been in the office for almost 20 hours now. I&#8217;m sleepy,tired,sticky,red eyedÃ‚Â and the damn 10 year old RS6000 box running AIX 4.3Ã‚Â decided to stay down.
+We had a DC shutdown last night, been in the office for almost 20 hours now. I'm sleepy,tired,sticky,red eyedÃ‚Â and the damn 10 year old RS6000 box running AIX 4.3Ã‚Â decided to stay down.
 
 The box was trying to connect to aÃ‚Â NFS share on the network before the network services came up. This cause the RS6000 to stall at boot up.
 

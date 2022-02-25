@@ -12,16 +12,16 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1530" title="grep-with-color-1" src="/wp-content/uploads/2009/06/grep-with-color-1-500x168.png" alt="grep-with-color-1" width="500" height="168" srcset="/wp-content/uploads/2009/06/grep-with-color-1-500x168.png 500w, /wp-content/uploads/2009/06/grep-with-color-1.png 831w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
-If you&#8217;re running grep on a large file with multipled results, highlighting your results would really easy on your eyes.
+If you're running grep on a large file with multipled results, highlighting your results would really easy on your eyes.
 
-Here&#8217;s how;
+Here's how;
 
 Export the &#8220;GREP_OPTIONS&#8221; environment variable to include &#8220;&#8211;color=auto&#8221;. Run the export command below.
 
 `export GREP_OPTIONS='--color=auto'`
 
-Once you&#8217;ve executed the command, run a simple grep to see the highlights in action.
+Once you've executed the command, run a simple grep to see the highlights in action.
 
-Red is the default highlight color. I&#8217;ll cover setting custom colors in a future post.
+Red is the default highlight color. I'll cover setting custom colors in a future post.
 
  [1]: /wp-content/uploads/2009/06/grep-with-color-1.png

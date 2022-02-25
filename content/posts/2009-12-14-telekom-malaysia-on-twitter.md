@@ -12,9 +12,9 @@ dsq_thread_id:
 
 Telekom Malaysian has decided to go social, it popped up on Twitter last week under [@tmcorp][2].
 
-Now Telekom Malaysia has a way to communicate with it&#8217;s customers.
+Now Telekom Malaysia has a way to communicate with it's customers.
 
-Will it work? All depends on who&#8217;s sitting behind the keyboard at their end I guess.
+Will it work? All depends on who's sitting behind the keyboard at their end I guess.
 
 Source: [K.Kugan][3]
 

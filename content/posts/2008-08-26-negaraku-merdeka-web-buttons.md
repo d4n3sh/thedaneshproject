@@ -16,7 +16,7 @@ Our 51st Merdeka is around the corner but somehow no one seems to be in the mood
 
 But anyway, if you are in the mood for some Merdeka web buttons then check out the Merdeka web buttons from Negaraku.They are 6 different color schemes for you to choose from and to add them simply paste the provided java scripts into you <body> section.
 
-I&#8217;m not quite in the mood but I&#8217;ll show my support regardless.
+I'm not quite in the mood but I'll show my support regardless.
 
 [Get them buttons][1].
 

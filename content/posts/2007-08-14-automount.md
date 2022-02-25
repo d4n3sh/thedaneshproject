@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737872
 
 ---
-Decided to drop my permanent mounts and go with automount instead. Why? Well I don&#8217;t access those folders all the time, they are mainly for backup so mounting only when I need them seemed like a better idea.
+Decided to drop my permanent mounts and go with automount instead. Why? Well I don't access those folders all the time, they are mainly for backup so mounting only when I need them seemed like a better idea.
 
 I modified the /etc/auto.master file and created a new file named /etc/auto.nosebleed. Contents shown below.
 

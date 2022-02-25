@@ -10,9 +10,9 @@ dsq_thread_id:
   - 890432280
 
 ---
-Beijing 2008 is currently the biggest buzz around the globe. Google has a few tools up it&#8217;s sleeve to help keep you updated on everything Beijing 2008.
+Beijing 2008 is currently the biggest buzz around the globe. Google has a few tools up it's sleeve to help keep you updated on everything Beijing 2008.
 
-You might have already discovered is that Google changing it&#8217;s doodle everyday since the start of Beijing 2008. The doodles are also reflected in all Google Mobile services.
+You might have already discovered is that Google changing it's doodle everyday since the start of Beijing 2008. The doodles are also reflected in all Google Mobile services.
 
 [<img class="alignnone size-medium wp-image-797" title="google-doodle-summer-games-2008" src="/wp-content/uploads/2008/08/google-doodle-summer-games-2008.jpg" alt="" width="150" />][1][<img class="alignnone size-medium wp-image-795" title="olympics08_rowing" src="/wp-content/uploads/2008/08/olympics08_rowing.gif" alt="" width="150" />][2][<img class="alignnone size-medium wp-image-794" title="olympics08_weightlifting" src="/wp-content/uploads/2008/08/olympics08_weightlifting.gif" alt="" width="150" />][3]
 

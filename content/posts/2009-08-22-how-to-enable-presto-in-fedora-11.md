@@ -14,7 +14,7 @@ Delta RPMs is a bandwidth saver. Instead of downloading full rpm files on update
 
 [Presto][1] is the Fedora project to enable delta rpms on all Fedora repositories. Fedora 11 is Presto enabled.
 
-I&#8217;ll walk you through setting presto up.
+I'll walk you through setting presto up.
 
 1. Search your repos to make sure the yum-presto package is available.
 

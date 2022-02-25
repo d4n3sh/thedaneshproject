@@ -15,7 +15,7 @@ A new verison of Deluge is out. Version 0.5.8.5
 Changes made to this version shown below,
 
   * Fix force recheck
-  * auto scraping of tracker if it doesn&#8217;t report number of peers on reply
+  * auto scraping of tracker if it doesn't report number of peers on reply
   * fix web seed proxy preference
   * Fix adding of duplicate torrents
   * Fix timers for saving fastresume and uploaded memory

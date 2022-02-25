@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm3.static.flickr.com/2328/2351596603_cf978614c0_o.jpg" alt="F'kn Mayhem's frist competition" border="0" height="309" width="464" />][1]{.tt-flickr}
 
-F&#8217;KN MAYHEM&#8217;s first official competition just rolled out it&#8217;s doors.<!--more-->If you into street art then this competition is made for you. Just look at the goodies up for grabs.
+F'KN MAYHEM's first official competition just rolled out it's doors.<!--more-->If you into street art then this competition is made for you. Just look at the goodies up for grabs.
 
 [<img loading="lazy" src="http://farm4.static.flickr.com/3006/2351597263_3ca34285cc.jpg" alt="F'kn Mayhem's frist competition prizes" border="0" height="400" width="500" />][2]{.tt-flickr}
 
@@ -18,13 +18,13 @@ F&#8217;KN MAYHEM&#8217;s first official competition just rolled out it&#8217;s 
 
 How to participate?
 
-1. Head of over to [F&#8217;KN MAYHEM][4]
+1. Head of over to [F'KN MAYHEM][4]
 
 2. Answer 3 simple questions and write a short 30 sentence with the phrase &#8220;Ã¢â‚¬Å“Milk & Honey, Street Art, Mayhem!Ã¢â‚¬? in it.
 
 3. Submit your entries to competition@alanbernard.com before the 1st of April and hope to win.
 
-Source: [F&#8217;KN MAYHEM][4] | [Abinesh.com][5]
+Source: [F'KN MAYHEM][4] | [Abinesh.com][5]
 
  [1]: http://www.flickr.com/photos/dannyportal/2351596603/
  [2]: http://www.flickr.com/photos/dannyportal/2351597263/

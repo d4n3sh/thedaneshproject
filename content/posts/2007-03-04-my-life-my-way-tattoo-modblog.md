@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Skin provided by _[Cale][1]_ and inked by Rain at Alternative Arts in Denver, CO.
 
-I love the whole look. The piercings and tats represent the meaning of the new tat on [Cale&#8217;s][1] side hands.
+I love the whole look. The piercings and tats represent the meaning of the new tat on [Cale's][1] side hands.
 
 Source: [_ModBlog_][2]
 

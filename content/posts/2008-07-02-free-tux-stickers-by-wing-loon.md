@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-644" title="tuxstickers" src="/wp-content/uploads/2008/07/tuxstickers.jpg" alt="tuxstickers" width="468" height="468" srcset="/wp-content/uploads/2008/07/tuxstickers.jpg 468w, /wp-content/uploads/2008/07/tuxstickers-150x150.jpg 150w" sizes="(max-width: 468px) 100vw, 468px" />][1]
 
-Wing Loon is giving away free TUX stickers for his first anniversary. I&#8217;m getting my share by mail soon since I&#8217;m one for the frequent comments contributor on his blog.
+Wing Loon is giving away free TUX stickers for his first anniversary. I'm getting my share by mail soon since I'm one for the frequent comments contributor on his blog.
 
-Don&#8217;t miss your chance. All you need to do is [comment to][2] qualify for the free TUX stickers.[  
+Don't miss your chance. All you need to do is [comment to][2] qualify for the free TUX stickers.[  
 ][2] 
 
 Happy Anniversary Wing Loon

@@ -18,7 +18,7 @@ Both sites provide past SPM and PMR trial exam papers in PDF format.
 
 Print them out, take them home, practice practice practice and you will pass!
 
-Remember, memorizing the answers don&#8217;t get you anywhere. Make sure you understand the answers and the process.
+Remember, memorizing the answers don't get you anywhere. Make sure you understand the answers and the process.
 
 [Koleksi Soalan.][2]
 

@@ -12,11 +12,11 @@ dsq_thread_id:
 
 The days are counted for the no cell phone policy on flights.
 
-Emirates is leading the way by becoming the first commercial airline to permit it&#8217;s passengers to make in flight voice calls and send text messages from their personal mobile devices.
+Emirates is leading the way by becoming the first commercial airline to permit it's passengers to make in flight voice calls and send text messages from their personal mobile devices.
 
-The first in flight voice call was made aboard Emirate&#8217;s flight from Dubai to Casablanca on their Airbus A340 which is fitted with the system which prevents cell phone signals from interfering with the plane&#8217;s electronics.
+The first in flight voice call was made aboard Emirate's flight from Dubai to Casablanca on their Airbus A340 which is fitted with the system which prevents cell phone signals from interfering with the plane's electronics.
 
-Emirates has plans to roll out the new in flight mobile facilities to all of it&#8217;s flights later this year. Blackberry and data services will also be implemented.
+Emirates has plans to roll out the new in flight mobile facilities to all of it's flights later this year. Blackberry and data services will also be implemented.
 
 Emirates has receive approval from from international air safety organizations before adopting the in flight mobiles system developed by [AeroMobile][2]. However there are still rules to be followed. Mobile access will only be enable at cruising altitude, I guess if something does go wrong the pilots will have more time to react and rectify the issue. Mobile services will also be only be enabled on day flights and as usual always be on silent mode while in flight.
 

@@ -14,7 +14,7 @@ For some stupid reason my Google hangout and voice calls stopped working on my W
 
 After some digging around the issue was narrowed down to either permissions or the windows installer service having some hangover files or registry entries from previous installs.
 
-The fix was to run Window&#8217;s FixIt to clean up the installer. This is what it does;
+The fix was to run Window's FixIt to clean up the installer. This is what it does;
 
   * Removes bad registry key on 64 bit operating systems.
   * Windows registry keys that control the upgrade (patching) data that become corrupted.

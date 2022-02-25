@@ -40,7 +40,7 @@ echo "${nrusers} user${s}, load: ${load}"</pre>
 
 In this picture here, you can see the difference between the hosts with the XWilling script and those without.
 
-P.S. Don&#8217;t let your inner BOFH script something &#8216;funny&#8217; for your users 😉
+P.S. Don't let your inner BOFH script something &#8216;funny' for your users 😉
 
  [1]: http://en.wikipedia.org/wiki/GNOME_Display_Manager
  [2]: http://en.tldp.org/HOWTO/XDMCP-HOWTO/

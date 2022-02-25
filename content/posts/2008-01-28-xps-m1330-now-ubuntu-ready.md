@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 ![][1]
 
-Dell&#8217;s top of the range notebook and currently also the best notebook from Dell, the XPS M1330 is now being shipped pre-installed with Ubuntu 7.10 (Gutsy Gibbon). The Ubuntu powered XPS notebooks are currently only available in Germany, UK, France and Spain. Hopefully Dell expands it&#8217;s Ubuntu on Dell range to Malaysia soon. The use of Linux in Asia is constantly growing and one might find this an ideal business opportunity. Don&#8217;t you think so Dell?
+Dell's top of the range notebook and currently also the best notebook from Dell, the XPS M1330 is now being shipped pre-installed with Ubuntu 7.10 (Gutsy Gibbon). The Ubuntu powered XPS notebooks are currently only available in Germany, UK, France and Spain. Hopefully Dell expands it's Ubuntu on Dell range to Malaysia soon. The use of Linux in Asia is constantly growing and one might find this an ideal business opportunity. Don't you think so Dell?
 
-Linux on Dell has been a big hit among it&#8217;s customer and potential customers as seen on Direct2Dell. The biggest requests on Dell&#8217;s community sites [direct2dell][2] and [IdeaStorm][3] have been to get [Ubuntu on more hardware][4] and [made available around the globe][5].
+Linux on Dell has been a big hit among it's customer and potential customers as seen on Direct2Dell. The biggest requests on Dell's community sites [direct2dell][2] and [IdeaStorm][3] have been to get [Ubuntu on more hardware][4] and [made available around the globe][5].
 
 ![][6] 
 

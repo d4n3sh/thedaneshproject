@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Finally managed to upgrade to WordPress 2.3.1 today. Needed quite a few tweaks here and there but everything seems to be holding togather now.
 
-Over the next week I&#8217;ll be fine tuning the functionality side of things so expect to see some errors. Learning the whole new Tags phenomenon now 🙂
+Over the next week I'll be fine tuning the functionality side of things so expect to see some errors. Learning the whole new Tags phenomenon now 🙂
 
 For now these are the plug ins I have running on my shiny new WordPress installation.
 

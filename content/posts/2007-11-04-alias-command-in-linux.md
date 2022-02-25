@@ -8,28 +8,28 @@ dsq_thread_id:
   - 889737916
 
 ---
-The alias command is used to create shortcuts to commands. Let&#8217;s see how it works.
+The alias command is used to create shortcuts to commands. Let's see how it works.
 
 I use the alias command to create shortcuts for commands I use frequently. For example the _**cp**_(copy) and _**mv**_(move) commands, my alias simply adds _**-i**_ to _**cp**_ and _**mv**_ commands causing them to be interactive thus preventing any accidental deletes or file overwrites.
 
 Running the _**alias**_ command will show you all the current aliases available.
 
 > [dummy@macho ~]$ alias  
-> alias l.=&#8217;ls -d .* &#8211;color=tty&#8217;  
-> alias ll=&#8217;ls -l &#8211;color=tty&#8217;  
-> alias ls=&#8217;ls &#8211;color=tty&#8217;  
-> alias vi=&#8217;vim&#8217;
+> alias l.='ls -d .* &#8211;color=tty'  
+> alias ll='ls -l &#8211;color=tty'  
+> alias ls='ls &#8211;color=tty'  
+> alias vi='vim'
 
-_**alias cp=&#8217;cp -i&#8217;**_. This command will ad _**-i**_ to the_ **cp**_(copy) command. Now, every time the _**cp**_ command is executed it will be interactive. No more accidental deletes 🙂
+_**alias cp='cp -i'**_. This command will ad _**-i**_ to the_ **cp**_(copy) command. Now, every time the _**cp**_ command is executed it will be interactive. No more accidental deletes 🙂
 
-_**alias mv=&#8217;mv -i&#8217;**_. This command will ad _**-i**_ to the _**mv**_(move) command. Now, every time the _**mv**_ command is executed it will be interactive. No more accidental overwrites 🙂
+_**alias mv='mv -i'**_. This command will ad _**-i**_ to the _**mv**_(move) command. Now, every time the _**mv**_ command is executed it will be interactive. No more accidental overwrites 🙂
 
-> [dummy@macho ~]$ alias cp=&#8217;cp -i&#8217;  
-> [dummy@macho ~]$ alias mv=&#8217;mv-i&#8217;  
+> [dummy@macho ~]$ alias cp='cp -i'  
+> [dummy@macho ~]$ alias mv='mv-i'  
 > [dummy@macho ~]$ alias  
-> alias cp=&#8217;cp -i&#8217;  
-> alias l.=&#8217;ls -d .* &#8211;color=tty&#8217;  
-> alias ll=&#8217;ls -l &#8211;color=tty&#8217;  
-> alias ls=&#8217;ls &#8211;color=tty&#8217;  
-> alias mv=&#8217;mv-i&#8217;  
-> alias vi=&#8217;vim&#8217;
+> alias cp='cp -i'  
+> alias l.='ls -d .* &#8211;color=tty'  
+> alias ll='ls -l &#8211;color=tty'  
+> alias ls='ls &#8211;color=tty'  
+> alias mv='mv-i'  
+> alias vi='vim'

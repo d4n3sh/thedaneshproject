@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Another blogger gets detained. Syed Azidi Syed Aziz a.k.a [Kickdefella][2] was detained by the police this evening at his home. Reason for the arrest, Sedition Act as usual.
 
-Who&#8217;s next? Me, you, everyone who blogs?
+Who's next? Me, you, everyone who blogs?
 
 Update: 2 day remand
 

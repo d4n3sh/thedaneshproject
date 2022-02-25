@@ -88,7 +88,7 @@ The registration page is up and accepting registrations now. Check out the prici
   </tr>
 </table>
 
-The price is slightly more then last year&#8217;s RM50 but it&#8217;s worthwhile I feel. Check out what you get, [check out the schedule][3].
+The price is slightly more then last year's RM50 but it's worthwhile I feel. Check out what you get, [check out the schedule][3].
 
   1. 32 Talks
   2. 26 Speakers

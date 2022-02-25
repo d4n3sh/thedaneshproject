@@ -12,7 +12,7 @@ dsq_thread_id:
 
 The easiest way to follow the World Cup on Twitter.
 
-Twitter&#8217;s World Cup page gives you the [whole event][1] and has individual streams for each match and country. Check out the first matches, [Mexico vs South Africa][2] and [Uruguay vs France][3] later tonight.
+Twitter's World Cup page gives you the [whole event][1] and has individual streams for each match and country. Check out the first matches, [Mexico vs South Africa][2] and [Uruguay vs France][3] later tonight.
 
 pssssst&#8230;. also check [this link][4] out. Love the table!!
 

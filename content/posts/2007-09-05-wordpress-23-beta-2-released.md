@@ -13,7 +13,7 @@ WordPress 2.3 Beta 2 was released yesterday.
 New features in this release,
 
   1. Improved AtomPub (Atom Publishing Format and Protocol).
-  2. Tag importers for Jerome&#8217;s keywords.
+  2. Tag importers for Jerome's keywords.
   3. Tag importers for Simple Tagging plugin.
 
 The [bughunt][1] will be on as usual today in the <a href="irc://irc.freenode.net/wordpress-bugs" onclick="javascript:urchinTracker ('/outbound/article/irc.freenode.net');">#wordpress-bugs</a> channel so join in if you feel like contributing.

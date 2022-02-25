@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889970369
 
 ---
-Here&#8217;s a simple walkthrough to setup an OpenSSH server on Jaunty together with 2 basic hardening options you should apply.
+Here's a simple walkthrough to setup an OpenSSH server on Jaunty together with 2 basic hardening options you should apply.
 
 1. Install the OpenSSH server.
 

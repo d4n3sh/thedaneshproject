@@ -12,7 +12,7 @@ I have always been using [KeePass][1] on my notebook as my password manager till
 
 **The problem;**
 
-I have 3 windows based machines that I use regularly. 2 at home and 1 for the road. They all have access to the net. Firefox with [Google&#8217;s browser sync][2] extension is what I use to keep my bookmarks, urls and forms synchronized between them.
+I have 3 windows based machines that I use regularly. 2 at home and 1 for the road. They all have access to the net. Firefox with [Google's browser sync][2] extension is what I use to keep my bookmarks, urls and forms synchronized between them.
 
 All the login details for my banking sites and secure work sites are stored in my trusty [KeePass][1]. When I get back I normally work on my desktops. I have to export the [KeePass][1] database from my notebook and import it into my into my notebooks and every time I have a new login added I have to repeat the export/import process all over again. This prompted me to start seaching for an alternative solution. Online password managers!!
 
@@ -36,13 +36,13 @@ I found 2 possible solutions. [PassPack][3] and [Clipperz][4] .
   6. Import/Export &#8211; Ability to easily import and export my password list. I used this in import from KeyPass.
   7. [PassPack][3] Blog &#8211; Covers everything about [PassPack][3].
 
-I have using [PassPack][3] for a few days now and it&#8217;s awesome!!
+I have using [PassPack][3] for a few days now and it's awesome!!
 
 <img loading="lazy" src="http://passpack.files.wordpress.com/2007/04/passpackbutton_180x60.gif" title="https://www.passpack.com/" alt="https://www.passpack.com/" height="60" width="180" /> 
 
 <u><strong>Clipperz</strong></u>
 
-[Clipperz][4] is the new kid on the block who is out to give [PassPack][3] a run for it&#8217;s money. It boosts a colorful and simple interface but I feel [PassPack][3] has a simpler interface.
+[Clipperz][4] is the new kid on the block who is out to give [PassPack][3] a run for it's money. It boosts a colorful and simple interface but I feel [PassPack][3] has a simpler interface.
 
 [![clipperz_screenshot.png][7]][8]
 
@@ -54,7 +54,7 @@ Cool features;
   4. Anonymous &#8211; No email address require.
   5. Encrypt by browser &#8211; Data is encrypted by my browser before being sent to the [Clipperz][4] servers. [Clipperz][4] only stores my encrypted data.
 
-What&#8217;s lacking;
+What's lacking;
 
   1. Import/Export &#8211; No import feature yet. Export only exports to a printable version. I have to use the offline copy feature to save an offline copy.
   2. Mozilla only &#8211; Only mozilla based browsers supported. Mozilla, Sea monkey and Firefox.
@@ -65,9 +65,9 @@ What&#8217;s lacking;
 
 <!--more-->
 
-<u><strong>What&#8217;s the difference between Clipperz and Passkey?</strong></u>
+<u><strong>What's the difference between Clipperz and Passkey?</strong></u>
 
-I have made my choice. Sorry [KeePass][1] and [Clipperz][4] but going with [PassPack][3] for now. It has convenience, functionality and security on it&#8217;s side and those are the 3 factors I looked at.
+I have made my choice. Sorry [KeePass][1] and [Clipperz][4] but going with [PassPack][3] for now. It has convenience, functionality and security on it's side and those are the 3 factors I looked at.
 
 Which will you choose? I suggest all 3 and see which works best for you.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 922194070
 
 ---
-Here&#8217;s the latest [Namecheap][1] coupon for July 2009.
+Here's the latest [Namecheap][1] coupon for July 2009.
 
 Coupon: INTERFACE  
 Discount: Save $0.88 for 1 year new domain registration only.

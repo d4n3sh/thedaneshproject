@@ -14,7 +14,7 @@ dsq_thread_id:
 
 2 days later Syed Azidi Syed Aziz a.k.a Kickdefella is once again a free man. [Why was he arrested?][2]
 
-From his posts it&#8217;s quite obvious that the police scare tactics didn&#8217;t quite work. When you speak the trurth fear will be non-existent.
+From his posts it's quite obvious that the police scare tactics didn't quite work. When you speak the trurth fear will be non-existent.
 
 Sources: [MalaysiaKini][3] || [Kickdefella][4] || [Politickler][5]
 

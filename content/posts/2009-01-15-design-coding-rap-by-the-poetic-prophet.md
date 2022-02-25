@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Need a few pointers in web design? This is the first time web design and SEO got served to me in the form of Rap. Thanks to [Alan][1].
 
-The video&#8217;s are by <span class="description"><a href="http://www.youtube.com/profile?user=m0serious&view=videos">The Poetic Prophet</a> (AKA The SEO Rapper). </span>Watch and enjoy.
+The video's are by <span class="description"><a href="http://www.youtube.com/profile?user=m0serious&view=videos">The Poetic Prophet</a> (AKA The SEO Rapper). </span>Watch and enjoy.
 
 Design Coding
 

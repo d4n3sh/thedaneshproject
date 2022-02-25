@@ -15,7 +15,7 @@ Check is the Deluge package is available.
 
 Install Deluge  
 `pandora:~ # zypper in deluge`  
-<!--more-->Here&#8217;s my screen dump;
+<!--more-->Here's my screen dump;
 
 `pandora:~ # zypper se deluge<br />
 Reading installed packages...`

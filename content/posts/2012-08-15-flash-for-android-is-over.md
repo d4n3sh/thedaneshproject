@@ -13,7 +13,7 @@ Starting tomorrow Adobe will disable all new installs of Flash on Android device
 
 Apple ditched Flash on its mobile platform and its desktop platform too. MS is also said be doing the same by limiting Flash on its OS.
 
-Flash has always felt heavy on the desktop and mobile platforms unlike HTML5.  HTML5 is the way of the internet future for now and it&#8217;s good to see Adobe starting to work with HTML5.
+Flash has always felt heavy on the desktop and mobile platforms unlike HTML5.  HTML5 is the way of the internet future for now and it's good to see Adobe starting to work with HTML5.
 
 @via [androidme][1]
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889880567
 
 ---
-Firefox 3 by default resolves IPv6 address first and if that fails then reverts to IPv4. This can sometimes slow down your browser&#8217;s performance.
+Firefox 3 by default resolves IPv6 address first and if that fails then reverts to IPv4. This can sometimes slow down your browser's performance.
 
 Here are the steps to turn off IPv6 support in Firefox 3 and above.
 

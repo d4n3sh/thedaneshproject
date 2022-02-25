@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 <a href="/posts/install-spotify-client-arch-linux/spotify-logo-primary-horizontal-light-background-rgb-450x175/" rel="attachment wp-att-3411"><img loading="lazy" class="alignnone size-full wp-image-3411" alt="spotify-logo-primary-horizontal-light-background-rgb-450x175" src="/wp-content/uploads/2014/01/spotify-logo-primary-horizontal-light-background-rgb-450x175.jpg" width="450" height="175" /></a>
 
-The Spotify client is available through WINE or natively through the AUR. I&#8217;ll walk you through the AUR way.
+The Spotify client is available through WINE or natively through the AUR. I'll walk you through the AUR way.
 
 1. Download the Spotify package from the AUR. [[Spotify AUR][1]]
 

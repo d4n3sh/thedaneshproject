@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![][1]
 
-I want those stickers!! [Delirium&#8217;s first contest][2] winners will receive those stickers.
+I want those stickers!! [Delirium's first contest][2] winners will receive those stickers.
 
 Want in too? This is what you gotta do;
 

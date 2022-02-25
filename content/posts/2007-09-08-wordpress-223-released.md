@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![][1]
 
-WordPress 2.2.3 released was released today. It&#8217;s a security patch and bug fix release so make sure you get your WordPress updated ASAP.
+WordPress 2.2.3 released was released today. It's a security patch and bug fix release so make sure you get your WordPress updated ASAP.
 
 If you are interested in knowing hat changed then take a look at the [bugs closed][2] and files changed.
 

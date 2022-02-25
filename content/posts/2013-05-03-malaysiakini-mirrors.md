@@ -8,7 +8,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-3153" alt="malaysiakini-logo" src="/wp-content/uploads/2013/05/malaysiakini-logo.jpg" width="276" height="182" />][1]
 
-Malaysia&#8217;s independent news provider Malaysia accessible through [http://www.malaysiakini.com][2] and <http://m.malaysiakini.com/en> might be down (.i.e blocked by our ISP) for many of you.
+Malaysia's independent news provider Malaysia accessible through [http://www.malaysiakini.com][2] and <http://m.malaysiakini.com/en> might be down (.i.e blocked by our ISP) for many of you.
 
 Try these alternatives.
 
@@ -18,7 +18,7 @@ Alternatives;
   2. <https://twitter.com/malaysiakini> &#8211; Twitter @malaysiakini
   3. <https://www.facebook.com/MalaysiaKini> &#8211; Facebook
 
-You can&#8217;t block the internet!! Get that through your thick skulls &#8230;
+You can't block the internet!! Get that through your thick skulls &#8230;
 
 This list will be updated as more mirrors show up so check back often.
 

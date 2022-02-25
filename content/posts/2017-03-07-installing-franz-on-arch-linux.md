@@ -10,7 +10,7 @@ dsq_thread_id:
 
 [Franz][1] is a new multi-platform messaging app for Linux, MAC and Windows. Been running it my Arch boxes for a few months now and am loving it!
 
-It's not in the default repo so you&#8217;ll need the AUR to install it. [ArchWiki][2]
+It's not in the default repo so you'll need the AUR to install it. [ArchWiki][2]
 
 Once you have your AUR setup, pull the package down and build it.
 

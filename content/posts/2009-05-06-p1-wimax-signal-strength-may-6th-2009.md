@@ -24,11 +24,11 @@ Called P1 up, need to call them back soon to carry out some &#8220;fine tuning&#
 
 Take a look at the signal map below, my house is smack middle in the pocket(below the compass) where there is almost no signal.
 
-It&#8217;s weird how the base stations are deployed here. According to P1 more base statioins are coming up soon in the area so hopefully I&#8217;ll see some improvements.
+It's weird how the base stations are deployed here. According to P1 more base statioins are coming up soon in the area so hopefully I'll see some improvements.
 
 [<img loading="lazy" class="alignnone" title="P1W1MAX Signal Map" src="http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg" alt="" width="500" height="335" />][2]
 
-Are you on P1 W1MAX too? What&#8217;s ya signal strength?  [Need the modem login?][3]
+Are you on P1 W1MAX too? What's ya signal strength?  [Need the modem login?][3]
 
  [1]: http://farm4.static.flickr.com/3644/3505167778_7102762ac8.jpg
  [2]: http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg

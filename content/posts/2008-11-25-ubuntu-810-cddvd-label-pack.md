@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1029" title="intrepix-cd" src="/wp-content/uploads/2008/11/intrepix-cd.jpg" alt="" width="400" height="400" srcset="/wp-content/uploads/2008/11/intrepix-cd.jpg 400w, /wp-content/uploads/2008/11/intrepix-cd-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />][1]
 
-Doing the FOSS thing by distributing CDs? Make your CD/DVD look better with these labels I found. This file&#8217;s in GIMP and best printed at 1024 x 1024.
+Doing the FOSS thing by distributing CDs? Make your CD/DVD look better with these labels I found. This file's in GIMP and best printed at 1024 x 1024.
 
-[Here&#8217;s the direct download link.][2]
+[Here's the direct download link.][2]
 
 Source: [Ubuntu Themes and Icons Download][3]
 

@@ -16,7 +16,7 @@ The IP block my site belongs to was experiencing heavy DDOS attacks so the data 
 > 
 > Hi,
 > 
-> We&#8217;ve got the latest update on this issue. Currently upstream of data center is blocking the IPs which are determined to cause the DDOS attack. Once the data center receive notification from upstream confirmed the blockage, they will release these 2 blocks of IP.
+> We've got the latest update on this issue. Currently upstream of data center is blocking the IPs which are determined to cause the DDOS attack. Once the data center receive notification from upstream confirmed the blockage, they will release these 2 blocks of IP.
 > 
 > However, it might takes hours in investigation, configuration and testing between upstream and data center. Thus, we appreciate the understanding and patience while waiting the issue to be resolved.
 > 

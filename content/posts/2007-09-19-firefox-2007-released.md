@@ -16,7 +16,7 @@ The is a new version of Firefox out. Firefox 2.0.07.
 
 Firefox will automatically download the latest update and prompt you to install. If you prefer the manual approach the Firefox is available download here. Release notes for 2.0.0.7 are availble [here][2].
 
-I&#8217;m running 2.0.0.7 now, are you?
+I'm running 2.0.0.7 now, are you?
 
  [1]: http://www.mozilla.org/security/announce/2007/mfsa2007-28.html
  [2]: http://en-us.www.mozilla.com/en-US/

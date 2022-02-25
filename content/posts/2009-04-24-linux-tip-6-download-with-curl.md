@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889931010
 
 ---
-Here&#8217;s how to download a file using cURL.
+Here's how to download a file using cURL.
 
 `curl -O [full url to file]`
 

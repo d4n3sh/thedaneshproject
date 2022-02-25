@@ -15,7 +15,7 @@ dsq_thread_id:
 </p>
 
 <p style="margin: 0cm 0cm 10pt;">
-  80 countries, 1429 cities, 5085 organizations and 16995 businesses have pledged turn their lights off on  28th March 2009 for 1 hour from 8.30pm till 9.30pm in support of earth hour 2009. That&#8217;s the current global support Earth Hour 2009 has received  so far.  The global goal is to reach 1 billion participants&#8230;..
+  80 countries, 1429 cities, 5085 organizations and 16995 businesses have pledged turn their lights off on  28th March 2009 for 1 hour from 8.30pm till 9.30pm in support of earth hour 2009. That's the current global support Earth Hour 2009 has received  so far.  The global goal is to reach 1 billion participants&#8230;..
 </p>
 
 <p style="margin: 0cm 0cm 10pt;">
@@ -35,10 +35,10 @@ dsq_thread_id:
 </p>
 
 <p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: left;">
-  Also, don&#8217;t forget to check out Earth Hour Malaysia 2009 ads on <a href="http://www.youtube.com/user/EarthHourMalaysia">YouTube.</a>
+  Also, don't forget to check out Earth Hour Malaysia 2009 ads on <a href="http://www.youtube.com/user/EarthHourMalaysia">YouTube.</a>
 </p>
 
-Come on guys, it&#8217;s just for an hour. Give mother nature a break&#8230;.
+Come on guys, it's just for an hour. Give mother nature a break&#8230;.
 
 Thanks to me good buddy [Abinesh][1] for getting me into Earth Hour 2009, My life just got greener 😀
 

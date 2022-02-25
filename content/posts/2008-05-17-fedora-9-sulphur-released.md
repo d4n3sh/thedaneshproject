@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Good news to all [Fedora][2] fans. Fedora 9 codenamed &#8220;[Sulphur][3]&#8221; is out.
 
-The new release comes with quite a few new features. To start off. Fedora 9 runs on the latest 2.6.25 kernel. There&#8217;s a new package management system included called &#8220;Packgeit&#8221; which uses Yum for it&#8217;s backend. Gnome Desktop 2.22 and KDE 4.03 are the desktop managers to choose from. Firefox 3 Beta 5 is the browser of choice this time and to top it all the new opensource version of Java &#8220;OpenJDK&#8221; is part of the new features. [See the full summary here.][4]
+The new release comes with quite a few new features. To start off. Fedora 9 runs on the latest 2.6.25 kernel. There's a new package management system included called &#8220;Packgeit&#8221; which uses Yum for it's backend. Gnome Desktop 2.22 and KDE 4.03 are the desktop managers to choose from. Firefox 3 Beta 5 is the browser of choice this time and to top it all the new opensource version of Java &#8220;OpenJDK&#8221; is part of the new features. [See the full summary here.][4]
 
 Feel like taking the new Fedora 9 &#8220;Sulphur&#8221; for a spin? Well, you could grab the install DVD/CDs iso files via bittorrent or direct download. The other alternative would be to download the Gnome Live DVD or the KDE live DVD. [Go to the download page.][5]
 

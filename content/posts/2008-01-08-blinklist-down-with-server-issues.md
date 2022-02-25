@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [![][1]][2]
 
-BlinkList has posted an update on yesterday&#8217;s service outage. The service disruption was caused by a crashed DB server which unfortunately hosted the main DB. Data is save but as we in IT know, DB restoration is tricky and takes time.
+BlinkList has posted an update on yesterday's service outage. The service disruption was caused by a crashed DB server which unfortunately hosted the main DB. Data is save but as we in IT know, DB restoration is tricky and takes time.
 
 Blinklist is still down but service should be restored within a few hours.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1211372644
 
 ---
-Thinking about upgrading to vista? This flowchart will help yo understand what&#8217;s needed, do you have it and finally force you to make a decision.
+Thinking about upgrading to vista? This flowchart will help yo understand what's needed, do you have it and finally force you to make a decision.
 
 [![vistaupgradebig.jpg][1]][2]
 

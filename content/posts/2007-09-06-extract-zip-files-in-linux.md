@@ -12,7 +12,7 @@ ZIP archives are most commonly used in Windows/MS-DOS based environments.
 
 In Linux, you can use the &#8220;unzip&#8221; command to extract,list or test ZIP files. Below are the common tasks I use &#8220;unzip&#8221; for.
 
-Extract the contents of a ZIP file into it&#8217;s own directory and also create subdirectories as needed.
+Extract the contents of a ZIP file into it's own directory and also create subdirectories as needed.
 
 > \# unzip [filename].zip
 
@@ -28,7 +28,7 @@ List the contents of a ZIP file.
 
 > \# unzip -l [filename].zip
 
-Test the integrity of a ZIP file and it&#8217;s contents.
+Test the integrity of a ZIP file and it's contents.
 
 > Ã‚Â # unzip -t [filename].zip
 > 
@@ -40,7 +40,7 @@ Extract the contents of a ZIP file only if the files already exist in the target
 > 
 > \# unzip -fo [filename].zip (non interactive. Yes to all)
 
-Extract the contents of a ZIP file if the contents are newer then what&#8217;s available in the target directory or don&#8217;t exist yet. Good for upgrades.
+Extract the contents of a ZIP file if the contents are newer then what's available in the target directory or don't exist yet. Good for upgrades.
 
 > \# unzip -u [filename].zip
 > 

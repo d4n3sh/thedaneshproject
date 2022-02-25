@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-947" title="free-rpk" src="/wp-content/uploads/2008/09/free-rpk.jpg" alt="" width="270" height="400" />][1]
 
-The dude speaks for us, he speaks about the truths that others don&#8217;t want to get into. It&#8217;s time we showed our gratitute.
+The dude speaks for us, he speaks about the truths that others don't want to get into. It's time we showed our gratitute.
 
-There&#8217;s a petition to the PM which needs your attention. It&#8217;s currently standing at a disappointing 16722 signatures. He needs more&#8230;..!!!
+There's a petition to the PM which needs your attention. It's currently standing at a disappointing 16722 signatures. He needs more&#8230;..!!!
 
 # [<span style="color: #3366ff;">Sign The Petition</span>][2]
 

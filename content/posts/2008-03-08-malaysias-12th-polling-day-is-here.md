@@ -12,11 +12,11 @@ dsq_thread_id:
 
 Tomorrow is the 12th general election polling day for Malaysia. Malaysians will be rushing to the nearest polling stations by the millions to carry out their responsibility as a citizen.
 
-It&#8217;s has been a rough couple of months with all the racial (that&#8217;s what they call it but not me) issues going around but tomorrow will clearly mirror what the Malaysian people really want. To either stay on the same road or to strive for a better future by opting for a change.
+It's has been a rough couple of months with all the racial (that's what they call it but not me) issues going around but tomorrow will clearly mirror what the Malaysian people really want. To either stay on the same road or to strive for a better future by opting for a change.
 
 My 2 cents to all those going to vote tomorrow,
 
-Don&#8217;t vote for all the banners, don&#8217;t vote for all the brochures, don&#8217;t vote for the TV ads, don&#8217;t vote for the radio ads, don&#8217;t vote for the flags being carried around on bikes, don&#8217;t vote for the handshakes and hellos that only come nearing the elections, don&#8217;t vote for the promises you know will never be honored, don&#8217;t vote if you have the slightest doubt.
+Don't vote for all the banners, don't vote for all the brochures, don't vote for the TV ads, don't vote for the radio ads, don't vote for the flags being carried around on bikes, don't vote for the handshakes and hellos that only come nearing the elections, don't vote for the promises you know will never be honored, don't vote if you have the slightest doubt.
 
 Vote for the leaders who genuinely care for the people and spend time listening to the people way before the elections, vote for moral, vote for justice, vote for peace, vote for unity, vote for a better future, vote for yourself, vote for your family, vote for your children, vote for your friends, vote from your heart and most importantly vote as a Malaysian for a grate Malaysia.
 

@@ -28,7 +28,7 @@ listen for connections on aÂ  controlÂ  socketÂ  specified
 usingÂ  theÂ  ControlPathÂ  argument.Â  Additional sessions  
 can connect to this socket using theÂ  sameÂ  ControlPath  
 withÂ  ControlMaster set to &#8220;no&#8221; (the default).Â  These  
-sessions will reuse the master instance&#8217;s networkÂ  con-  
+sessions will reuse the master instance's networkÂ  con-  
 nectionÂ  rather than initiating new ones.Â  Setting this  
 to &#8220;ask&#8221; will cause ssh to listen for control connec-  
 tions,Â  butÂ  require confirmation using the SSH_ASKPASS  

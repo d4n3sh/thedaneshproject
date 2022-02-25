@@ -14,7 +14,7 @@ Google has Linux software repositories setup for you to easily stay up to date w
 
 However, only Google Desktop and Google Picasa are published on the repositories. Google earth has to be [downloaded][1] and installed manually.
 
-I&#8217;ll show you how to add the repository in openSUSE but for other distros refer [here][2].
+I'll show you how to add the repository in openSUSE but for other distros refer [here][2].
 
 1. As root add the repository.
 

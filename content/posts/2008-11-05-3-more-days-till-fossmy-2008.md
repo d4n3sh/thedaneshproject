@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 3 more days to go for FOSS.my 2008.
 
-Have you registered? If not, you&#8217;re in luck. The early bird registration has been extended till this Thursday. <a href="http://foss.my/register/" target="_blank">Make sure to register</a>.
+Have you registered? If not, you're in luck. The early bird registration has been extended till this Thursday. <a href="http://foss.my/register/" target="_blank">Make sure to register</a>.
 
 To register;
 

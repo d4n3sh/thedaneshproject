@@ -8,11 +8,11 @@ dsq_thread_id:
   - 889736617
 
 ---
-Most non linux people tend to be taunted by the Linux command line, it&#8217;s no beast nor is the user behind it a super geek just because you see him hammering away at the keyboard with lines after lines of commands. Chances are he is repeating commands or changing commands here and there to get some results. In Linux the first time takes time and practice to produce accurate results. This is what most sysadmins spend their time doing but once you get the hang of it, it became a walk in the park.
+Most non linux people tend to be taunted by the Linux command line, it's no beast nor is the user behind it a super geek just because you see him hammering away at the keyboard with lines after lines of commands. Chances are he is repeating commands or changing commands here and there to get some results. In Linux the first time takes time and practice to produce accurate results. This is what most sysadmins spend their time doing but once you get the hang of it, it became a walk in the park.
 
-How often do you repeat commands while using the command line? I do this all the time but sometimes it&#8217;s good to learn some shortcuts now and then to reduce repetitive tasks and improve efficiency.
+How often do you repeat commands while using the command line? I do this all the time but sometimes it's good to learn some shortcuts now and then to reduce repetitive tasks and improve efficiency.
 
-When you type a command in the command line, it&#8217;s saved into the .bash_history file within the home directory. The history file will hold the last 500 commands. To view them you can use &#8220;**_history_**&#8221; or &#8220;_**history | less**_&#8221; if the result is too long. The history file is also frequently use for user/security audits and RCA work.
+When you type a command in the command line, it's saved into the .bash_history file within the home directory. The history file will hold the last 500 commands. To view them you can use &#8220;**_history_**&#8221; or &#8220;_**history | less**_&#8221; if the result is too long. The history file is also frequently use for user/security audits and RCA work.
 
 You will that within the output below each line is numbered, these numbers will come in handy later in this tutorial.
 

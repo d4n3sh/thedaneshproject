@@ -14,9 +14,9 @@ dsq_thread_id:
 
 If you own a site then chances are you need a favicon.
 
-A favicon is a 16&#215;16 icon which normally sits next to the URL in the browser&#8217;s address bar. It&#8217;s a small visual representation of a site. Most browsers today support favicons in multiple formats, .png, .gif, .jpeg and .ico but as usual there are exceptions.
+A favicon is a 16&#215;16 icon which normally sits next to the URL in the browser's address bar. It's a small visual representation of a site. Most browsers today support favicons in multiple formats, .png, .gif, .jpeg and .ico but as usual there are exceptions.
 
-Microsoft&#8217;s Internet Explorer only supports .ico formatted favicons which is their propitiatory icon format. This is where the favicon generators comes in handy. Just upload any jpeg, gif or png image file and have the generator convert them into .ico file.
+Microsoft's Internet Explorer only supports .ico formatted favicons which is their propitiatory icon format. This is where the favicon generators comes in handy. Just upload any jpeg, gif or png image file and have the generator convert them into .ico file.
 
 I use [favicon-generator][1] by [Project Fondue][2] for all my favicon needs. The service does the above and also provides a editor to create favicons on the fly.
 

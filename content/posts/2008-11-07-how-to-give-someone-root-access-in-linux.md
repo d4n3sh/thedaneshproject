@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890629746
 
 ---
-Giving someone root access in linux is easy. Why would someone need to be root I don&#8217;t know but this is how you do it using the usermod command.
+Giving someone root access in linux is easy. Why would someone need to be root I don't know but this is how you do it using the usermod command.
 
 To add root access
 

@@ -13,7 +13,7 @@ dsq_thread_id:
 
 Not been following Deluge for the past few months. I had to fall back to Windows since my damn Exchange server could not work with Linux.
 
-But anyway, talking about good timing. OpenSUSE 11 is set to be out in 2 days and my office decides to get me a new notebook. A lenovo R61, can&#8217;t ask too much but it should work fine with OpenSUSE 11. I&#8217;ll finally get to Deluge again.
+But anyway, talking about good timing. OpenSUSE 11 is set to be out in 2 days and my office decides to get me a new notebook. A lenovo R61, can't ask too much but it should work fine with OpenSUSE 11. I'll finally get to Deluge again.
 
 The current stable release for Deluge is 0.5.9.1. There have been quite a few fixes put in since my last Deluge update. Read the changelog while [downloading][2] the latest version.
 
@@ -41,7 +41,7 @@ Deluge 0.5.8.9 (14 April 2008)
 
 Deluge 0.5.8.8 (09 April 2008)
 
-  * Fix ubuntu hardy and debian sid bug sine they&#8217;ve renamed and broken up the packages.
+  * Fix ubuntu hardy and debian sid bug sine they've renamed and broken up the packages.
   * Fix ratio (again)
   * Sync with asio 1.0 release
 li>Remove file manager from preferences

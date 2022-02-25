@@ -16,7 +16,7 @@ Spotted dick, damn!!
 
 Had your laugh? I did.
 
-Ok, now the truth. Spotted Dick is actually a dessert. It&#8217;s a steamed pudding with dried fruits made popular in the UK. The popular dessert also goes by other names. Spotted Dog, Plum Duff, Figgy Dowdy, Plum Bolster and Spotted Richard.
+Ok, now the truth. Spotted Dick is actually a dessert. It's a steamed pudding with dried fruits made popular in the UK. The popular dessert also goes by other names. Spotted Dog, Plum Duff, Figgy Dowdy, Plum Bolster and Spotted Richard.
 
 [Spotted Dick at WikePedia][3]
 

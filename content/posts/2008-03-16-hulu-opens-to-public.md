@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm3.static.flickr.com/2418/2336636833_abbb36c0e7.jpg" alt="hulu" border="0" height="292" width="500" />][1]
 
-After bout 5 months of invite only beta testings [hulu][2] has opened it&#8217;s doors to the public earlier this month.
+After bout 5 months of invite only beta testings [hulu][2] has opened it's doors to the public earlier this month.
 
 hulu is an online video streaming service but unlike [youtube][3] and other video services hulu will only be publishing premium content from prime time TV like full episodes of popular tv shows, fulllength movies and premiums clips.
 
@@ -18,9 +18,9 @@ The current lineup already includes Family Guy, 30 Rock, The Office, House, The 
 
 [<img loading="lazy" src="http://farm3.static.flickr.com/2400/2337527014_1d04a1b73d.jpg" alt="library" border="0" height="178" width="500" />][4]
 
-Currently hulu is only servicing the US. All other regions and countries will have to wait. Workarounds like using proxy servers and overseas vpn tunnels have been said to work but I haven&#8217;t personally tested them yet.
+Currently hulu is only servicing the US. All other regions and countries will have to wait. Workarounds like using proxy servers and overseas vpn tunnels have been said to work but I haven't personally tested them yet.
 
-If you didn&#8217;t already know, hulu is a join venture owned by NBC Universal and News Corp with about a 100mil to spend.
+If you didn't already know, hulu is a join venture owned by NBC Universal and News Corp with about a 100mil to spend.
 
 Source: [hulu blog][5]
 

@@ -16,7 +16,7 @@ WordPress 2.7.1 is out. The release comes with [68 fixes][1].
 
 For more info on the changes you look at the [list for fixed tickets][1] and the full change log.
 
-Upgrade&#8217;s a breeze with the new auto upgrade function. If you get a timeout issue, [try this fix][2]. Increased my timeout to 120 and the upgrade completed successfully.
+Upgrade's a breeze with the new auto upgrade function. If you get a timeout issue, [try this fix][2]. Increased my timeout to 120 and the upgrade completed successfully.
 
 Alternatively, you could still upgrade the manual way by [downloading WordPress][3] and upgrading over ftp. If you need help refer to the manuals to [install][4] or [upgrade][5].
 

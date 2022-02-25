@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890344543
 
 ---
-I love the new Android Roboto font family and it looks good on my Fedora 16 install. Here&#8217;s how you can get it into your Fedora 16.
+I love the new Android Roboto font family and it looks good on my Fedora 16 install. Here's how you can get it into your Fedora 16.
 
 1. Change to root user  
 `# su -<br />

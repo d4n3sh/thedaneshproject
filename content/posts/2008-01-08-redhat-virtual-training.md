@@ -8,9 +8,9 @@ dsq_thread_id:
   - 895386158
 
 ---
-Don&#8217;t have access to RedHat certified training centers or just fancy studying with the comforts of your own home? Which ever your choice maybe, RedHat has the answer for you.
+Don't have access to RedHat certified training centers or just fancy studying with the comforts of your own home? Which ever your choice maybe, RedHat has the answer for you.
 
-Readhat&#8217;s latest offering, Virtual Training is live, instructor led and best of all _**online.**_ The courses are conducted by RedHat certified instructors and feature the same content you would receive in the standard classroom sessions. The virtual classes will be thought in 4 hours incremental sessions which should provide your brain sufficient time to rest and wonder.
+Readhat's latest offering, Virtual Training is live, instructor led and best of all _**online.**_ The courses are conducted by RedHat certified instructors and feature the same content you would receive in the standard classroom sessions. The virtual classes will be thought in 4 hours incremental sessions which should provide your brain sufficient time to rest and wonder.
 
 Currently the cources provided are;
 
@@ -23,7 +23,7 @@ courses planned for the future;
   * RH253VT Red Hat Linux Networking and Security Administration
   * RH301VT RHCE Rapid Track Course
 
-Something I thought you might find interesting. There are currently 27,500 RedHat Certified Engineers (RHCE),Ã‚Â  18,500 RedHat Certified TechniciansÃ‚Â  (RHCT) andÃ‚Â  46,000 RedHat CertifiedÃ‚Â  ProfessionalsÃ‚Â  around the globe.Ã‚Â  Nothing when compared to Microsoft&#8217;s certified engineers but it does help keep the Linux engineer&#8217;s salary high. 😉  
+Something I thought you might find interesting. There are currently 27,500 RedHat Certified Engineers (RHCE),Ã‚Â  18,500 RedHat Certified TechniciansÃ‚Â  (RHCT) andÃ‚Â  46,000 RedHat CertifiedÃ‚Â  ProfessionalsÃ‚Â  around the globe.Ã‚Â  Nothing when compared to Microsoft's certified engineers but it does help keep the Linux engineer's salary high. 😉  
 [RedHat Virtual Training FAQ][3]
 
 Source: [Redhat Virtual TrainingÃ‚Â ][4]

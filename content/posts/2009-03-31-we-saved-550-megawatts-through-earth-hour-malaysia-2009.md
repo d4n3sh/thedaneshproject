@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-medium wp-image-1313" title="earth-hour-malaysia-2009" src="/wp-content/uploads/2009/03/earth-hour-malaysia-2009-500x370.png" alt="earth-hour-malaysia-2009" width="500" height="370" srcset="/wp-content/uploads/2009/03/earth-hour-malaysia-2009-500x370.png 500w, /wp-content/uploads/2009/03/earth-hour-malaysia-2009.png 563w" sizes="(max-width: 500px) 100vw, 500px" />
 
-500 Megawatts or 14 million fluorescent bulbs at 40 watt each. That&#8217;s what [Earth Hour Malaysia 2009][1] managed to save according to [TheStar][2]. Yes TNB lost some money, but do they really need it?
+500 Megawatts or 14 million fluorescent bulbs at 40 watt each. That's what [Earth Hour Malaysia 2009][1] managed to save according to [TheStar][2]. Yes TNB lost some money, but do they really need it?
 
 Earth Hour was good, I had a BBQ at home with my family while watching the lights go out. What made it even better was the fact that my neighbors, not the &#8220;save the earth&#8221; kind (I WAS SO WRONG 🙁 ) had their lights out too. This caused a chain reaction and almost all the houses in my housing area followed and had their lights out.
 

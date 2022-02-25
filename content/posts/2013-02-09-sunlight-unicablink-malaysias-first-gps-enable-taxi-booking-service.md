@@ -18,9 +18,9 @@ The next phase will be to introduce alternative payment methods. Credit / Debi
 
 Go grab the app on [Google Play][2] or the [AppStore][3] and take it for a spin.
 
-What about [Taxi Monger][4] you ask? If I&#8217;m not wrong, that&#8217;s sms based and the response time is slightly longer.
+What about [Taxi Monger][4] you ask? If I'm not wrong, that's sms based and the response time is slightly longer.
 
-I&#8217;ve yet to book a cab through Unicablink, hopefully soon. Have you tried Unicablink yet?
+I've yet to book a cab through Unicablink, hopefully soon. Have you tried Unicablink yet?
 
 <!--more-->
 

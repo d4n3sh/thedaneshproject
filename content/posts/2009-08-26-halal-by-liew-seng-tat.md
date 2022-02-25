@@ -10,13 +10,13 @@ dsq_thread_id:
   - 892436599
 
 ---
-Halal by [Liew Seng Tat][1] is out. I couldn&#8217;t stop laughing!!!
+Halal by [Liew Seng Tat][1] is out. I couldn't stop laughing!!!
 
 A very silly slapstick comedy demonstrating the proper Islamic way to slaughter chicken.
 
 Now you know what halal means.
 
-Don&#8217;t forget to check out [the making][2].
+Don't forget to check out [the making][2].
 
 Source: [15MALAYSIA][3]
 

@@ -22,7 +22,7 @@ Looks like our boys are at it again. Bastards, either their DNS is un-patched or
 
 <span style="color: #ff0000;">Sources: <a href="http://www.malaysiakini.com/news/88683">MalaysiaKini</a> || <a href="http://kamal-talksmalaysia.blogspot.com/2008/08/malaysia-today-blocked-order-from-mcmc.html">Kamal Talks</a> || <a href="http://bangmalaysia.wordpress.com/2008/08/27/malaysia-today-blocked-order-from-mcmc/">BangsaMalaysia</a></span>
 
-If you&#8217;re on streamyx and usingÃ‚Â  TMNET dns servers (202.188.0.133/202.188.1.5/etc&#8230;.) then Malaysia Today is off limits to you.
+If you're on streamyx and usingÃ‚Â  TMNET dns servers (202.188.0.133/202.188.1.5/etc&#8230;.) then Malaysia Today is off limits to you.
 
 Streamyx DNS servers are resolving malaysia-today.net to &#8220;127.0.0.1&#8221; .Ã‚Â  See screenshot
 

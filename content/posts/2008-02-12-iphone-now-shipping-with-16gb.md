@@ -14,7 +14,7 @@ With over 4 million units sold Apple has decided to release an upgrade to the po
 
 ![][2] 
 
-The iPod touch also received aÃ‚Â  bump upÃ‚Â  in it&#8217;s storage area.Ã‚Â  Apple has started shipping it with 8GB, 16GB and now also 32GB. The 32GB model is priced at USD499, USD399 for the 16GB model and USD299 for the 8GB model.
+The iPod touch also received aÃ‚Â  bump upÃ‚Â  in it's storage area.Ã‚Â  Apple has started shipping it with 8GB, 16GB and now also 32GB. The 32GB model is priced at USD499, USD399 for the 16GB model and USD299 for the 8GB model.
 
 I am really looking to get the iPod Touch soon. Might pick up the 32GB model.
 

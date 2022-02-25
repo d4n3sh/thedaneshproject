@@ -10,7 +10,7 @@ dsq_thread_id:
   - 900478761
 
 ---
-Thought it would be interesting to find out how people name their computers. I&#8217;ve always used names as they help me identify servers easier.
+Thought it would be interesting to find out how people name their computers. I've always used names as they help me identify servers easier.
 
 My computers;
 

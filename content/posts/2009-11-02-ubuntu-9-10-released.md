@@ -20,7 +20,7 @@ Grab a copy from a local Malaysian mirror listed below or from the official [dow
 
 [<img loading="lazy" class="alignnone size-medium wp-image-1813" title="kubuntu-9.10released" src="/wp-content/uploads/2009/11/kubuntu-9.10released-450x89.png" alt="kubuntu-9.10released" width="450" height="89" srcset="/wp-content/uploads/2009/11/kubuntu-9.10released-450x89.png 450w, /wp-content/uploads/2009/11/kubuntu-9.10released.png 849w" sizes="(max-width: 450px) 100vw, 450px" />][6]
 
-alternatively if you&#8217;re a Kubuntu user, grab your copy [here][6].
+alternatively if you're a Kubuntu user, grab your copy [here][6].
 
  [1]: /wp-content/uploads/2009/11/Ubuntu_9.10.png
  [2]: http://www.ubuntu.com/getubuntu/download

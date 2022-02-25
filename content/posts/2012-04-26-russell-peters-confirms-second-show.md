@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-2452" title="235_peters" src="/wp-content/uploads/2012/04/235_peters.jpg" alt="" width="235" height="280" />][1]
 
-Yup, tickets for the  first show sold out and now Russell&#8217;s got a second show on.
+Yup, tickets for the  first show sold out and now Russell's got a second show on.
 
 Location , seating and pricing remain same but oddly the second show (11th May)  is scheduled a day before the first show (12thMay). Funny! 😀
 

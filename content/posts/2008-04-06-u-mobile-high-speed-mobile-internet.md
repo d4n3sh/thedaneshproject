@@ -10,20 +10,20 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://farm3.static.flickr.com/2064/2391620277_acd2eb41e6.jpg" height="239" width="500" />
 
-I tend to be slightly skeptical nowadays when the words &#8220;high peed&#8221; and &#8220;mobile&#8221; are used within the same sentence. You can&#8217;t blame me, adverts all around boast blazing speeds over mobile network but do you ever hear the same feedback from their subscribers? Hardly ever right.
+I tend to be slightly skeptical nowadays when the words &#8220;high peed&#8221; and &#8220;mobile&#8221; are used within the same sentence. You can't blame me, adverts all around boast blazing speeds over mobile network but do you ever hear the same feedback from their subscribers? Hardly ever right.
 
-Well, here&#8217;s a another new kid on the block U Mobile with the same claims. Hopefully they deliver. [Read more about U Mobile on Wikipedia][1].
+Well, here's a another new kid on the block U Mobile with the same claims. Hopefully they deliver. [Read more about U Mobile on Wikipedia][1].
 
-They simplified the packages by only offering one package at a low price of RM78 for unlimited access. Another favourable addition would be the cool looking modem seen in the picture below. All other providers are still sticking to the crappy bean design with it&#8217;s flimsy plastic finishing.
+They simplified the packages by only offering one package at a low price of RM78 for unlimited access. Another favourable addition would be the cool looking modem seen in the picture below. All other providers are still sticking to the crappy bean design with it's flimsy plastic finishing.
 
-U Mobile is new so don&#8217;t expect superb coverage just yet. For now their reach covers most of Klang Valley. If the penetration rate is good expansion will happen for sure.
+U Mobile is new so don't expect superb coverage just yet. For now their reach covers most of Klang Valley. If the penetration rate is good expansion will happen for sure.
 
 <img loading="lazy" src="http://farm3.static.flickr.com/2180/2392465214_5eb0c140a8_o.jpg" height="260" width="350" />  
 Picture taken fromÃ‚Â  [KongTachnology][2] blog.
 
-I have been looking into mobile packages recently and the only service provider that appeals to me is Celcom. Their Streamyx + Mobile Broadband combo is the best around. Don&#8217;t ya think so?
+I have been looking into mobile packages recently and the only service provider that appeals to me is Celcom. Their Streamyx + Mobile Broadband combo is the best around. Don't ya think so?
 
-While the mobile providers battle it out, one thing&#8217;s for sure, U Mobile in my book has the best looking website. Light weight flash yet functional. A good first impression always works with products. VisitÃ‚Â  [U Mobile][3]
+While the mobile providers battle it out, one thing's for sure, U Mobile in my book has the best looking website. Light weight flash yet functional. A good first impression always works with products. VisitÃ‚Â  [U Mobile][3]
 
 Source: [KongTechnology][2] | [UMobile][3]
 

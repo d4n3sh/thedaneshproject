@@ -10,13 +10,13 @@ dsq_thread_id:
 ---
 [<img loading="lazy" title="words_to_pdf" src="/wp-content/uploads/2012/05/words_to_pdf.png" alt="" width="405" height="355" />][1]
 
-Had a few documents to scan to PDF urgently today but to my surprise all the cybercafes around my neighborhood didn&#8217;t provide scan to PDF service. The best they could do was scan to jpeg. Hmmm&#8230;why?
+Had a few documents to scan to PDF urgently today but to my surprise all the cybercafes around my neighborhood didn't provide scan to PDF service. The best they could do was scan to jpeg. Hmmm&#8230;why?
 
 Thanks to Linux I had a solution. Scan the docs to jpeg, then convert the jpegs to PDF using imagemagick. Worked like a charm.
 
-Here&#8217;s how, on my Ubuntu 12.04 LTS
+Here's how, on my Ubuntu 12.04 LTS
 
-Install the imagemagick package if you don&#8217;t already have it.
+Install the imagemagick package if you don't already have it.
 
 `:~$ sudo apt-get install imagemagick<br />
 `  

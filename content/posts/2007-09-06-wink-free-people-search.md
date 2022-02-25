@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![wink1.png][1]
 
-Wink let&#8217;s you find people from other social networks like MySpace,Bebo, Friendster and others from one central location. You will need to register a profile at Wink and also register the the social networks you belong to into your Wink profile.
+Wink let's you find people from other social networks like MySpace,Bebo, Friendster and others from one central location. You will need to register a profile at Wink and also register the the social networks you belong to into your Wink profile.
 
 Your people search can be based on name, location,school,work,interest and more&#8230;.
 

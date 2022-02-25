@@ -6,4 +6,4 @@ pvc_views:
   - 1047
 
 ---
-Would you want something like this? What&#8217;s next, format c:\ on your butt?
+Would you want something like this? What's next, format c:\ on your butt?

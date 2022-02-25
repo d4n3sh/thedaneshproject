@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-586" title="tuxracer" src="/wp-content/uploads/2008/05/tuxracer11.jpg" alt="tuxracer" width="352" height="288" />][1]
 
-When forced to work within a limited budget you are normally forced to come up with alternative cost saving solutions. This was the case for a University which desided to use a Linux powered X-Box to host it&#8217;s students web projects.
+When forced to work within a limited budget you are normally forced to come up with alternative cost saving solutions. This was the case for a University which desided to use a Linux powered X-Box to host it's students web projects.
 
 As time passed so did the personnel who knew about the X-Box web server. Without proper handover documents and asset management the X-Box server soon gets forgotten.
 

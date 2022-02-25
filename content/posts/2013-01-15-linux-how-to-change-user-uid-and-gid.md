@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 I was running Debian for sometime and in Debian the UID starts at 1000. Now I moved to CentOS 6 and the UID starts from 500. Simply changing the UID/GID seemed like an quick way to get my file permission back in sync.
 
-Here&#8217;s how to easily change the UID and GID for a user in Linux. 
+Here's how to easily change the UID and GID for a user in Linux. 
 
 Check my current UID/GID  
 `[root@atom ~]# id danesh<br />

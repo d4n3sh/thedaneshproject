@@ -10,13 +10,13 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-514" title="ImageShack Torrent Service" src="/wp-content/uploads/2008/04/2411002202_301166be4f1.jpg" alt="ImageShack Torrent Service" width="500" height="349" srcset="/wp-content/uploads/2008/04/2411002202_301166be4f1.jpg 500w, /wp-content/uploads/2008/04/2411002202_301166be4f1-300x209.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
-Tired of being throttled by your ISP? Here&#8217;s some hope,
+Tired of being throttled by your ISP? Here's some hope,
 
-[ImageShack][1], the media hosting site has now pulled out a new service from it&#8217;s bag of tricks. Free torrent download service using their servers.
+[ImageShack][1], the media hosting site has now pulled out a new service from it's bag of tricks. Free torrent download service using their servers.
 
 You find a torrent, upload it into ImageShack and wait. The torrent will be downloaded onto their servers and all you have to do is download the completed file one the download is complete.
 
-It&#8217;s not a new idea but what&#8217;s cool is ImageShack is providing the service for free with some limitations. The allocated space is 5GB and bandwidth is limited to 10GB. If you need more then you have the option to subscribe to their paid service.
+It's not a new idea but what's cool is ImageShack is providing the service for free with some limitations. The allocated space is 5GB and bandwidth is limited to 10GB. If you need more then you have the option to subscribe to their paid service.
 
   1. 10GB Disk/15GB Bandwidth for $10/month
   2. 25GB Disk/50GB Bandwidth for $25/month
@@ -28,7 +28,7 @@ I tried it yesterday with a few torrents. The speed was way better then what I n
 
 <img loading="lazy" class="alignnone size-full wp-image-515" title="ImageShack Torrent Service" src="/wp-content/uploads/2008/04/2417764783_bd2d69d44d1.jpg" alt="ImageShack Torrent Service" width="500" height="479" srcset="/wp-content/uploads/2008/04/2417764783_bd2d69d44d1.jpg 500w, /wp-content/uploads/2008/04/2417764783_bd2d69d44d1-300x287.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
-It&#8217;s a good service so make sure to give it a spin. It&#8217;s still in Beta so you can expect more in the future. Tell me what you think.
+It's a good service so make sure to give it a spin. It's still in Beta so you can expect more in the future. Tell me what you think.
 
 Notice: Always remember that what you download is your responsibility. ImageShack will not be responsible for any violation of copyright material.
 

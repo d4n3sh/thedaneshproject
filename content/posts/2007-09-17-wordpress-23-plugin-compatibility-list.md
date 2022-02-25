@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif" align="left" height="112" width="112" />
 
-WordPress 2.3 Release Candidate 1 will be released later today. Since I&#8217;m in Malaysia where it&#8217;s 13 hours ahead of the US, I will have to wait till tomorrow to read the official announcement.
+WordPress 2.3 Release Candidate 1 will be released later today. Since I'm in Malaysia where it's 13 hours ahead of the US, I will have to wait till tomorrow to read the official announcement.
 
 There are quite a few changes being implemented into 2.3 that are concerning a lot of people especially in the plugin compatibility area . The biggest change has to be the addition of Taxonomy support and the DB schema changes that come with it.
 
@@ -24,6 +24,6 @@ I would suggest getting comfortable with the new upcoming 2.3 release and unders
 
 Also think about contributing to the Community maintained WordPress 2.3 Plugin Compatibility List. The list is made up of plugins that work and break with the new release. The goal of the list is to ease the discovery of working plugins and those that need work.
 
-I am certainly looking forward to 2.3. I get excited every time a new version of my favorite softwares get released. Boy&#8217;s toys effect I guess 😉
+I am certainly looking forward to 2.3. I get excited every time a new version of my favorite softwares get released. Boy's toys effect I guess 😉
 
 Source : WordPress 2.3 Plugin Compatibility List

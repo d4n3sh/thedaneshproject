@@ -25,9 +25,9 @@ Update [Â  Feb 16 2009 ] &#8211; [GScrot has been renamed to Shutter][1].
   * Automatically generate thumbnails
   * Built in image editing tool.
 
-I&#8217;ll walk you through the process of installing GScrot on Ubuntu 8.10. I&#8217;m more of a command line guy so if you need a GUI version [look here][3].
+I'll walk you through the process of installing GScrot on Ubuntu 8.10. I'm more of a command line guy so if you need a GUI version [look here][3].
 
-Create a new apt-repository source file. I&#8217;ll call itÂ  gscrot.list and place it in the &#8220;/etc/apt/source.list.d/&#8221; directory.
+Create a new apt-repository source file. I'll call itÂ  gscrot.list and place it in the &#8220;/etc/apt/source.list.d/&#8221; directory.
 
 Add the following lines to the /etc/apt/source.list.d/gscrot.list file you just created.
 

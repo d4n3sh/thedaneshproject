@@ -10,17 +10,17 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm3.static.flickr.com/2280/2504751549_fbbf0a5b43.jpg" alt="friend_connect_illustration" width="499" height="500" />][1]
 
-Google joins the Social Network boom by introducing it&#8217;s latest work, [Google Friend Connect][2]. The basic idea behind the new service is to socialize any website looking to be socialized.
+Google joins the Social Network boom by introducing it's latest work, [Google Friend Connect][2]. The basic idea behind the new service is to socialize any website looking to be socialized.
 
 Google Friend Connect provides a platform for website owners to interact with their users through current social networks like Facebook, GTalk, hi5, orkut, Plaxo and the many other social networks available today.
 
-OpenID,Ã‚Â  OAuth,Ã‚Â  OpenSocial,Ã‚Â  Yahoo,Ã‚Â  Myspace,Ã‚Â  Google,Ã‚Â  FacebookÃ‚Â  data accessÃ‚Â  APIs and many others. There are so many social standards today and Google&#8217;s target to to simplify access to them through Google Friend Connect.
+OpenID,Ã‚Â  OAuth,Ã‚Â  OpenSocial,Ã‚Â  Yahoo,Ã‚Â  Myspace,Ã‚Â  Google,Ã‚Â  FacebookÃ‚Â  data accessÃ‚Â  APIs and many others. There are so many social standards today and Google's target to to simplify access to them through Google Friend Connect.
 
-So what&#8217;s in it for you?
+So what's in it for you?
 
   1. Chances are your social network friends willÃ‚Â  be driving new traffic your way.
   2. Connect to more people. Something like what [MyBlogLog][3] and [BlogCatalog][4] do.
-  3. Low learning curve. You get features in the past companies were willing to pay millions for free and best of you don&#8217;t need to be super computer savvy to enjoy the features.
+  3. Low learning curve. You get features in the past companies were willing to pay millions for free and best of you don't need to be super computer savvy to enjoy the features.
 
 The service is currently in preview release. If you are interested in taking Google Friend Connect for a spin, [sign up for a preview here][2].
 

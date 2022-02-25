@@ -8,7 +8,7 @@ pvc_views:
 ---
 http://www.youtube.com/watch?v=Dx3OZjzinm8&feature=player_embedded
 
-Sony has released a new teaser for it&#8217;s GT5 featuring it&#8217;s new addition to the game, the Mercedes-Benz SLS AMG.
+Sony has released a new teaser for it's GT5 featuring it's new addition to the game, the Mercedes-Benz SLS AMG.
 
 The video looks awesome and there are part where reality and game place get hard to differenciate. Imaging a large HD screen with GT5 on it. wooow!!
 

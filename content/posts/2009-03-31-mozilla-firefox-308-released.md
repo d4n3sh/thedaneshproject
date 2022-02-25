@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Mozilla has released a new version for Firefox. Version 3.0.8.
 
-It&#8217;s a security release so make sure you get it. [Download Here][1].
+It's a security release so make sure you get it. [Download Here][1].
 
 [Firefox 3.0.8 release notes][2]
 

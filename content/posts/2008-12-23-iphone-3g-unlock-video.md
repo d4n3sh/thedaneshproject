@@ -10,7 +10,7 @@ dsq_thread_id:
   - 930344914
 
 ---
-Want a simple way to unlock you iPhone 3G? yellowsn0w is your answer. It&#8217;s a software based hack for the iPhone 3G from the iPhone Dev-Team and is scheduled for later this month. 
+Want a simple way to unlock you iPhone 3G? yellowsn0w is your answer. It's a software based hack for the iPhone 3G from the iPhone Dev-Team and is scheduled for later this month. 
 
 
 

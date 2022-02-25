@@ -10,37 +10,37 @@ dsq_thread_id:
 ---
 Picked this up from my forum Hangout@TheDaneshProject thanks to **maccaroni n cheese.**
 
-What happens when you don&#8217;t put enough thought into you company&#8217;s domain name. Apprently these domain names were not examined from all possible angles before put out there for the public.
+What happens when you don't put enough thought into you company's domain name. Apprently these domain names were not examined from all possible angles before put out there for the public.
 
 1. A site called &#8216;Who Represents &#8216; where you can find the name of the agent that represents a celebrity. Their domain nameÃ¢â‚¬Â¦ wait for itÃ¢â‚¬Â¦ is  
 [www.whorepresents.com][1]
 
 2. Experts Exchange, a knowledge base where programmers can exchange advice and views at  
-[www.expertsexchange.com][2] , it&#8217;s [www.experts-exchange.com][3] now. Not sure if they used to beÃ‚Â  [www.expertsexchange.com][2]. Superb name for company if you looking to start a business in Thailand.
+[www.expertsexchange.com][2] , it's [www.experts-exchange.com][3] now. Not sure if they used to beÃ‚Â  [www.expertsexchange.com][2]. Superb name for company if you looking to start a business in Thailand.
 
 3. Looking for a pen? Look no further than Pen Island at  
-[www.penisland.ne][4] , They didn&#8217;t see that?[  
+[www.penisland.ne][4] , They didn't see that?[  
 ][4] 
 
 4. Need a therapist? Try Therapist Finder at  
 [www.therapistfinder.com][5] , Where the rapist?[  
 ][5] 
 
-5. Then of course, there&#8217;s the Italian Power Generator companyÃ¢â‚¬Â¦  
+5. Then of course, there's the Italian Power Generator companyÃ¢â‚¬Â¦  
 [www.powergenitalia.com][6] , problems in bed? [  
 ][6] 
 
 6. And now, we have the Mole Station Native Nursery, based in New South Wales:  
 [www.molestationnursery.com][7]
 
-7. If you&#8217;re looking for computer software, there&#8217;s always  
+7. If you're looking for computer software, there's always  
 [www.ipanywhere.com][8]
 
 8. Welcome to the First Cumming Methodist Church. Their website is  
 [www.cummingfirst.com][9] , located in Cumming, Georgia.[  
 ][9] 
 
-9. Then, of course, there&#8217;s these brainless art designers, and their whacky website:  
+9. Then, of course, there's these brainless art designers, and their whacky website:  
 [www.speedofart.com][10] , the site blinks. For real!![  
 ][10] 
 

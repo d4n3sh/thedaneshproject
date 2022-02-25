@@ -25,9 +25,9 @@ P1 has a new marketing strategy out. Instead of planning where to &#8220;P1 W1MA
 9. Johor Bahru, Taman Istimewa  
 10. Alor Setar, Pumpong
 
-Well, I guess it&#8217;s a good idea but what happens to the poor souls living in lover density areas? Will they have to wait till all hot spots have been satisfied before being serviced? I hope not, P1 should identify key areas and continue their deployment as planed but keep the voting options open as a bonus feature. The voted areas should be serviced but not at the expense of the underpopulated areas.
+Well, I guess it's a good idea but what happens to the poor souls living in lover density areas? Will they have to wait till all hot spots have been satisfied before being serviced? I hope not, P1 should identify key areas and continue their deployment as planed but keep the voting options open as a bonus feature. The voted areas should be serviced but not at the expense of the underpopulated areas.
 
-If P1 is to kill StreamyX, one thing&#8217;s gonna be of utmost importance, that is to listen to your customers and keep them happy. StreamyX does a F**KED UP job at keeping it&#8217;s users happy and not to forget, they have the worst engineers ever!! I have been waiting for almost 2 months for an engineer to check my line!!
+If P1 is to kill StreamyX, one thing's gonna be of utmost importance, that is to listen to your customers and keep them happy. StreamyX does a F**KED UP job at keeping it's users happy and not to forget, they have the worst engineers ever!! I have been waiting for almost 2 months for an engineer to check my line!!
 
 I need P1 W1MAX !! [Vote for my area][2], &#8220;Taman Maluri, Cheras&#8221;.
 

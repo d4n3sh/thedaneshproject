@@ -16,9 +16,9 @@ This might be old news but ya, Maxis is bringing in the iPhone 3G.
 
 When? Not too sure, hopefully in the next months. How much? This is not confirmed but Maxis is planning to push the iPhone 3G for under RM1000. Most likely for RM999.99.
 
-This is good news for all those who wanted an iPhone but never found the right channels to get one. Now everyone&#8217;s on the same playing field. However, current iPhone owners might be slightly pissed since they might loose their mobile uniqueness 🙂
+This is good news for all those who wanted an iPhone but never found the right channels to get one. Now everyone's on the same playing field. However, current iPhone owners might be slightly pissed since they might loose their mobile uniqueness 🙂
 
-Maxis stands to benifit from this big time, I&#8217;m quite sure many are going to switch over to Maxis just for the iPhone. Celcom and Dgi will follow but when is the question.
+Maxis stands to benifit from this big time, I'm quite sure many are going to switch over to Maxis just for the iPhone. Celcom and Dgi will follow but when is the question.
 
 Source: TheEdgeDaily || [Delirium][1]
 

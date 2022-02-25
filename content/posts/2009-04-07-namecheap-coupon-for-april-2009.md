@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1359" title="nslogo" src="/wp-content/uploads/2009/04/nslogo.gif" alt="nslogo" width="156" height="40" />][1]
 
-[WingLoon&#8217;s][1] monthly Namecheap coupon for April. The coupon code below will entitle you to purchase a new domain at USD 8.81.
+[WingLoon's][1] monthly Namecheap coupon for April. The coupon code below will entitle you to purchase a new domain at USD 8.81.
 
 Coupon Code: 7tulips
 

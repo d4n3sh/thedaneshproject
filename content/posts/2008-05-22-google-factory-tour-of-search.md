@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=BraxN10dHmU[/youtube]
 
-This is the latest webcast from Google titled &#8220;Google Factory Tour of Search&#8221;. It&#8217;s centered around where Google currently is and where it plans to go in the near future. Google&#8217;s latest service Google Health is also introduced in the webcast.
+This is the latest webcast from Google titled &#8220;Google Factory Tour of Search&#8221;. It's centered around where Google currently is and where it plans to go in the near future. Google's latest service Google Health is also introduced in the webcast.
 
 Some of the topics I found especially interesting.
 
@@ -41,9 +41,9 @@ However there is already a player out there providing a similar service if not b
 
 [<img loading="lazy" class="alignnone size-full wp-image-580" title="123 genes" src="/wp-content/uploads/2008/05/123genes.png" alt="123 genes" width="479" height="351" />][3]
 
-The major difference is the family tree feature which enables users to map out their whole family and attach medical conditions for each person on the tree. This enables the service to provide advice on diet, preventive medication and life style changes based on the family&#8217;s health record.
+The major difference is the family tree feature which enables users to map out their whole family and attach medical conditions for each person on the tree. This enables the service to provide advice on diet, preventive medication and life style changes based on the family's health record.
 
-123genes is actually based out of Cyber Jaya Malaysia. It&#8217;s always good to see innovative services like this coming out of my home country.
+123genes is actually based out of Cyber Jaya Malaysia. It's always good to see innovative services like this coming out of my home country.
 
 I was fortunate enough to be offered an opportunity to work with them but I had to turn them down due to unforeseen personal reasons.
 

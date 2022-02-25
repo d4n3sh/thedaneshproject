@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3116/3095791492_ec593d6054.jpg" alt="Screenshot-Find IT jobs on jobs.lowyat.net - Mozilla Firefox" width="500" height="412" />][1]
 
-lowyat.net does jobs now. The service is just building momentum so the number job postings are minimum. Being one of the most popular site and forum around it&#8217;s not gonna be hard to get the ball rolling.
+lowyat.net does jobs now. The service is just building momentum so the number job postings are minimum. Being one of the most popular site and forum around it's not gonna be hard to get the ball rolling.
 
-The site design&#8217;s not bad too. Web 2.0 and simple to navigate. O ya, and the service is free.
+The site design's not bad too. Web 2.0 and simple to navigate. O ya, and the service is free.
 
 [Check It Out!][2]
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889987528
 
 ---
-If you&#8217;re experiencing slow internet browsing, a proxy server might help speed things up. Here&#8217;s a list of proxy servers based in Malaysia that could improve your internet experience.
+If you're experiencing slow internet browsing, a proxy server might help speed things up. Here's a list of proxy servers based in Malaysia that could improve your internet experience.
 
 For better security always choose an anonymous proxy server.
 

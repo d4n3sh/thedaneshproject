@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737544
 
 ---
-No Idea what the Video says but it&#8217;s freaking cool. Something to do with traveling the globe and coming together. People from different parts of the world contribute by adding a short dancing scene&#8230;..
+No Idea what the Video says but it's freaking cool. Something to do with traveling the globe and coming together. People from different parts of the world contribute by adding a short dancing scene&#8230;..
 
 Picked this up at [Poder Social / Red Social][1]
 

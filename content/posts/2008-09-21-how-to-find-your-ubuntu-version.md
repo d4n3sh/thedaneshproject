@@ -10,7 +10,7 @@ dsq_thread_id:
   - 946400321
 
 ---
-2 easy ways find out what version of Ubuntu you&#8217;re running.
+2 easy ways find out what version of Ubuntu you're running.
 
 **First option,**
 

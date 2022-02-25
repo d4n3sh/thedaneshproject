@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 ![][1]
 
-Google does it again. This time forcing Yahoo to consider Microsoft&#8217;s offer to acquire Yahoo for $44.6bn.
+Google does it again. This time forcing Yahoo to consider Microsoft's offer to acquire Yahoo for $44.6bn.
 
-Yahoo, Google&#8217;s main competitor has been struggling for the past years trying to compete with Google. Yahoo needs to spend 300mil to revive itself based on the latest revenue forecast which may result in a 1000 staff lay off.
+Yahoo, Google's main competitor has been struggling for the past years trying to compete with Google. Yahoo needs to spend 300mil to revive itself based on the latest revenue forecast which may result in a 1000 staff lay off.
 
 Microsoft offered to buy Yahoo last year but was declined by Yahoo being confident it will recover. A year later Microsoft sees that window open again.<!--more-->
 
@@ -20,7 +20,7 @@ Microsoft offered to buy Yahoo last year but was declined by Yahoo being confide
 
 Microsoft said that together, Yahoo and Microsoft will form one strong entity to take on Google. With Yahoo out of the picture the game drills down to Google vs Microsoft. True clash of the titans.
 
-Who will win? It&#8217;s going to be a feeding frenzy for the [competition authorities][3] who will investigate every aspect of the acquasition.
+Who will win? It's going to be a feeding frenzy for the [competition authorities][3] who will investigate every aspect of the acquasition.
 
 Many people including me feel that Yahoo and Microsoft together will not pose any threat to Google. Will there be a name change, for example McYahoo 🙂 ?
 

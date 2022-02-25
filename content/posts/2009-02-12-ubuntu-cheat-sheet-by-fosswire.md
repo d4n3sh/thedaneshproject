@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Another good starter cheat sheet for all you Ubuntu newbies out there. If you missed it, the Linux cheat sheet is also available [here][2].
 
-I&#8217;m new to Ubuntu myself so this comes in real handy for me.
+I'm new to Ubuntu myself so this comes in real handy for me.
 
 Download the PDF from [here][3] or [here][1].
 

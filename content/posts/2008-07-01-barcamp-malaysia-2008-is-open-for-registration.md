@@ -14,7 +14,7 @@ dsq_thread_id:
 
 BarCamp Malaysia 2008 is officially open for registrations. There are 150 seats available for now so make sure to secure a place for yourself. [Register here][1].
 
-I&#8217;ve secured my seat. I seem to be quite excited as this will be my first BarCamp. The whole idea of users coming together to share and exchange information amazes me.
+I've secured my seat. I seem to be quite excited as this will be my first BarCamp. The whole idea of users coming together to share and exchange information amazes me.
 
 Long gone are those days when users used to think that sharing was bad and went on developing standalone apps which eventually fell out the scene. OpenSource and Web 2.0 is the future and we see it in motion everyday now.
 

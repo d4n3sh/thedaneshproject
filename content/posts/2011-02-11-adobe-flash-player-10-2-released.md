@@ -11,7 +11,7 @@ dsq_thread_id:
 <img loading="lazy" src="/wp-content/uploads/2011/02/Adobe-Flash-Player-version-10.2.152.27.png" alt="" title="Adobe-Flash-Player-version-10.2.152.27" width="450" height="197" class="alignnone size-full wp-image-2241" />  
 Adobe Flash Player 10.2 has been [released][1] and comes with some spanking new features.
 
-It now supports Stage Videos which allows Flash to utilize your machines&#8217;s hardware acceleration features thus greatly improving performance.
+It now supports Stage Videos which allows Flash to utilize your machines's hardware acceleration features thus greatly improving performance.
 
 10.2 also introduces support for multiple monitors. No more headaches when trying to multi-task while watching a video, this is when you can only play flash videos on one screen and not the other. 
 
@@ -21,7 +21,7 @@ And finally some sub-pixel rendering to improve text in your flash videos. Adver
 
 Let your browser update your flash player or grab it manually from [Adobe][2].
 
-If you&#8217;re on Ubuntu, simply run the command below to get updated.
+If you're on Ubuntu, simply run the command below to get updated.
 
 #> sudo apt-get update  
 #> sudo apt-get upgrade

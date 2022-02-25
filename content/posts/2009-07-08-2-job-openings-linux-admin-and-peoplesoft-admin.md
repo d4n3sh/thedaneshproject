@@ -30,6 +30,6 @@ The 2 positions and their responsibility;
       4. support
       5. patch
 
-If you&#8217;re interested, drop me a comment or get in-touch with me through the [contact form][1]. No, I&#8217;m not doing this for a referral fee, it&#8217;s just a favour for a friend.
+If you're interested, drop me a comment or get in-touch with me through the [contact form][1]. No, I'm not doing this for a referral fee, it's just a favour for a friend.
 
  [1]: /contact-me/

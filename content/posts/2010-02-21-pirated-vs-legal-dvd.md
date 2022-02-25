@@ -8,7 +8,7 @@ dsq_thread_id:
   - 896539875
 
 ---
-Walk into a store and pick up your favorite original DVD for a rediculas price. Get home, pop it into the DVD player and you&#8217;ll have to wait about 10 &#8211; 20 mins before all the ads, warnings and promos are done.
+Walk into a store and pick up your favorite original DVD for a rediculas price. Get home, pop it into the DVD player and you'll have to wait about 10 &#8211; 20 mins before all the ads, warnings and promos are done.
 
 Pirated DVDs are straightforward. No promos, no warnings, no ads. What you want is what you get.
 

@@ -12,11 +12,11 @@ dsq_thread_id:
 
 [Abinesh][2] is relatively new to the blogging scene but his style of blogging and consistence is something I admire.
 
-_**Delirium**_ is like coffee for me, a cup a day is not enough. _**Delirium**_ is truly Abinesh&#8217;s take on the world.
+_**Delirium**_ is like coffee for me, a cup a day is not enough. _**Delirium**_ is truly Abinesh's take on the world.
 
 _**Danny**_ loves coffee
 
-Remember Delirium&#8217;s second contest [Win a HP Kensington Wireless mouse][3]?. The contest ends tomorrow so get your short stories in now before it&#8217;s too late if you want a go at the HP mouse.
+Remember Delirium's second contest [Win a HP Kensington Wireless mouse][3]?. The contest ends tomorrow so get your short stories in now before it's too late if you want a go at the HP mouse.
 
  [1]: http://img182.imageshack.us/img182/5079/logoov2kb4.jpg
  [2]: http://www.abinesh.com/delirium/

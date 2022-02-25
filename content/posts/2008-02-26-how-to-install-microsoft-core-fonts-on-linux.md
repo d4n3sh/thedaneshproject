@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![][1]
 
-Most Linux desktop users don&#8217;t fancy the default fonts which ship default with Linux. Luckily there are a few ways you could easy enjoy Microsoft fonts on your Linux desktop.
+Most Linux desktop users don't fancy the default fonts which ship default with Linux. Luckily there are a few ways you could easy enjoy Microsoft fonts on your Linux desktop.
 
 The simplest way would be to use the package manager to add distro specific packages to install the fonts. openSUSE, Ubuntu and many other distros now provide the fonts with a disclaimer which you will have to agree to before the fonts get installed.
 
@@ -18,7 +18,7 @@ If the above did not work for you then download this rpm package: ftp://ftp.gwdg
 
     rpm -ivh  MicrosoftFonts-1-jen14.noarch.rpm
 
-The third and final way which is also the legal way would be to copy the fonts over from a licensed Windows XP computer. Move them over using winscp or a usb thumb drive,WinSCP in my case. Once moved over simply use your font&#8217; manager to install them. In my case KDE, the font manger can be accessed at KDE Menu -> Configure Desktop -> System Administration -> Font Installer -> &#8220;Administrator Mode&#8221;.
+The third and final way which is also the legal way would be to copy the fonts over from a licensed Windows XP computer. Move them over using winscp or a usb thumb drive,WinSCP in my case. Once moved over simply use your font' manager to install them. In my case KDE, the font manger can be accessed at KDE Menu -> Configure Desktop -> System Administration -> Font Installer -> &#8220;Administrator Mode&#8221;.
 
 Enjoy your fonts, drop me a comment if you need help.
 

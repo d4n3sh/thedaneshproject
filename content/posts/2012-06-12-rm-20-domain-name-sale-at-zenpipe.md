@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Looking to get a bargain on your next domain purchase?
 
-Zenpipe&#8217;s  running a sale from from 8th till 22June 2012. All domains are going for RM20 and you and buy as many as you want.
+Zenpipe's  running a sale from from 8th till 22June 2012. All domains are going for RM20 and you and buy as many as you want.
 
 .my  
 .com.my  

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 900011390
 
 ---
-Here&#8217;s a quick way to access your environment variables from the CLI.
+Here's a quick way to access your environment variables from the CLI.
 
 User the &#8220;%&#8221; key in conjunction with your &#8220;<tab>&#8221; key to auto complete your environment variables.
 

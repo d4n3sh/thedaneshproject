@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Arch Linux defaults to DHCP on a new install. This guide will walk you through the steps need to configure a static IP interface for your Arch Linux install.
 
-1. Create the interface config file in &#8220;/etc/netctl/&#8221;. Either use the sample file in &#8220;/etc/netctl/examples/&#8221; as a base or create one from scratch. We&#8217;ll create a new file for this walkthrough.
+1. Create the interface config file in &#8220;/etc/netctl/&#8221;. Either use the sample file in &#8220;/etc/netctl/examples/&#8221; as a base or create one from scratch. We'll create a new file for this walkthrough.
 
 `#cd /etc/netctl<br />
 #vi eth0`

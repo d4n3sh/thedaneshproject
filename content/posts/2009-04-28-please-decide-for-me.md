@@ -10,7 +10,7 @@ dsq_thread_id:
   - 917402231
 
 ---
-It&#8217;s time to change my blog&#8217;s theme. As usual, I&#8217;m thorn between 2 themes for my blog.
+It's time to change my blog's theme. As usual, I'm thorn between 2 themes for my blog.
 
 I need your help. Please help me decide on a theme. Theme A or Theme B.
 

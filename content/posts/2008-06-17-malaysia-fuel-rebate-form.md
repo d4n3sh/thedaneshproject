@@ -11,11 +11,11 @@ dsq_thread_id:
 <img loading="lazy" class="alignnone size-full wp-image-615" title="fuel rebate queue" src="/wp-content/uploads/2008/06/n_02queue1.jpg" alt="fuel rebate queue" width="400" height="247" />  
 Image from [star][1].[][2]
 
-If you&#8217;re planning to cash out your fuel rebate soon at the post office, you&#8217;ll need to complete the rebate form.
+If you're planning to cash out your fuel rebate soon at the post office, you'll need to complete the rebate form.
 
 Vehicle owners are looking at rebates not more then RM625 for cars and RM150 for motor motorcycles. [Read more][3]
 
-A friend forwarded the form to me. I&#8217;m guessing it&#8217;s a head start for you.
+A friend forwarded the form to me. I'm guessing it's a head start for you.
 
 Download the [rebate form][4] and [guidelines][5].
 

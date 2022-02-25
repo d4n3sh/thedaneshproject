@@ -14,7 +14,7 @@ This will be the only release candidate before the final release before the 2.3 
 
 Download WordPress 2.3 RC1 [here][1] and report any lingering bugs here. Also, if you have multiple plugins installed then update the plugin compatibility list. This will helpful to the plugin authors fixing incompatible plugins and also users looking for plugins.
 
-Personal Note : I am 5 hours behind on this post. Slept at 9am today and it&#8217;s now 6pm. I need more rest!!
+Personal Note : I am 5 hours behind on this post. Slept at 9am today and it's now 6pm. I need more rest!!
 
 Source : [WordPress][2]
 

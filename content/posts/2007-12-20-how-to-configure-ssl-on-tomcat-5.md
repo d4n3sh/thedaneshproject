@@ -23,7 +23,7 @@ Had to SSL on a test server running Tomcat 5 yesterday. This is how I did it.
  10. US Is CN=Danesh Manoharan, OU=IT, O=&#8221;My Comp.&#8221;, L=KL, ST=KL, C=MY correct? [no]: _**yes**_
  11. Enter key password for <tomcat> (RETURN if same as keystore password): Hit Enter.</tomcat>
 
-Tomcat will assume the password is &#8220;changeit&#8221; by default so it&#8217;s advised to leave it that way. Now let&#8217;s tell Tomcat to use the keystore file.
+Tomcat will assume the password is &#8220;changeit&#8221; by default so it's advised to leave it that way. Now let's tell Tomcat to use the keystore file.
 
   1. cd $CATALINA_HOME/conf/
   2. vi server.xml

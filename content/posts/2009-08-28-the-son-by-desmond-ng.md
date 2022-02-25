@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890297099
 
 ---
-Most of us hate, why hate we don&#8217;t know. Maybe it&#8217;s the way we were brought up? Maybe it&#8217;s our segregated education system? Maybe it&#8217;s our politicians and their political agendas? Maybe it&#8217;s the crowd we join? I don&#8217;t know, you tell me.
+Most of us hate, why hate we don't know. Maybe it's the way we were brought up? Maybe it's our segregated education system? Maybe it's our politicians and their political agendas? Maybe it's the crowd we join? I don't know, you tell me.
 
 This 15MALAYSIA short film by [Desmond Ng][1] gives you a glimpse into the topic.
 

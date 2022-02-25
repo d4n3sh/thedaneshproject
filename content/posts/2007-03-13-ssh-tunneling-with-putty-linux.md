@@ -16,7 +16,7 @@ The figure below represents the network setup at my workplace where the only por
 
 ![SSH Tunneling][1] 
 
-In this post I will show you how to apply SSH tunneling using the windows SSH client Putty. I&#8217;ll cover the Linux implementation in my future post.
+In this post I will show you how to apply SSH tunneling using the windows SSH client Putty. I'll cover the Linux implementation in my future post.
 
 <!--more-->
 
@@ -47,7 +47,7 @@ Remember to save the session in the session page.
 
 Open Putty and login to the Linux box &#8220;Pandora&#8221; and port forwarding should be up.
 
-That&#8217;s it, have fun.
+That's it, have fun.
 
  [1]: /wp-content/uploads/2007/03/ssh-tunnelling.jpg "SSH Tunneling"
  [2]: http://www.chiark.greenend.org.uk/~sgtatham/putty/

@@ -8,11 +8,11 @@ dsq_thread_id:
 ---
 [<img loading="lazy" alt="windows activation" src="/wp-content/uploads/2013/06/windows-activation-450x239.png" width="450" height="239" />][1]
 
-I lost my hard drive and was trying to install Windows 8 from a Windows USB boot disk. When came time to activate I was greeted with &#8220;Code: 0xC004F061 your key can only be used for an upgrade&#8221;.  I bought the upgrade license during the launch sale but din&#8217;t know about this restriction.
+I lost my hard drive and was trying to install Windows 8 from a Windows USB boot disk. When came time to activate I was greeted with &#8220;Code: 0xC004F061 your key can only be used for an upgrade&#8221;.  I bought the upgrade license during the launch sale but din't know about this restriction.
 
-Microsoft&#8217;s solution was to first install Windows 7 and then run the Upgrade assistant again to upgrade to Windows 8.  That would take too long!
+Microsoft's solution was to first install Windows 7 and then run the Upgrade assistant again to upgrade to Windows 8.  That would take too long!
 
-Some Googling later and a solution was found. A simple registry hack. Here&#8217;s how,
+Some Googling later and a solution was found. A simple registry hack. Here's how,
 
   1. &#8220;Windows + r &#8221; and type &#8220;regedit&#8221; to bring up the registry.
   2. Navigate to `HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Setup/OOBE/`

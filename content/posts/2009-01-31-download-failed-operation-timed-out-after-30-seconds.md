@@ -12,19 +12,19 @@ dsq_thread_id:
 ---
 Been getting this error &#8220;Download failed.: Operation timed out after 30 seconds&#8221; every time I try to update a plug-in in my WordPress 2.7.
 
-After some digging around I found that my web server&#8217;s download speed was pretty low. WP 2.7 by default has a 30 second timeout set for it&#8217;s download function which I constantly kept hitting.
+After some digging around I found that my web server's download speed was pretty low. WP 2.7 by default has a 30 second timeout set for it's download function which I constantly kept hitting.
 
-The workaround&#8217;s a simple hack to the file.php file in the /wp-admin/includes/ folder.
+The workaround's a simple hack to the file.php file in the /wp-admin/includes/ folder.
 
 1. Download the file using over ftp or ssh. Depending on your hosting package.
 
 2. Look for the line;
 
-&#8221; $response = wp\_remote\_get($url, array(&#8216;timeout&#8217; => 30)); &#8221;
+&#8221; $response = wp\_remote\_get($url, array(&#8216;timeout' => 30)); &#8221;
 
 and replace it with;
 
-&#8221; $response = wp\_remote\_get($url, array(&#8216;timeout&#8217; => 60)); &#8221;
+&#8221; $response = wp\_remote\_get($url, array(&#8216;timeout' => 60)); &#8221;
 
 function download_url() at wp-admin/includes/file.php
 

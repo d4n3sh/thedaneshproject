@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889963655
 
 ---
-Here&#8217;s a quick guide to start, stop the NFS service in AIX.
+Here's a quick guide to start, stop the NFS service in AIX.
 
 To stop the NFS service run,
 

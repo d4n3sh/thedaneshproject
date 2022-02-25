@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 Sorry for the 2 weeks of no postings. Been out on training and weekend activities.
 
-Anyways, here&#8217;s my first post..
+Anyways, here's my first post..
 
-Inked Tattoo and Piercing studio in Sunway has a new card out. I&#8217;ve personally been there before and find their work to be excellent&#8230;.
+Inked Tattoo and Piercing studio in Sunway has a new card out. I've personally been there before and find their work to be excellent&#8230;.
 
 [<img loading="lazy" class="alignnone size-full wp-image-1699" title="Inked-card-1" src="/wp-content/uploads/2009/08/Inked-card-1.png" alt="Inked-card-1" width="400" height="228" />][1]
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 947462652
 
 ---
-Beware, I received a phishing attempt today claiming that HSBC is carrying out it&#8217;s regular maintenance work and needs me to update my profile.
+Beware, I received a phishing attempt today claiming that HSBC is carrying out it's regular maintenance work and needs me to update my profile.
 
 Always remember, banks never send us emails with action items.
 

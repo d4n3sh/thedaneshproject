@@ -6,7 +6,7 @@ dsq_thread_id:
   - 3064753400
 
 ---
-Maybank&#8217;s SWIFT code if you need to setup a wire transfer from overseas banks. 
+Maybank's SWIFT code if you need to setup a wire transfer from overseas banks. 
 
 SWIFT Code: MBBEMYKL  
 Bank Name: MALAYAN BANKING BERHAD (MAYBANK)  

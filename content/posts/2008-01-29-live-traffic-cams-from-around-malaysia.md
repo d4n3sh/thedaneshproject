@@ -16,7 +16,7 @@ Anyway, the weather today was bad again. Rained just when I was leaving the offi
 
 JGSpot is a forum made up of topics ranging from the local traffic to politics but what caught my attention were the live feeds from traffic cams around Malaysia. Penang Bridge, KL City, JB-Singapore and PLUS tolls. Just click the _**&#8220;Click Me To Close Live Traffic Hotspot&#8221;**_ to load the feeds. Registration is free and will allow you to have the feeds showing indeffinately whereas unregistered you will only have a 20 second window before the feeds close.
 
-Thanks to JGSpot I&#8217;m still the the office.
+Thanks to JGSpot I'm still the the office.
 
 Source: [JGSpot][2]
 

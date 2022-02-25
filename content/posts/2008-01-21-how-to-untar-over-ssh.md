@@ -24,7 +24,7 @@ or, (thanks Aik)
 
     ssh 127.0.0.1 'tar zxvf files.tar.gz -C ~/test/'
 
-Here&#8217;s a video I put together to demonstrate the above. Hopefully I got it right.
+Here's a video I put together to demonstrate the above. Hopefully I got it right.
 
 <!--more-->
 

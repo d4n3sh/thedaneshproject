@@ -14,7 +14,7 @@ To use the repository simply add it suing the Synaptic Package Manager or you co
 
 > &#8220; `deb http://mirror.inigo-tech.com/ubuntu/ feisty feisty-backports universe multiverse "`
 
-I can&#8217;t test the performance gain as I don&#8217;t have an ubuntu box at home but I am quite sure you would see improvements since we don&#8217;t need to access the super fast (ya right!!) international gateway.
+I can't test the performance gain as I don't have an ubuntu box at home but I am quite sure you would see improvements since we don't need to access the super fast (ya right!!) international gateway.
 
 Please drop me a note on your experience with this new mirror.
 

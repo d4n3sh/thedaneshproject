@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <figure id="attachment_1021" aria-describedby="caption-attachment-1021" style="width: 306px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-1021" title="The Art & Science of CSS" src="/wp-content/uploads/2008/11/cover-bg.jpg" alt="The Art & Science of CSS" width="306" height="367" />][1]<figcaption id="caption-attachment-1021" class="wp-caption-text">The Art & Science of CSS</figcaption></figure>
 
-SitePoint&#8217;s giving away their famous eBook &#8220;The Art $ Science of CSS&#8221; free of charge for 14 days.
+SitePoint's giving away their famous eBook &#8220;The Art $ Science of CSS&#8221; free of charge for 14 days.
 
 Do download simply follow Sitepoint on [twiter][2] for a DM with the download link or drop them an [email][3] to get the download link by mail instead.
 

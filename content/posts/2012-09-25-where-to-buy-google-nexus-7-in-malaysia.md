@@ -8,9 +8,9 @@ dsq_thread_id:
   - 889789251
 
 ---
-Google&#8217;s Nexus 7 was recently [launched in Malaysia][1]. Priced at RM999 for the 16GB model.
+Google's Nexus 7 was recently [launched in Malaysia][1]. Priced at RM999 for the 16GB model.
 
-Want one? Here&#8217;s a list of retail outlets where you can pick one up.
+Want one? Here's a list of retail outlets where you can pick one up.
 
 <!--more-->
 

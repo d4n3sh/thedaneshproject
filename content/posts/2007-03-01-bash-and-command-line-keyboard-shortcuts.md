@@ -34,4 +34,4 @@ Ctrl + C &#8211; Kills current process.
 
 Ctrl + Z &#8211; Suspend a process. Use command &#8220;bg&#8221; to execute the process in the background and &#8220;fg&#8221; to bring the process back to the foreground. The command &#8220;jobs&#8221; will list the available processes you can manipulate.
 
-That&#8217;s it. Hope the commands help you. If i missed out anything please do comment.
+That's it. Hope the commands help you. If i missed out anything please do comment.

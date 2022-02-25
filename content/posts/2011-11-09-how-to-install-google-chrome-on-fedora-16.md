@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889723770
 
 ---
-Fedora 16 just came out and here&#8217;s how to get Google Chrome on it.
+Fedora 16 just came out and here's how to get Google Chrome on it.
 
 Start by creating a repository file for Google called google.repo and place it in /etc/yum.repos.d/ .
 

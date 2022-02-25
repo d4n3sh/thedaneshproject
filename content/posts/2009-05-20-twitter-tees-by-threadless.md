@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Twitter has partnered with Threadless to come out with &#8220;[Twitter Tees by Threadless][2]&#8220;. Twitter powered Tees where the design is decided by your Tweets.
 
-This is cool,  The Threadless community actually votes for it&#8217;s favourite Tweets. The popular Tweets then end up on Tees. This is something other Tee shirt companies don&#8217;t quite do yet.
+This is cool,  The Threadless community actually votes for it's favourite Tweets. The popular Tweets then end up on Tees. This is something other Tee shirt companies don't quite do yet.
 
 3 simple steps to get your Tweet onto a Tee;
 
@@ -22,7 +22,7 @@ First,  Submit or nominate a Tweet. Make sure you have a Twitter account to sig
 
 [<img loading="lazy" class="alignnone" title="Twitter_Tees_By_Threadless" src="http://farm4.static.flickr.com/3639/3546677570_80a40ed34f.jpg" alt="" width="500" height="48" />][3]
 
-Next, let the community [vote][4]. Don&#8217;t forget to vote for your submissions.
+Next, let the community [vote][4]. Don't forget to vote for your submissions.
 
 The last step is to count the votes. This is where the magic happens. The winning Tweet gets on to a Tee.  [Check them out][5].
 
