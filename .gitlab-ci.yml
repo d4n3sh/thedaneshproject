@@ -38,3 +38,6 @@ pages:
       - public
   only:
       - main
+
+sast:
+  stage: production
