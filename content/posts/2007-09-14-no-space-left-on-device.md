@@ -19,26 +19,26 @@ The DBA I work with was reporting this error on the server she was working on. E
 </p>
 
 <p class="MsoNormal">
-  First I had to see what the space situation was on the server. Running &#8220;df -h&#8221; showed sufficient free space available on the server so apparently storage space was not the issue.
+  First I had to see what the space situation was on the server. Running "df -h" showed sufficient free space available on the server so apparently storage space was not the issue.
 </p>
 
-Next I ran &#8220;df -i&#8221; and the result painted a different picture instead, the server had hit the maximum inodes allowed for the &#8220;/var&#8221; partition. [What are inodes?  
+Next I ran "df -i" and the result painted a different picture instead, the server had hit the maximum inodes allowed for the "/var" partition. [What are inodes?  
 ][1]  
 [![][2]][3] [![][4]][5] [![][6]][7]
 
-Ok, so now I know the issue was in &#8220;/var&#8221;. There's most likely a directory within &#8220;/var&#8221; with a whole bunch of files in it causing the problem.
+Ok, so now I know the issue was in "/var". There's most likely a directory within "/var" with a whole bunch of files in it causing the problem.
 
-Running &#8220;find /var -size -8k&#8221; would return me all files within &#8220;/var&#8221; smaller then 8k. What I found was a long list of unsent mails in the &#8220;/var/spool/mquee&#8221; directory. 261517 files to be exact.
+Running "find /var -size -8k" would return me all files within "/var" smaller then 8k. What I found was a long list of unsent mails in the "/var/spool/mquee" directory. 261517 files to be exact.
 
-How I got &#8220;261517&#8221; ?
+How I got "261517" ?
 
 > find /var/spool/mquee -size -8k | wc -l
 
-The next step was to remove all these files. The &#8220;rm&#8221; command would not work because the amount files I was trying to delete would exceed the maximum argument count allowed for &#8220;rm&#8221;.
+The next step was to remove all these files. The "rm" command would not work because the amount files I was trying to delete would exceed the maximum argument count allowed for "rm".
 
 [![][8]][9]
 
-A different approach had to be taken. The command would search for files within &#8220;/var/spool/mquee&#8221; that were smaller then 8k and removed them 1 by 1.
+A different approach had to be taken. The command would search for files within "/var/spool/mquee" that were smaller then 8k and removed them 1 by 1.
 
 > find /var/spool/mqueue -size -8k -exec rm -f {} \;
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1266" title="Full Circle Magazine Issue 21" src="/wp-content/uploads/2009/02/fullcircle21.jpg" alt="Full Circle Magazine Issue 21" width="500" height="354" />
 
-The latest issue of &#8220;Full Circle Magazine is out. Issue 21.
+The latest issue of "Full Circle Magazine is out. Issue 21.
 
 What I found interesting in this issue;
 

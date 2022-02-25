@@ -22,7 +22,7 @@ William Shatner , Scotty beem me up.
 
 [youtube]http://www.youtube.com/watch?v=yCW58h49N50[/youtube]
 
-Van Damme, his best movie in my view was &#8220;Blood Spot&#8221;
+Van Damme, his best movie in my view was "Blood Spot"
 
 [youtube]http://www.youtube.com/watch?v=HNg5ysYd0zc[/youtube]
 

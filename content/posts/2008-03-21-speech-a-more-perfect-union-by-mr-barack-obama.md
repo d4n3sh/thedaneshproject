@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1147828732
 
 ---
-Awesome awesome speech by Mr. Obama on &#8220;race&#8221; in America and building &#8220;A More Perfect Union&#8221; in America.
+Awesome awesome speech by Mr. Obama on "race" in America and building "A More Perfect Union" in America.
 
 [youtube]http://www.youtube.com/watch?v=pWe7wTVbLUU[/youtube]
 

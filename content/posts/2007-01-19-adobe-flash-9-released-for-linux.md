@@ -15,13 +15,13 @@ then get it here.
 **.</p> 
 
 Installing the tar files.</strong>  
-1. &#8220;tar -zxvf&#8221; the tar file. A folder install\_flash\_player_9 will be created.  
-2. Navigate to the new folder and run &#8220;./flashplayer_installer&#8221;. This initiate the installer.  
+1. "tar -zxvf" the tar file. A folder install\_flash\_player_9 will be created.  
+2. Navigate to the new folder and run "./flashplayer_installer". This initiate the installer.  
 3. Load browser and verify
 
 **Installing the rpm file.**  
-1. &#8220;rpm -Uvh [rpm file].  
-2. &#8220;rpm -qa | grep flash&#8221; to verify of the package is installed.  
+1. "rpm -Uvh [rpm file].  
+2. "rpm -qa | grep flash" to verify of the package is installed.  
 3. Load browser and verify.
 
  [1]: http://blogs.adobe.com/penguin.swf/

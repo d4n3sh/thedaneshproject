@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Heads up Amarok fans.
 
-The Amarok team released [Amarok 2.0][2] Alpha 2 today, codenamed &#8220;Aulanerk&#8221; after the friendly sea goddess.
+The Amarok team released [Amarok 2.0][2] Alpha 2 today, codenamed "Aulanerk" after the friendly sea goddess.
 
 If you don't already know, Amarok is the most popular media player for Linux today. Amarok 2.0 is new and is set to replace it's sibling Amarok 1.4 once KDE4 matures. The plan is to have Amarok 2.0 shipped with KDE 4.2 sometime in the future.
 

@@ -18,7 +18,7 @@ The update is automated so no user intervention is needed expect for clicking ye
 
 Most extensions are already Firefox 3 capable so chances of you running an outdated extension is quite slim. The compatibility checker will notify you of such cases and offer the option to have them updated.
 
-If you can't wait then simply go to &#8220;Help&#8221; &#8211;> &#8220;Check for updates&#8221; to start the process manually.
+If you can't wait then simply go to "Help" &#8211;> "Check for updates" to start the process manually.
 
 Source: [Mozilla][2]
 

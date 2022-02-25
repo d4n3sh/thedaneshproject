@@ -25,12 +25,12 @@ Highlights for the new version,
 > * Fix losing data and having to re-download parts  
 > * Fix password lock showing when main window is not hidden  
 > * Get rid of the plugin manager and integrate it into preferences  
-> * New Move torrent plugin &#8211; takes over for &#8220;move completed downloads&#8221; feature  
-> and provides a &#8220;Move Torrent&#8221; option when right-clicking on a torrent  
+> * New Move torrent plugin &#8211; takes over for "move completed downloads" feature  
+> and provides a "Move Torrent" option when right-clicking on a torrent  
 > * Save column widths  
 > * Queue order after restart fixes.  
 > * Use payload instead of including protocol overhead to ease user confusion  
-> of seeding torrents &#8220;downloading&#8221;  
+> of seeding torrents "downloading"  
 > * New Web Seed plugin for adding URLs to torrents for http seeding  
 > * Add FAST-extension (<!-- m -->http://www.bittorrent.org/fast_extensions.html
 > 

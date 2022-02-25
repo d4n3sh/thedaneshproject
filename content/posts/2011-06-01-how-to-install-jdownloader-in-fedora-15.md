@@ -15,4 +15,4 @@ JDownloader is my favourite 1-Click-Hosters download manager. Installing it on F
 3.`chmod +x jd.sh`  
 4.`./jd.sh`  
 5. Wait till the install completes and you can enjoy JDownloader.  
-6. To start JDownloader moving forward simply run &#8220;./jd.sh&#8221;
+6. To start JDownloader moving forward simply run "./jd.sh"

@@ -41,7 +41,7 @@ Super super good effects. Everything looks freaking realistic.
 
 5. Rambo 5/10
 
-Well, Rambo's old now. Shirt never comes off. Does not get captured, tortured and then escape. No more solo action, John Rambo actually works with mercenaries this time. Hardly says a word. I heard the word &#8220;John Rambo&#8221; only twice if memory serves me right.
+Well, Rambo's old now. Shirt never comes off. Does not get captured, tortured and then escape. No more solo action, John Rambo actually works with mercenaries this time. Hardly says a word. I heard the word "John Rambo" only twice if memory serves me right.
 
 6. Vehicles 4/10
 

@@ -10,20 +10,20 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1885" title="Google Public DNS" src="/wp-content/uploads/2009/12/Google-Public-DNS-449x140.png" alt="Google Public DNS" width="449" height="140" srcset="/wp-content/uploads/2009/12/Google-Public-DNS-449x140.png 449w, /wp-content/uploads/2009/12/Google-Public-DNS.png 786w" sizes="(max-width: 449px) 100vw, 449px" />][1]
 
-Google today introduced their latest offering. &#8220;Google Public DNS&#8221;.
+Google today introduced their latest offering. "Google Public DNS".
 
 I've always been on [OpenDNS][2]. However, they have no presence in Asia and this doesn't exactly boost DNS performance for us.
 
-Google's new &#8220;Google Public DNS&#8221; is surprising fast and after switching over to it I experince improvements my web browsing experience. Here's a quick benchmark of Google vs OpenDNS. [Link][3]
+Google's new "Google Public DNS" is surprising fast and after switching over to it I experince improvements my web browsing experience. Here's a quick benchmark of Google vs OpenDNS. [Link][3]
 
 Currently Google does not provide a dashboard like what OpenDNS has and it's yet to include extra features like shortcuts, filtering and zoning like what OpenDNS has. I'm quite sure they will pop up soon&#8230;.
 
-To start using &#8220;Google Public DNS&#8221; simply replace your current dns servers with theirs. Listed below,
+To start using "Google Public DNS" simply replace your current dns servers with theirs. Listed below,
 
   * 8.8.8.8
   * 8.8.4.4
 
-For the full walkthrough refer to Google's &#8220;[Using Google Public DNS][4]&#8221; or [download the guide][5].
+For the full walkthrough refer to Google's "[Using Google Public DNS][4]" or [download the guide][5].
 
 Talk about Google taking over the world. At first they only knew what you were searching for but now once you switch over they will know everything you do online&#8230;&#8230; SCARY!!
 

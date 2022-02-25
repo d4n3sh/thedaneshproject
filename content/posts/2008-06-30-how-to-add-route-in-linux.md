@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889808269
 
 ---
-To view the current routing table run &#8220;_**route -n**_&#8221;
+To view the current routing table run "_**route -n**_"
 
 `[root@klmppswdr01p ~]# route -n<br />
 Kernel IP routing table<br />
@@ -30,7 +30,7 @@ To delete a route refer to the command below.
 
 The routing information above is not persistent across reboots. After a reboot, the routing information will be lost and you need to add them in again.
 
-To make the routing information persistent, add the &#8220;_**route add**_&#8221; line as seen above into the **_/etc/rc.local_** file.
+To make the routing information persistent, add the "_**route add**_" line as seen above into the **_/etc/rc.local_** file.
 
 Sample _**/etc/rc.local**_ file.
 

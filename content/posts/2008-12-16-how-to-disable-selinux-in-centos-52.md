@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Here's how you would disable SELinux permanently.
 
-1. vi the &#8220;**/etc/selinux/config**&#8221; file.
+1. vi the "**/etc/selinux/config**" file.
 
 2. Change the following line;
 
@@ -20,7 +20,7 @@ Here's how you would disable SELinux permanently.
 
 3.Â  Save the file and reboot.
 
-4. To verify if SELinux is disabled, run &#8220;`dmesg | grep selinux`&#8220;. You should see `selinux=0`
+4. To verify if SELinux is disabled, run "`dmesg | grep selinux`". You should see `selinux=0`
 
 selinux\_register\_security:Â  Registering secondary module capability  
 audit(1229470429.628:2): selinux=0 auid=4294967295 ses=4294967295

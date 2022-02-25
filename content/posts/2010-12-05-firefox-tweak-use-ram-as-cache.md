@@ -12,11 +12,11 @@ By design Firefox will use your disk as cache. However, if you have a good amoun
 
 Here's how you do it;
 
-1. in your URL bar type in &#8220;about:config&#8221;. this will bring up the config page.
+1. in your URL bar type in "about:config". this will bring up the config page.
 
-2. Using the filter box, lookup &#8220;browser.cache.disk.enable&#8221;. Change its value to &#8220;False&#8221; by double clicking on it.
+2. Using the filter box, lookup "browser.cache.disk.enable". Change its value to "False" by double clicking on it.
 
-3. Using the filter box again, lookup &#8220;browser.cache.memory.enable&#8221; . Change its value to &#8220;True&#8221; by double clicking on it.
+3. Using the filter box again, lookup "browser.cache.memory.enable" . Change its value to "True" by double clicking on it.
 
 `browser.cache.disk.enable to False<br />
 browser.cache.memory.enable to True`

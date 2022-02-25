@@ -10,36 +10,36 @@ dsq_thread_id:
 ---
 Almost everyone I know uses Gtalk. You can use Gtalk online through gmail or by using one of the many jabber capable chat clients out there.Ã‚Â  Today I'll show you how to configure Kopete to work with Gtalk. If you didn't already know, Kopete is the most popular multi protocol chant client for KDE.
 
-1. Launch Kopete and goto &#8220;Settings&#8221; > &#8220;Configure&#8230;&#8221;
+1. Launch Kopete and goto "Settings" > "Configure&#8230;"
 
-2. Goto &#8220;accounts&#8221;
+2. Goto "accounts"
 
-3. Click on &#8220;New&#8221;
-
-[![kopete-accounts.jpg][1]][2]
-
-4. Select &#8220;Jabber&#8221; from the account wizard and click &#8220;next&#8221;
+3. Click on "New"
 
 [![kopete-accounts.jpg][1]][2]
 
-5. On the &#8220;basic setup&#8221; page,
+4. Select "Jabber" from the account wizard and click "next"
 
-  * Ã‚Â &#8220;Jabber ID&#8221; is your gmail user ID followed by &#8220;gmail.com&#8221;. Example &#8220;john@gmail.com&#8221;
-  * Ã‚Â Check &#8220;remember password&#8221; and fill in your password.
+[![kopete-accounts.jpg][1]][2]
+
+5. On the "basic setup" page,
+
+  * Ã‚Â "Jabber ID" is your gmail user ID followed by "gmail.com". Example "john@gmail.com"
+  * Ã‚Â Check "remember password" and fill in your password.
 
 [![kopete-jabber1.jpg][3]][4]
 
-6. On the &#8220;connection page&#8221;
+6. On the "connection page"
 
-  * Check &#8220;use protocol encryption&#8221; (SSL)
-  * Check &#8220;allow plain text password authentication&#8221;
-  * Check &#8220;overide default server settings&#8221; and replace with the values below.
-  * Server : &#8220;talk.google.com&#8221;
-  * Port : &#8220;5223&#8221;
+  * Check "use protocol encryption" (SSL)
+  * Check "allow plain text password authentication"
+  * Check "overide default server settings" and replace with the values below.
+  * Server : "talk.google.com"
+  * Port : "5223"
 
 [![kopete-jabber2.jpg][5]][6]
 
-7. Click &#8220;Ok&#8221; and enjoy Gtalk through Kopete.
+7. Click "Ok" and enjoy Gtalk through Kopete.
 
  [1]: /wp-content/uploads/2007/09/kopete-accounts.thumbnail.jpg
  [2]: /wp-content/uploads/2007/09/kopete-accounts.jpg "kopete-accounts.jpg"

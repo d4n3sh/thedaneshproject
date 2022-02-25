@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Sending a process to the background in Linux is quite easy. All you need is bg, fg, &, and ctrl+Z ( ^Z ).
 
-For this example I will use a simple bash script test.sh I put together to print &#8220;Test&#8221; every 5 seconds.
+For this example I will use a simple bash script test.sh I put together to print "Test" every 5 seconds.
 
 ``#!/bin/bash<br />
 #This script will print "Test" every 5 seconds<br />
@@ -25,7 +25,7 @@ done<br />
 Now let's see how it's done.
 
 `[user@abubu root]$./test.sh &`  
-This starts test.sh and sends it to the background. You will be back at shell but should see the &#8220;Test&#8221; message every 5 seconds.
+This starts test.sh and sends it to the background. You will be back at shell but should see the "Test" message every 5 seconds.
 
 `[user@abubu root]$jobs<br />
 [1]+  Running                 ./test.sh &`  

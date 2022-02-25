@@ -18,7 +18,7 @@ This is how I did it;
 2. # chkconfig mysqld on (Adds mysqld to the startup services)  
 3. # service mysqld start (Starts the MySQL server)  
 4. # mysql -u root@localhost (Brings up the MySQL console)  
-5. #mysql> set password for root=password(&#8216;password'); (Sets the root password to &#8220;password&#8221;)  
+5. #mysql> set password for root=password(&#8216;password'); (Sets the root password to "password")  
 6. #mysql> reload privileges; (Reloads the grant tables)
 
 **Method 2**
@@ -26,8 +26,8 @@ This is how I did it;
 1. # mysql -u root (Brings up the MySQL console)  
 2. #mysql> use mysql (Use the mysql database)  
 3. #mysql> update user  
--> set password=password(&#8220;password&#8221;) (Sets the root password to &#8220;password&#8221;)  
--> where user=&#8221;root&#8221;;  
+-> set password=password("password") (Sets the root password to "password")  
+-> where user="root";  
 4. # reload privileges; (Reloads the grant tables)  
 That's it, the next time you want to get the MySQL console up you'll have to run #mysql -u root -p to get the password prompt.
 

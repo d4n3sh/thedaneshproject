@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Changed the sim on my rooted Google Nexus One today and managed to lock myself out :D. 
 
-Waited for the PUK code prompt to come up but it never did. Apparently there's none, traditionally on other phones you's get a dedicated prompt for the PUK code but on the Nexus One you use the &#8220;phone pad&#8221; instead.
+Waited for the PUK code prompt to come up but it never did. Apparently there's none, traditionally on other phones you's get a dedicated prompt for the PUK code but on the Nexus One you use the "phone pad" instead.
 
 Here's the walk-through.
 

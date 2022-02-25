@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-medium wp-image-1227" title="pdfreadersorg-get-a-free-software-pdf-reader" src="/wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-499x499.png" alt="pdfreadersorg-get-a-free-software-pdf-reader" width="499" height="499" srcset="/wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-499x499.png 499w, /wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-150x150.png 150w, /wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader.png 807w" sizes="(max-width: 499px) 100vw, 499px" />
 
-PDFreaders.org is the latest project from &#8220;The [Fellowship][1] of the [Free Software Foundation Europe (FSFE)][2]&#8220;.
+PDFreaders.org is the latest project from "The [Fellowship][1] of the [Free Software Foundation Europe (FSFE)][2]".
 
 PDF have become a standard when it comes to distributing documents today. From eBooks to magazines and brochures, nothing is spared from going PDF.
 

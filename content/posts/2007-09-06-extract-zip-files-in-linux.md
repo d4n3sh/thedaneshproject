@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ZIP archives are most commonly used in Windows/MS-DOS based environments.
 
-In Linux, you can use the &#8220;unzip&#8221; command to extract,list or test ZIP files. Below are the common tasks I use &#8220;unzip&#8221; for.
+In Linux, you can use the "unzip" command to extract,list or test ZIP files. Below are the common tasks I use "unzip" for.
 
 Extract the contents of a ZIP file into it's own directory and also create subdirectories as needed.
 

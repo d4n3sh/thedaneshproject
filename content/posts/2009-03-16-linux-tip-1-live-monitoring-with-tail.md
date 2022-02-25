@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 This is something every Linux admin or Linux superuser probably already knows and uses everyday.
 
-The &#8220;tail -f&#8221; command monitors a file and tracks any changes to it. As changes are made to the monitored file the &#8220;tail&#8221; command will print them on screen. Live monitoring basically&#8230;..
+The "tail -f" command monitors a file and tracks any changes to it. As changes are made to the monitored file the "tail" command will print them on screen. Live monitoring basically&#8230;..
 
 `tail -f [log file]`
 

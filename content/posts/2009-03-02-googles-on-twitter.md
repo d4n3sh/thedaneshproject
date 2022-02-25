@@ -16,6 +16,6 @@ dsq_thread_id:
 
 <span class="status-body"><span class="entry-content">That was Google's first twit. They finally got on to Twitter. </span></span>
 
-<span class="status-body"><span class="entry-content">If you were wondering, </span></span><span class="status-body"><span class="entry-content">for all you  non geeks out there, </span></span><span class="status-body"><span class="entry-content">the zeroes and ones translate into &#8220;I'm feeling lucky&#8221;.<br /> </span></span>
+<span class="status-body"><span class="entry-content">If you were wondering, </span></span><span class="status-body"><span class="entry-content">for all you  non geeks out there, </span></span><span class="status-body"><span class="entry-content">the zeroes and ones translate into "I'm feeling lucky".<br /> </span></span>
 
 <span class="status-body"><span class="entry-content"><a href="http://twitter.com/google">Follow Google on Twitter.</a><br /> </span></span>

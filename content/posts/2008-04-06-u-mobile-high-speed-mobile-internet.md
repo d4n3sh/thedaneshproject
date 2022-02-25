@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://farm3.static.flickr.com/2064/2391620277_acd2eb41e6.jpg" height="239" width="500" />
 
-I tend to be slightly skeptical nowadays when the words &#8220;high peed&#8221; and &#8220;mobile&#8221; are used within the same sentence. You can't blame me, adverts all around boast blazing speeds over mobile network but do you ever hear the same feedback from their subscribers? Hardly ever right.
+I tend to be slightly skeptical nowadays when the words "high peed" and "mobile" are used within the same sentence. You can't blame me, adverts all around boast blazing speeds over mobile network but do you ever hear the same feedback from their subscribers? Hardly ever right.
 
 Well, here's a another new kid on the block U Mobile with the same claims. Hopefully they deliver. [Read more about U Mobile on Wikipedia][1].
 

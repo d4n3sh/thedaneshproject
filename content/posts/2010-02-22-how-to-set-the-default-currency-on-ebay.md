@@ -10,11 +10,11 @@ dsq_thread_id:
 ---
 1. Search for something
 
-2. Look for the &#8220;customize view&#8221; link in the search listing.
+2. Look for the "customize view" link in the search listing.
 
-3. Go to &#8220;Advanced Options&#8221;
+3. Go to "Advanced Options"
 
-4. Select the desired &#8220;Currency Conversion&#8221; and you're done.
+4. Select the desired "Currency Conversion" and you're done.
 
 <img loading="lazy" class="alignnone size-medium wp-image-2004" title="Aviary shop-ebay-com-my Picture 1" src="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1-450x196.png" alt="" width="450" height="196" srcset="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1-450x196.png 450w, /wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1.png 545w" sizes="(max-width: 450px) 100vw, 450px" /> 
 

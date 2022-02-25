@@ -34,11 +34,11 @@ Uncomment the **forwarders** section. Update the default values with the values 
 `<br />
 forward only;`
 
-Add the line &#8221; **forward only;** &#8221; This will tell BIND to only forward to the forwarders and not the ROOT servers.
+Add the line " **forward only;** " This will tell BIND to only forward to the forwarders and not the ROOT servers.
 
 3. Start the service.
 
-To have the service start automatically run &#8221; `chkconfig named on` &#8221;
+To have the service start automatically run " `chkconfig named on` "
 
 `pandora:~ # service named start`
 

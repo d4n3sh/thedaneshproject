@@ -14,7 +14,7 @@ I am facing the same [annoying beep][1] issue which I experienced on my Linux no
 
 Most users don' t fancy having sounds turned on their OS. In XP turning off your sound schemes will turn off all notification sounds but then all beeps get channeled to your pc speaker instead thus begins the annoyance. I read somewhere that MS claims that this is a bug with the motherboards, ya right!!
 
-Fortunately the fix was simple. I downloaded [TweakUI][2] from [MS][3] and unchecked the &#8220;Beep On Errors&#8221; from the general options area.
+Fortunately the fix was simple. I downloaded [TweakUI][2] from [MS][3] and unchecked the "Beep On Errors" from the general options area.
 
  [1]: /posts/how-to-disable-the-beep-in-linux/
  [2]: http://download.microsoft.com/download/f/c/a/fca6767b-9ed9-45a6-b352-839afb2a2679/TweakUiPowertoySetup.exe

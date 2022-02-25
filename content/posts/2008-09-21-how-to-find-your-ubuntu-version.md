@@ -31,7 +31,7 @@ DISTRIB_DESCRIPTION="Ubuntu 8.04.1"`
 
 or
 
-run the lsb_release command with the &#8220;-a&#8221; switch.
+run the lsb_release command with the "-a" switch.
 
 `danny@family-desktop:/etc$ lsb_release -a<br />
 No LSB modules are available.<br />

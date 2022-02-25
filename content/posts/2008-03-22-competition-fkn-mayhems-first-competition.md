@@ -20,7 +20,7 @@ How to participate?
 
 1. Head of over to [F'KN MAYHEM][4]
 
-2. Answer 3 simple questions and write a short 30 sentence with the phrase &#8220;Ã¢â‚¬Å“Milk & Honey, Street Art, Mayhem!Ã¢â‚¬? in it.
+2. Answer 3 simple questions and write a short 30 sentence with the phrase "Ã¢â‚¬Å“Milk & Honey, Street Art, Mayhem!Ã¢â‚¬? in it.
 
 3. Submit your entries to competition@alanbernard.com before the 1st of April and hope to win.
 

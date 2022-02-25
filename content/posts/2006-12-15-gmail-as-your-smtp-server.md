@@ -16,7 +16,7 @@ This is how your get it setup;
 
 1. In your mail applications set the SMTP server for outgoing mail to smtp.google.com .  
 2. Make sure username and password options are checked. Input your username [yourgmailname]@gmail.com.  
-3. Check off &#8220;TLS&#8221; under &#8220;Use secure connection&#8221;.
+3. Check off "TLS" under "Use secure connection".
 
 Hope it works for you.
 

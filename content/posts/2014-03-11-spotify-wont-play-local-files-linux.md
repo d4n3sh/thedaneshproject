@@ -10,9 +10,9 @@ dsq_thread_id:
 
 I'm running Spotify version 0.9.4.183-1 and  local mp3 files don't play anymore.
 
-All I get from the logs is &#8220;15:58:39.156 I [audio\_driver\_linux.cpp:18 ] Using PulseAudio&#8221;, no proper error message 🙁
+All I get from the logs is "15:58:39.156 I [audio\_driver\_linux.cpp:18 ] Using PulseAudio", no proper error message 🙁
 
-After some googling, the fix was simple enough. Install the &#8220;ffmpeg-compat&#8221; package from the office repo.
+After some googling, the fix was simple enough. Install the "ffmpeg-compat" package from the office repo.
 
 `sudo pacman -S ffmpeg-compat<br />
 `  

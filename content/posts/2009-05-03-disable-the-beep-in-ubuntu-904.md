@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Hate the beep? Here's how to get rid of it.
 
-Login as &#8220;root&#8221; and run the command below.
+Login as "root" and run the command below.
 
 `echo "blacklist pcspkr" >> /etc/modprobe.d/blacklist.conf`
 

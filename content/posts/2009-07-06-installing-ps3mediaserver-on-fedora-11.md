@@ -22,7 +22,7 @@ PS3mediaserver is Java based and getting it set-up is a breeze. Here's how,
 
 `[danesh@jackal ~]$ tar -zxvf pms-linux-1.10.5.tgz`
 
-3. Go in to the new extracted foder and start the server by executing the &#8220;PMS.sh&#8221; script. Also, remember to give execute rights to the &#8220;PMS.sh&#8221; script by running chmod +x.
+3. Go in to the new extracted foder and start the server by executing the "PMS.sh" script. Also, remember to give execute rights to the "PMS.sh" script by running chmod +x.
 
 `[danesh@jackal ~]$ chmod +x PMS.sh</p>
 <p>[danesh@jackal ~]$ cd pms-linux-1.10.5</p>

@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Here's an easy way to get the pid of a running process.
 
-Running the &#8220;pidof&#8221; command will return the pid(s) for a running program. See sample below,
+Running the "pidof" command will return the pid(s) for a running program. See sample below,
 
 `danny@pandora:~> pidof syslog-ng<br />
 2043<br />

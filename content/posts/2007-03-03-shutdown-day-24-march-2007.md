@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1162929541
 
 ---
-Can you go a day without your computers? That's the question the guys at &#8220;_Shutdown Day_&#8221; are asking. If you think you're up for the challenge then head on over to &#8220;_Shutdown Day_&#8221; to participate in the experiment.
+Can you go a day without your computers? That's the question the guys at "_Shutdown Day_" are asking. If you think you're up for the challenge then head on over to "_Shutdown Day_" to participate in the experiment.
 
 Just imagine, the whole world goes a day without computers. What happens? Does civilization start over? Could it be the modern day Armageddon?
 

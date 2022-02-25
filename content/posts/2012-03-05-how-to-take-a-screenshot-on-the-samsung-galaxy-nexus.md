@@ -12,6 +12,6 @@ dsq_thread_id:
 
 Need to grab a screenshot on your <a href="http://www.google.com/nexus/" target="_blank">Samsung Galaxy Nexus</a>?
 
-Hold down the &#8220;power&#8221; together with the &#8220;volume down &#8221; button for 1 second to grab a screenshot.
+Hold down the "power" together with the "volume down " button for 1 second to grab a screenshot.
 
  [1]: /wp-content/uploads/2012/03/Screenshot_2012-03-05-14-11-21.png

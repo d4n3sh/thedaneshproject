@@ -10,7 +10,7 @@ dsq_thread_id:
   - 921939366
 
 ---
-&#8220;$$&#8221; is a useful Linux variable you could use in your script to get it's PID. The &#8220;$$&#8221; variable always holds the PID of the executing process. 
+"$$" is a useful Linux variable you could use in your script to get it's PID. The "$$" variable always holds the PID of the executing process. 
 
 Why do you need it? Maybe to check if the script is already running? This is what I normally use it for.
 

@@ -14,7 +14,7 @@ You made changes to your /etc/inittab file but can't effort any downtime.
 
 There's a simple trick to reload and apply changes in your /etc/inittab file without a reboot.
 
-Run &#8220;init q&#8221; or &#8220;init Q&#8221;
+Run "init q" or "init Q"
 
 `[root@snoopy ~]# init q<br />
 [root@snoopy ~]#<br />

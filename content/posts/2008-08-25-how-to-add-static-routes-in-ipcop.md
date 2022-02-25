@@ -28,7 +28,7 @@ The other way would be to add the route command at the end of the **/etc/rc.d/rc
 
 I personally use the latter.
 
-To view your routing table run the &#8220;**route**&#8221; command.
+To view your routing table run the "**route**" command.
 
 `root@proxy73:~ # route<br />
 Kernel IP routing table<br />

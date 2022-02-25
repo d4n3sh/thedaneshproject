@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 I recently upgrade my [IPCop][1] to version 1.4.16 but my Snort (Intrusion Detection System) failed to load the latest rules set. The install logs revealed the error below.
 
-> /usr/local/bin/oinkmaster.pl: Error: the output directory &#8220;/etc/snort/rules&#8221; isn't writable by you.
+> /usr/local/bin/oinkmaster.pl: Error: the output directory "/etc/snort/rules" isn't writable by you.
 
-The fix was simple. simply change the permission for the &#8220;/etc/snort/rules&#8221; folder so that the owner is &#8220;snort&#8221; using the command below.
+The fix was simple. simply change the permission for the "/etc/snort/rules" folder so that the owner is "snort" using the command below.
 
 > \# chown -R snort:snort /etc/snort/rules  
 > \# ls -l /etc/snort/ | grep drw  

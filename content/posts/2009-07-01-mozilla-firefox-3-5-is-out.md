@@ -26,7 +26,7 @@ Just a few of the popular features to look forward to in version 3.5. [Full feat
 
 [Go grab it quick.][7] 
 
-While downloading make sure to check out the &#8220;[real-time Firefox 3.5 downloads][8]&#8221; monitor page. It shows you in real-time how many people across the world are downloading Firefox 3.5. At the time of this post the magic number was 700,000 and out of that about 3000 were from Malaysia. Let's see if they break a new record this time.
+While downloading make sure to check out the "[real-time Firefox 3.5 downloads][8]" monitor page. It shows you in real-time how many people across the world are downloading Firefox 3.5. At the time of this post the magic number was 700,000 and out of that about 3000 were from Malaysia. Let's see if they break a new record this time.
 
 [<img loading="lazy" class="alignnone size-medium wp-image-1580" title="Worldwide Real-Time Firefox Downloads" src="/wp-content/uploads/2009/07/Worldwide-Real-Time-Firefox-Downloads-500x150.png" alt="Worldwide Real-Time Firefox Downloads" width="500" height="150" srcset="/wp-content/uploads/2009/07/Worldwide-Real-Time-Firefox-Downloads-500x150.png 500w, /wp-content/uploads/2009/07/Worldwide-Real-Time-Firefox-Downloads-1024x308.png 1024w, /wp-content/uploads/2009/07/Worldwide-Real-Time-Firefox-Downloads.png 1323w" sizes="(max-width: 500px) 100vw, 500px" />][9]
 

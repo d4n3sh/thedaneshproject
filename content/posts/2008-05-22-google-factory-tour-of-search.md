@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=BraxN10dHmU[/youtube]
 
-This is the latest webcast from Google titled &#8220;Google Factory Tour of Search&#8221;. It's centered around where Google currently is and where it plans to go in the near future. Google's latest service Google Health is also introduced in the webcast.
+This is the latest webcast from Google titled "Google Factory Tour of Search". It's centered around where Google currently is and where it plans to go in the near future. Google's latest service Google Health is also introduced in the webcast.
 
 Some of the topics I found especially interesting.
 

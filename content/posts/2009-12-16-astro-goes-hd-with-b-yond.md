@@ -32,7 +32,7 @@ How to start enjoying Astro's new HD channels?
 
 1. Go to Astro [B.yond][2].
 
-2. Go to the &#8220;Subscribe Now&#8221; page and follow the instructions.
+2. Go to the "Subscribe Now" page and follow the instructions.
 
 Something to remember, if you live in an apartment with a centralized Astro dish, you're screwed!! You will have to wait till Astro replaces the dish and that could take months. 🙁
 

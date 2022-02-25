@@ -10,9 +10,9 @@ dsq_thread_id:
 
 I spend a lot of time working with ssh terminals over very slow connections. One common  issue that crops up often  is unresponsive terminals. Closing the terminal is what most of us would go with but then you would have to go through the login workflow again.  If you had to login to 3 servers then redoing that every time would be a pain.
 
-Here's a quick tip. The next time your ssh session becomes unresponsive, hit &#8220;ENTER&#8221; , followed the  &#8220;~&#8221; key and finally the  &#8220;.&#8221; key. ( **ENTER** , **~** , **.** ) . That will terminate the unresponsive session but still keep you within your main ssh session.
+Here's a quick tip. The next time your ssh session becomes unresponsive, hit "ENTER" , followed the  "~" key and finally the  "." key. ( **ENTER** , **~** , **.** ) . That will terminate the unresponsive session but still keep you within your main ssh session.
 
-SSH supports a bunch of escape characters. It's a less known feature but in my case proved handy. To see a list of all the supported escape characters run &#8221; **ENTER** , **~** , **?** &#8220;.
+SSH supports a bunch of escape characters. It's a less known feature but in my case proved handy. To see a list of all the supported escape characters run " **ENTER** , **~** , **?** ".
 
 `[root@server conf.d]# ~?<br />
 Supported escape sequences:<br />

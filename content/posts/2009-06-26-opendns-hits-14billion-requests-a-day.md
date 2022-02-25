@@ -24,7 +24,7 @@ I've been on OpenDNS for a long time now. I use it at work, home and while I tra
 
 I urge everyone to start using OpenDNS. It plays a key roll in keeping your internet experiense secure and safe.
 
-To get started simply replace your current DNS server entries with the OpenDNS ones. &#8220;208.67.222.222&#8221; , &#8220;208.67.220.220&#8221; .
+To get started simply replace your current DNS server entries with the OpenDNS ones. "208.67.222.222" , "208.67.220.220" .
 
 Source: [OpenDNS Blog][5]
 

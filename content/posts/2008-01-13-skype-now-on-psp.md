@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 ![][1]
 
-Trash talking just got easier with the PSP. Sony announced that they will be shipping Skype with the new &#8220;slim and light&#8221; PSP (PSP-2000) units. Users will now be able to make free calls to Skype users on PCs and also other PSP gamers.
+Trash talking just got easier with the PSP. Sony announced that they will be shipping Skype with the new "slim and light" PSP (PSP-2000) units. Users will now be able to make free calls to Skype users on PCs and also other PSP gamers.
 
-Current PSP users will be able to enjoy Skype later this month with a firmware update through the software update functionality. However this will only be applicable to those on the new &#8220;Slim and Light&#8221; PSPs. Bummer!!
+Current PSP users will be able to enjoy Skype later this month with a firmware update through the software update functionality. However this will only be applicable to those on the new "Slim and Light" PSPs. Bummer!!
 
 The update will enable users to;
 

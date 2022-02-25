@@ -14,17 +14,17 @@ Here's a simple way to test your SMTP server over port 25 using Telnet to proof 
 
 Telnet to the server via port 25.
 
-1. Key in &#8220;EHLO example.com&#8221; and hit enter.
+1. Key in "EHLO example.com" and hit enter.
 
-2. Key in &#8220;MAIL FROM: sender@domain.com&#8221; and hit enter.
+2. Key in "MAIL FROM: sender@domain.com" and hit enter.
 
-3. Key in &#8220;RCPT TO: recipient@domain.com&#8221; and hit enter.
+3. Key in "RCPT TO: recipient@domain.com" and hit enter.
 
-4. Key in &#8220;DATA&#8221; and hit enter.
+4. Key in "DATA" and hit enter.
 
 5. Key in your message body and hit enter.
 
-6. Key in &#8221; . &#8221; and press enter.
+6. Key in " . " and press enter.
 
 If you received the mail then your SMTP is working fine.
 

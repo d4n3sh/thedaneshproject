@@ -27,7 +27,7 @@ I explained to her and the fix she provided was simple.
 
 2. Go to channel 880. You'll see upgrade instructions asking you to insert the new gold card. Take out the old smart card and slide in the new one. Remember to follow the white arrow on the card. Press OK.
 
-3. You'll get a new notice saying &#8220;upgrade will take 10 minutes and your Astro will go to standby&#8221;. Press OK and your Astro should go to standby mode.
+3. You'll get a new notice saying "upgrade will take 10 minutes and your Astro will go to standby". Press OK and your Astro should go to standby mode.
 
 4. Keep your eye on the Astro decoder now. You'll see the upgrade status scrolling with the completed percentage. When at 100% your decoder with reset and the display will show the current time. The upgrade is now complete.
 

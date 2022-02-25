@@ -12,9 +12,9 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1248" title="dalailama" src="/wp-content/uploads/2009/02/dalailama.jpg" alt="dalailama" width="204" height="320" />
 
-You can now follow &#8220;His Holiness, The 14th Dalai Lama Of Tibet&#8221; on twitter.
+You can now follow "His Holiness, The 14th Dalai Lama Of Tibet" on twitter.
 
-The twitter account is managed by &#8220;OHHDL&#8221; ,[The Office of His Holiness the Dalai Lama][1].
+The twitter account is managed by "OHHDL" ,[The Office of His Holiness the Dalai Lama][1].
 
 If you are like me then peace is the only thing you wish. To me, religion, color, race, status in society don't mean anything. They are just reasons that fuel hatred today and are being leveraged but those in power to stay in power or gain more power. NO GOD WILL ASK TO KILL!! HE WHO CREATES WILL NOT DESTROY, HE WHO IS FILLED WITH HATRED WHO DESTROYS.
 

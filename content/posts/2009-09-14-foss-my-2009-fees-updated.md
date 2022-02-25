@@ -31,7 +31,7 @@ Hobbyist Price (RM 60) **<span style="color: #ff6600;">NEW!</span>**
 * One shirt (additional shirts will be on sale)  
 * Closing Date: 15th October 2009
 
-Professional Price (RM 88) **<span style="color: #ff6600;">Formerly &#8220;Early Bird&#8221;</span>**
+Professional Price (RM 88) **<span style="color: #ff6600;">Formerly "Early Bird"</span>**
 
 * Full access to talks and side sessions  
 * A proper lunch and tea (for both days)  

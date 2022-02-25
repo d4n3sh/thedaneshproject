@@ -12,7 +12,7 @@ A cool lecture by Google's Senior Vice President of Product Management, Mr.Ã‚
 
 He talks about building the right workplace, hiring the right people, inspiring them by trusting them and providing them opportunities to channel their ideas, and most importantly innovate, share and remember to always keep the users/consumer as the priority and not only focus on money making.
 
-&#8220;Don't fight for the bigger pie, fight for a small piece of a larger pie instead&#8221; quoted from Mr. Jonathan.
+"Don't fight for the bigger pie, fight for a small piece of a larger pie instead" quoted from Mr. Jonathan.
 
 Really cool lecture, is your company even close to this? Mine's not.
 

@@ -16,7 +16,7 @@ As time passed so did the personnel who knew about the X-Box web server. Without
 
 One day a new guy comes in an sees a X-Box sitting on the shelve all alone and decides to take it home for his kid. What happened next was, students started calling up reporting their server was down. Oooops!!
 
-The X-box server is tracked down and labeled &#8220;This is a server&#8221; and the day is saved.
+The X-box server is tracked down and labeled "This is a server" and the day is saved.
 
 Getting Linux onto your X-Box
 

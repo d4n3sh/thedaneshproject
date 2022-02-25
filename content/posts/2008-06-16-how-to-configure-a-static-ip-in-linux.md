@@ -51,7 +51,7 @@ To update your dns server settings, modify the /etc/resolv.conf.
 
 `[root@baboo]# vi /etc/resolv.conf`
 
-Replace the contents of the resolv.conf file with the parameters below. The first parameter &#8220;search&#8221; is your search path followed the nameserver parameters which hold the IPs for your primary and secondary DNS servers.  
+Replace the contents of the resolv.conf file with the parameters below. The first parameter "search" is your search path followed the nameserver parameters which hold the IPs for your primary and secondary DNS servers.  
 `<br />
 search example.com<br />
 nameserver 192.168.0.5<br />

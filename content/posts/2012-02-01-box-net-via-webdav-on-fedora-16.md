@@ -24,7 +24,7 @@ Start by installing davfs2.
 ` Disable locking. Causes issues sometimes.  
 `# cd ~/.davfs2<br />
 # echo "use_locks 0" > davfs2.conf`  
-Create a secret file to hold your box.net login details. Make sure to &#8220;chmod 600 the file&#8221;  
+Create a secret file to hold your box.net login details. Make sure to "chmod 600 the file"  
 `# echo "https://www.box.net/dav [you box.net login] [your box.net password]" > secrets<br />
 # chmod 600 secrets`  
 Backup and update your /etc/fstab file to include your box.net directory.  

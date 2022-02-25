@@ -40,7 +40,7 @@ Firefox 3.0.1 is out. This is the first update for Firefox 3 which was released 
           Fixed an issue where, when printing a selected region of content from the middle of a page, some of the output was missing (<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=433373">bug 433373</a>).
         </li>
         <li>
-          Fixed a Linux issues where, for users on a PPP connection (dialup or DSL) Firefox always started in &#8220;Offline&#8221; mode (bug <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=424626">424626</a>).
+          Fixed a Linux issues where, for users on a PPP connection (dialup or DSL) Firefox always started in "Offline" mode (bug <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=424626">424626</a>).
         </li>
       </ul>
       

@@ -14,7 +14,7 @@ The campaign will be happening on these dates, 28th & 29th, December 4th & 5th, 
 
 Question: I have books and toys to give away, what do I do now?
 
-Easy, install the MYTEKSI app on your android, apple or windows phone/tablet, register if you haven't already, book a taxi and select &#8220;MYTEKSI HQ&#8221; as the destination and finally enter the &#8220;#gifts&#8221; hastag in the &#8220;notes to driver&#8221; section.
+Easy, install the MYTEKSI app on your android, apple or windows phone/tablet, register if you haven't already, book a taxi and select "MYTEKSI HQ" as the destination and finally enter the "#gifts" hastag in the "notes to driver" section.
 
 Your taxi will show up, load your gifts  drive them off  to MYTESKI for distribution. All for free! , yes FREE!
 

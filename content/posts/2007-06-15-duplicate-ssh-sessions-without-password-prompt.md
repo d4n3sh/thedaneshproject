@@ -23,14 +23,14 @@ ControlPath ~/.ssh/socket-%r@%h:%p**_
 
 **ControlMaster**  
 Enables the sharing of multiple sessions over aÂ  single  
-networkÂ  connection.Â Â  WhenÂ  setÂ  toÂ  &#8220;yes&#8221;Â  ssh will  
+networkÂ  connection.Â Â  WhenÂ  setÂ  toÂ  "yes"Â  ssh will  
 listen for connections on aÂ  controlÂ  socketÂ  specified  
 usingÂ  theÂ  ControlPathÂ  argument.Â  Additional sessions  
 can connect to this socket using theÂ  sameÂ  ControlPath  
-withÂ  ControlMaster set to &#8220;no&#8221; (the default).Â  These  
+withÂ  ControlMaster set to "no" (the default).Â  These  
 sessions will reuse the master instance's networkÂ  con-  
 nectionÂ  rather than initiating new ones.Â  Setting this  
-to &#8220;ask&#8221; will cause ssh to listen for control connec-  
+to "ask" will cause ssh to listen for control connec-  
 tions,Â  butÂ  require confirmation using the SSH_ASKPASS  
 program before they are acceptedÂ  (seeÂ  ssh-add(1)Â  for  
 details).

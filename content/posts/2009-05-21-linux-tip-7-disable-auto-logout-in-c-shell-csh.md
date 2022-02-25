@@ -10,9 +10,9 @@ dsq_thread_id:
   - 889928011
 
 ---
-Run the &#8220;set autologout=[n]&#8221; command to enable or disable the autologout feature in C Shell (csh)
+Run the "set autologout=[n]" command to enable or disable the autologout feature in C Shell (csh)
 
-Setting autologout to &#8220;0&#8221; will disable the autologout feature.
+Setting autologout to "0" will disable the autologout feature.
 
 `set autologout=0`
 

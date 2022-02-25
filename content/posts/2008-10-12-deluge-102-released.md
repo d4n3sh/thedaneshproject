@@ -48,7 +48,7 @@ Changelog; [Read more][2]
 > if not available, fall back to regular boost lib (non-multithreaded)
 > 
 > WebUI:  
-> * Add enable &#8220;Auto Add&#8221; checkbox
+> * Add enable "Auto Add" checkbox
 
 [Download Deluge][3]
 

@@ -16,7 +16,7 @@ If you're running grep on a large file with multipled results, highlighting your
 
 Here's how;
 
-Export the &#8220;GREP_OPTIONS&#8221; environment variable to include &#8220;&#8211;color=auto&#8221;. Run the export command below.
+Export the "GREP_OPTIONS" environment variable to include "&#8211;color=auto". Run the export command below.
 
 `export GREP_OPTIONS='--color=auto'`
 

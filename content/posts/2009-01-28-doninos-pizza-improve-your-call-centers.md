@@ -24,7 +24,7 @@ Don't get me wrong, I'm not saying he's dumb or anyone else is too but, he needs
 
 Employers must also play an active roll in improving their employees communication skills. Trainings, speak English days, conference calls. These methods helped me and still are.
 
-This is not happening just in one place, it's all over. We don't' like the phrase &#8220;3rd world country&#8221;. Language plays a huge roll in helping elevate our reach to the world. So, why not put your ego aside and put in some extra effort to learn a common international language like English and bring continents closer together.
+This is not happening just in one place, it's all over. We don't' like the phrase "3rd world country". Language plays a huge roll in helping elevate our reach to the world. So, why not put your ego aside and put in some extra effort to learn a common international language like English and bring continents closer together.
 
 What do you think?
 

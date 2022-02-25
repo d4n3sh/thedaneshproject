@@ -16,7 +16,7 @@ Changes in this release;
 
 **New plugin name.** 
 
-Formerly Defensio but now it's Defensio-anti-spam. &#8220;/wp-content/plugins/defensio&#8221; &#8211;> /wp-content/plugins/defensio-anti-spam
+Formerly Defensio but now it's Defensio-anti-spam. "/wp-content/plugins/defensio" &#8211;> /wp-content/plugins/defensio-anti-spam
 
 Make sure to delete the old Defensio folder within the plugin folder before installing this update.
 

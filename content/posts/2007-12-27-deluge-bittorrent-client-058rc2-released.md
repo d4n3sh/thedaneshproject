@@ -22,7 +22,7 @@ The new version is available for all the major OS platforms now. Linux, Mac OS X
 >   * Set the advanced webui template as default
 >   * Cut down significantly on the memory usage of the blocklist plugin
 >   * Fix some UPnP bugs
->   * Fix &#8220;New version&#8221; alert from freezing sometimes
+>   * Fix "New version" alert from freezing sometimes
 >   * Prioritizes local peers over non-local ones when finding connect
 >   * Wish everyone a happy holiday 🙂
 

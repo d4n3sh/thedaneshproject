@@ -14,11 +14,11 @@ No one likes bicycle helmets, they're heavy, bulky and simply look weird. Howeve
 
 The overall design of a helmet has not changed for a long time and it always seemed impossible to come up with a better design until now that is.
 
-Design students  Anna and Terese thought it was possible. 7 years of hard work later they came up with the invisible helmet &#8220;HÖVDING&#8221;.
+Design students  Anna and Terese thought it was possible. 7 years of hard work later they came up with the invisible helmet "HÖVDING".
 
 It's essentially an air bag designed into a collar that fits around your neck with a custom shell designs to match your outfit. It will inflate in 0.1 sec when abnormal movement is detected either from a collision and when the rider falls of his bike. [Read more][1]
 
-You can buy a &#8220;HÖVDING&#8221; for 3998 SEK (USD 600) from their [online store.][2]  I love the design, I'd buy it now if I had the money , guess I'll have to wait.
+You can buy a "HÖVDING" for 3998 SEK (USD 600) from their [online store.][2]  I love the design, I'd buy it now if I had the money , guess I'll have to wait.
 
 Watch the video and be wowed.<!--more-->
 

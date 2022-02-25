@@ -8,7 +8,7 @@ dsq_thread_id:
   - 894607649
 
 ---
-Wonder how your friends checkin in &#8220;Off The Grid&#8221; in [FourSquare][1]?
+Wonder how your friends checkin in "Off The Grid" in [FourSquare][1]?
 
 Simple, when you check in using your mobile device make sure all share options are not selected. Don't share with your friends, don't post to twitter and don't post to FB.
 

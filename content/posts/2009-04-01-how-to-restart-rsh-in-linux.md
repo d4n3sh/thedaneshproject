@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889859043
 
 ---
-The [rsh][1] service is controlled by the &#8220;[xinetd][2]&#8221; super daemon. If your rsh service stops working simply run the &#8220;service xinetd restart&#8221; service to restart rsh.
+The [rsh][1] service is controlled by the "[xinetd][2]" super daemon. If your rsh service stops working simply run the "service xinetd restart" service to restart rsh.
 
 Sample output;
 

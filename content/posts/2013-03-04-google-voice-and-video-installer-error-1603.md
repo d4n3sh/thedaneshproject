@@ -10,7 +10,7 @@ dsq_thread_id:
 
 &nbsp;
 
-For some stupid reason my Google hangout and voice calls stopped working on my Windows machine. Removed the Google voice plugin and tried reinstalling it and got hit with a new error &#8220;Installer error 1603&#8221;.
+For some stupid reason my Google hangout and voice calls stopped working on my Windows machine. Removed the Google voice plugin and tried reinstalling it and got hit with a new error "Installer error 1603".
 
 After some digging around the issue was narrowed down to either permissions or the windows installer service having some hangover files or registry entries from previous installs.
 

@@ -18,7 +18,7 @@ Malaysiakini and many other local news sites experienced a tremendous spike in u
 
 This just comes to show the awareness levels of Malaysians, almost everyone I know is internet savvy now, even my dad 63 years old now spends 6 hours a day on the net researching. Many politicians (Non net savvy I guess) consider the Net (alternative media) a bad thing and claim that almost everything if not all is not true. But one must ask, why aren't they coming out with their own sites/blogs to counter the negative media. An open debate I would call it(the democratic way). [Watch a video][6].
 
-I still buy newspapers today but since I feel that the local papers and news channels are generally pro government, I need to hear both sides of a story. Where do I go? The online world/community is the answer to satisfy my &#8220;need to know&#8221; hunger. However one must not easily believe everything one reads online or from the papers. Always cross reference before coming to a conclusion. Find the truth and not blindly follow.
+I still buy newspapers today but since I feel that the local papers and news channels are generally pro government, I need to hear both sides of a story. Where do I go? The online world/community is the answer to satisfy my "need to know" hunger. However one must not easily believe everything one reads online or from the papers. Always cross reference before coming to a conclusion. Find the truth and not blindly follow.
 
 Malaysians are smart people, don't keep challenging them. serve the people and your country not just your party.
 

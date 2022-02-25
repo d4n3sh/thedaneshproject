@@ -24,12 +24,12 @@ Source : [news.com.au][3]
 
 LEFT BRAIN FUNCTIONS || RIGHT BRAIN FUNCTIONS  
 uses logic || uses feeling  
-detail oriented || &#8220;big picture&#8221; oriented  
+detail oriented || "big picture" oriented  
 facts rule || imagination rules  
 words and language || symbols and images  
 present and past || present and future  
 maths and science || philosophy & religion  
-can comprehend || can &#8220;get it&#8221; (i.e. meaning)  
+can comprehend || can "get it" (i.e. meaning)  
 knowing || believes  
 acknowledges || appreciates  
 order/pattern perception || spatial perception  

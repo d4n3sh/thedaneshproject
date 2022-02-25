@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737879
 
 ---
-Can you access [YouTube][1]? I can't. All I get is _**&#8220;Http/1.1 Service Unavailable&#8221;**_
+Can you access [YouTube][1]? I can't. All I get is _**"Http/1.1 Service Unavailable"**_
 
 [![youtubedown.png][2]][3]
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890082087
 
 ---
-One of annoyance I found on openSUSE 11 is that Yast is no longer sudo enabled. The privilege elevation sudo line &#8220;**[username] ALL=(ALL) NOPASSWD: ALL**&#8221; works with everything else except for Yast.
+One of annoyance I found on openSUSE 11 is that Yast is no longer sudo enabled. The privilege elevation sudo line "**[username] ALL=(ALL) NOPASSWD: ALL**" works with everything else except for Yast.
 
 In versions prior to openSUSE 11 sudo worked fine with Yast. Apparently in openSUSE 11 Yast sudo was switched to su.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img src="/techblog/wp-content/uploads/2007/01/tmnet-logo.png" title="tmnet-logo.png" alt="tmnet-logo.png" align="left" />][1]TMNET has announced that restoration work for all the submarine lines that went down during the Taiwan earth quake have been fully restored.
 
-I did see some inprovement in my internation access speed but nothin to go &#8220;WOW&#8221; about.
+I did see some inprovement in my internation access speed but nothin to go "WOW" about.
 
 Full article at TMNET:
 

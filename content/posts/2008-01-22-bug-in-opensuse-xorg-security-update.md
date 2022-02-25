@@ -26,10 +26,10 @@ My error,
 
 Few hours of Googling and experimenting later I found my fix. 3Ã‚Â  actually.
 
-<!--more-->1. Edit your /etc/xorg.conf file and add the below to the &#8220;Extensions&#8221; section. This fixed some issues but not all. My Kaffeine decided to stop working following this method.
+<!--more-->1. Edit your /etc/xorg.conf file and add the below to the "Extensions" section. This fixed some issues but not all. My Kaffeine decided to stop working following this method.
 
-Section &#8220;Extensions&#8221;  
-Option &#8220;MIT-SHM&#8221; &#8220;no&#8221;  
+Section "Extensions"  
+Option "MIT-SHM" "no"  
 EndSection
 
 2. Downgrade back to the previous version [7.2-143.6] of xorg-server. This will come with quite a few dependency warnings so be prepared to work through them. Worked for me but look at option 3 as it's the best one.

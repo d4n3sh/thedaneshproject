@@ -12,7 +12,7 @@ Most non linux people tend to be taunted by the Linux command line, it's no beas
 
 How often do you repeat commands while using the command line? I do this all the time but sometimes it's good to learn some shortcuts now and then to reduce repetitive tasks and improve efficiency.
 
-When you type a command in the command line, it's saved into the .bash_history file within the home directory. The history file will hold the last 500 commands. To view them you can use &#8220;**_history_**&#8221; or &#8220;_**history | less**_&#8221; if the result is too long. The history file is also frequently use for user/security audits and RCA work.
+When you type a command in the command line, it's saved into the .bash_history file within the home directory. The history file will hold the last 500 commands. To view them you can use "**_history_**" or "_**history | less**_" if the result is too long. The history file is also frequently use for user/security audits and RCA work.
 
 You will that within the output below each line is numbered, these numbers will come in handy later in this tutorial.
 
@@ -27,7 +27,7 @@ You will that within the output below each line is numbered, these numbers will 
     8  ping google.com
     9  ping 192.168.0.1
 
-If you want to execute the last command you typed in again you would normally have to scroll up with the arrow key but this can also be done with &#8220;_**!!**_&#8220;. See sample below.
+If you want to execute the last command you typed in again you would normally have to scroll up with the arrow key but this can also be done with "_**!!**_". See sample below.
 
     danny@python:~> ls -l
     total 40
@@ -45,7 +45,7 @@ If you want to execute the last command you typed in again you would normally ha
     drwx------ 2 danny users 4096 2007-10-11 13:16 Documents
     drwxr-xr-x 2 danny users 4096 2007-10-11 13:16 public_html
 
-You could also execute a command from the history file by referring to the corresponding line number by using &#8220;_**![##]**_&#8220;. See sample below.
+You could also execute a command from the history file by referring to the corresponding line number by using "_**![##]**_". See sample below.
 
     danny@python:~> history
     1  ls -l
@@ -70,7 +70,7 @@ You could also execute a command from the history file by referring to the corre
     9  history
     10  history
 
-Using a string in place of the line number is also possible. The syntax for this is &#8220;_**![string]**_&#8220;. See sample below. The string value is matched against entries in the .bash_history file and the first matching entry will be excuted. For example if the &#8220;history&#8221; command existed on line 10, 100 and 450, line 450 would be returned.
+Using a string in place of the line number is also possible. The syntax for this is "_**![string]**_". See sample below. The string value is matched against entries in the .bash_history file and the first matching entry will be excuted. For example if the "history" command existed on line 10, 100 and 450, line 450 would be returned.
 
     danny@python:~> history
     1  ls -l

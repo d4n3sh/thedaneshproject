@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737827
 
 ---
-I'm trying out a new related posts plugin called &#8220;Arkayne&#8221; for a few weeks on my blog.
+I'm trying out a new related posts plugin called "Arkayne" for a few weeks on my blog.
 
 I've been looking around for related posts plugins and been testing a few recently but most of them either only use tags or categories to find related posts. So far my favorite has been [Related Entrie by WASABI][1] because it uses keywords instead.
 
@@ -16,7 +16,7 @@ I've been looking around for related posts plugins and been testing a few recent
 
 Arkayne is an online service that collects and automatically links similar content from the Arkayne network. The Arkayne network is made up of sites/blogs which are connected via the Arkayne plugins or java scripts. Their posts get registered by Arakyne and the magic happens. The Arkayne engine consists of a set of rules and algorithm the relates pages based on content and not just tags, keywords or categories. If Arkayne functions as advertised, someone surfing a PHP related site should only see posts related to the PHP world.
 
-<!--more--> There is a link stat page that is accessible by clicking on the &#8220;more links at Arkayne&#8221; link at the bottom of the related posts section. Here you can get stats about your posts and other posts that are similar to it. Hits, clicks, links conversion, similarities and much more information is at your disposal here.
+<!--more--> There is a link stat page that is accessible by clicking on the "more links at Arkayne" link at the bottom of the related posts section. Here you can get stats about your posts and other posts that are similar to it. Hits, clicks, links conversion, similarities and much more information is at your disposal here.
 
 [![][2]][3]
 

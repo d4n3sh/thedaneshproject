@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" src="http://farm4.static.flickr.com/3259/3135319315_729961faf6.jpg" alt="P1 W1MAX" width="500" height="281" />][1]
 
-P1 has a new marketing strategy out. Instead of planning where to &#8220;P1 W1MAX&#8221; enable, they are asking their users to vote for the next &#8220;P1 W1MAX&#8221; coverage areas. the current top 10;
+P1 has a new marketing strategy out. Instead of planning where to "P1 W1MAX" enable, they are asking their users to vote for the next "P1 W1MAX" coverage areas. the current top 10;
 
 1. Petaling Jaya, SS2  
 2. Kajang, Bandar Sungai Long  
@@ -29,7 +29,7 @@ Well, I guess it's a good idea but what happens to the poor souls living in love
 
 If P1 is to kill StreamyX, one thing's gonna be of utmost importance, that is to listen to your customers and keep them happy. StreamyX does a F**KED UP job at keeping it's users happy and not to forget, they have the worst engineers ever!! I have been waiting for almost 2 months for an engineer to check my line!!
 
-I need P1 W1MAX !! [Vote for my area][2], &#8220;Taman Maluri, Cheras&#8221;.
+I need P1 W1MAX !! [Vote for my area][2], "Taman Maluri, Cheras".
 
 TQ, TQ, 😀
 

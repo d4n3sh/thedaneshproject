@@ -12,11 +12,11 @@ dsq_thread_id:
 ---
 Hate the damn beep? Let's get rid of it!!
 
-Run &#8220;**lsmod**&#8221; and look for pcspkr.
+Run "**lsmod**" and look for pcspkr.
 
-If you find it then run &#8220;**rmmod pcspkr**&#8220;.
+If you find it then run "**rmmod pcspkr**".
 
-Also, make sure to add this line to your **&#8220;/etc/modprobe.d/blacklist&#8221;** file to make the change is persistent accross reboots.
+Also, make sure to add this line to your **"/etc/modprobe.d/blacklist"** file to make the change is persistent accross reboots.
 
 `#Remove beeping speaker<br />
 blacklist pcspkr`

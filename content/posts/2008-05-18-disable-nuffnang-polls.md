@@ -14,15 +14,15 @@ It's a cool idea to run polls but till the poll questions increase I'd rather ha
 
 If you're in the same boat with then the screen shots below might help. A simple walk through to turn off the polls feature.
 
-1. On the main main click the green &#8220;More&#8221; link.
+1. On the main main click the green "More" link.
 
 <img class="alignnone" src="http://farm4.static.flickr.com/3172/2500246689_d827ce1be8.jpg" alt="Nuffnang Polls Removal" /> 
 
-2. Now click on the green &#8220;Blog Manager&#8221; link.
+2. Now click on the green "Blog Manager" link.
 
 <img class="alignnone" src="http://farm3.static.flickr.com/2222/2501076136_b1371d55aa.jpg" alt="Nuffnang Polls Removal" /> 
 
-3. Select &#8220;No&#8221; from the POLLS drop down menu.
+3. Select "No" from the POLLS drop down menu.
 
 <img class="alignnone" src="http://farm4.static.flickr.com/3050/2500246879_0374ccd836.jpg" alt="Nuffnang Polls Removal" />
 

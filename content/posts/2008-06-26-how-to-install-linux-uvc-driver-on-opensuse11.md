@@ -26,7 +26,7 @@ S | NameÃ‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â Ã‚Â 
 | uvcvideo-kmp-paeÃ‚Â Ã‚Â Ã‚Â Ã‚Â  | USB Video Class (UVC) webcam driver | package<br />
 | uvcvideo-kmp-xenÃ‚Â Ã‚Â Ã‚Â Ã‚Â  | USB Video Class (UVC) webcam driver | package<br />
 `  
-Select the suitable driver for your kernel. &#8221; uname -r &#8220;. In my case pae.
+Select the suitable driver for your kernel. " uname -r ". In my case pae.
 
 `pandora:~ # zypper in uvcvideo-kmp-pae<br />
 Reading installed packages...`

@@ -16,7 +16,7 @@ To qualify,
 
 1. Write a story no longer then 30 words about Delirium and the contest.
 
-2. Keywords &#8220;Delirium&#8221;, &#8220;Blog&#8221;, &#8220;Your Name&#8221; must be included in the story.
+2. Keywords "Delirium", "Blog", "Your Name" must be included in the story.
 
 3. Contest starts 21st Jan 2008 and ends on 31st Jan 2008.
 

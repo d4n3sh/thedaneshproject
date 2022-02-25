@@ -16,11 +16,11 @@ Name pipes are file system persistent objects. What this means is that name pipe
 
 _**What does mkfifo do**_
 
-mkfifo is used to create a FIFOs(name pipe). _&#8220;mkfifo test-pipe&#8221;_, now we have a name pipe called &#8220;test-pipe&#8221;.
+mkfifo is used to create a FIFOs(name pipe). _"mkfifo test-pipe"_, now we have a name pipe called "test-pipe".
 
-_&#8220;ls > test-pipe&#8221;_, this pipes the output of the _ls_ command into the name pipe &#8220;test-pipe&#8221;.
+_"ls > test-pipe"_, this pipes the output of the _ls_ command into the name pipe "test-pipe".
 
-_&#8220;cat name-pipe | while read line i; do rm -f $i; done&#8221;_ this will delete the files passed. At this point the &#8220;test-pipe&#8221; will be empty. _&#8220;cat test-pipe&#8221;_ will come up blank.
+_"cat name-pipe | while read line i; do rm -f $i; done"_ this will delete the files passed. At this point the "test-pipe" will be empty. _"cat test-pipe"_ will come up blank.
 
 I've added a screen-shots of the above in action on the next page. Check it out.
 

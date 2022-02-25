@@ -12,9 +12,9 @@ dsq_thread_id:
 
 Muslims around the world begin fasting today as it marks the beginning of the Holy month of Ramadan. Fasting is not easy task, it takes motivation, determination, faith and willpower. I have never fasted for more then a day. Maybe I'll try it with my Muslim pals this time.
 
-Ramadan will end with the festival of &#8220;Eid al-Fitr&#8221; or &#8220;Hari Raya Aidilfitri&#8221; as we know it here. New clothes, big feasts, cookies galore and my favourite, visiting my Muslim friends.
+Ramadan will end with the festival of "Eid al-Fitr" or "Hari Raya Aidilfitri" as we know it here. New clothes, big feasts, cookies galore and my favourite, visiting my Muslim friends.
 
-To all my Muslim friends in Malaysia, &#8220;SELAMAT BERPUASA&#8221;. To my Muslim friends around the world &#8220;HAPPY FASTING&#8221;
+To all my Muslim friends in Malaysia, "SELAMAT BERPUASA". To my Muslim friends around the world "HAPPY FASTING"
 
 If you want to know more about Ramadan or fasting then visitÃ‚Â  [Ramadan and Eid al-Fitr by Holly Hartman][1]
 

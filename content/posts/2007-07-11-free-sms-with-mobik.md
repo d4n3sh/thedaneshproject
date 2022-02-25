@@ -14,7 +14,7 @@ What is Mobik?
 
 Mobik is a community with members from all around the globe. Mobik members can send SMS to each other for free via mobile to mobile or online to mobile.
 
-Mobik also has a reward plan. The goal is to accumulate as much &#8220;K&#8221; (Mobik Currency) as possible by inviting friends, completing surveys and participating in competitions. &#8220;K&#8221; can then be used to redeem cool gadgets like mp3 players and ipods and many others.
+Mobik also has a reward plan. The goal is to accumulate as much "K" (Mobik Currency) as possible by inviting friends, completing surveys and participating in competitions. "K" can then be used to redeem cool gadgets like mp3 players and ipods and many others.
 
 Mobk is running of ads so don't be suprised to see them. Don't worry the ads are mostly non intrusive. For example, after sending and sms your will get a short ad show up withing the sms screen for about 10 seconds or less. Not too bad I say.
 

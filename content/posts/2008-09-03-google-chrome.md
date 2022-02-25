@@ -12,11 +12,11 @@ dsq_thread_id:
 ---
 [][1][<img loading="lazy" class="alignnone size-medium wp-image-872" title="Google Chrome" src="/wp-content/uploads/2008/09/chrome-205_noshadow.png" alt="" width="205" height="205" srcset="/wp-content/uploads/2008/09/chrome-205_noshadow.png 205w, /wp-content/uploads/2008/09/chrome-205_noshadow-150x150.png 150w" sizes="(max-width: 205px) 100vw, 205px" />][2]
 
-[][2]Google released it's own web browser &#8220;Google Chrome&#8221; yesterday.Ã‚Â 
+[][2]Google released it's own web browser "Google Chrome" yesterday.Ã‚Â 
 
 Why the need for a new browser? Google felt that the browser has not evolved too much since the old days and to support today's web applications browsers will need to be re-engineered.
 
-Google decided to wipe the slate clean and start over with Google Chrome though it's open source project &#8220;Chromium&#8221;.
+Google decided to wipe the slate clean and start over with Google Chrome though it's open source project "Chromium".
 
 To start, It's open source under a permissive BSD license. Developers will get the best from the project and vice versa.
 

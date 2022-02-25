@@ -24,9 +24,9 @@ What happens to all the incoming links from other sites? Fixed that by using the
 
 [<img src="/wp-content/uploads/2007/08/permalink-redirect.jpg" title="permalink redirect" alt="permalink redirect" width="500" />][5]
 
-The plug in was initially installed to help add a trailing slash &#8220;/&#8221; to all my posts url(s) and also redirect all www.thedaneshproject.com to thedaneshproject.com. This was to help improve the accuracy of traffic tracking through [Google Analytics][6] and [Google Webmaster][7]. Now it is playing a larger role by making my permalink changes transparent to all incoming links which may be pointing to my old structure. A sample of what it is doing,
+The plug in was initially installed to help add a trailing slash "/" to all my posts url(s) and also redirect all www.thedaneshproject.com to thedaneshproject.com. This was to help improve the accuracy of traffic tracking through [Google Analytics][6] and [Google Webmaster][7]. Now it is playing a larger role by making my permalink changes transparent to all incoming links which may be pointing to my old structure. A sample of what it is doing,
 
-&#8220;/voip/major-skype-outage/&#8221; will now point to &#8220;/posts/major-skype-outage/&#8221;
+"/voip/major-skype-outage/" will now point to "/posts/major-skype-outage/"
 
 That's it, now I'll have to wait and if anything broke.
 

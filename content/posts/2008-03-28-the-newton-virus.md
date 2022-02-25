@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1008022976
 
 ---
-In the begining viruses were art, later they evolved and became weapons of mass destruction. Now, the guys over at Troika deceid to get back in time and start over by introducing &#8220;The Newton Virus&#8221; for the Mac. Newton has only one goal and that is to make you go &#8220;WOW&#8221;. See for yourself.
+In the begining viruses were art, later they evolved and became weapons of mass destruction. Now, the guys over at Troika deceid to get back in time and start over by introducing "The Newton Virus" for the Mac. Newton has only one goal and that is to make you go "WOW". See for yourself.
 
 [youtube]http://www.youtube.com/watch?v=aBJQ5085kSo[/youtube]
 

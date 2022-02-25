@@ -22,25 +22,25 @@ You could go through the /var/log/dmesg file or the /proc/cpuinfo file. For this
 
 **Physical CPU count?**
 
-Run &#8220;cat /proc/cpuinfo | grep &#8220;physical id&#8221; | sort | uniq | wc -l&#8221;.
+Run "cat /proc/cpuinfo | grep "physical id" | sort | uniq | wc -l".
 
-[root@bender ~]# cat /proc/cpuinfo | grep &#8220;physical id&#8221; | sort | uniq | wc -l  
+[root@bender ~]# cat /proc/cpuinfo | grep "physical id" | sort | uniq | wc -l  
 2
 
 **How many cores?**
 
-Run **&#8220;**cat /proc/cpuinfo | grep &#8220;cpu cores&#8221; | uniq&#8221;.
+Run **"**cat /proc/cpuinfo | grep "cpu cores" | uniq".
 
-[root@kmigb000 ~]# cat /proc/cpuinfo | grep &#8220;cpu cores&#8221; | uniq  
+[root@kmigb000 ~]# cat /proc/cpuinfo | grep "cpu cores" | uniq  
 cpu coresÂ Â Â Â Â Â  : 2
 
 2 mean that each physical CPU has 2 cores on it. If cpu cores was 1 then the CPU's single core.
 
 **How many virtual processors?**
 
-Run &#8220;cat /proc/cpuinfo | grep &#8220;^processor&#8221;&#8221;
+Run "cat /proc/cpuinfo | grep "^processor""
 
-[root@bender ~]# cat /proc/cpuinfo | grep &#8220;^processor&#8221;  
+[root@bender ~]# cat /proc/cpuinfo | grep "^processor"  
 processorÂ Â Â Â Â Â  : 0  
 processorÂ Â Â Â Â Â  : 1  
 processorÂ Â Â Â Â Â  : 2  

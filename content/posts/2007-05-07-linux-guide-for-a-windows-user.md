@@ -16,7 +16,7 @@ I have gone through the book and personally found it to be really good for those
 
 The book stresses that Linux today is fully functional through it GUI interface alone and the need for the command line is more suitable for those with more experience who prefer working in the CLI environment. Limited packages and complicated installation procedures are something of the past as now there are tons of quality software packages bundled with Linux and with the addition of the GUI based package managers the end user is able to easily install/uninstall the packages of their choice.
 
-If you eager to start then please add this book to your _&#8220;must have&#8221;_ list of books.
+If you eager to start then please add this book to your _"must have"_ list of books.
 
 [Get the the book][3]
 

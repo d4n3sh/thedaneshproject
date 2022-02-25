@@ -12,6 +12,6 @@ Just completed my fresh install of Arch Linux and Gnome 3.10. Hit my first issue
 
 The Fix:
 
-Install &#8220;telepathy-gaze&#8221; packge.
+Install "telepathy-gaze" packge.
 
 `pacman -S telepathy-gaze`

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1088821946
 
 ---
-[poll id=&#8221;3&#8243;]
+[poll id="3&#8243;]
 
 Do you develop using [web application frameworks][1]?
 

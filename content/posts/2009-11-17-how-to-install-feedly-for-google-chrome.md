@@ -14,7 +14,7 @@ Based on popular demand the people at Feedly have released Feedly for Chorme. Ge
 
 1. Download and install  Google Chrome 4.0 Dev Channel. [Windows][2] | [Mac][3] | [Linux 32bit][4] | [Linux 64 bit][5]
 
-2. Fire up the newly install Chrome and go to &#8220;<http://update.feedly.com/release/feedly.crx>&#8221; to install the Feedly extension.
+2. Fire up the newly install Chrome and go to "<http://update.feedly.com/release/feedly.crx>" to install the Feedly extension.
 
 3. Click the Feedly icon, log in to Google Reader and start enjoying Feedly for Chrome.
 

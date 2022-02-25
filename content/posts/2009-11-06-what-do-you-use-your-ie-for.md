@@ -14,7 +14,7 @@ This is so true!!
 
 I currently only have one laptop running Window XP, my office laptop. The rest run Linux.
 
-IE is only use to browse my local Intranet aka &#8220;sharepoint&#8221; and to download my essential software when I first install.
+IE is only use to browse my local Intranet aka "sharepoint" and to download my essential software when I first install.
 
 Source: [TheNextWeb][2]
 

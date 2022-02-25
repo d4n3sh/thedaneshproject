@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Polaris brings Google Analytics to your desktop. The desktop widget  Adobe AIR powered making it cross-platform.
 
-The basic &#8220;free&#8221; widget allows you to monitor one site. If you need more, you could by upgrading to the full version (unlimited profiles) for USD 15 per year.
+The basic "free" widget allows you to monitor one site. If you need more, you could by upgrading to the full version (unlimited profiles) for USD 15 per year.
 
 The default view is the dashboard with an overview of the genaral stats. Visits, page views, etc&#8230;
 

@@ -14,7 +14,7 @@ Google's rolled out a new favicon. You like it?
 
 <img loading="lazy" class="alignnone size-full wp-image-1133" title="google-favicon" src="/wp-content/uploads/2009/01/google-favicon.png" alt="google-favicon" width="16" height="16" /> 
 
-It's basicly a white &#8220;g&#8221; within a google colored canvas. Standing out from the crowd is the idea behind the white &#8220;g&#8221;.
+It's basicly a white "g" within a google colored canvas. Standing out from the crowd is the idea behind the white "g".
 
 The new design was inspired by user submissions, same as their previous favicon release back in June. The winning design this time came from AndrÃ© Resende, a computer science undergraduate student at the University of Campinas in Brazil.
 

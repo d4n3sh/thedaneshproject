@@ -21,7 +21,7 @@ tar -zxvf spotify.tar.gz</p>
 <p>cd spotify/</p>
 <p>makepkg -s<br />
 `  
-The &#8220;-s&#8221; switch will use pacman to resolve any dependencies.
+The "-s" switch will use pacman to resolve any dependencies.
 
 3. Install the compile package.
 

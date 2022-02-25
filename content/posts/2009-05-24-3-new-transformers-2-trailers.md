@@ -10,7 +10,7 @@ dsq_thread_id:
   - 968161123
 
 ---
-Woo Hoo!! 3 new &#8220;Transformers 2&#8221; trailers just got released.
+Woo Hoo!! 3 new "Transformers 2" trailers just got released.
 
 Catch them below
 

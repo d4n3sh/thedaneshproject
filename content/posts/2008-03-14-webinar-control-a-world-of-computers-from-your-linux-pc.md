@@ -12,7 +12,7 @@ dsq_thread_id:
 
 A new O'Reilly webinar is coming soon.
 
-[Carla Schroder][2], author of the book &#8220;Linux Cookbook&#8221; will be presenting. She will be talking about GUI based secure remote administration via the Linux desktop. Some of the key points covered will be;
+[Carla Schroder][2], author of the book "Linux Cookbook" will be presenting. She will be talking about GUI based secure remote administration via the Linux desktop. Some of the key points covered will be;
 
 1. Running remote graphical applications. For example the Oracle installer which requires X.
 

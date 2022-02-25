@@ -20,7 +20,7 @@ I've got my self counted and received my badge seen below.
 
 If you are a Linux user then make sure to register yourself and your Linux machines. It's simple,
 
-1. Goto The Linux Counter and click &#8220;Get Counted&#8221;.
+1. Goto The Linux Counter and click "Get Counted".
 
 2. Fill up the form and you'll receive your badge. Check your mail too.
 

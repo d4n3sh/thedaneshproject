@@ -16,7 +16,7 @@ dsq_thread_id:
 
 The new modem comes with VOIP and WIFI support. The look and feel is still the same except for the addition USB WIFI dongle and extra LEDs.
 
-Actually, there's nothing to go hoo haa about. It's just WIFI but I think the WIFI modem's gonna do well. General users won't need to get additonal wifi routers anymore just to enjoy wifi, which simplifies the whole setup and also eliminates extra cabling. I guess it's &#8220;internet in a box&#8221;.
+Actually, there's nothing to go hoo haa about. It's just WIFI but I think the WIFI modem's gonna do well. General users won't need to get additonal wifi routers anymore just to enjoy wifi, which simplifies the whole setup and also eliminates extra cabling. I guess it's "internet in a box".
 
 I would love to know if users finally have access to the modem configs? How else would they configure the WFI?
 

@@ -18,7 +18,7 @@ Some of the important changes;
 
 Linux kernel 2.6.27rc5.
 
-GNOME 2.24 and KDE 4.1.x will be the default desktop choices. KDE 3.5.10 will still available under the &#8220;other window managers&#8221; section. I'm not a big fan of KDE 4 yet but for testing I'll take it for a spin.
+GNOME 2.24 and KDE 4.1.x will be the default desktop choices. KDE 3.5.10 will still available under the "other window managers" section. I'm not a big fan of KDE 4 yet but for testing I'll take it for a spin.
 
 Amarok 2.0 Beta 1 for KDE 4 and Banshee 3.1 for GNOME. Amarok 2 is gonna rock!!
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1725" title="lt_lenovo_thinkpad_dead-battery" src="/wp-content/uploads/2009/08/lt_lenovo_thinkpad_dead-battery.jpg" alt="lt_lenovo_thinkpad_dead-battery" width="480" height="310" />][1]
 
-Almost all corporate users today use notebooks at work. The &#8220;Lenovo ThinkPad&#8221; is a favorite choice. Why? I don't know. I at my work place we are all on Lenovo ThinkPads.
+Almost all corporate users today use notebooks at work. The "Lenovo ThinkPad" is a favorite choice. Why? I don't know. I at my work place we are all on Lenovo ThinkPads.
 
 Earlier this week Lenovo issued a battery recall program for it's ThinkPad R60, R61, T60, T61, X60 and X61 series. The faulty batteries either held only minimum charge or completely stop functioning. Lenovo has come back to ensure the faulty batteries don't pose any risk to the end users.
 

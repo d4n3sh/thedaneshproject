@@ -18,7 +18,7 @@ Here's the workaround.
 
 1. Uninstall all existing Java
 
-2. Deleted the Java folder. &#8220;C:\Program Files\Java\jre6&#8221;
+2. Deleted the Java folder. "C:\Program Files\Java\jre6"
 
 3. Run the installer again. Should complete.
 

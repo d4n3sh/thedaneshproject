@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1519" title="BFM-car-sticker" src="/wp-content/uploads/2009/06/BFM-car-sticker.jpg" alt="BFM-car-sticker" width="362" height="109" />][1]
 
-Need a new bumber sticker? BFM has a cool one out which says &#8220;BRIBE-FREE MALAYSIAN&#8221;.
+Need a new bumber sticker? BFM has a cool one out which says "BRIBE-FREE MALAYSIAN".
 
 [BFM][2]&#8216;s giving them away for free. Drop them a request [here][3] and you'll get your sticker by mail in a few days.
 

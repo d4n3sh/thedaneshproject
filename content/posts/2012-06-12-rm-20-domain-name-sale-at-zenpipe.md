@@ -23,7 +23,7 @@ Zenpipe's  running a sale from from 8th till 22June 2012. All domains are going
 .mil.my  
 .name.my
 
-To enjoy the sale make sure you use coupon code &#8220;**crazy2early&#8221;**
+To enjoy the sale make sure you use coupon code "**crazy2early"**
 
 via [Zenpipe][1]
 

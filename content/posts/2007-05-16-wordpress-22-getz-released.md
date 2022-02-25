@@ -8,7 +8,7 @@ dsq_thread_id:
   - 936138361
 
 ---
-Earlier this morning WordPress 2.2 _**&#8220;Getz&#8221;**_ was officially released.
+Earlier this morning WordPress 2.2 _**"Getz"**_ was officially released.
 
 Over 200 bug fixes, widget support, ATOM support, blogger importer, speed optimization and a few other goodies bundled with this release.
 

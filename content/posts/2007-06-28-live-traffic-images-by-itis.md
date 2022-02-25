@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Stay up2date with the current traffic situations around KL with [ITIS (Integrated Transport Information system).][5]
 
-There are 2 services I like from ITIS. First is the &#8220;[traffic images][6]&#8221; which are live images from the various CCTV cameras setup along our roads. Second being &#8220;[real time traffic information][7]&#8221; areas.
+There are 2 services I like from ITIS. First is the "[traffic images][6]" which are live images from the various CCTV cameras setup along our roads. Second being "[real time traffic information][7]" areas.
 
 Areas currently covered in traffic images;
 

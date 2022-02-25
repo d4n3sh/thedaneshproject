@@ -24,11 +24,11 @@ You will need Putty to get started. Putty is a popular free win32 based SSH/Teln
 
 [Putty Home][2] | [Putty Download][3]
 
-Run Putty, key in the address for your Linux box. In this example &#8220;10.99.34.6&#8221; &#8220;Pandora&#8221; is the Linux box hosting VM and on the VM &#8220;192.168.66.100&#8221; the is an Oracle database running on RHEL 3. The VM is setup with host only networking so it has no access beyond the host machine &#8220;Pandora&#8221;.
+Run Putty, key in the address for your Linux box. In this example "10.99.34.6" "Pandora" is the Linux box hosting VM and on the VM "192.168.66.100" the is an Oracle database running on RHEL 3. The VM is setup with host only networking so it has no access beyond the host machine "Pandora".
 
 [![putty1.png][4]][5]
 
-Look for the SSH tree entry in the menu to the left. Expand it and go to &#8220;Tunnels&#8221;.
+Look for the SSH tree entry in the menu to the left. Expand it and go to "Tunnels".
 
 [![putty2.png][6]][7]
 
@@ -37,15 +37,15 @@ Fill the the required information and click add.
 **Source Port:** 1521  
 **Destination:** 192.168.66.100:1521
 
-&#8220;Source port&#8221; is the port Putty will listen on for incoming connections.  
-&#8220;Destination&#8221; is the destination port we are trying to access. In this example the Oracle listener is listening on port 1521 for incoming traffic so we use that.  
-&#8220;1521&#8221; is the standard Oracle listener port.
+"Source port" is the port Putty will listen on for incoming connections.  
+"Destination" is the destination port we are trying to access. In this example the Oracle listener is listening on port 1521 for incoming traffic so we use that.  
+"1521" is the standard Oracle listener port.
 
 [![putty3.png][8]][9]
 
 Remember to save the session in the session page.
 
-Open Putty and login to the Linux box &#8220;Pandora&#8221; and port forwarding should be up.
+Open Putty and login to the Linux box "Pandora" and port forwarding should be up.
 
 That's it, have fun.
 

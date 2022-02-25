@@ -16,13 +16,13 @@ I love McDonald burgers, explains the few pounds I've gained but that's besides 
 
 I have a habit of clearing out my trayÃ‚Â into the designated bins after my meals. But somehow I tend to receive weird looks and the ocasional laugh from the patrons there. What's so funny?
 
-Wait, I get it!! &#8220;I pay money, why must I do it myself?&#8221; Well my friend,Ã‚Â sure mcDonald's staff will clear your leftover traysÃ‚Â for you butÃ‚Â my question is, do you really understand the meaning of fast food?
+Wait, I get it!! "I pay money, why must I do it myself?" Well my friend,Ã‚Â sure mcDonald's staff will clear your leftover traysÃ‚Â for you butÃ‚Â my question is, do you really understand the meaning of fast food?
 
 You order, your eat, you clear and then you leave making way for the next patron in line. That's what comes to my mind. Fast isn't it?
 
 The staff are not there just to clean up after you but instaed assist you. If you messed the table with sauce they wipe it for you, if you spilled your drink they clean it up for you and now you expect them to clean up your trays too? It's fast food, you should make way for other patrons to come and enjoy their fast meal.
 
-I'm sorry if I ofended anyone but this is how I feel, it's anoying to see how ignorent we can become just by saying &#8220;I paid&#8221;
+I'm sorry if I ofended anyone but this is how I feel, it's anoying to see how ignorent we can become just by saying "I paid"
 
 It's such a simple act, surely we can do it right? We life in a siviliced world so stop laughing cause the jokes on you!!
 

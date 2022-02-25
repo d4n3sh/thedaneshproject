@@ -14,15 +14,15 @@ Thought it would be interesting to find out how people name their computers. I'v
 
 My computers;
 
-1. My Linux Notebook is &#8220;Pandora&#8221;. Weapon of mass destruction.
+1. My Linux Notebook is "Pandora". Weapon of mass destruction.
 
-2. My ipCOP server is now &#8220;angel&#8221;. It used to be &#8220;vagina&#8221;, not the best name when you stay with your family.
+2. My ipCOP server is now "angel". It used to be "vagina", not the best name when you stay with your family.
 
-3. My Linux Desktop is named &#8220;bespin&#8221;.
+3. My Linux Desktop is named "bespin".
 
-4. My file/web server goes by &#8220;nosebleed&#8221; because some content on it will give you a nosebleed.
+4. My file/web server goes by "nosebleed" because some content on it will give you a nosebleed.
 
-5. My WinXP desktop goes by &#8220;junk&#8221;. Need I say more?
+5. My WinXP desktop goes by "junk". Need I say more?
 
 6. My office notebook goes by abubu. I have not idea why I chose that name.
 

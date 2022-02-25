@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Want to know how long your Linux box has been up for?
 
-Simple, just run the &#8220;uptime&#8221; command and you will be rewarded with the answer plus a bit more.
+Simple, just run the "uptime" command and you will be rewarded with the answer plus a bit more.
 
 `8:58pm  up  19:54,  1 user,  load average: 0.47, 0.62, 0.35`
 

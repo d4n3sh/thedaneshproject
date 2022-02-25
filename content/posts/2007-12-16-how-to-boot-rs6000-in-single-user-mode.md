@@ -17,7 +17,7 @@ The fix the below fixed the problem.
   1. Restart the machine.
   2. Wait the the AIX splash screen to come up. Devices begin to initialize here.
   3. When you see the [keyboard] word on screen hit the F5 button or the 5 key depending on your console.
-  4. Choose &#8220;single user mode&#8221; when the maintenance screen comes up.
+  4. Choose "single user mode" when the maintenance screen comes up.
   5. Edit the /etc/filesystems file and remove the NFS entries.
   6. Reboot.
 

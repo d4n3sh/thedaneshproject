@@ -10,9 +10,9 @@ dsq_thread_id:
   - 892555237
 
 ---
-1. Download the Adobe AIR installer &#8221; AdobeAIRInstaller.bin &#8221; from <http://get.adobe.com/air/> . [[direct download][1]]
+1. Download the Adobe AIR installer " AdobeAIRInstaller.bin " from <http://get.adobe.com/air/> . [[direct download][1]]
 
-2. Give the installer execute rights by running &#8221; chmod +x &#8220;.
+2. Give the installer execute rights by running " chmod +x ".
 
 `danesh@jackal:/Desktop$ chmod +x AdobeAIRInstaller.bin`
 

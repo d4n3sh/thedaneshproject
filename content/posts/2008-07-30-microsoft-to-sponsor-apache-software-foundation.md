@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img style="max-width: 800px;" src="/wp-content/uploads/2008/07/ms-asf.jpg" alt="" />
 
-Microsoft has announced that it will sponsor ASF &#8220;Apache Software Foundation&#8221;. Yahoo and Google are already on board.
+Microsoft has announced that it will sponsor ASF "Apache Software Foundation". Yahoo and Google are already on board.
 
 Microsoft was quick to say that they will not ditch IIS as tremendous work is constantly being put into it. IIS 8 is already in development and native support for PHP is on the todo list.
 

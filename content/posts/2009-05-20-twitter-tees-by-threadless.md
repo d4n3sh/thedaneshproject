@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone" title="Twitter_Tees_By_Threadless" src="http://farm4.static.flickr.com/3626/3546677334_dc47731d9a.jpg" alt="" width="476" height="500" />][1]
 
-Twitter has partnered with Threadless to come out with &#8220;[Twitter Tees by Threadless][2]&#8220;. Twitter powered Tees where the design is decided by your Tweets.
+Twitter has partnered with Threadless to come out with "[Twitter Tees by Threadless][2]". Twitter powered Tees where the design is decided by your Tweets.
 
 This is cool,  The Threadless community actually votes for it's favourite Tweets. The popular Tweets then end up on Tees. This is something other Tee shirt companies don't quite do yet.
 

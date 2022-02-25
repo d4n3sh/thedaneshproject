@@ -24,7 +24,7 @@ Directory : /download/GNOME:/Community/openSUSE_10.2/[][1]
 
 <!--more-->Next step is to install the Pidgin package using YaST. Strart -> Computer -> Administrator Settings (Yast) -> Software Management .
 
-Search for &#8220;Pidgin&#8221; in the search box and then look for &#8220;Pidgin&#8221; in he result box to the right. Select Pidgin and libpurple and hit the Accept button.
+Search for "Pidgin" in the search box and then look for "Pidgin" in he result box to the right. Select Pidgin and libpurple and hit the Accept button.
 
 [![snapshot1.png][6]][7]
 

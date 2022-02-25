@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890141753
 
 ---
-The Gnome file manager Nautilus  has a cool dual pane view which makes moving/copying files much easier. Simply hit f3 to bring up the dual pane view, right click on a file and either move/copy the file to &#8220;other pane&#8221;. However, unlike KDE,  Gnome only allows you to move/copy to &#8220;home&#8221;, &#8220;desktop&#8221; and &#8220;other pane&#8221;.
+The Gnome file manager Nautilus  has a cool dual pane view which makes moving/copying files much easier. Simply hit f3 to bring up the dual pane view, right click on a file and either move/copy the file to "other pane". However, unlike KDE,  Gnome only allows you to move/copy to "home", "desktop" and "other pane".
 
 KDE does it slightly different. when you right click on a file you are be able to move/copy files to any location on the system . It also remembers you recently use destinations to save you time on your next move/copy.
 

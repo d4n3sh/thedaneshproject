@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Raj Kissu Rajendran from APIT, who is also a Google Summer Of Code participant gets featured in the local papers.
 
-Raj is working on the &#8220;[BLOB Streaming Support for phpMyAdmin][1]&#8221; project which enables the management of streaming content (audio, video) in and out of the MySQL database through phpMyAdmin. keep up with his progress
+Raj is working on the "[BLOB Streaming Support for phpMyAdmin][1]" project which enables the management of streaming content (audio, video) in and out of the MySQL database through phpMyAdmin. keep up with his progress
 
 This is what he had to say about the local OSS scene,
 

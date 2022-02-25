@@ -14,11 +14,11 @@ Without an auto complete feature like in BASH, AIX appears more complicated then
 
 Fortunately, accessing your command history is easyly acomplished in AIX and will save you a load of time.
 
-To start off, run &#8220;`set -o vi`&#8221; to set the shell to &#8220;_VI_&#8221; or &#8220;_Insert Mode_&#8221; mode.
+To start off, run "`set -o vi`" to set the shell to "_VI_" or "_Insert Mode_" mode.
 
 `[akuny][/users/jabas] # set -o vi`
 
-Next, hit the &#8220;Esc&#8221; key to get into VI mode. Once in vi mode follow the combinations below to scroll through your command history.
+Next, hit the "Esc" key to get into VI mode. Once in vi mode follow the combinations below to scroll through your command history.
 
 **Alt + <k>**key to go back
 

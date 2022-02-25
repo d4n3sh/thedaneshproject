@@ -12,7 +12,7 @@ dsq_thread_id:
 
 New to Linux? Need a good beginner book to be your companion?
 
-The Linux Command Line by &#8220;William E. Shotts, Jr.&#8221; , that's the book you need to get.
+The Linux Command Line by "William E. Shotts, Jr." , that's the book you need to get.
 
 The book's 522 pages will familiarize you to the command line and the many commands that you will use in the future.
 

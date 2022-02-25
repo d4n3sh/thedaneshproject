@@ -15,8 +15,8 @@ Some googling later it seem to be a BUG with the kernel. The fix, suggested to e
 The fix,
 
   1. vi /etc/boot/grub.conf
-  2. Add to the end of the kernel line. &#8220;clock=pit noapic nolapic&#8221;
-  3. reboot and check time. &#8220;watch date&#8221;
+  2. Add to the end of the kernel line. "clock=pit noapic nolapic"
+  3. reboot and check time. "watch date"
 
 <!--more-->
 

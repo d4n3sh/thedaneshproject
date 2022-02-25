@@ -12,10 +12,10 @@ dsq_thread_id:
 
 I've always felt that the default font size on Ubuntu was a bit too large for me so naturally that ended up being the first thing I tweaked every time I installed Ubuntu.
 
-Since there's no fonts option within the default &#8220;appearance&#8221; tool for Ubuntu, the workaround is to use the &#8220;gnome-tweak-tool&#8221;. Here's how.
+Since there's no fonts option within the default "appearance" tool for Ubuntu, the workaround is to use the "gnome-tweak-tool". Here's how.
 
 First, Install the Gnome tweak tool.  
 `danesh@python:~$ sudo apt-get install gnome-tweak-tool<br />
 ` 
 
-The, run the tool and edit your fonts size on the &#8220;fonts&#8221; tab.
+The, run the tool and edit your fonts size on the "fonts" tab.

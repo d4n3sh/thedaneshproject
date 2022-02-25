@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 Here's a quick way to access your environment variables from the CLI.
 
-User the &#8220;%&#8221; key in conjunction with your &#8220;<tab>&#8221; key to auto complete your environment variables.
+User the "%" key in conjunction with your "<tab>" key to auto complete your environment variables.
 
 `pandora:/ # echo $J <TAB><br />
 $JAVA_BINDIRÃ‚Â  $JAVA_HOMEÃ‚Â Ã‚Â Ã‚Â  $JAVA_ROOTÃ‚Â Ã‚Â Ã‚Â  $JDK_HOMEÃ‚Â Ã‚Â Ã‚Â Ã‚Â  $JRE_HOME<br />
@@ -21,4 +21,4 @@ $JAVA_BINDIRÃ‚Â  $JAVA_HOMEÃ‚Â Ã‚Â Ã‚Â  $JAVA_ROOT<br />
 pandora:/ # echo $JAVA_HOME<br />
 /usr/lib/jvm/java`
 
-The traditional way is to &#8220;`env | grep [variable name]`&#8220;
+The traditional way is to "`env | grep [variable name]`"

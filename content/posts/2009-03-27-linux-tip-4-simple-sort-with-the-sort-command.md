@@ -10,7 +10,7 @@ dsq_thread_id:
   - 897358349
 
 ---
-You can easily sort your outputs in Linux using the &#8220;sort&#8221; command. Simply pipe &#8220;|&#8221; your output to a &#8220;sort&#8221; command and you should see the sorted results.
+You can easily sort your outputs in Linux using the "sort" command. Simply pipe "|" your output to a "sort" command and you should see the sorted results.
 
 See sample usage below. This is just to start off, I've cover more in future posts.
 

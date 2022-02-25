@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Here's an awesome video by [Melih Bilgil][1] on the History of the Internet.
 
-From &#8220;Arpanet&#8221; to &#8220;Internet&#8221;, this video covers it all.
+From "Arpanet" to "Internet", this video covers it all.
 
 All the icons you see in the video were taken from [PICOL][2], the Pictorial Communication Language.
 

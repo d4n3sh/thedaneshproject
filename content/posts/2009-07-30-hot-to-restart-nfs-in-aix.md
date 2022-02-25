@@ -20,6 +20,6 @@ and to that the NFS service run,
 
 `startsrc -g nfs`
 
-To re-exports all shares or new share specified in the &#8220;exports&#8221; file run,
+To re-exports all shares or new share specified in the "exports" file run,
 
 `exportfs -av`

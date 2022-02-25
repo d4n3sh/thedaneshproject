@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [![opensuse-friendly.png][1]][2]
 
-openSUSE is an awesome OS but has a few annoyance. We will look at the Zenworks Management Daemon today. Somehow every time I install or update a package through YaST or the updater the the process will stall at &#8220;synchronizing with Zen&#8221; or something like that.
+openSUSE is an awesome OS but has a few annoyance. We will look at the Zenworks Management Daemon today. Somehow every time I install or update a package through YaST or the updater the the process will stall at "synchronizing with Zen" or something like that.
 
 I am not the first person to face this problem so hopefully openSUSE 10.3 which is coming out soon will address this.
 

@@ -49,7 +49,7 @@ ToÂ  install Ubuntu Tweak follow the steps below or download here.
 1. Import the key  
 `sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com FE85409EEAB40ECCB65740816AF0E1940624A220`
 
-2. Add the source below. My source file is &#8220;/etc/apt/sources.list.d/ubuntu-tweak.list&#8221;.
+2. Add the source below. My source file is "/etc/apt/sources.list.d/ubuntu-tweak.list".
 
 **Ubuntu 8.10 Intrepid Source:**  
 `<br />

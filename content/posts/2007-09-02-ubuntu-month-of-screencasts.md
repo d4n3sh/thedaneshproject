@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [![headerlogo.png][1]][2]
 
-Ubuntu has chosen September to be it's &#8220;Month Of Screencasts&#8221; for this year.
+Ubuntu has chosen September to be it's "Month Of Screencasts" for this year.
 
 One full length screencast will be release everyday by the [ScreencastTeam][3] for the whole month. A wide range of topics will be covered but mainly focusing at improving the user experience for new Ubuntu users or those looking to get into Ubuntu.
 

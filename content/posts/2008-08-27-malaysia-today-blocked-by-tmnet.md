@@ -24,7 +24,7 @@ Looks like our boys are at it again. Bastards, either their DNS is un-patched or
 
 If you're on streamyx and usingÃ‚Â  TMNET dns servers (202.188.0.133/202.188.1.5/etc&#8230;.) then Malaysia Today is off limits to you.
 
-Streamyx DNS servers are resolving malaysia-today.net to &#8220;127.0.0.1&#8221; .Ã‚Â  See screenshot
+Streamyx DNS servers are resolving malaysia-today.net to "127.0.0.1" .Ã‚Â  See screenshot
 
 [<img loading="lazy" class="alignnone size-medium wp-image-853" title="malaysia-today-blocked-dns" src="/wp-content/uploads/2008/08/malaysia-today-blocked-dns-500x398.png" alt="" width="500" height="398" srcset="/wp-content/uploads/2008/08/malaysia-today-blocked-dns-500x398.png 500w, /wp-content/uploads/2008/08/malaysia-today-blocked-dns.png 752w" sizes="(max-width: 500px) 100vw, 500px" />][3]
 

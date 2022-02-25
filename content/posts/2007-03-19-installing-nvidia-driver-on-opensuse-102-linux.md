@@ -46,7 +46,7 @@ Driver Source: ftp://download.nvidia.com/opensuse/10.2/
 ![][8] 
 
 9. Filter &#8211;> installation source. Select x11-video-nvidia and the appropriate kernel module.  
-Run &#8220;uname -r&#8221; to get the installed kernel version.
+Run "uname -r" to get the installed kernel version.
 
 <img loading="lazy" src="http://farm1.static.flickr.com/153/426788484_12cb5ff093.jpg?v=0" height="390" width="500" /> 
 
@@ -54,13 +54,13 @@ Run &#8220;uname -r&#8221; to get the installed kernel version.
 
 ![][9] 
 
-11. Once the installation is complete I suggest rebooting the machine. &#8220;Ctrl Backspace&#8221; will also work.
+11. Once the installation is complete I suggest rebooting the machine. "Ctrl Backspace" will also work.
 
 You will see an nVidia splash screen before the desktop comes up. This confirms the new nVidia drivers are loaded.
 
 Installation instructions for other platforms are available at [here][10].
 
-I updated my openSUSE 10.2 box at home last night after a fresh install. Too bad I'm stuck with an old 17&#8221; CRT as my LCD died. Sigh&#8230;..
+I updated my openSUSE 10.2 box at home last night after a fresh install. Too bad I'm stuck with an old 17" CRT as my LCD died. Sigh&#8230;..
 
  [1]: http://farm1.static.flickr.com/161/426784522_d917155812.jpg?v=0
  [2]: http://farm1.static.flickr.com/155/426784528_29fe5eaeae.jpg?v=0

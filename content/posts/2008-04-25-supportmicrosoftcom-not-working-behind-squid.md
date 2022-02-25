@@ -23,7 +23,7 @@ header_access Accept-Encoding deny support.microsoft.com
 
 #> service squid restart
 
-The other way is to remove the tick from &#8220;Use HTTP1.1 through proxy connections&#8221; in IE's Advanced internet options tab. Beware that this might break other sites.
+The other way is to remove the tick from "Use HTTP1.1 through proxy connections" in IE's Advanced internet options tab. Beware that this might break other sites.
 
 Source: [Whirlpool.net.au][1]
 

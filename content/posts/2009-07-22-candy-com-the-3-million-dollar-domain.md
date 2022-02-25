@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Who said common names can't sell?
 
-[Candy.com][2] was bought by G&J Holdings for  a whopping USD 3million from the &#8220;Domain King&#8221;,  [Rick Schwartz][3]. WOW!!
+[Candy.com][2] was bought by G&J Holdings for  a whopping USD 3million from the "Domain King",  [Rick Schwartz][3]. WOW!!
 
 What does G&J Holdings do? Nothing but candies. A massive selection, from old to new and they're all online. On the downside, they don't do international orders.
 

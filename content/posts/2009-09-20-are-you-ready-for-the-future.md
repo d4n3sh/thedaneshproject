@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [youtube]http://www.youtube.com/watch?v=6ILQrUrEWe8[/youtube]
 
-An interesting &#8220;did you know?&#8221; video about the Social Networks world and how it's quickly becoming a part of us.  Amazing ha?
+An interesting "did you know?" video about the Social Networks world and how it's quickly becoming a part of us.  Amazing ha?
 
 So are you for Social Network or are you not?
 

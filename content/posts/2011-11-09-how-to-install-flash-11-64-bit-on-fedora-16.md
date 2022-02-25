@@ -21,7 +21,7 @@ Update you local yum repositories.
 Install the 64 bit Flash Plugin  
 `sudo yum -y install flash-plugin`
 
-Check if the install was successful. In Firefox, go to &#8220;about:plugins&#8221; in the address bar and look for &#8220;Shockwave Flash&#8221;. If installed you will see;
+Check if the install was successful. In Firefox, go to "about:plugins" in the address bar and look for "Shockwave Flash". If installed you will see;
 
     `File: libflashplayer.so<br />
     Version: Shockwave Flash 11.0 r1`

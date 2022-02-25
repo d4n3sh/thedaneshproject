@@ -10,7 +10,7 @@ dsq_thread_id:
 
 Let's face it, Nowadays we're always too busy to visit our folks. I'm guilty of the same crime 🙁
 
-I stumbled on to &#8220;See You Folks&#8221; today. Put together by 4 guys under 24 hours with the goal to raise awareness about death.
+I stumbled on to "See You Folks" today. Put together by 4 guys under 24 hours with the goal to raise awareness about death.
 
 Give it your parent's location, age and average visits and you'll know how many more times you'll get to visit your parent before they are gone for good. You might be shocked by the answer.
 

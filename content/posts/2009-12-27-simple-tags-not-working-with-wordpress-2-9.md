@@ -23,6 +23,6 @@ global $wp_version;<br />
 if ( strpos($wp_version, '2.7') !== false || strpos($wp_version, '2.8') !== false || strpos($wp_version, '2.9') !== false  ) {<br />
 require(dirname(__FILE__).'/2.7/simple-tags.client.php');`
 
-Basically add &#8220;|| strpos($wp_version, &#8216;2.9') !== false&#8221; at the end of the if statement.
+Basically add "|| strpos($wp_version, &#8216;2.9') !== false" at the end of the if statement.
 
  [1]: http://wordpress.org/extend/plugins/simple-tags/

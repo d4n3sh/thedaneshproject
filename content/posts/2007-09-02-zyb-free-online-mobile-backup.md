@@ -35,7 +35,7 @@ Currently ZYB will enables you to,
 
 This is a brilliant idea and I am surprised that no one had used it before till now. Please test the service if you are interested. I would love to hear your comments on this great tool.
 
-Watch a presentation on ZYB | Life titled &#8220;[Contact Is King!!][3]&#8221; at [ZYB's blog][4].
+Watch a presentation on ZYB | Life titled "[Contact Is King!!][3]" at [ZYB's blog][4].
 
 Source : ZYB
 

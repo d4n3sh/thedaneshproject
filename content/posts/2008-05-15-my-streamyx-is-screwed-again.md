@@ -12,9 +12,9 @@ dsq_thread_id:
 
 My [Streamyx][2] is screwed again. Actually it's been like that for a month now. The speed is nominal in the mornings but after 8pm the speed drops to 1/4 the normal. My last bandwidth test came up with 104.4 Kbits/download and 290Kbits/upload. Looks like someone's overselling bandwidth again, you think so? Or could it be a simple port overload?
 
-I reported the case last week and was assigned a case and an engineer. They call me up 1 day later to verify. I said no one showed up, they gave me a number to call. I called and was informed that the engineer should have already attended to me. Further investigation revealed that the engineer never showed up, he excuse was &#8220;there were too many students around the exchange box for me to work on it&#8221;, literally. That was it, I never heard back.
+I reported the case last week and was assigned a case and an engineer. They call me up 1 day later to verify. I said no one showed up, they gave me a number to call. I called and was informed that the engineer should have already attended to me. Further investigation revealed that the engineer never showed up, he excuse was "there were too many students around the exchange box for me to work on it", literally. That was it, I never heard back.
 
-Today, couple of days later I called Streamyx again. To my surprise the agent said my case was resolved and closed. I said &#8220;NO, it's still da same&#8221;. We went on again with the normal chat till she finally logged a new case and assigned a new engineer to the case. Also, I was advice to email some screen shots.
+Today, couple of days later I called Streamyx again. To my surprise the agent said my case was resolved and closed. I said "NO, it's still da same". We went on again with the normal chat till she finally logged a new case and assigned a new engineer to the case. Also, I was advice to email some screen shots.
 
 See for yourself,
 
@@ -71,7 +71,7 @@ My mail to streamyx,
 > 
 > The girl I spoke to earlier was really nice and assisted me well. I hope I will get the same support from your team.
 > 
-> I was also looking to upgrade my line to 4Mbps but they told me &#8220;port full&#8221; haa haa, I live in the city and there are no ports?
+> I was also looking to upgrade my line to 4Mbps but they told me "port full" haa haa, I live in the city and there are no ports?
 > 
 > Anyways please fix my issue, I appreciate your quick response.
 

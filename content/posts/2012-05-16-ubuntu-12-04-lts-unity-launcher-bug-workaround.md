@@ -14,7 +14,7 @@ The Unity launcher for Ubuntu 12.04 LTS Precise Pangolin has a bug. When auto hi
 
 There's no official fix out at the time of this post. Do you?
 
-Currently, the workaround to get the panel working is through a config tweak using the &#8220;compizconfig-settings-manager&#8221; tool. Here's how.
+Currently, the workaround to get the panel working is through a config tweak using the "compizconfig-settings-manager" tool. Here's how.
 
 1. Download compizconfig-settings-manager tool. Command line or from the app store.
 
@@ -24,9 +24,9 @@ or
 
 `danesh@python:~$ sudo apt-get install compizconfig-settings-manager`
 
-2. Launch the compizconfig-settings-manager. Go to &#8220;Desktop &#8211;>  Ubuntu Unity Plugin &#8211;> Experimental Tab&#8221;.
+2. Launch the compizconfig-settings-manager. Go to "Desktop &#8211;>  Ubuntu Unity Plugin &#8211;> Experimental Tab".
 
-Change the value for &#8220;Launcher Reveal Pressure&#8221; to &#8220;1&#8221; or what works for you. I have mine set at 10.
+Change the value for "Launcher Reveal Pressure" to "1" or what works for you. I have mine set at 10.
 
 Enjoy.
 

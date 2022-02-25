@@ -8,7 +8,7 @@ dsq_thread_id:
   - 911125298
 
 ---
-Reports are coming in that Twitter was hacked ealier today by an Iraninan organization known as the &#8220;Iranian Cyber Army&#8221;.
+Reports are coming in that Twitter was hacked ealier today by an Iraninan organization known as the "Iranian Cyber Army".
 
 Twitter was defaced and the image below is what you got when you accessed Twitter.
 

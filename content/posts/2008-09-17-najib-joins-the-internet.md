@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Najib launched his personal site yesterday. [Go to his site][2].
 
-I love the quote. &#8220;Each of us is one Malaysian, Together we are one Malaysia&#8221;
+I love the quote. "Each of us is one Malaysian, Together we are one Malaysia"
 
 If this is true then why does the segregation happen in Malaysia? What is all the hoo haa about then&#8230;. Don't just quote, make sure you practice it.
 

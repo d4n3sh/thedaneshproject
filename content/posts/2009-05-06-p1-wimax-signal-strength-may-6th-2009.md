@@ -20,7 +20,7 @@ CINR: **_13 dB_** &#8211;> Others are getting _**60 +- dB**_
 
 TX Power: 5+- &#8211;> Other are under 10. (Not too important)
 
-Called P1 up, need to call them back soon to carry out some &#8220;fine tuning&#8221; to improve my signal. Thank god their support speaks English well&#8230;. unlike Streamyx!!
+Called P1 up, need to call them back soon to carry out some "fine tuning" to improve my signal. Thank god their support speaks English well&#8230;. unlike Streamyx!!
 
 Take a look at the signal map below, my house is smack middle in the pocket(below the compass) where there is almost no signal.
 

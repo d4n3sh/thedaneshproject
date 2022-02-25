@@ -14,7 +14,7 @@ OpenOffice.org 3 Beta is out. The Beta is available to all those who wish to tes
 
 The new release is packed with tones of new improvements. [See the full feature list][2].
 
-  1. New &#8220;Start Centre&#8221;.
+  1. New "Start Centre".
   2. New icons.
   3. Zoom capabilities.
   4. Improved spreadsheet features. Columns now increased from 256 to 1024.

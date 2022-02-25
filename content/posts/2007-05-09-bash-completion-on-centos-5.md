@@ -13,16 +13,16 @@ I use the command line everyday at for work and home. Command switches a part of
 [Bash-completion][1] came along to help in this area. It displays a list of a available switched for a specific command by simply hitting the _**TAB key**_ twice. See screenshots below for clearer picture.
 
 1. Download the rpm . Currently no packages available from the CentOS repos.  
-_**#&#8221;wget http://www.caliban.org/files/redhat/RPMS/noarch/bash-completion-20060301-1.noarch.rpm&#8221;**_
+_**#"wget http://www.caliban.org/files/redhat/RPMS/noarch/bash-completion-20060301-1.noarch.rpm"**_
 
 2. Install the rpm  
-_**#&#8221;rpm -ivh bash-completion-20060301-1.noarch.rpm&#8221;**_
+_**#"rpm -ivh bash-completion-20060301-1.noarch.rpm"**_
 
 3. Start a new shell or execute the command below  
-_**#&#8221;. /etc/bash_completion&#8221;**_
+_**#". /etc/bash_completion"**_
 
 4. Test out your new shell enhancement  
-_**#&#8221;ls &#8212; \[TAB\]\[TAB\]&#8221;**_
+_**#"ls &#8212; \[TAB\]\[TAB\]"**_
 
 [![bash-completion1.jpg][2]][3]
 

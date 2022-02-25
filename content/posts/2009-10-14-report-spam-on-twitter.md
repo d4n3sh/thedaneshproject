@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-1786" title="Twitter-Report-Spam" src="/wp-content/uploads/2009/10/Twitter-Report-Spam.png" alt="Twitter-Report-Spam" width="277" height="126" />][1]
 
-@spam was how twitter initial kept track of those pesky spammers. Now, they launched the official &#8220;report spam&#8221; feature.
+@spam was how twitter initial kept track of those pesky spammers. Now, they launched the official "report spam" feature.
 
-To report someone as spam, simple go to their profile and click the &#8220;report [usename] for spam&#8221; link. This will prevent them from messaging or following you.
+To report someone as spam, simple go to their profile and click the "report [usename] for spam" link. This will prevent them from messaging or following you.
 
 All reported accounts will get forwarded to Twitter's officials for review before getting banned.
 

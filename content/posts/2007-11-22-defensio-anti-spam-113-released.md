@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Defensio anti spam plugin version 1.1.3 for WordPress was released yesterday to fix a few bugs.
 
-This update fixes the broken link issue in the WordPress admin dashboard activity area. See Bug Report. The link was still pointing the the old directory structure &#8220;/defensio/&#8221;, the fix will change this to &#8220;/defensio-anti-spam&#8221;.
+This update fixes the broken link issue in the WordPress admin dashboard activity area. See Bug Report. The link was still pointing the the old directory structure "/defensio/", the fix will change this to "/defensio-anti-spam".
 
 There are still a few pending issues I wrote about in my [previous post][2] which the Defensio team is working to resolve now. Thanks Carl Mercier
 

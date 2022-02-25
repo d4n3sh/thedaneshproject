@@ -16,7 +16,7 @@ Gaim is a multi-protocol instant messaging (IM) client for Linux, BSD, MacOS X, 
 
 Gaim is now known as Pidgin. The name change was a result of the long awaited settlement between AOL and Gaim. This was a long process and no beta releases were made public during this period due to legal implications.
 
-**&#8220;Pidgin&#8221;** was a name deliberately chosen. See what it means, [Pidgin at Wikipedia][1]
+**"Pidgin"** was a name deliberately chosen. See what it means, [Pidgin at Wikipedia][1]
 
 The official release Pidgin 2.0.0 will be released in the coming weeks.
 

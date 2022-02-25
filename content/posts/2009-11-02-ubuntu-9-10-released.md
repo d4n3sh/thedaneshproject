@@ -8,7 +8,7 @@ pvc_views:
 ---
 [<img loading="lazy" class="alignnone size-medium wp-image-1814" title="Ubuntu_9.10" src="/wp-content/uploads/2009/11/Ubuntu_9.10-450x149.png" alt="Ubuntu_9.10" width="450" height="149" srcset="/wp-content/uploads/2009/11/Ubuntu_9.10-450x149.png 450w, /wp-content/uploads/2009/11/Ubuntu_9.10.png 911w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
-Ubuntu 9.10 codenamed &#8220;Karmic Koala&#8221; was released 2 days back.
+Ubuntu 9.10 codenamed "Karmic Koala" was released 2 days back.
 
 Grab a copy from a local Malaysian mirror listed below or from the official [download page][2].
 

@@ -14,7 +14,7 @@ dsq_thread_id:
 
 500 Megawatts or 14 million fluorescent bulbs at 40 watt each. That's what [Earth Hour Malaysia 2009][1] managed to save according to [TheStar][2]. Yes TNB lost some money, but do they really need it?
 
-Earth Hour was good, I had a BBQ at home with my family while watching the lights go out. What made it even better was the fact that my neighbors, not the &#8220;save the earth&#8221; kind (I WAS SO WRONG 🙁 ) had their lights out too. This caused a chain reaction and almost all the houses in my housing area followed and had their lights out.
+Earth Hour was good, I had a BBQ at home with my family while watching the lights go out. What made it even better was the fact that my neighbors, not the "save the earth" kind (I WAS SO WRONG 🙁 ) had their lights out too. This caused a chain reaction and almost all the houses in my housing area followed and had their lights out.
 
 From my home I watched KLCC and KL TOWER go dark, it was simply awesome!!
 

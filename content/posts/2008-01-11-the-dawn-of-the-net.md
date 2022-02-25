@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Ever wondered what the internet is and how it works or maybe how your notebook connects to the internet to shower you will all your desired content?
 
-CypherHackz had posted a 2 part video appropriately titled &#8220;The Dawn Of The Net&#8221; on his blog which I found to be super educational to those wanting to understand what happens and how in the network. From the time you hit enter right up till the page is displayed in your browser.
+CypherHackz had posted a 2 part video appropriately titled "The Dawn Of The Net" on his blog which I found to be super educational to those wanting to understand what happens and how in the network. From the time you hit enter right up till the page is displayed in your browser.
 
 Part 1/2
 

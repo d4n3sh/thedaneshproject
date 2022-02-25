@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890102987
 
 ---
-As promise, gOS 2.0 Beta1 codename &#8220;Rocket&#8221; was released today.
+As promise, gOS 2.0 Beta1 codename "Rocket" was released today.
 
 ![gOS Rocket][1] 
 
@@ -16,7 +16,7 @@ If you don't already know, gOS is Ubuntu based and runs on theÃ‚Â  [Enlight
 
 Rocket is targeted for low cost distribution thus works reasonably well on low end machines. Currently all you need to run Rocket is 1GHz P3 with 256MB ram. [gOS on Wikipedia][3]
 
-Rocket now supports virtual desktops for easy application grouping across desktops, Online storage from [Box.net][4], Adobe Flash preloaded, gBooth webcam software and the &#8220;Exalt&#8221; WiFi manager for improved stablity. You will also realize some cosmetic changes to the desktop environment.
+Rocket now supports virtual desktops for easy application grouping across desktops, Online storage from [Box.net][4], Adobe Flash preloaded, gBooth webcam software and the "Exalt" WiFi manager for improved stablity. You will also realize some cosmetic changes to the desktop environment.
 
 I'm currently downloading gOS Rocket via torrents. Get your copy here.
 

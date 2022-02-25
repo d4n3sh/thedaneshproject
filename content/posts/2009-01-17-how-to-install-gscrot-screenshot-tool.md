@@ -27,18 +27,18 @@ Update [Â  Feb 16 2009 ] &#8211; [GScrot has been renamed to Shutter][1].
 
 I'll walk you through the process of installing GScrot on Ubuntu 8.10. I'm more of a command line guy so if you need a GUI version [look here][3].
 
-Create a new apt-repository source file. I'll call itÂ  gscrot.list and place it in the &#8220;/etc/apt/source.list.d/&#8221; directory.
+Create a new apt-repository source file. I'll call itÂ  gscrot.list and place it in the "/etc/apt/source.list.d/" directory.
 
 Add the following lines to the /etc/apt/source.list.d/gscrot.list file you just created.
 
 `deb http://ppa.launchpad.net/gscrot/ubuntu intrepid main<br />
 deb-src http://ppa.launchpad.net/gscrot/ubuntu intrepid main`
 
-Next, run &#8220;apt-get update&#8221; to update the apt-repository database.
+Next, run "apt-get update" to update the apt-repository database.
 
 `root@python:/etc/apt/sources.list.d# apt-get update`
 
-Run &#8220;apt-get install gscrot&#8221; to download and install GScrot.
+Run "apt-get install gscrot" to download and install GScrot.
 
 `root@python:/etc/apt/sources.list.d# apt-get install gscrot`
 

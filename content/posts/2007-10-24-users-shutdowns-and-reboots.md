@@ -8,9 +8,9 @@ dsq_thread_id:
   - 889737866
 
 ---
-The &#8220;last&#8221; command. Not many people I know use it but there are a quite a few things one could do with it often. Let's look at users, shutdowns and reboots.
+The "last" command. Not many people I know use it but there are a quite a few things one could do with it often. Let's look at users, shutdowns and reboots.
 
-The &#8220;last or lastb&#8221; command is typically used to show a listing of the last logged in/out users. To view when a particular user last logged in run &#8220;last [username]&#8221;. See output below.
+The "last or lastb" command is typically used to show a listing of the last logged in/out users. To view when a particular user last logged in run "last [username]". See output below.
 
 <pre>[root@nosebleed ~]# last danny
 danny    pts/1        ftmtj1s.crib     Wed Oct 24 16:51   still logged in
@@ -31,7 +31,7 @@ danny    pts/0        python.crib      Thu Oct 18 15:22 - 15:23  (00:01)
 danny    pts/1        192.168.0.65     Thu Oct 18 15:13 - 15:18  (00:05)
 danny    pts/1        192.168.0.65     Thu Oct 18 14:38 - 15:13  (00:35)</pre>
 
-Each time time the &#8220;reboot&#8221; command is executed the &#8220;reboot&#8221; user logs in. Running the &#8220;last reboot&#8221; command would then show the last reboot events. See out put below.
+Each time time the "reboot" command is executed the "reboot" user logs in. Running the "last reboot" command would then show the last reboot events. See out put below.
 
 <pre>[root@nosebleed ~]# last reboot
 reboot   system boot  2.6.18-8.1.14.el Wed Oct 24 15:51          (01:28)
@@ -42,7 +42,7 @@ reboot   system boot  2.6.18-8.1.10.el Tue Oct 16 23:00         (1+14:41)
 reboot   system boot  2.6.18-8.1.10.el Tue Oct 16 21:05          (01:52)
 reboot   system boot  2.6.18-8.1.10.el Fri Oct 12 22:27         (3+16:41)</pre>
 
-If you only need halt and shutdown information. Running &#8220;last -x | grep down&#8221; will do that. See output below.
+If you only need halt and shutdown information. Running "last -x | grep down" will do that. See output below.
 
 <pre>[root@nosebleed ~]# last -x | grep down
 shutdown system down  2.6.18-8.1.10.el Tue Oct 23 16:58 - 17:22 (1+00:24)

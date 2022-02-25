@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Malaysia has been busy with it's politicians since the recent elections. Murder trials, sexual harassment, misconduct in law enforcement and the list goes on.
 
-Ridicules if you ask me. Why do &#8220;upper class&#8221;, &#8220;educated&#8221;, &#8220;leaders&#8221; perform such &#8220;low class&#8221; acts? Are they no more then upper class beggars and prostitutes?
+Ridicules if you ask me. Why do "upper class", "educated", "leaders" perform such "low class" acts? Are they no more then upper class beggars and prostitutes?
 
 Well anyway, back to my post. My dad spends most of his day surfing the net for inside on the local political scene. His constant thirst for knowledgeÃ‚Â  drives my mom insane, especially when he skips his meals. 64 years old but the mind of a 20 year old.
 

@@ -25,7 +25,7 @@ Either manually add the lines above to the **/etc/apt/source.list.d/dropbox.list
 root@dingo:~# echo "deb-src http://linux.getdropbox.com/ubuntu intrepid main" >> /etc/apt/sources.list.d/dropbox.list<br />
 root@dingo:~# cat /etc/apt/sources.list.d/dropbox.list`
 
-2. Update your packages list. Run &#8220;**apt-get update**&#8220;.
+2. Update your packages list. Run "**apt-get update**".
 
 `root@dingo:~# apt-get update<br />
 .............<br />
@@ -52,7 +52,7 @@ Reading package lists... Done`
 &#8230;&#8230;.  
 Setting up nautilus-dropbox (0.5.0-1) &#8230;
 
-4. Restart nautilus to start Dropbox. You will see a new Dropbox icon in your system tray. Right click on it and select &#8220;**start dropbox**&#8220;. The daemon will download the binaries required and start the registration process.
+4. Restart nautilus to start Dropbox. You will see a new Dropbox icon in your system tray. Right click on it and select "**start dropbox**". The daemon will download the binaries required and start the registration process.
 
 `root@dingo:~# killall nautilus`
 

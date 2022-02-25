@@ -19,7 +19,7 @@ Here's how you unlock all worlds.<!--more-->
 1. Launch Angry Birds and go to the world select screen.  
 2. Select a locked world on the screen. ( The one with a pad-lock 😀 )  
 3. Hit back button all the way out of Angry Birds.  
-4. Launch Angry Birds again and when the &#8220;Play&#8221; button appears, keep taping it till you get into your locked world.  
+4. Launch Angry Birds again and when the "Play" button appears, keep taping it till you get into your locked world.  
 5. If step 4 worked, you should now be inside the locked worlds stage select screen.  
 6. REMEMBER!! To keep it unlocked just pass the first world level of each locked world.
 

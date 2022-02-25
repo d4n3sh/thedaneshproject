@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 You decided to switch desktops to Linux and now you can't access your office IE only intranet. What do you do?
 
-Well, you could IEs4Linux on WINE. [WINE][1] is a opensource Windows API implementation for the Linux platform and [IEs4Linux][2] is the &#8220;installer&#8221; which will download, install and get IE to work with WINE.
+Well, you could IEs4Linux on WINE. [WINE][1] is a opensource Windows API implementation for the Linux platform and [IEs4Linux][2] is the "installer" which will download, install and get IE to work with WINE.
 
 1. Add the WINE repository for openSUSE 10.3.
 

@@ -16,13 +16,13 @@ Google turns 10 today. I never realized 10 years passed so quick.
 
 From a US100 thousand dollar startup company operating out of a garage to a 160 Billion dollar company operating from the [GooglePlex][2]. [See the old Google page][3].
 
-Today Google has it's hands in almost everything. Ads, docs, search, groups, images, maps and the list goes on. The latest being their home grown browser &#8220;[Google Chrome][4]&#8221; and their mobile platform &#8220;[Android][5]&#8220;.
+Today Google has it's hands in almost everything. Ads, docs, search, groups, images, maps and the list goes on. The latest being their home grown browser "[Google Chrome][4]" and their mobile platform "[Android][5]".
 
-Google was not the first but certainly the best at what it did. &#8220;SEARCH&#8221;
+Google was not the first but certainly the best at what it did. "SEARCH"
 
 I love Google for one reason, every product from them has always been clean and slim. Just like the Google search page. This is also be seen in their latests browser Chrome, it's a multi process browser without the bloat. It's future however is still undecided.
 
-Scenario: 10 years from now, chances are Google will be everywhere and in everything. What happens if google suddenly get plugged out, &#8220;POOF&#8221; gone? What do you think would happen?
+Scenario: 10 years from now, chances are Google will be everywhere and in everything. What happens if google suddenly get plugged out, "POOF" gone? What do you think would happen?
 
  [1]: /wp-content/uploads/2008/09/google-10.png
  [2]: http://en.wikipedia.org/wiki/Googleplex

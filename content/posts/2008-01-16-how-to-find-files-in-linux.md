@@ -8,7 +8,7 @@ dsq_thread_id:
   - 896237097
 
 ---
-Need to find files older than certain time frame? This will help, &#8220;find [dir] -type f -mtime +[24hours*n] &#8221;
+Need to find files older than certain time frame? This will help, "find [dir] -type f -mtime +[24hours*n] "
 
 Examples,
 

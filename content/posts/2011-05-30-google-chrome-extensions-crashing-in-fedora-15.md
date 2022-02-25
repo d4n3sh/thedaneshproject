@@ -18,8 +18,8 @@ The issue is caused by SELinux and the quick fix is to disable SELinux. Here's h
 
 2. cd to /etc/selinux/
 
-3. vi the &#8220;config&#8221; file.
+3. vi the "config" file.
 
-4. Change &#8220;SELINUX=enforcing&#8221; to &#8220;SELINUX=disabled&#8221;
+4. Change "SELINUX=enforcing" to "SELINUX=disabled"
 
 5. Reboot, launch Chrome and your extensions should be working fine.

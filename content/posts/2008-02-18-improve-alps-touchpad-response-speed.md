@@ -28,7 +28,7 @@ sample output;
 
 <pre>vi /etc/X11/xorg.conf</pre>
 
-4. Navigate to the InputDevice Section and look for the &#8220;synaptics&#8221; driver portion.
+4. Navigate to the InputDevice Section and look for the "synaptics" driver portion.
 
 5. Replace everything between the Identifier line and EndSection with the settings below.  
 <!--more-->

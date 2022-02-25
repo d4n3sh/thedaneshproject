@@ -12,5 +12,5 @@ dsq_thread_id:
 ---
 <p style="text-align: center;">
   <p>
-    SEE WHAT'S NEW and follow the &#8220;<a href="http://www.facebook.com/event.php?eid=32763792317">openSUSE 11.1 Worldwide Release</a>&#8221; on Facebook.
+    SEE WHAT'S NEW and follow the "<a href="http://www.facebook.com/event.php?eid=32763792317">openSUSE 11.1 Worldwide Release</a>" on Facebook.
   </p>

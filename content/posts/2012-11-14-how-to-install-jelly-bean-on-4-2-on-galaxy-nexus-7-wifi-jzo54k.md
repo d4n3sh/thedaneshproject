@@ -31,7 +31,7 @@ flash-base.sh will only flash the bootloader and radio.
 
 5. Make user USB debugging is on for your Nexus 7.
 
-Settings &#8211;> Developer Options &#8211;> &#8220;On&#8221; &#8211;> USB Debugging &#8211;> &#8220;On&#8221;
+Settings &#8211;> Developer Options &#8211;> "On" &#8211;> USB Debugging &#8211;> "On"
 
 6. Boot into fastboot
 

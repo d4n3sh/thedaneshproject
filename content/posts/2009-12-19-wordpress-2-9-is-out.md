@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Just finished updating to WordPress 2.6 today. Here's a few features which caught my extension.
 
-  * There's a new recycle bin feature now called &#8220;trash&#8221;. You get to undelete posts, you get the idea.
+  * There's a new recycle bin feature now called "trash". You get to undelete posts, you get the idea.
   * There's a new built in image editor. You can crop,flip,scale any image you upload.
   * Batch plugin updates. Finally, you get to update all your outdated plugins in one go.
   * [Oembed][1], embed videos directly into posts now without the need for extra plugins. Just paste your video's url and wordpress will automatically embed it into your post.

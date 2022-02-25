@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889806578
 
 ---
-Today my DBA reported that the server she was working on was spitting out &#8220;too many open files&#8221; errors and no new processes could be started.
+Today my DBA reported that the server she was working on was spitting out "too many open files" errors and no new processes could be started.
 
 This is a common problem with DB servers with heavy transactions. In my environment there are 6 DB instances running on the server. No quite the optimized setup I would say.
 
@@ -41,7 +41,7 @@ or
     
     ~# 10325
 
-4. Edit the kernel paramneter file /etc/sysctl.conf and add line &#8220;fs.file-max=[new value]&#8221; to it.
+4. Edit the kernel paramneter file /etc/sysctl.conf and add line "fs.file-max=[new value]" to it.
 
     ~# vi /etc/sysctl.conf
     

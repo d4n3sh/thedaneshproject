@@ -14,11 +14,11 @@ dsq_thread_id:
 
 1. Download Adobe AIR 1.5 at <http://get.adobe.com/air/> or use the [direct Link][1] .
 
-2. Assign execute rights toÂ  the &#8220;AdobeAIRInstaller.bin&#8221;file to start the installer.
+2. Assign execute rights toÂ  the "AdobeAIRInstaller.bin"file to start the installer.
 
 `danesh@python:~/Desktop$ chmod +x AdobeAIRInstaller.bin`
 
-3. ExecuteÂ  the &#8220;AdobeAIRInstaller.bin&#8221; file to start the installer.
+3. ExecuteÂ  the "AdobeAIRInstaller.bin" file to start the installer.
 
 `danesh@python:~/Desktop$ ./AdobeAIRInstaller.bin`
 

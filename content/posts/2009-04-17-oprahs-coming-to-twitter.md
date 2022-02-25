@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Twitter's gonna be overwhelmed by traffic today. Oprah's coming to Twitter!!
 
-Oprah will twit for her first time today accompanied by Ashton Kutcher &#8220;The King Of Twits&#8221; live from here show.
+Oprah will twit for her first time today accompanied by Ashton Kutcher "The King Of Twits" live from here show.
 
 Twiiter's already super huge following and Oprah's millions of fans are surely gonna create a buzz. Oprah's also gonna bring in alot of new users. Uncles, Aunties, Moms and Dads who thought the net was a waste of time will now want to jump online cause Oprah's there too!! This can't be a bad thing can it?
 

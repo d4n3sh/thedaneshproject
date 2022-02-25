@@ -25,9 +25,9 @@ See the fix on the next page;<!--more-->
 1. Start &#8211;> run &#8211;> regedit.exe  
 2. HKEY\_LOCAL\_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{GUID}  
 3. {GUID} sub-key refers to the network adapter that is having the issue. In my case my Intel Pro 2200BG card.  
-4. Add a new DWORD (32bit) value and rename it to &#8220;DhcpConnDisableBcastFlagToggle&#8221;.  
-5. Modify the &#8220;DhcpConnDisableBcastFlagToggle&#8221; key and change the value to &#8220;1&#8221;.  
-6. Modify the &#8220;DhcpConnForceBroadcastFlag&#8221; key and change the value to &#8220;0&#8221;.  
+4. Add a new DWORD (32bit) value and rename it to "DhcpConnDisableBcastFlagToggle".  
+5. Modify the "DhcpConnDisableBcastFlagToggle" key and change the value to "1".  
+6. Modify the "DhcpConnForceBroadcastFlag" key and change the value to "0".  
 7. Reboot and test the connection again with DHCP. (The reboot is optional)
 
 [Read the full article at Microsoft][4]

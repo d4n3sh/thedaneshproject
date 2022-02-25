@@ -12,9 +12,9 @@ dsq_thread_id:
 
 Research found that 23% of college students have 1-3 tats,51% are pierced beyond the woman's ears and 36% of 18-29 year olds have tats today. WOW!!
 
-My favourite quote from the article read &#8220;Because you don't like it or it offends you or you're conservative in the workplace, I think you'll miss a whole talent pool of people who are very bright well educated, smart and free thinking.It's a shame. You never want to do that. You have to evolve.&#8221;
+My favourite quote from the article read "Because you don't like it or it offends you or you're conservative in the workplace, I think you'll miss a whole talent pool of people who are very bright well educated, smart and free thinking.It's a shame. You never want to do that. You have to evolve."
 
-&#8220;It has to change, otherwise they're going to be out of a workforce,&#8221;
+"It has to change, otherwise they're going to be out of a workforce,"
 
 Read the full article at [CBS NEWS][1]
 

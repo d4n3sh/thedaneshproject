@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Yahoo! Open Hack Day (USA) is scheduled for 12th-13th September 2008 and one lucky Malaysian stands a chance to participate in the event which will be held at Yahoo's HQ in Sunnyvale, CA. All paid for by Yahoo.
 
-To qualify simply complete [this form][2] and have it submitted to <sea-ydn@yahoo-inc.com> with the subject line reading _**&#8220;Yahoo! Open Hack Day Application from Malaysia&#8221;**_ by 5pm, 22nd August 2008.
+To qualify simply complete [this form][2] and have it submitted to <sea-ydn@yahoo-inc.com> with the subject line reading _**"Yahoo! Open Hack Day Application from Malaysia"**_ by 5pm, 22nd August 2008.
 
 The form basically is a gage to where you stand in the rapidly evolving world of web development. Especially through Yahoo's many web services.
 

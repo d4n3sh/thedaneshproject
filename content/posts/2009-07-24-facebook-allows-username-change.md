@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Not too long ago Facebook introduced [usernames][2]. A feature that made your Facebook profile URL more meaningful. However, at the time Facebook only allowed only one user name change. So if you chose a bad user name like [these people][3] did, you just had to suck it up and live with your mistake.
 
-Fortunately Facebook had a change of mind and now users can change their user name. Changing the user name is done from the &#8220;Account Settings&#8221; page under &#8220;Username&#8221;. However, Facebook is still not opening up the flood gates. You may only change your user name once so make sure to choose wisely this time.
+Fortunately Facebook had a change of mind and now users can change their user name. Changing the user name is done from the "Account Settings" page under "Username". However, Facebook is still not opening up the flood gates. You may only change your user name once so make sure to choose wisely this time.
 
 From what I see Facebook has to set a limit on the number of times user name changes are permitted. Spammers would surely abuse the feature if it were left open. What do you think?
 

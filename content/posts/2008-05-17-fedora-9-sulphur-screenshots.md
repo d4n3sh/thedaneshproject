@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-570" title="fedora installer" src="/wp-content/uploads/2008/05/fedora_installation1.png" alt="fedora installer" width="450" height="337" />][1]
 
-Here are some screen shots to support my previous post about [Fedora 9 &#8220;Sulphur&#8221;][2].
+Here are some screen shots to support my previous post about [Fedora 9 "Sulphur"][2].
 
   1. GNUMAN.org
   2. [The Coding Studio][3]

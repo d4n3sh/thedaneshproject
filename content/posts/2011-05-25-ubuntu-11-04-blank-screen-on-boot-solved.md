@@ -12,10 +12,10 @@ Try these steps if you are experiencing a blank screen during boot or install 
 
 1. LiveCD  boots into a blank screen.
 
-When you see the boot menu when you boot LiveCD, hit F6 and select the &#8220;nomodeset&#8221; option.
+When you see the boot menu when you boot LiveCD, hit F6 and select the "nomodeset" option.
 
 2. Boots into a blank screen after install.
 
-Reboot and keep your finger on the &#8220;SHIFT&#8221; key till you get the grub menu. Highlight the first entry and replace &#8220;quiet splash&#8221; with &#8220;nomodeset&#8221; .  Hit CTRL + X to continue booting. Once logged in install the latest Graphics drivers. _System -> Administration -> Additional Drivers_
+Reboot and keep your finger on the "SHIFT" key till you get the grub menu. Highlight the first entry and replace "quiet splash" with "nomodeset" .  Hit CTRL + X to continue booting. Once logged in install the latest Graphics drivers. _System -> Administration -> Additional Drivers_
 
 _DONE. Hope it works for you, it did for me._
