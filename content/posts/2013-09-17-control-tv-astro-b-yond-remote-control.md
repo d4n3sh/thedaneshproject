@@ -28,6 +28,4 @@ Method 2:
 
 Source: [Astro's Remore Setup Manual PDF][3]
 
- [1]: /wp-content/uploads/2013/09/astro-byond-remote-map.png
- [2]: /wp-content/uploads/2013/09/astro-byond-remote-tvcodes.png
  [3]: http://www.astro.com.my/Portals/_default/Skins/beyond/pdf/Setting_up_the_Astro_B.yond_Box.pdf
