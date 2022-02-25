@@ -38,5 +38,7 @@ pages:
 
 sast:
   stage: testing
+  only:
+    - main
 include:
 - template: Security/SAST.gitlab-ci.yml
