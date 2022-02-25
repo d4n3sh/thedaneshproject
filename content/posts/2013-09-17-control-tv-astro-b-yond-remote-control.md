@@ -1,12 +1,9 @@
 ---
 title: How to control your TV with your Astro B.yond remote control
 author: Danesh
-date: 2013-09-17T00:00:01+00:00
-dsq_thread_id:
-  - 1767781689
-
+date: 2013-09-17T00:00:01+00:00O
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-3312" alt="astro byond remote map" src="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png" width="450" height="567" srcset="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png 450w, /wp-content/uploads/2013/09/astro-byond-remote-map.png 470w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+{{< figure alt="astro byond remote map" src="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png" align="center" >}}
 
 Finally configured my B.yond remote to control my TV.
 
@@ -19,9 +16,7 @@ Method 1:
   3. If the code was valid the indicator will blink twice again.
   4. Press the **tv**(power) button, if your TV turns off then the code worked else repeat the steps and try another code from the table.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-3311" alt="astro-byond-remote-tvcodes" src="/wp-content/uploads/2013/09/astro-byond-remote-tvcodes-450x395.png" width="450" height="395" srcset="/wp-content/uploads/2013/09/astro-byond-remote-tvcodes-450x395.png 450w, /wp-content/uploads/2013/09/astro-byond-remote-tvcodes.png 492w" sizes="(max-width: 450px) 100vw, 450px" />][2]
-
-&nbsp;
+{{< figure alt="astro-byond-remote-tvcodes" src="/wp-content/uploads/2013/09/astro-byond-remote-tvcodes-450x395.png" align="center" >}}
 
 Method 2:
 
