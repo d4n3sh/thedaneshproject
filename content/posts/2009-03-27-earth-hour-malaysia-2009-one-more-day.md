@@ -16,6 +16,6 @@ dsq_thread_id:
 
 Mother earth has a fever and it's been going up, not sure how much longer she'll last. We are the aibiotics but somehow forgotten our purpose. It's time to step up and own up to our purpose on planet earth.
 
-Start with Earth Hour&#8230;
+Start with Earth Hour...
 
  [1]: /posts/earth-hour-malaysia-2009-turn-your-lights-off/

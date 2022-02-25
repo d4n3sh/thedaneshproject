@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Bet your Streamyx has been slow the past few days.
 
-Streamyx reported that the [SMW3][1] and [APCN2][2] submarine lines are experiencing service faults. Another anchor maybe? As a result, access to US and Hong Kong based sites are extra slow&#8230;&#8230;
+Streamyx reported that the [SMW3][1] and [APCN2][2] submarine lines are experiencing service faults. Another anchor maybe? As a result, access to US and Hong Kong based sites are extra slow......
 
 According to their announment, restoration work should have been completed by today but as of now there is no announcemnt nor improvement in browsing speeds to US and Hon Kong.
 

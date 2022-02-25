@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Tired? Can't focus? Can't think straight? Try Shiatsu Self Massage. Some of my pals said it help but I think it's all in your head :). You be the judge of that.
 
-Click on the thumbnail below to get a better pic&#8230;
+Click on the thumbnail below to get a better pic...
 
 [<img alt="Shiatsu Self Massage" id="image11" src="/techblog/wp-content/uploads/2006/12/shiatsu-self-massage.thumbnail.jpg" />][1]{.imagelink}
 

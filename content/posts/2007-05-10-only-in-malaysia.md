@@ -40,7 +40,7 @@ Some fun pics I got in my mail. Only in Malaysia.
 
 [![realcicakman.jpg][13]][14]
 
-8. Rempit Crew in action..sigh&#8230;.
+8. Rempit Crew in action..sigh....
 
 [![motorcyclistperformingawheelieatahighway.jpg][15]][16]
 
@@ -52,7 +52,7 @@ Some fun pics I got in my mail. Only in Malaysia.
 
 [![guan_0902a-1.jpg][19]][20]
 
-11.Ã¯Â¿Â½ Hmmmm&#8230; for sale?
+11.Ã¯Â¿Â½ Hmmmm... for sale?
 
 [![freeschoolinpenang.jpg][21]][22]
 

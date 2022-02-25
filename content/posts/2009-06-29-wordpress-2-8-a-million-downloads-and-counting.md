@@ -18,7 +18,7 @@ As of today, the download count stands at 1,175,317 and counting. It's pretty ob
 
 Check out the WordPress [download counter][2] page to stay up-to-date with the downloads.
 
-Have you upgraded to WordPress 2.8? Make sure you do&#8230;. [go here][3].
+Have you upgraded to WordPress 2.8? Make sure you do.... [go here][3].
 
  [1]: /wp-content/uploads/2009/06/WordPress-Download-Counter.png
  [2]: http://wordpress.org/download/counter/

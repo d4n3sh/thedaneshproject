@@ -14,7 +14,7 @@ dsq_thread_id:
 
 This explains the outage today.
 
-Malaysia Today has been hacked by the GasakdotNet group. They better have their backups ready&#8230;..
+Malaysia Today has been hacked by the GasakdotNet group. They better have their backups ready.....
 
 UPDATE: 19:10, Malaysia Today is back online.
 

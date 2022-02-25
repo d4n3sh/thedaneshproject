@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 The kind people at MPAA do it again. This time it's isohunt. Hopefully the be back soon.
 
-People have to wake up and smell the air. BitTorent ain't a medium to share files. It's up to the person sharing to keep the content clean. Will you shutdown a car company just cause one of it's drivers used it to illegal race? Think about it&#8230;
+People have to wake up and smell the air. BitTorent ain't a medium to share files. It's up to the person sharing to keep the content clean. Will you shutdown a car company just cause one of it's drivers used it to illegal race? Think about it...
 
 [Temporarily down (isohunt.com, torrentbox.com, podtropolis.com)][1]
 

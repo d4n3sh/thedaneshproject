@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Interested in building your own Linux penguin?
 
-Print the template in full size, put it togather and finally unleash the penguin within&#8230;.
+Print the template in full size, put it togather and finally unleash the penguin within....
 
 [![maquettetuxlinuxentouraky2.jpg][1]][2]
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 [<img loading="lazy" class="alignnone size-full wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="WordPress" width="125" height="125" />][1]
 
-WordPress 2.8.2 is out. It fixes an important XSS vulnerability. Make sure to upgrade quick before you get hijacked&#8230;.
+WordPress 2.8.2 is out. It fixes an important XSS vulnerability. Make sure to upgrade quick before you get hijacked....
 
 Either perform an auto update by going to " tools -> upgrade -> upgrade automatically " or upgrade the old fashion ways by [downloading WordPress][2].
 

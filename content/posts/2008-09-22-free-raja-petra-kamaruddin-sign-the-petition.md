@@ -14,7 +14,7 @@ dsq_thread_id:
 
 The dude speaks for us, he speaks about the truths that others don't want to get into. It's time we showed our gratitute.
 
-There's a petition to the PM which needs your attention. It's currently standing at a disappointing 16722 signatures. He needs more&#8230;..!!!
+There's a petition to the PM which needs your attention. It's currently standing at a disappointing 16722 signatures. He needs more.....!!!
 
 # [<span style="color: #3366ff;">Sign The Petition</span>][2]
 

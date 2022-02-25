@@ -16,7 +16,7 @@ They have done it, RPK has been detained under ISA. He was picked up at his home
 
 [<img loading="lazy" class="alignnone size-medium wp-image-904" title="ahmad-ismail" src="/wp-content/uploads/2008/09/ahmad-ismail.jpg" alt="" width="200" height="301" />][4]
 
-My question , if RPK deserves to be in ISA then why is the Penang bastard (see pic) not in ISA too? Goverment give me an answer&#8230;..
+My question , if RPK deserves to be in ISA then why is the Penang bastard (see pic) not in ISA too? Goverment give me an answer.....
 
  [1]: /wp-content/uploads/2008/09/rpk-isa.jpg
  [2]: http://politickler.com/posts/raja-petra-detained-under-isa/

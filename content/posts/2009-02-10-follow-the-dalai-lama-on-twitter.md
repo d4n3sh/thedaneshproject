@@ -20,7 +20,7 @@ If you are like me then peace is the only thing you wish. To me, religion, color
 
 Well, before I get carried away again by my emotions. If you wish, you can follow the Dalai Lama on twitter at [@OHHDL][2] or visit him at <http://www.dalailama.com>.
 
-Update: Sigh&#8230;. looks like [@OHHDL could be fake][3]. It's currentlyÂ  suspended.
+Update: Sigh.... looks like [@OHHDL could be fake][3]. It's currentlyÂ  suspended.
 
  [1]: http://www.dalailama.com/page.9.htm
  [2]: http://twitter.com/OHHDL

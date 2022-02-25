@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891038727
 
 ---
-Most of my movie and audio files are on my Linux box.  Currently, I use [ps3mediaserver][1] to get all my media across to my PS3 which is my media center. Aaaaa&#8230; the simplicity is just amazing.
+Most of my movie and audio files are on my Linux box.  Currently, I use [ps3mediaserver][1] to get all my media across to my PS3 which is my media center. Aaaaa... the simplicity is just amazing.
 
 PS3mediaserver is Java based and getting it set-up is a breeze. Here's how,
 

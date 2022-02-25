@@ -26,7 +26,7 @@ If you are a Linux user then make sure to register yourself and your Linux machi
 
 3. Check your mail or go here to register your Linux machines. There's a simple script which you can [download][3] and run from your Linux machine to register it.
 
-Let's start counting&#8230;.
+Let's start counting....
 
  [1]: http://www.flickr.com/photos/dannyportal/2370336745/ "thelinuxcounter by vwvr9, on Flickr"
  [2]: http://counter.li.org/ "The Linux Counter "

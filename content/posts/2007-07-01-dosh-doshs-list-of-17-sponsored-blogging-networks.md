@@ -14,7 +14,7 @@ My blog is still new and so am I to the whole blogging scene. I have to work har
 
 For now I'm thinking of looking at sponsered posts. I think it will help me discipline myself in the blogging space by forcing me to blog frequently and with quality.
 
-Are you into sponsored post? Tell me bout them&#8230;
+Are you into sponsored post? Tell me bout them...
 
 Source: [DoshDosh][4]
 

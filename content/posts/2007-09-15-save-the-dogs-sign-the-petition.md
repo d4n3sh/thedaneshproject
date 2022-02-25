@@ -17,7 +17,7 @@ The Selayang municipal council is doing the wrong thing and from the looks of it
 
 I agree that stray dogs need to be taken off the streets and given a home but not in this manner. They are such loving and gentle animals. Can't we show compassion? SPCA, PAW should be ready to handle this, where are they?
 
-I live in an area filled with cats and I hate cats. They get into your home and take a dump, eee!!! I've tried complaining to the neighbors but they decide to ignore. What kind of pet owners are these people? I want a pet but not the responsibility that comes along with it. Sometimes I feel like putting shotgun to the cat's head when my dog has them cornered and pulling the trigger but I don't. Why? Well I believe no one on planet earth has the right to taken the life of another being. Simple&#8230;
+I live in an area filled with cats and I hate cats. They get into your home and take a dump, eee!!! I've tried complaining to the neighbors but they decide to ignore. What kind of pet owners are these people? I want a pet but not the responsibility that comes along with it. Sometimes I feel like putting shotgun to the cat's head when my dog has them cornered and pulling the trigger but I don't. Why? Well I believe no one on planet earth has the right to taken the life of another being. Simple...
 
 We need your support to save these poor animals. Please sign the "[Stop The Hunt petition][2]" to stop the competition.
 

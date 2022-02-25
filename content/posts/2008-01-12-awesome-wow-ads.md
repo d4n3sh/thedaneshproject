@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889769325
 
 ---
-New series for World Of Warcraft Ads. If they don't make you start playing WOW then I don't know what will&#8230;.
+New series for World Of Warcraft Ads. If they don't make you start playing WOW then I don't know what will....
 
 Mr.T
 

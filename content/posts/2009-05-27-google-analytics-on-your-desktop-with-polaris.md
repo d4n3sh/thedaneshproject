@@ -16,7 +16,7 @@ Polaris brings Google Analytics to your desktop. The desktop widget  Adobe AIR 
 
 The basic "free" widget allows you to monitor one site. If you need more, you could by upgrading to the full version (unlimited profiles) for USD 15 per year.
 
-The default view is the dashboard with an overview of the genaral stats. Visits, page views, etc&#8230;
+The default view is the dashboard with an overview of the genaral stats. Visits, page views, etc...
 
 <figure id="attachment_1485" aria-describedby="caption-attachment-1485" style="width: 440px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1485" title="polaris-date" src="/wp-content/uploads/2009/05/polaris-date.png" alt="Polaris Date" width="440" height="250" />][2]<figcaption id="caption-attachment-1485" class="wp-caption-text">Polaris Date</figcaption></figure>
 

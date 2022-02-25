@@ -14,7 +14,7 @@ YouTube [announced][2] that it's rolling out support for 1080p HD format this we
 
 What about all the current HD video already re-encoded into lower quality formats you ask? YouTube plans to re-encode all HD video previously uploaded by users into the correct HD formats.
 
-Like many other Malaysians I'm not too excited about this. We here still don't have the bandwidth or the low latency required to enjoy fluid streaming. Sigh&#8230;..
+Like many other Malaysians I'm not too excited about this. We here still don't have the bandwidth or the low latency required to enjoy fluid streaming. Sigh.....
 
 Watch [ [THIS VIDEO][3] or [THIS VIDEO][4]] to get a taste of 1080p on YouTube.
 

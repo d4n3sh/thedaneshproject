@@ -42,9 +42,9 @@ If you are like me then you spend more time evaluating and testing different dis
 
 I have few Linux boxes at home and they are all CLI only, mainly used for file sharing and web hosting. I love the CLI.
 
-I have 1 Windows machine, my office notebook actually. This is what I use to for everything else&#8230;..
+I have 1 Windows machine, my office notebook actually. This is what I use to for everything else.....
 
-Well, whatever the outcome is in the future I will always choose Linux over Windows&#8230;&#8230;.. What's your comments?  
+Well, whatever the outcome is in the future I will always choose Linux over Windows........ What's your comments?  
 Source: [MV-V.com][1]
 
  [1]: http://www.mv-v.com/blog/

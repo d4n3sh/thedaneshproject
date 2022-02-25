@@ -18,7 +18,7 @@ GT5 was initially rumor/predicted to come out around Christmas time this year bu
 
 The [announcement][2] was made at the Tokyo Game Show.
 
-Sigh&#8230;.
+Sigh....
 
  [1]: /wp-content/uploads/2009/09/gt5.png
  [2]: http://www.joystiq.com/2009/09/24/tgs-2009-gran-turismo-5-coming-to-japan-in-march/

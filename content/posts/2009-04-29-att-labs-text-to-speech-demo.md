@@ -10,7 +10,7 @@ dsq_thread_id:
   - 894463407
 
 ---
-Try this out, it will keep you going for hours&#8230;.
+Try this out, it will keep you going for hours....
 
 AT&T Labs's text-to-speech tool demo. It currently has 15 different accents and 2 genders. My favs are the  British and Indian accents. 😀
 

@@ -18,7 +18,7 @@ Alternatives;
   2. <https://twitter.com/malaysiakini> - Twitter @malaysiakini
   3. <https://www.facebook.com/MalaysiaKini> - Facebook
 
-You can't block the internet!! Get that through your thick skulls &#8230;
+You can't block the internet!! Get that through your thick skulls ...
 
 This list will be updated as more mirrors show up so check back often.
 

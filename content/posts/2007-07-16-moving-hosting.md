@@ -14,4 +14,4 @@ My site will be down for a few days. My domain is up for renewal and I am moving
 
 I will keep you updated.
 
-See you soon&#8230;.
+See you soon....

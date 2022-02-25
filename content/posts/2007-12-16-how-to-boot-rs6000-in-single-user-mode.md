@@ -21,7 +21,7 @@ The fix the below fixed the problem.
   5. Edit the /etc/filesystems file and remove the NFS entries.
   6. Reboot.
 
-Hitting F1 or the 1 key will take you to the SMS (System Management Services)Ã‚Â menu where you can access system configurations liek the network settings, boot sequence, firmware update and others&#8230;.
+Hitting F1 or the 1 key will take you to the SMS (System Management Services)Ã‚Â menu where you can access system configurations liek the network settings, boot sequence, firmware update and others....
 
 Source: [Sys Admin Pocket Survival Guide][1]
 

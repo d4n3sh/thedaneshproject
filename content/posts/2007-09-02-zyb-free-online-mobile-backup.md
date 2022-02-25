@@ -27,11 +27,11 @@ Currently ZYB will enables you to,
   3. Share your contacts and calendar items with friends and family members.
   4. Import public calendars to you mobile.
   5. Easily manage your contact list.
-  6. Synchronize your mobile data with other devices . (iPod, Outlook, etc&#8230;.)
+  6. Synchronize your mobile data with other devices . (iPod, Outlook, etc....)
   7. Invite others.
   8. Post shouts. (something like twitter)
   9. Upload photos from your mobile and tag them.
- 10. More to come &#8230;..
+ 10. More to come .....
 
 This is a brilliant idea and I am surprised that no one had used it before till now. Please test the service if you are interested. I would love to hear your comments on this great tool.
 

@@ -14,7 +14,7 @@ dsq_thread_id:
 
 Received my BRIBE-FREE MALAYSIAN car sticker in the mail last week. Now I've got a new public announcement which also act as a sun shade. 🙂
 
-It's easy to put the sticker on but it's gonna hard to live by it right? Let's see&#8230;..
+It's easy to put the sticker on but it's gonna hard to live by it right? Let's see.....
 
 Like the sticker? [Request for one][2], it's free.
 

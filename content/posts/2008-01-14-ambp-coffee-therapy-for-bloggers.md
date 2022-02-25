@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 <img loading="lazy" src="http://farm3.static.flickr.com/2292/2191095056_821107988c_o.jpg" height="338" width="450" />
 
-Me, [WingLoon][1] and [Abi][2] were at the <span class="title6">recent AMBP Gathering "<a href="http://www.allmalaysia.info/ambp/events.asp">Coffee Therapy for Bloggers</a>" held at Starbucks The Gardens, Mid Valley. This was AMBP's first offical gathering so nothin much was planned for the day. We has some coffee, laughs and alot of Hi and Hellos. Not to forget freebies, movies tickets,Ã‚Â  mouse pads,Ã‚Â  pens, etc&#8230;.<br /> </span>
+Me, [WingLoon][1] and [Abi][2] were at the <span class="title6">recent AMBP Gathering "<a href="http://www.allmalaysia.info/ambp/events.asp">Coffee Therapy for Bloggers</a>" held at Starbucks The Gardens, Mid Valley. This was AMBP's first offical gathering so nothin much was planned for the day. We has some coffee, laughs and alot of Hi and Hellos. Not to forget freebies, movies tickets,Ã‚Â  mouse pads,Ã‚Â  pens, etc....<br /> </span>
 
-<span class="title6">Like AMBP this was my first bloggers gathering but I felt that the whole thing did not quite work to plan due to the location. Starbucks was small and crowed with chairs. Most of us sat and got into our comfort zones. Communication came to a halt&#8230;.<br /> </span>
+<span class="title6">Like AMBP this was my first bloggers gathering but I felt that the whole thing did not quite work to plan due to the location. Starbucks was small and crowed with chairs. Most of us sat and got into our comfort zones. Communication came to a halt....<br /> </span>
 
 My recommendation for future events would be to make them more interactive. Some games,quizes, workshops, brown bags would really bring the event to live. This is the first time and I'm sure the organizers will have more plans for future events.
 

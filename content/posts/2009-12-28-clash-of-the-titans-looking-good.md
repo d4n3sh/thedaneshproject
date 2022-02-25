@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 http://www.youtube.com/watch?v=qpZ5D_Wc4cA
 
-Wow&#8230;.. 
+Wow..... 
 
 Can't wait for this remake to hit the big screen in March 2010.
 

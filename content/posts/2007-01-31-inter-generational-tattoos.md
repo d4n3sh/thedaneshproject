@@ -16,7 +16,7 @@ The photograph was taken by photographer Bruce Osborn during an interview about 
 
 <span class="rss:item"></span><a name="032560"></a> â€œHer parents were tattooists and the girl got a huge shock when she entered a sent?, a public bath, for the first time. Until that event it was in her mind that all the adults must have tattoos. Everybody around the house had some and it was a very natural thing for her.â€ words from Bruce.
 
-My parents would freak out on this&#8230;. but I think the idea will eventually start to sink in. The girl sends out a power message.
+My parents would freak out on this.... but I think the idea will eventually start to sink in. The girl sends out a power message.
 
 Original post atÂ  [boingboing][2]
 

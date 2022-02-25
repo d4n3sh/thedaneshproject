@@ -14,7 +14,7 @@ I decided to try it out last night on my openSUSE 10.2 desktop. Install was pret
 
 Immediately, I saw a miracle unfold in front of me, something I thought I would never see again since moving back from PenangFon to Streamyx when I moved back to KL. I was getting 100kB ++ download speeds. At first, I did not believe it, so I cross checked by looking at my network utilization through IPCop and truly enough it was also showing speeds in access of 100kB.(See screenshot below to believe). Well, I know 100kB ain't much when compared to what other ISP's provide in other countries but for now 100kB is a luxury here.
 
-Woo Wee!!! My torrenting mood is back on now&#8230;..!!
+Woo Wee!!! My torrenting mood is back on now.....!!
 
 ![deluge.jpg][7] 
 

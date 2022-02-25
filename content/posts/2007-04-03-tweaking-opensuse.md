@@ -16,7 +16,7 @@ If you enjoy doing everything manually as I do then you will certainly find ever
 
 - Adding and managing openSUSE package sources.  
 - Adding and managing third party package sources.  
-- Enable support for restricted formats. (mp3,dvd,etc&#8230;.)  
+- Enable support for restricted formats. (mp3,dvd,etc....)  
 - Good FAQ section.
 
 2. [konvenientSUSE][2] 

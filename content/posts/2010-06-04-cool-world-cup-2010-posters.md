@@ -14,6 +14,6 @@ ESPN together with New York City ad agency Wieden + Kennedy teamed up to create 
 
 Each of the 32 countries participating in the World Cup are represented by their own poster. My personal favorites are the Australian, Japan and Italy posters.
 
-Really cool ha&#8230; [See them all][1]
+Really cool ha... [See them all][1]
 
  [1]: http://wc2010.liveziz.net/171/poster-32-doi-tuyen-tham-du-world-cup-2010/?lang=en

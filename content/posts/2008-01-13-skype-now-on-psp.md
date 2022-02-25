@@ -25,7 +25,7 @@ The update will enable users to;
 
 I'm saving up some cash to get me a PSP and iPOD. Gadgets man's toys :). What would you recommend, iPOD or PSP?
 
-Since moving into my new job I've been saving up some moola every month but I am still on the lookout for freelance jobs though. Nothing is better then being your own boss&#8230;..  
+Since moving into my new job I've been saving up some moola every month but I am still on the lookout for freelance jobs though. Nothing is better then being your own boss.....  
 Source: [Sony][2]
 
  [1]: http://img184.imageshack.us/img184/6495/skypepspzm5.png

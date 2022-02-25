@@ -47,10 +47,10 @@ Reading package lists... Done`
 `<br />
 ` `root@dingo:~#` `apt-get install nautilus-dropbox`
 
-&#8230;&#8230;.  
-&#8230;&#8230;.  
-&#8230;&#8230;.  
-Setting up nautilus-dropbox (0.5.0-1) &#8230;
+.......  
+.......  
+.......  
+Setting up nautilus-dropbox (0.5.0-1) ...
 
 4. Restart nautilus to start Dropbox. You will see a new Dropbox icon in your system tray. Right click on it and select "**start dropbox**". The daemon will download the binaries required and start the registration process.
 
@@ -58,6 +58,6 @@ Setting up nautilus-dropbox (0.5.0-1) &#8230;
 
 That's it. Enjoy this get service.
 
-Buzz me if you need help&#8230;
+Buzz me if you need help...
 
  [1]: http://getdropbox.com

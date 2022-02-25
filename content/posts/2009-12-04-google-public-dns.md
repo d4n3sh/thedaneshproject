@@ -16,7 +16,7 @@ I've always been on [OpenDNS][2]. However, they have no presence in Asia and t
 
 Google's new "Google Public DNS" is surprising fast and after switching over to it I experince improvements my web browsing experience. Here's a quick benchmark of Google vs OpenDNS. [Link][3]
 
-Currently Google does not provide a dashboard like what OpenDNS has and it's yet to include extra features like shortcuts, filtering and zoning like what OpenDNS has. I'm quite sure they will pop up soon&#8230;.
+Currently Google does not provide a dashboard like what OpenDNS has and it's yet to include extra features like shortcuts, filtering and zoning like what OpenDNS has. I'm quite sure they will pop up soon....
 
 To start using "Google Public DNS" simply replace your current dns servers with theirs. Listed below,
 
@@ -25,7 +25,7 @@ To start using "Google Public DNS" simply replace your current dns servers with 
 
 For the full walkthrough refer to Google's "[Using Google Public DNS][4]" or [download the guide][5].
 
-Talk about Google taking over the world. At first they only knew what you were searching for but now once you switch over they will know everything you do online&#8230;&#8230; SCARY!!
+Talk about Google taking over the world. At first they only knew what you were searching for but now once you switch over they will know everything you do online...... SCARY!!
 
 Source: [Google Public DNS][6] | [Blog@Google Code][7]
 

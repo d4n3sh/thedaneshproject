@@ -10,6 +10,6 @@ dsq_thread_id:
 ---
 I love social media, it has its minuses but the pluses always pulls me back in. Information is money and social media is enabling the movement of information around.
 
-People everywhere are constantly complaining about privacy and shit. My advice, if you want to stay private then simply stay away from these sites. You can't have everything&#8230; unless you are willing to pay ;D&#8230;.
+People everywhere are constantly complaining about privacy and shit. My advice, if you want to stay private then simply stay away from these sites. You can't have everything... unless you are willing to pay ;D....
 
 What's you take on social media?

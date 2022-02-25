@@ -24,7 +24,7 @@ What's new?
 
 <!--more-->
 
-[See more&#8230;][2]
+[See more...][2]
 
 Besides most of my extensions not working Firefox 3.1 Beta 1 seems to be pretty stable.
 

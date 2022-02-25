@@ -16,9 +16,9 @@ We received the Pizzas on time, finished them and had a good evening. However, t
 
 First, I called them up [ 1-300-888-333 ] and went through the whole verification mambo jumbo. The call centre sounded more like they were working out of a phone booth as the background sounds were redicusly loud so throughout the whole call I could barely hear the agent.
 
-Next step was to provide my delivery address, the fun part! Spent 20 minutes spelling out the address one alphabet at a time. [NATO phonetics][2] did not help one bit.Â  I'm quite sure the agent thought I was spilling out random words. Alfa, Bravo, Charlie, Delta,Echo,etc&#8230;..
+Next step was to provide my delivery address, the fun part! Spent 20 minutes spelling out the address one alphabet at a time. [NATO phonetics][2] did not help one bit.Â  I'm quite sure the agent thought I was spilling out random words. Alfa, Bravo, Charlie, Delta,Echo,etc.....
 
-Realizing I was not going anywhere I reverted to Malaysian phonetics. J for jambu, a for anak, m for manusia, b for buaya and u for unta. hahah You get the idea.Â  Yet, they agent stil managed to get it wrong!! Sigh&#8230; He eventually got it after a few retries.
+Realizing I was not going anywhere I reverted to Malaysian phonetics. J for jambu, a for anak, m for manusia, b for buaya and u for unta. hahah You get the idea.Â  Yet, they agent stil managed to get it wrong!! Sigh... He eventually got it after a few retries.
 
 Don't get me wrong, I'm not saying he's dumb or anyone else is too but, he needs to improve his communication skills. Read a book, watch a English movie, speak in English, justÂ  to name a few ways to improve. HeÂ  has to remember that he works in the service industry and his customers are not always Malaysians. English it the most common language so why not learn it? In the end who benefits?, I'm quite sure it will be him.
 

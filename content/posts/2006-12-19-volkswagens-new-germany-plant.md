@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891983558
 
 ---
-Look at this parking lot!!! Don't you wish we had one at each mall? I imagine the work a robber would have to put in just to get into your car&#8230;haha
+Look at this parking lot!!! Don't you wish we had one at each mall? I imagine the work a robber would have to put in just to get into your car...haha
 
 But anyway, this image is actually VW's storage facility for it's complted cars in it's Germany plant.
 

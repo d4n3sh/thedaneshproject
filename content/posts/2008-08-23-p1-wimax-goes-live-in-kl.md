@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 <img loading="lazy" class="alignnone" title="P1 WiMAX" src="http://farm4.static.flickr.com/3241/2789548980_1225cbac25.jpg" alt="" width="500" height="252" />
 
-Drop Streamyx, go [P1 WiMAX][1]&#8230;
+Drop Streamyx, go [P1 WiMAX][1]...
 
 WiMAX by P1( Packet One ) finally goes live in KL. Packages start from RM49 for 400Kbps and go up to RM269 for 2.4 Mbps. This the the non promotional price.
 

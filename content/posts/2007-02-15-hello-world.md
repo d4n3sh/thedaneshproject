@@ -16,6 +16,6 @@ I am concentrating more on Linux related reads, general tech and also my passion
 
 Currently I am working on moving over my old articles from "TheDaneshProject Tech Blog" to this blog. Having some issues with the images and comments but I think I'll have it completed by the weekend.
 
-Stay tuned guys&#8230;..
+Stay tuned guys.....
 
 "TheDaneshProject", "share your mind".

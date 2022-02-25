@@ -18,7 +18,7 @@ Who said common names can't sell?
 
 What does G&J Holdings do? Nothing but candies. A massive selection, from old to new and they're all online. On the downside, they don't do international orders.
 
-This si something to note. There's no domain too short, too simple, too plain or  too common. If you wait they will come&#8230;&#8230;..
+This si something to note. There's no domain too short, too simple, too plain or  too common. If you wait they will come........
 
  [1]: /wp-content/uploads/2009/07/candy.com.png
  [2]: http://www.candy.com/

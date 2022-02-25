@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![][1]
 
-My best pal Alan has always been into alternative art. I knew him when he had nothin but now over the years he has matured into a self thought web designer, graphic designer, t shirt designer and the list goes on&#8230;..  
+My best pal Alan has always been into alternative art. I knew him when he had nothin but now over the years he has matured into a self thought web designer, graphic designer, t shirt designer and the list goes on.....  
 His blog, [Alan Bernard's F'kn Mayhem][2] covers all kinds of street art. Shoes, shirts, caps, toys, grafit and much much. He has also been busy building social networks with overseas designers who share the same passion. This is clearly seen through the mountains of reviews and interviews he posts. Recently he has also been receiveing Ts, caps and other product from overseas designers asking to be reviewed on his blog. This is good!!
 
 Today, I stumbled on to WSMY (Web Standards Malaysia). A web design best practices project for Malaysian designers. Alan's blog was featured here for being out of the standard mold.

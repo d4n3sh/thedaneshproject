@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Almost everyone I know uses Gtalk. You can use Gtalk online through gmail or by using one of the many jabber capable chat clients out there.Ã‚Â  Today I'll show you how to configure Kopete to work with Gtalk. If you didn't already know, Kopete is the most popular multi protocol chant client for KDE.
 
-1. Launch Kopete and goto "Settings" > "Configure&#8230;"
+1. Launch Kopete and goto "Settings" > "Configure..."
 
 2. Goto "accounts"
 

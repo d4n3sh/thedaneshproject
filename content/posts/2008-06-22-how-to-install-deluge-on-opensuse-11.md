@@ -26,7 +26,7 @@ S | Name | Summary | Type
 | deluge-debuginfo | Debug information for package deluge | package  
 | deluge-debugsource | Debug sources for package deluge | package  
 pandora:~ # zypper in deluge  
-Reading installed packages&#8230;
+Reading installed packages...
 
 The following NEW packages are going to be installed:  
 deluge python-pyxdg python-orbit python-gnome-extras python-gnome  

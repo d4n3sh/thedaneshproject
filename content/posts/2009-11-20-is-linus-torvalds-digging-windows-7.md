@@ -12,7 +12,7 @@ dsq_thread_id:
 
 What ya think? Is Linus Torvalds digging Windows 7?
 
-The Japanese dude behind has no clue what going on&#8230;!!
+The Japanese dude behind has no clue what going on...!!
 
 Source: [LinuxInsight][2]
 

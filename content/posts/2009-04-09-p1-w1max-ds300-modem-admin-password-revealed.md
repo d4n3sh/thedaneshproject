@@ -18,9 +18,9 @@ Recently the admin password for the DS300 modem was leaked. Users who had the pa
 
 The excitement was cut short. P1 jumped in and pushed out a new firmware update which  locked all users out of their DS300 modem once again. Including me 🙁 (was just about to port forward)
 
-Users started to rant about being locked out of their own modem, it was a good point. P1 came back saying that tech in the DS300 was US military owned and the license prevented users from accessing it. hahahahha&#8230;..
+Users started to rant about being locked out of their own modem, it was a good point. P1 came back saying that tech in the DS300 was US military owned and the license prevented users from accessing it. hahahahha.....
 
-Few days passed&#8230;. and bam!! Admin password  leaked again.
+Few days passed.... and bam!! Admin password  leaked again.
 
 This time  on purpose I guess. Why?
 

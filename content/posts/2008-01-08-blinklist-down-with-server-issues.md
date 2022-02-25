@@ -16,7 +16,7 @@ Blinklist is still down but service should be restored within a few hours.
 
 **_Update (9th January 2008 12am)_**
 
-BlinkList is back online. Back to bookmarking&#8230;..
+BlinkList is back online. Back to bookmarking.....
 
  [1]: http://img244.imageshack.us/img244/4701/blinklistsmallxh1.png
  [2]: http://img244.imageshack.us/img244/9563/blinklistmx6.png

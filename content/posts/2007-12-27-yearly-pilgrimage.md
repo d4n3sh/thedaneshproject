@@ -12,11 +12,11 @@ Dropped my best friends [Alan][1], [Raja][2] and [Weesak][3] off at the bus stat
 
 Why now? Simple, new year in Langkawi!!! No jam, party with no dress code, chicks and best of all cheap BOOZE!!!!
 
-Imagine 1 whole week without worries, phones, notebooks, city life, parents,clean rooms, schedules and every other pain in the ass reason you can find. Only us, the ocean, Mr. BEER, Mr. Liquor and reagea music&#8230;.. Woo Hoo!!!!
+Imagine 1 whole week without worries, phones, notebooks, city life, parents,clean rooms, schedules and every other pain in the ass reason you can find. Only us, the ocean, Mr. BEER, Mr. Liquor and reagea music..... Woo Hoo!!!!
 
-I'm running late this year though, stuck with work so I'll be leaving this Friday the 28th and will be there till the 1st. So wish I could leave everything behind and join them on the bus, doesn't help that we just had some pre Lankawi beers just now.sigh&#8230;&#8230;
+I'm running late this year though, stuck with work so I'll be leaving this Friday the 28th and will be there till the 1st. So wish I could leave everything behind and join them on the bus, doesn't help that we just had some pre Lankawi beers just now.sigh......
 
-Well, I'll hang in there for 2 days&#8230;.
+Well, I'll hang in there for 2 days....
 
  [1]: http://alanbernard.com/
  [2]: http://rajaseelan.com/?p=10

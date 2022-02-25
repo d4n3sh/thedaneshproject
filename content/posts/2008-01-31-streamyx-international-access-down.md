@@ -8,7 +8,7 @@ dsq_thread_id:
   - 896283794
 
 ---
-Crap!! Can't access any international sites now. Not even a notice on their site&#8230;  
+Crap!! Can't access any international sites now. Not even a notice on their site...  
 My ad sense ads are not loading and causing unnecessary delays.
 
 Well, off to bed now.

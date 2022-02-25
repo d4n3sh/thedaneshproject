@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737019
 
 ---
-Got this in my mail today&#8230; read on,
+Got this in my mail today... read on,
 
 _<span style="font-size: 10pt; font-family: "Tahoma","sans-serif"; color: #003366">Hi Everyone,</p> 
 

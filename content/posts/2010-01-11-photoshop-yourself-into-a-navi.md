@@ -12,7 +12,7 @@ dsq_thread_id:
 
 Who said you need to spend millions on CGI to become a Navi, this guy did with Photoshop.
 
-Looks pretty awesome right&#8230;..
+Looks pretty awesome right.....
 
 
 

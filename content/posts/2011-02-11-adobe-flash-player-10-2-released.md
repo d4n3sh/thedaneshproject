@@ -17,7 +17,7 @@ It now supports Stage Videos which allows Flash to utilize your machines's hardw
 
 Another cool feature is the support for native mouse cursors. Developers can now design and implement custom cursors for their work. I see this really useful for educational software.
 
-And finally some sub-pixel rendering to improve text in your flash videos. Advertisers will love this more&#8230;..
+And finally some sub-pixel rendering to improve text in your flash videos. Advertisers will love this more.....
 
 Let your browser update your flash player or grab it manually from [Adobe][2].
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1537017183
 
 ---
-7 . 4 . 7 is the date to remember. I bet you already know why&#8230;.
+7 . 4 . 7 is the date to remember. I bet you already know why....
 
 [![optimus_prime_transformed_top.jpg][1]][2]
 

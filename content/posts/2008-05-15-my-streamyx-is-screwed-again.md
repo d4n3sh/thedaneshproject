@@ -65,7 +65,7 @@ My mail to streamyx,
 > login# !@#@3  
 > contact: 01@-!@#$#%#@
 > 
-> Please look into my issue. Th speed is normal in the mornings but every night the speed drops to a pathetic rate. I've included screen shots for your reference. It looks like a load issues, are your junctions overloaded? Please tell me no&#8230;..
+> Please look into my issue. Th speed is normal in the mornings but every night the speed drops to a pathetic rate. I've included screen shots for your reference. It looks like a load issues, are your junctions overloaded? Please tell me no.....
 > 
 > The engineer assigned to my initial case never showed up but closed my case. Is this how you support your paying clients? I know I have not other provider to turn to but please don't take advantage of your privilege.
 > 

@@ -8,6 +8,6 @@ dsq_thread_id:
   - 894834357
 
 ---
-Is it just me or has the internet been freaking slow at nights for the past weeks. Streamyx has not come up with a explanation as usual. Calling them is just a waste of time&#8230;..
+Is it just me or has the internet been freaking slow at nights for the past weeks. Streamyx has not come up with a explanation as usual. Calling them is just a waste of time.....
 
 F U Streamyx, what am I paying RM100 for?

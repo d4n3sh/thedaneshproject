@@ -10,7 +10,7 @@ dsq_thread_id:
   - 910227625
 
 ---
-If you're a Google fan and use Twitter then you should already be following Google on Twitter. But do you know that Google has an Twitter account for almost all it's products. iGoogle, Calendar, Reader, Voice, YouTube, Images, yada&#8230;.. yada&#8230; yada&#8230;. they all have Twitter accounts!
+If you're a Google fan and use Twitter then you should already be following Google on Twitter. But do you know that Google has an Twitter account for almost all it's products. iGoogle, Calendar, Reader, Voice, YouTube, Images, yada..... yada... yada.... they all have Twitter accounts!
 
 These are the current Twitter accounts by Google. Grabed them off [Google's Blog][1]
 

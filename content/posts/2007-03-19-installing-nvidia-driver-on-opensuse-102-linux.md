@@ -60,7 +60,7 @@ You will see an nVidia splash screen before the desktop comes up. This confirms 
 
 Installation instructions for other platforms are available at [here][10].
 
-I updated my openSUSE 10.2 box at home last night after a fresh install. Too bad I'm stuck with an old 17" CRT as my LCD died. Sigh&#8230;..
+I updated my openSUSE 10.2 box at home last night after a fresh install. Too bad I'm stuck with an old 17" CRT as my LCD died. Sigh.....
 
  [1]: http://farm1.static.flickr.com/161/426784522_d917155812.jpg?v=0
  [2]: http://farm1.static.flickr.com/155/426784528_29fe5eaeae.jpg?v=0

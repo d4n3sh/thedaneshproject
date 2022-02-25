@@ -14,15 +14,15 @@ Woo Hoo!! 3 new "Transformers 2" trailers just got released.
 
 Catch them below
 
-[It's On&#8230;..][1]
+[It's On.....][1]
 
 [vimeo][http://vimeo.com/4719904][2]{.linkification-ext}[/vimeo]
 
-[Greatest Enemy&#8230;..][3]
+[Greatest Enemy.....][3]
 
 [vimeo][http://vimeo.com/4719776][4]{.linkification-ext}[/vimeo]
 
-[Forms&#8230;][5]
+[Forms...][5]
 
 [vimeo][http://vimeo.com/4719348][6]{.linkification-ext}[/vimeo]
 

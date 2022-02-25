@@ -8,7 +8,7 @@ dsq_thread_id:
   - 933132476
 
 ---
-Yup, I know you can find this on the google reader page itself. It's content right&#8230;.
+Yup, I know you can find this on the google reader page itself. It's content right....
 
 <div id="tips-body">
   Useful keyboard shortcuts:</p> 

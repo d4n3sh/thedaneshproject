@@ -18,7 +18,7 @@ Currently, I have my ads setup to show on all pages except for my home page. To 
 `<br />
 <?php if ( !( is_home() ) ) { ?>`
 
-[your ad codes go here&#8230;. ]
+[your ad codes go here.... ]
 
 <?php } ?>
 
@@ -26,7 +26,7 @@ ALternatively if you want your ads to only show up on your home page,
 
 `<?php if (Ã‚Â  is_home()Ã‚Â  ) { ?>`
 
-[your ad codes go here&#8230;. ]
+[your ad codes go here.... ]
 
 <?php } ?>
 

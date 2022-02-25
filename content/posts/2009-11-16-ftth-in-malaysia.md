@@ -12,7 +12,7 @@ Looks like the [FTTH][1] ( Fiber To The Home ) in Malaysia ball is rolling again
 
 [<img loading="lazy" class="alignnone size-full wp-image-1851" title="623119038" src="/wp-content/uploads/2009/11/623119038.png" alt="623119038" width="300" height="135" />][2]
 
-This what Alan Tan who's currently [beta testing the Maxis FTTH][3] is getting. WOW! &#8230;. Sigh&#8230; I want, I want.
+This what Alan Tan who's currently [beta testing the Maxis FTTH][3] is getting. WOW! .... Sigh... I want, I want.
 
 According to Alan, he's experience so far has been good. Awesome torrenting speeds ( at 600 kB/s, I guess no fair policy yet) and  [fluid HD video][4] streaming without a glitch.
 

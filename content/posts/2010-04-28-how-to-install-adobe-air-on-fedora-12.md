@@ -30,7 +30,7 @@ NOTE:
 
 If you get errors when trying to run AIR apps try the below;
 
-1. delete /etc/opt/adobe/&#8230;&#8230;../crypt/
+1. delete /etc/opt/adobe/......../crypt/
 
 2. if  Tweetdeck fails to launch, make sure kwallet is running.
 

@@ -16,7 +16,7 @@ Please be informed that my RSS feed has changed. The feed's now available at <ht
 
 I'll post about why ItÃ‚Â  changed in my next post.
 
-Sorry for the inconvinence caused guys&#8230;..
+Sorry for the inconvinence caused guys.....
 
 Sorry!! Left out my email subscription. [Subscribe by mail][2].
 

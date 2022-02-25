@@ -10,6 +10,6 @@ dsq_thread_id:
 ---
 My buddy Alan gave his site an extreme makeover. It looks awesome now with the new layout, color scheme and graphics.
 
-Make sure to drop by his site when you have some time. Pick up a Tee maybe&#8230;.Â  AlanBernard
+Make sure to drop by his site when you have some time. Pick up a Tee maybe....Â  AlanBernard
 
 If you like his WP theme design, then maybe you could get him to design a custom theme for your site.

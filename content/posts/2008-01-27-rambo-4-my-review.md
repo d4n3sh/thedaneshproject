@@ -55,7 +55,7 @@ _**Final words:**_
 
 A must watch movie for those with a strong stomach and a passion for mindless brutality. Don't go in expecting to see the old Rambo, open your mind and you shall enjoy.
 
-My favorite part from the movie is when the enemy confronting John Rambo get taken down by a head shot from the sniper. His damn head explodes on screen&#8230;.BAM!!
+My favorite part from the movie is when the enemy confronting John Rambo get taken down by a head shot from the sniper. His damn head explodes on screen....BAM!!
 
 So how did you find the movie?
 

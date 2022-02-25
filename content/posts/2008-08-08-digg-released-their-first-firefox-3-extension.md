@@ -18,11 +18,11 @@ The status bar button on the other hand allows you to track new Diggs from topic
 
 <figure id="attachment_767" aria-describedby="caption-attachment-767" style="width: 292px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-767" title="Digg Topics" src="/wp-content/uploads/2008/08/ff-toolbar-3.png" alt="Digg Topics" width="292" height="90" />][2]<figcaption id="caption-attachment-767" class="wp-caption-text">Digg Topics</figcaption></figure>
 
-Both the toolbar and status bar button are fully customizable and best of all, they both have a "Zzz&#8230;" button to turn off notifications temporarily.Ã‚Â  Useful when your brain's suffering from information overload.
+Both the toolbar and status bar button are fully customizable and best of all, they both have a "Zzz..." button to turn off notifications temporarily.Ã‚Â  Useful when your brain's suffering from information overload.
 
 <figure id="attachment_766" aria-describedby="caption-attachment-766" style="width: 292px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-766" title="Digg Notifications" src="/wp-content/uploads/2008/08/ff-toolbar-2.png" alt="Digg Notifications" width="292" height="90" />][3]<figcaption id="caption-attachment-766" class="wp-caption-text">Digg Notifications</figcaption></figure>
 
-Overall I find the extension to be well thought off. Non intrusive and best of all it does not use up my precious browser real-estate. Love the Zzz&#8230; button!!
+Overall I find the extension to be well thought off. Non intrusive and best of all it does not use up my precious browser real-estate. Love the Zzz... button!!
 
 Watch the introduction video by Kevin Rose and [grab the extension][4]
 
