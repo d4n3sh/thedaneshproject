@@ -37,7 +37,7 @@ pandora:/tmp # cd /tmp/initramfstmp/
 pandora:/tmp/initramfstmp # ls  
 initrd.SLES10.x64.img.gz  
 pandora:/tmp/initramfstmp # gunzip -v initrd.SLES10.x64.img.gz  
-initrd.SLES10.x64.img.gz: 64.5% &#8212; replaced with initrd.SLES10.x64.img  
+initrd.SLES10.x64.img.gz: 64.5% — replaced with initrd.SLES10.x64.img  
 pandora:/tmp/initramfstmp # cpio -i < initrd.SLES10.x64.img  
 47264 blocks  
 pandora:/tmp/initramfstmp # ls -la  

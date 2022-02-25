@@ -21,7 +21,7 @@ Install Deluge
 Reading installed packages...`
 
 S | Name | Summary | Type  
--+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-+&#8212;&#8212;-  
+-+——————-+————————————-+——-  
 | deluge | Bittorrent Client | package  
 | deluge-debuginfo | Debug information for package deluge | package  
 | deluge-debugsource | Debug sources for package deluge | package  

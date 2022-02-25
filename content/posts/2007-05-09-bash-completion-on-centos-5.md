@@ -22,7 +22,7 @@ _**#"rpm -ivh bash-completion-20060301-1.noarch.rpm"**_
 _**#". /etc/bash_completion"**_
 
 4. Test out your new shell enhancement  
-_**#"ls &#8212; \[TAB\]\[TAB\]"**_
+_**#"ls — \[TAB\]\[TAB\]"**_
 
 [![bash-completion1.jpg][2]][3]
 

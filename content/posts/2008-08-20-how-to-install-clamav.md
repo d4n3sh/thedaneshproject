@@ -67,7 +67,7 @@ Sample scan summary,
 
 `[root@pinky:~]#`
 
-&#8212;&#8212;&#8212;- SCAN SUMMARY &#8212;&#8212;&#8212;-  
+———- SCAN SUMMARY ———-  
 Known viruses: 396679  
 Engine version: 0.93.3  
 Scanned directories: 1920  
