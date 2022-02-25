@@ -15,10 +15,10 @@ I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
  Resolving get.helm.sh (get.helm.sh)… 152.195.19.97, 2606:2800:11f:1cb7:261b:1f9c:2074:3c
  Connecting to get.helm.sh (get.helm.sh)|152.195.19.97|:443… connected.
  HTTP request sent, awaiting response… 200 OK
- Length: 13315267 (13M) &#91;application/x-tar]
+ Length: 13315267 (13M) [application/x-tar]
  Saving to: ‘helm-v3.4.0-linux-amd64.tar.gz’
- helm-v3.4.0-linux-amd64.tar.gz  100%&#91;======================================================&gt;]  12.70M  77.2MB/s    in 0.2s    
- 2020-11-06 19:41:29 (77.2 MB/s) - ‘helm-v3.4.0-linux-amd64.tar.gz’ saved &#91;13315267/13315267]
+ helm-v3.4.0-linux-amd64.tar.gz  100%[======================================================&gt;]  12.70M  77.2MB/s    in 0.2s    
+ 2020-11-06 19:41:29 (77.2 MB/s) - ‘helm-v3.4.0-linux-amd64.tar.gz’ saved [13315267/13315267]
  
 &gt;_ tar -zxvf helm-v3.4.0-linux-amd64.tar.gz
  linux-amd64/

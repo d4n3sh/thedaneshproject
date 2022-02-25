@@ -55,13 +55,13 @@ Authorize and add the device to the device database.
 Device should now show up.
 
 <pre class="wp-block-code"><code>>_ dmesg | tail -n5
-&#91;26025.134557] atlantic 0000:06:00.0 enp6s0: renamed from eth0
-&#91;26027.069740] atlantic: link change old 0 new 10000
-&#91;26027.070131] IPv6: ADDRCONF(NETDEV_CHANGE): enp6s0: link becomes ready
+[26025.134557] atlantic 0000:06:00.0 enp6s0: renamed from eth0
+[26027.069740] atlantic: link change old 0 new 10000
+[26027.070131] IPv6: ADDRCONF(NETDEV_CHANGE): enp6s0: link becomes ready
 
 >_ ethtool enp6s0
 Settings for enp6s0:
-        Supported ports: &#91; FIBRE ]
+        Supported ports: [ FIBRE ]
         Supported link modes:   100baseT/Full 
                                 1000baseT/Full 
                                 10000baseT/Full 

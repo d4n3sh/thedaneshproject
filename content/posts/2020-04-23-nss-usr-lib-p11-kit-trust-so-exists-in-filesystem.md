@@ -11,7 +11,7 @@ The error was identified and a post describing the error with a fix was posted t
 <pre class="wp-block-code"><code>? sudo pacman -Syu                          
 .....
 .....
-(201/201) checking for file conflicts                                                                  &#91;------------------------------------------------------------] 100%
+(201/201) checking for file conflicts                                                                  [------------------------------------------------------------] 100%
 error: failed to commit transaction (conflicting files)
 nss: /usr/lib/p11-kit-trust.so exists in filesystem
 lib32-nss: /usr/lib32/p11-kit-trust.so exists in filesystem
@@ -27,7 +27,7 @@ Errors occurred, no packages were upgraded.</code></pre>
  extra is up to date
  community is up to date
  multilib is up to date
- endeavouros is up to date                                                   0.0   B  0.00   B/s 00:00 &#91;c  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  ]   0%
+ endeavouros is up to date                                                   0.0   B  0.00   B/s 00:00 [c  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  ]   0%
 :: Starting full system upgrade...
  there is nothing to do</code></pre>
 

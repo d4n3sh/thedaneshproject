@@ -39,9 +39,9 @@ root@pvebkpdev01:~# systemctl status networking.service
    Main PID: 2052 (code=exited, status=0/SUCCESS)
         CPU: 476ms
 
-Feb 13 13:03:10 pvebkpdev01 systemd&#91;1]: Starting Network initialization...
-Feb 13 13:03:10 pvebkpdev01 networking&#91;2052]: networking: Configuring network interfaces
-Feb 13 13:03:11 pvebkpdev01 systemd&#91;1]: Finished Network initialization.
+Feb 13 13:03:10 pvebkpdev01 systemd[1]: Starting Network initialization...
+Feb 13 13:03:10 pvebkpdev01 networking[2052]: networking: Configuring network interfaces
+Feb 13 13:03:11 pvebkpdev01 systemd[1]: Finished Network initialization.
 
 root@pvebkpdev01:~# ip a list enp4s0
 2: enp4s0: &lt;BROADCAST,MULTICAST,UP,LOWER_UP&gt; mtu 9000 qdisc mq state UP group default qlen 1000

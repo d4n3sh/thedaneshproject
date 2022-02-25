@@ -8,13 +8,13 @@ Installed mytop on a CentOS 6.2 box and ran into a bug.
 
 The fix was simple. Comment out the problem line in the perl file.
 
-<pre class="wp-block-code"><code>&#91;root@dbserver local]# mytop
+<pre class="wp-block-code"><code>[root@dbserver local]# mytop
 Error in option spec: "long|!"
 
-&#91;root@dbserver local]# which mytop
+[root@dbserver local]# which mytop
 /usr/bin/mytop
 
-&#91;root@dbserver local]# vi /usr/bin/mytop
+[root@dbserver local]# vi /usr/bin/mytop
 
 From 
      "long|!"              => \$config{long_nums},
