@@ -1,3 +1,4 @@
+---
 baseURL: "https://thedaneshproject.com/"
 title: The Danesh Project
 paginate: 5
@@ -153,3 +154,4 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+...
