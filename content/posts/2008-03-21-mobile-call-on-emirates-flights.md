@@ -2,13 +2,9 @@
 title: Mobile call on Emirates flights
 author: Danesh Manoharan
 date: 2008-03-21T04:49:21+00:00
-pvc_views:
-  - 4834
-dsq_thread_id:
-  - 893425179
-
+lastmod: 2022-02-25
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2020/2349296806_6c8d2855b5.jpg" alt="emirates banner" border="0" height="156" width="500" />][1]
+![emirates banner](http://farm3.static.flickr.com/2020/2349296806_6c8d2855b5.jpg)
 
 The days are counted for the no cell phone policy on flights.
 
