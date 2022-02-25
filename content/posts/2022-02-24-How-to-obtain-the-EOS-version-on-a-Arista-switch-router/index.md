@@ -1,15 +1,20 @@
 ---
 title: "How to obtain the EOS version on a Arista switch router"
+description: "Two quick ways to obtain the EOS version running on a Arista switch router."
 date: 2022-02-24T15:31:26-06:00
 draft: false
 tags:
 - networking
 - howto
+cover:
+    image: "Arista_Logo.png"
+    alt: "Arista Logo"
+    caption: "Arista Logo"
+    relative: true
+    hidden: false # only hide on current single page
 ---
 
-{{< figure src="Arista_Logo.png" alt="Arista Logo" align="center" width="400" >}}
-
-Two quick ways to obtain the EOS version running on a Arista switch router.
+Whether logging a support call or planning an upgrade, knowing your current running software version is crucial. Here's two ways to quickly get the EOS version running on your Arista switch router.
 
 ## Option 1
 
