@@ -20,7 +20,8 @@ variables:
 testing:
   stage: testing
   script:
-    - hugo
+    - apt install git -y
+    - hugo --gc
   artifacts:
     paths:
       - public
