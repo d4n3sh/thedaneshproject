@@ -13,10 +13,12 @@ Edit the /etc/systemd/logind.conf file
 Change the lines below.
 
 <pre class="lang:sh decode:true">HandleLidSwitch=ignore
-HandleLidSwitchDocked=ignore</pre>
+HandleLidSwitchDocked=ignore
+```
 
 restart the logind service.
 
-<pre class="lang:sh decode:true">#systemctl restart systemd-logind.service</pre>
+<pre class="lang:sh decode:true">#systemctl restart systemd-logind.service
+```
 
  

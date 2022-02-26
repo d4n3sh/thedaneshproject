@@ -13,6 +13,7 @@ Add the lines below to the /etc/geoclue/geoclue.conf file and restart gnome.
 <pre class="">[redshift]
 allowed=true
 system=false
-users=</pre>
+users=
+```
 
  

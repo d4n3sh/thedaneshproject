@@ -18,11 +18,13 @@ Adding the Medibuntu repository into your Ubuntu 8.10 is easy.
 
 1. Fire up your terminal and run,
 
-<pre>sudo wget http://www.medibuntu.org/sources.list.d/intrepid.list --output-document=/etc/apt/sources.list.d/medibuntu.list</pre>
+<pre>sudo wget http://www.medibuntu.org/sources.list.d/intrepid.list --output-document=/etc/apt/sources.list.d/medibuntu.list
+```
 
 2. Install the GPG keys. While still in the terminal run,
 
-<pre>sudo apt-get update && sudo apt-get install medibuntu-keyring && sudo apt-get update</pre>
+<pre>sudo apt-get update && sudo apt-get install medibuntu-keyring && sudo apt-get update
+```
 
 3. Install support for Windows codecs.
 

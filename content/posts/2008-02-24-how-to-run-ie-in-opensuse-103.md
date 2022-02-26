@@ -30,7 +30,8 @@ YaST2 -> Software -> Software Management.
 
  ``
 
-<pre>wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz</pre>
+<pre>wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz
+```
 
 4. Extract and run the IEs4Linux installer. You don't need to be root for this.
 
@@ -38,7 +39,8 @@ YaST2 -> Software -> Software Management.
 
 <pre>tar zxvf ies4linux-latest.tar.gz
 cd ies4linux-*
-./ies4linux</pre>
+./ies4linux
+```
 
 [![][8]][9] [![][10]][11] [![][12]][13] [![][14]][15]  
 [![][16]][16] [![][17]][18]
@@ -53,7 +55,8 @@ Once you're bored (like I did) then it's time to get rid of IE, here's how you'l
 
 <pre>danny@pandora:~> rm -rf ~/.ies4linux/
 danny@pandora:~> rm -rf ~/bin/
-danny@pandora:~> rm -rf ~/Desktop/ies4linux-ie6.desktop</pre>
+danny@pandora:~> rm -rf ~/Desktop/ies4linux-ie6.desktop
+```
 
  [1]: http://www.winehq.org/
  [2]: http://www.tatanka.com.br/ies4linux/page/Main_Page

@@ -14,19 +14,23 @@ Here's a simple X hack to boost the sensitivity of my ALPS touchpad which has dr
 
 1. First, check if you really do have a ALPS touchpad.
 
-<pre>cat /proc/bus/input/devices | grep ALPS</pre>
+<pre>cat /proc/bus/input/devices | grep ALPS
+```
 
 sample output;
 
-<pre>N: Name="AlpsPS/2 ALPS GlidePoint"</pre>
+<pre>N: Name="AlpsPS/2 ALPS GlidePoint"
+```
 
 2. Make a backup of your xorg.conf file.
 
-<pre>cp /etc/X11/xorg.conf  /etc/X11/xorg.conf.bkp</pre>
+<pre>cp /etc/X11/xorg.conf  /etc/X11/xorg.conf.bkp
+```
 
 3. Edit the xorg.conf file.
 
-<pre>vi /etc/X11/xorg.conf</pre>
+<pre>vi /etc/X11/xorg.conf
+```
 
 4. Navigate to the InputDevice Section and look for the "synaptics" driver portion.
 
@@ -68,7 +72,8 @@ sample output;
    Option       "SHMConfig"             "true"
    Option       "Emulate3Buttons"       "on"
 ########################################End replace here
-EndSection</pre>
+EndSection
+```
 
 
 <p>

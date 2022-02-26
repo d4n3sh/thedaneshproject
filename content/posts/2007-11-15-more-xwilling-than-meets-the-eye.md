@@ -20,9 +20,11 @@ The howto contained a link to a [script][3] that gave exactly what I needed.
 
 #
 
-# $XFree86$</pre>
+# $XFree86$
+```
 
-<pre># The output of this script is displayed in the chooser window.</pre>
+<pre># The output of this script is displayed in the chooser window.
+```
 
 <pre># (instead of "Willing to manage")
 
@@ -32,7 +34,8 @@ nrusers="`who|cut -c 1-8|sort -u|wc -l|sed 's/^[        ]*//'`"
 
 s=""; [ "$nrusers" != 1 ] && s=s
 
-echo "${nrusers} user${s}, load: ${load}"</pre>
+echo "${nrusers} user${s}, load: ${load}"
+```
 
   1. Just copy the script to <font color="#000000"><strong>/etc/X11/gdm/XWilling</strong></font>
   2. **chmod 755** it

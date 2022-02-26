@@ -8,14 +8,17 @@ dsq_thread_id:
 ---
 Review your current cnfs setup.
 
-<pre class="theme:shell-default lang:sh decode:true">mmlscluster --cnfs</pre>
+<pre class="theme:shell-default lang:sh decode:true">mmlscluster --cnfs
+```
 
 Delete the nodes returned from the previous command from your cnfs configuration.
 
-<pre class="theme:shell-default lang:sh decode:true">mmchnode --cnfs-interface=DELETE -N foonsd1,foonsd2</pre>
+<pre class="theme:shell-default lang:sh decode:true">mmchnode --cnfs-interface=DELETE -N foonsd1,foonsd2
+```
 
 Verify cnfs has been disabled.
 
-<pre class="theme:shell-default lang:sh decode:true">mmlscluster --cnfs</pre>
+<pre class="theme:shell-default lang:sh decode:true">mmlscluster --cnfs
+```
 
  

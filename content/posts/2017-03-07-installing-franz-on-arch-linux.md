@@ -14,7 +14,8 @@ It's not in the default repo so you'll need the AUR to install it. [ArchWiki][2]
 
 Once you have your AUR setup, pull the package down and build it.
 
-<pre class="lang:sh decode:true ">~>$ yaourt -Sy franz-bin</pre>
+<pre class="lang:sh decode:true ">~>$ yaourt -Sy franz-bin
+```
 
  [1]: http://meetfranz.com/
  [2]: https://wiki.archlinux.org/index.php/Arch_User_Repository

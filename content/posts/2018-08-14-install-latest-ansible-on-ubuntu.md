@@ -17,4 +17,5 @@ config file = /etc/ansible/ansible.cfg
 configured module search path = [u'/home/danesh/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
 ansible python module location = /usr/lib/python2.7/dist-packages/ansible
 executable location = /usr/bin/ansible
-python version = 2.7.15rc1 (default, Apr 15 2018, 21:51:34) [GCC 7.3.0]</pre>
+python version = 2.7.15rc1 (default, Apr 15 2018, 21:51:34) [GCC 7.3.0]
+```
