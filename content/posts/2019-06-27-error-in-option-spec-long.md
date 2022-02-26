@@ -8,7 +8,8 @@ Installed mytop on a CentOS 6.2 box and ran into a bug.
 
 The fix was simple. Comment out the problem line in the perl file.
 
-<pre class="wp-block-code"><code>[root@dbserver local]# mytop
+```
+[root@dbserver local]# mytop
 Error in option spec: "long|!"
 
 [root@dbserver local]# which mytop
@@ -20,4 +21,5 @@ From
      "long|!"              => \$config{long_nums},
 
 To
-#     "long|!"              => \$config{long_nums},</code></pre>
+#     "long|!"              => \$config{long_nums},
+```
