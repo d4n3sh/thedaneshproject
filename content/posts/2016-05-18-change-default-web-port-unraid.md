@@ -6,7 +6,7 @@ dsq_thread_id:
   - 4857166579
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-3653" src="/wp-content/uploads/2016/05/Screenshot-from-2016-05-18-14-55-13.png" alt="unRAID default port change" width="348" height="203" />
+{{< figure src="/wp-content/uploads/2016/05/Screenshot-from-2016-05-18-14-55-13.png" alt="unRAID default port change" >}}
 
 You can easily change the default web port for unRAID from port 80 to something you like by changing the "go" file in "/boot/config/". In the example above I changed my unRAID to listen on "8008" instead of the default "80".
 
