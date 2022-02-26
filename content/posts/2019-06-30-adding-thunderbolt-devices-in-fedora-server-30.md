@@ -14,11 +14,14 @@ Here's how I added my 10GbE adapter.
 
 Install the thunderbolt device manager.
 
-<pre class="wp-block-code"><code>>_ sudo dnf install bolt</code></pre>
+```
+>_ sudo dnf install bolt
+```
 
 List connected thunderbolt devices. Take note of the UUID.
 
-<pre class="wp-block-code"><code>>_ sudo boltctl list
+```
+>_ sudo boltctl list
 
  ? QNAP Systems, Inc. QNA-T310G1S
    ?? type:          peripheral
@@ -29,11 +32,13 @@ List connected thunderbolt devices. Take note of the UUID.
    ?  ?? domain:     d2030000-0080-7718-a3c6-0d4a5f01a11d
    ?  ?? authflags:  none
    ?? connected:     Sat 29 Jun 2019 08:25:09 PM UTC
-   ?? stored:        no</code></pre>
+   ?? stored:        no
+```
 
 Authorize and add the device to the device database.
 
-<pre class="wp-block-code"><code>>_ sudo boltctl enroll 00a928e5-0ce2-5600-ffff-ffffffffffff
+```
+>_ sudo boltctl enroll 00a928e5-0ce2-5600-ffff-ffffffffffff
 
  ? QNAP Systems, Inc. QNA-T310G1S
    ?? type:          peripheral
@@ -50,11 +55,13 @@ Authorize and add the device to the device database.
    ?? connected:     Sat 29 Jun 2019 08:25:09 PM UTC
    ?? stored:        Sat 29 Jun 2019 08:28:26 PM UTC
       ?? policy:     auto
-      ?? key:        no</code></pre>
+      ?? key:        no
+```
 
 Device should now show up.
 
-<pre class="wp-block-code"><code>>_ dmesg | tail -n5
+```
+>_ dmesg | tail -n5
 [26025.134557] atlantic 0000:06:00.0 enp6s0: renamed from eth0
 [26027.069740] atlantic: link change old 0 new 10000
 [26027.070131] IPv6: ADDRCONF(NETDEV_CHANGE): enp6s0: link becomes ready
@@ -83,4 +90,5 @@ Settings for enp6s0:
         Port: FIBRE
         PHYAD: 0
         Transceiver: internal
-        Auto-negotiation: on</code></pre>
+        Auto-negotiation: on
+```
