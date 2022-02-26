@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889761252
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-2471" title="Java-7-install-check" src="/wp-content/uploads/2012/05/Java-7-install-check-450x249.png" alt="" width="450" height="249" srcset="/wp-content/uploads/2012/05/Java-7-install-check-450x249.png 450w, /wp-content/uploads/2012/05/Java-7-install-check.png 503w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2012/05/Java-7-install-check-450x249.png)
 
 Oracle JDK is no longer included by default in Ubuntu's repositories due to licensing. OpenJDK is default now but many apps still don't play nice with it. This is why I installed Oracle JDK.
 
@@ -34,5 +34,5 @@ To uninstall,
 
 Did it work for you? [Test here][2]
 
- [1]: /wp-content/uploads/2012/05/Java-7-install-check.png
+ [1]: /wp-content/uploads/2012/05/Java-7-install-check.png)
  [2]: http://www.java.com/en/download/testjava.jsp "Test your Java install"

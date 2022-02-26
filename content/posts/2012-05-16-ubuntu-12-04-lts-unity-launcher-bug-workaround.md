@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889899311
 
 ---
-<a href="/posts/ubuntu-12-04-lts-unity-launcher-bug-workaround/compizconfig-settings-manager-experimental-tab/" rel="attachment wp-att-2479"><img loading="lazy" class="alignnone size-medium wp-image-2479" title="CompizConfig-Settings-Manager-Experimental-Tab" src="/wp-content/uploads/2012/05/CompizConfig-Settings-Manager-Experimental-Tab-450x282.png" alt="" width="450" height="282" srcset="/wp-content/uploads/2012/05/CompizConfig-Settings-Manager-Experimental-Tab-450x282.png 450w, /wp-content/uploads/2012/05/CompizConfig-Settings-Manager-Experimental-Tab.png 992w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+![](/wp-content/uploads/2012/05/CompizConfig-Settings-Manager-Experimental-Tab-450x282.png)
 
 The Unity launcher for Ubuntu 12.04 LTS Precise Pangolin has a bug. When auto hide is enabled, there is a lag when trying to get the panel to show. When working correctly the panel should show when the mouse cursor hits the edge but the bug requires you to move your mouse beyond the edge to get the panel to show. Feels heavy.
 
@@ -18,7 +18,7 @@ Currently, the workaround to get the panel working is through a config tweak usi
 
 1. Download compizconfig-settings-manager tool. Command line or from the app store.
 
-[<img loading="lazy" class="alignnone" title="CompizConfig Settings Manager" src="https://apps.ubuntu.com/assets/images/scbutton-free-200px.png" alt="" width="200" height="60" />][1]
+![](https://apps.ubuntu.com/assets/images/scbutton-free-200px.png)
 
 or
 

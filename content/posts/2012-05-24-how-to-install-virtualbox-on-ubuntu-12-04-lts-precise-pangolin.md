@@ -2,13 +2,8 @@
 title: How to install Virtualbox on Ubuntu 12.04 LTS Precise Pangolin
 author: Danesh Manoharan
 date: 2012-05-23T21:00:00+00:00
-pvc_views:
-  - 8306
-dsq_thread_id:
-  - 889817302
-
 ---
-<img loading="lazy" src="/wp-content/uploads/2012/05/Virtualbox-4.1_4.1.16-ubuntu-1204-lts1.png" alt="" width="450" height="354" />
+![](/wp-content/uploads/2012/05/Virtualbox-4.1_4.1.16-ubuntu-1204-lts1.png)
 
 1. Download and install Oracle's public key.
 
@@ -28,6 +23,4 @@ dsq_thread_id:
 
 `danesh@python:~$ sudo apt-get install virtualbox-4.1`
 
-<div>
-  Enjoy.
-</div>
+Enjoy.
