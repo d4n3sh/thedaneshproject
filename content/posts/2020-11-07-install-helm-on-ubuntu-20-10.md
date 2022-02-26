@@ -8,7 +8,8 @@ Go to the release page to get the download link for the latest version of helm. 
 
 I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
 
-<pre class="wp-block-code"><code>&gt;_ cd ~/.bin
+```
+&gt;_ cd ~/.bin
 
 &gt;_ wget https://get.helm.sh/helm-v3.4.0-linux-amd64.tar.gz
  --2020-11-06 19:41:28--  https://get.helm.sh/helm-v3.4.0-linux-amd64.tar.gz
@@ -53,4 +54,5 @@ I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
  -rwxr-xr-x  1 danesh danesh  37M Aug 24 18:02 vagrant
 
 &gt;_ helm version
- version.BuildInfo{Version:"v3.4.0", GitCommit:"7090a89efc8a18f3d8178bf47d2462450349a004", GitTreeState:"clean", GoVersion:"go1.14.10"}</code></pre>
+ version.BuildInfo{Version:"v3.4.0", GitCommit:"7090a89efc8a18f3d8178bf47d2462450349a004", GitTreeState:"clean", GoVersion:"go1.14.10"}
+```
