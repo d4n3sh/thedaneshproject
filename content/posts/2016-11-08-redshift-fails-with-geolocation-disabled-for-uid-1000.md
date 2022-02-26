@@ -10,7 +10,8 @@ Installed redshift on my Arch box today but it kept failing with "Geolocation di
 
 Add the lines below to the /etc/geoclue/geoclue.conf file and restart gnome.
 
-<pre class="">[redshift]
+```
+[redshift]
 allowed=true
 system=false
 users=

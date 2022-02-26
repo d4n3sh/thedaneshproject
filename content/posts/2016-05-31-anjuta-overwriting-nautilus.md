@@ -10,5 +10,6 @@ For some reason Anjuta decided to overwrite Nautilus for all file operations on 
 
 Fortunately, the fix is easy, just run the command shown below. This will default file operations back to Nautilus.
 
-<pre class="theme:terminal lang:default decode:true">xdg-mime default org.gnome.Nautilus.desktop inode/directory
+```
+xdg-mime default org.gnome.Nautilus.desktop inode/directory
 ```

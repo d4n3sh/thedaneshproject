@@ -12,12 +12,14 @@ In my case, /etc/apt/sources.list.d/virtualbox.list
 
 Change
 
-<pre class="toolbar:2 nums:false lang:default decode:true">deb https://download.virtualbox.org/virtualbox/debian bionic contrib
+```
+deb https://download.virtualbox.org/virtualbox/debian bionic contrib
 ```
 
 to
 
-<pre class="toolbar:2 nums:false lang:default decode:true">deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian bionic contrib
+```
+deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian bionic contrib
 ```
 
  

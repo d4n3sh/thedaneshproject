@@ -8,19 +8,22 @@ dsq_thread_id:
 ---
 Append either line below to the end of your .bashrc file, start a new bash terminal and history should now be turned off.
 
-<pre class="toolbar:2 lang:default decode:true">shopt -u -o history
+```
+shopt -u -o history
 
 ```
 
 <span style="line-height: 1.5;">or</span>
 
-<pre class="toolbar:2 lang:default decode:true">set +o history
+```
+set +o history
 
 ```
 
 <span style="line-height: 1.5;">Don't forget </span><span style="line-height: 1.5;">clear</span><span style="line-height: 1.5;"> out the old history file too.</span>
 
-<pre class="toolbar:2 lang:default decode:true"># history -c;
+```
+# history -c;
 ```
 
  

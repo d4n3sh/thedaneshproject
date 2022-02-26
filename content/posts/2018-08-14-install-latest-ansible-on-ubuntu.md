@@ -6,7 +6,8 @@ date: 2018-08-14T17:48:08+00:00
 ---
 Steps to get the latest version of Ansible installed on Ubuntu or any Ubuntu variant. In my case Kubuntu 18.04.1.
 
-<pre class="nums:false tab-convert:true lang:sh decode:true ">danesh@hades:~$ sudo apt-get update
+```
+danesh@hades:~$ sudo apt-get update
 danesh@hades:~$ sudo apt-get install software-properties-common
 danesh@hades:~$ sudo apt-add-repository ppa:ansible/ansible
 danesh@hades:~$ sudo apt-get update
