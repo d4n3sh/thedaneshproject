@@ -20,7 +20,7 @@ variables:
 testing:
   stage: testing
   script:
-    - yum install git -y
+    - apk add --no-cache git
     - hugo --gc
   artifacts:
     paths:
