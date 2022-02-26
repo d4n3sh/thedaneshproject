@@ -2,13 +2,8 @@
 title: HÖVDING , The invisible bike helmet
 author: Danesh Manoharan
 date: 2012-08-15T17:20:49+00:00
-pvc_views:
-  - 1706
-dsq_thread_id:
-  - 890030672
-
 ---
-<a href="/posts/hovding-the-invisible-bike-helmet/invisible-bike-helmet-08-16-2012/" rel="attachment wp-att-3026"><img loading="lazy" class="alignnone size-medium wp-image-3026" title="Invisible-Bike-Helmet-08-16-2012" src="/wp-content/uploads/2012/08/Invisible-Bike-Helmet-08-16-2012-450x300.jpg" alt="" width="450" height="300" srcset="/wp-content/uploads/2012/08/Invisible-Bike-Helmet-08-16-2012-450x300.jpg 450w, /wp-content/uploads/2012/08/Invisible-Bike-Helmet-08-16-2012.jpg 600w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+![](/wp-content/uploads/2012/08/Invisible-Bike-Helmet-08-16-2012-450x300.jpg "Invisible-Bike-Helmet-08-16-2012")
 
 No one likes bicycle helmets, they're heavy, bulky and simply look weird. However, they keep us alive and I'd rather stay alive with an ugly helmet on then die without one.
 

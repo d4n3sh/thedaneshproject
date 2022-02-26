@@ -12,7 +12,7 @@ Session logging is not enabled by default but if you want logging enabled by def
 
 Fire up Putty and go to the "Logging" tab. Check "Printable output" option and insert your desired log file name and location into the location field.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-3136" alt="PuTTY Configuration_2013-03-05_22-52-01" src="/wp-content/uploads/2013/03/PuTTY-Configuration_2013-03-05_22-52-01-450x432.png" width="450" height="432" srcset="/wp-content/uploads/2013/03/PuTTY-Configuration_2013-03-05_22-52-01-450x432.png 450w, /wp-content/uploads/2013/03/PuTTY-Configuration_2013-03-05_22-52-01.png 456w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![PuTTY Configuration_2013-03-05_22-52-01](/wp-content/uploads/2013/03/PuTTY-Configuration_2013-03-05_22-52-01-450x432.png)
 
 For the log file name, Putty supports the following substitutes.
 

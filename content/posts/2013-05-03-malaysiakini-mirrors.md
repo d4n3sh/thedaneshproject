@@ -2,11 +2,8 @@
 title: Malaysiakini mirrors
 author: Danesh Manoharan
 date: 2013-05-02T16:01:37+00:00
-dsq_thread_id:
-  - 1254988921
-
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-3153" alt="malaysiakini-logo" src="/wp-content/uploads/2013/05/malaysiakini-logo.jpg" width="276" height="182" />][1]
+![malaysiakini-logo](/wp-content/uploads/2013/05/malaysiakini-logo.jpg)
 
 Malaysia's independent news provider Malaysia accessible through [http://www.malaysiakini.com][2] and <http://m.malaysiakini.com/en> might be down (.i.e blocked by our ISP) for many of you.
 

@@ -2,11 +2,8 @@
 title: What is my Gnome Shell version?
 author: Danesh Manoharan
 date: 2013-06-18T15:19:10+00:00
-dsq_thread_id:
-  - 1410116395
-
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-3245" alt="gnome logo" src="/wp-content/uploads/2013/06/gnome-logo.png" width="199" height="76" />][1]
+![gnome logo](/wp-content/uploads/2013/06/gnome-logo.png)
 
 What version of the GNOME Shell am I running?
 

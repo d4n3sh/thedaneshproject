@@ -2,11 +2,8 @@
 title: Delivering Happiness with MYTEKSI
 author: Danesh Manoharan
 date: 2014-01-07T15:09:02+00:00
-dsq_thread_id:
-  - 2097864260
-
 ---
-<a href="/posts/delivery-happiness-myteksi/myteksi-delivering-happiness-07jan2014/" rel="attachment wp-att-3397"><img loading="lazy" class="alignnone size-medium wp-image-3397" alt="myteksi-delivering-happiness-07Jan2014" src="/wp-content/uploads/2014/01/myteksi-delivering-happiness-07Jan2014-450x250.png" width="450" height="250" srcset="/wp-content/uploads/2014/01/myteksi-delivering-happiness-07Jan2014-450x250.png 450w, /wp-content/uploads/2014/01/myteksi-delivering-happiness-07Jan2014.png 596w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+![myteksi-delivering-happiness-07Jan2014](/wp-content/uploads/2014/01/myteksi-delivering-happiness-07Jan2014-450x250.png)
 
 MYTEKSI is currently running a donation campaign for undeserved children across Malaysia. They are looking for English children books and toys.
 

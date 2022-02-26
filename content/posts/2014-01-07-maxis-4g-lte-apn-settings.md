@@ -6,7 +6,7 @@ dsq_thread_id:
   - 2095849894
 
 ---
-<a href="/posts/maxis-4g-lte-apn-settings/maxis-4g-lte-apn-settings-2014-01-07-011414/" rel="attachment wp-att-3393"><img loading="lazy" class="alignnone size-full wp-image-3393" alt="Maxis 4G LTE APN settings 2014-01-07 01:14:14" src="/wp-content/uploads/2014/01/Maxis-4G-LTE-APN-settings-2014-01-07-011414.png" width="386" height="639" /></a>
+![Maxis 4G LTE APN settings 2014-01-07 01:14:14](/wp-content/uploads/2014/01/Maxis-4G-LTE-APN-settings-2014-01-07-011414.png)
 
 Maxis 4G LTE APN Settings.
 

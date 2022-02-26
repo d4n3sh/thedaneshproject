@@ -2,12 +2,8 @@
 title: Google voice and video installer error 1603
 author: Danesh Manoharan
 date: 2013-03-04T09:16:21+00:00
-dsq_thread_id:
-  - 1116265137
-
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-3132" alt="Google Voice Error 1603" src="/wp-content/uploads/2013/03/Google-voice-and-video-chat-Installer_2013-03-02_11-22-32-450x155.png" width="450" height="155" srcset="/wp-content/uploads/2013/03/Google-voice-and-video-chat-Installer_2013-03-02_11-22-32-450x155.png 450w, /wp-content/uploads/2013/03/Google-voice-and-video-chat-Installer_2013-03-02_11-22-32.png 456w" sizes="(max-width: 450px) 100vw, 450px" />][1]
-
+![Google Voice Error 1603](/wp-content/uploads/2013/03/Google-voice-and-video-chat-Installer_2013-03-02_11-22-32-450x155.png)
  
 
 For some stupid reason my Google hangout and voice calls stopped working on my Windows machine. Removed the Google voice plugin and tried reinstalling it and got hit with a new error "Installer error 1603".
@@ -24,11 +20,9 @@ The fix was to run Window's FixIt to clean up the installer. This is what it doe
 
  
 
-<a title="Microsoft FixIt" href="http://support.microsoft.com/mats/Program_Install_and_Uninstall/" target="_blank" rel="noopener">Download Here</a>
+[Download Here](http://support.microsoft.com/mats/Program_Install_and_Uninstall/ "Microsoft FixIt") 
 
-[<img loading="lazy" class="alignnone size-full wp-image-3133" alt="microsoft_fix_it_small" src="/wp-content/uploads/2013/03/microsoft_fix_it_small.png" width="300" height="169" />][2]
-
- 
+![microsoft_fix_it_small](/wp-content/uploads/2013/03/microsoft_fix_it_small.png)
 
 Let me know if it work for you.
 

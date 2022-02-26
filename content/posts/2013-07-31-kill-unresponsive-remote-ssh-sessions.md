@@ -6,7 +6,7 @@ dsq_thread_id:
   - 1550775904
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-3271" alt="ssh-escape-cha_2013-07-31_19-11-17" src="/wp-content/uploads/2013/07/ssh-escape-cha_2013-07-31_19-11-17-450x154.png" width="450" height="154" srcset="/wp-content/uploads/2013/07/ssh-escape-cha_2013-07-31_19-11-17-450x154.png 450w, /wp-content/uploads/2013/07/ssh-escape-cha_2013-07-31_19-11-17.png 544w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![ssh-escape-cha_2013-07-31_19-11-17](/wp-content/uploads/2013/07/ssh-escape-cha_2013-07-31_19-11-17-450x154.png)
 
 I spend a lot of time working with ssh terminals over very slow connections. One common  issue that crops up often  is unresponsive terminals. Closing the terminal is what most of us would go with but then you would have to go through the login workflow again.  If you had to login to 3 servers then redoing that every time would be a pain.
 

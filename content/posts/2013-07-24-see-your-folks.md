@@ -6,7 +6,7 @@ dsq_thread_id:
   - 1523642858
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-3260" alt="See Your Folks" src="/wp-content/uploads/2013/07/seeyourfolks-20130724-0026-450x142.png" width="450" height="142" srcset="/wp-content/uploads/2013/07/seeyourfolks-20130724-0026-450x142.png 450w, /wp-content/uploads/2013/07/seeyourfolks-20130724-0026.png 684w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![See Your Folks](/wp-content/uploads/2013/07/seeyourfolks-20130724-0026-450x142.png)
 
 Let's face it, Nowadays we're always too busy to visit our folks. I'm guilty of the same crime 🙁
 

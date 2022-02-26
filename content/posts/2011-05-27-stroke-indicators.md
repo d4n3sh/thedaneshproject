@@ -2,13 +2,8 @@
 title: Stroke Indicators
 author: Danesh Manoharan
 date: 2011-05-27T01:39:55+00:00
-pvc_views:
-  - 5881
-dsq_thread_id:
-  - 895953837
-
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2264" title="stroke_FAST_checklist" src="/wp-content/uploads/2011/05/stroke_FAST_checklist.gif" alt="" width="310" height="457" />
+![](/wp-content/uploads/2011/05/stroke_FAST_checklist.gif "stroke_FAST_checklist")
 
 My uncle suffered a stroke recently. It ain't pleasant, I can tell you that.
 

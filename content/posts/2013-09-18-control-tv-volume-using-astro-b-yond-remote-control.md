@@ -2,11 +2,8 @@
 title: How to control your TV volume using the Astro B.yond remote control
 author: Danesh Manoharan
 date: 2013-09-18T15:45:06+00:00
-dsq_thread_id:
-  - 1774434080
-
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-3312" alt="astro byond remote map" src="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png" width="450" height="567" srcset="/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png 450w, /wp-content/uploads/2013/09/astro-byond-remote-map.png 470w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![astro byond remote map](/wp-content/uploads/2013/09/astro-byond-remote-map-450x567.png)
 
 Can you control you TV volume from your Astro B.yond remote control?
 

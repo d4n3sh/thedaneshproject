@@ -26,7 +26,8 @@ I've yet to book a cab through Unicablink, hopefully soon. Have you tried Unicab
 
 Some screens from the Android App
 
-[<img loading="lazy" class="alignnone size-medium wp-image-3121" alt="2013-02-08 23.54.04" src="/wp-content/uploads/2013/02/2013-02-08-23.54.04-450x800.png" width="450" height="800" srcset="/wp-content/uploads/2013/02/2013-02-08-23.54.04-450x800.png 450w, /wp-content/uploads/2013/02/2013-02-08-23.54.04-576x1024.png 576w, /wp-content/uploads/2013/02/2013-02-08-23.54.04.png 720w" sizes="(max-width: 450px) 100vw, 450px" />][5] [<img loading="lazy" class="alignnone size-medium wp-image-3119" alt="2013-02-08 23.56.09" src="/wp-content/uploads/2013/02/2013-02-08-23.56.09-450x800.png" width="450" height="800" srcset="/wp-content/uploads/2013/02/2013-02-08-23.56.09-450x800.png 450w, /wp-content/uploads/2013/02/2013-02-08-23.56.09-576x1024.png 576w, /wp-content/uploads/2013/02/2013-02-08-23.56.09.png 720w" sizes="(max-width: 450px) 100vw, 450px" />][6]
+![2013-02-08 23.54.04](/wp-content/uploads/2013/02/2013-02-08-23.54.04-450x800.png)
+![2013-02-08 23.56.09](/wp-content/uploads/2013/02/2013-02-08-23.56.09-450x800.png)
 
  [1]: http://www.sunlighttaxi.com/online-booking
  [2]: https://play.google.com/store/apps/details?id=com.infindo.expresstaxi

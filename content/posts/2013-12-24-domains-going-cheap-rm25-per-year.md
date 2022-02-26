@@ -2,11 +2,8 @@
 title: .my domains going cheap @ RM25 per year
 author: Danesh Manoharan
 date: 2013-12-23T17:11:43+00:00
-dsq_thread_id:
-  - 2069052664
-
 ---
-<a href="/posts/domains-going-cheap-rm25-per-year/ichoose-my-rm30-mydomain-2/" rel="attachment wp-att-3386"><img loading="lazy" class="alignnone size-medium wp-image-3386" alt="mynic rm30 domain banner" src="/wp-content/uploads/2013/12/ichoose-my-rm30-mydomain-450x186.png" width="450" height="186" srcset="/wp-content/uploads/2013/12/ichoose-my-rm30-mydomain-450x186.png 450w, /wp-content/uploads/2013/12/ichoose-my-rm30-mydomain.png 807w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+![mynic rm30 domain banner](/wp-content/uploads/2013/12/ichoose-my-rm30-mydomain-450x186.png)
 
 It's a good time to grab .my domains. MYNIC is letting them go at RM30 for 1 year and RM50 for 2 years. .my domains normally retail around RM100 per year.
 

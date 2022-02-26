@@ -2,11 +2,8 @@
 title: 'Solved: mysql  Fatal error: Can’t open and lock privilege tables: Table ‘mysql.host’ doesn’t exist'
 author: Danesh Manoharan
 date: 2013-09-19T15:16:16+00:00
-dsq_thread_id:
-  - 1777860299
-
 ---
-<a href="/posts/solved-mysql-fatal-error-cant-open-lock-privilege-tables-table-mysql-host-doesnt-exist/mysql-logo/" rel="attachment wp-att-3326"><img loading="lazy" class="alignnone size-full wp-image-3326" alt="mysql-logo" src="/wp-content/uploads/2013/09/mysql-logo.jpg" width="313" height="161" /></a>
+![mysql-logo](/wp-content/uploads/2013/09/mysql-logo.jpg)
 
 Ran into a mysql issue at work today after an unplanned power outage took the server down. The error was _"**Fatal error: Can’t open and lock privilege tables: Table ‘mysql.host’ doesn’t exist"**_ everytime we tried to start mysql. Looked like the system tables were gone.
 
