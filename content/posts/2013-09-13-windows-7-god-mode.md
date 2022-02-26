@@ -14,7 +14,8 @@ Create a new folder and call it "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}"
 
 The code:
 
-<pre>GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
 
  [1]: /wp-content/uploads/2013/09/win-godmode-1.png

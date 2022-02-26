@@ -16,15 +16,18 @@ This is how you would install Webmin on Centos 4.
 
 I prefer to use use wget to directly download the file onto the server but it's up to you.
 
-<pre>wget http://prdownloads.sourceforge.net/webadmin/webmin-1.400-1.noarch.rpm
+```
+wget http://prdownloads.sourceforge.net/webadmin/webmin-1.400-1.noarch.rpm
 ```
 
 2. Install the Webmin rpm package.
 
-<pre>rpm -ivh  webmin-1.400-1.noarch.rpm
+```
+rpm -ivh  webmin-1.400-1.noarch.rpm
 ```
 
-<pre>[root@proxy0 /]# rpm -ivh webmin-1.400-1.noarch.rpm
+```
+[root@proxy0 /]# rpm -ivh webmin-1.400-1.noarch.rpm
 warning: webmin-1.400-1.noarch.rpm: V3 DSA signature: NOKEY, key ID 11f63c51
 Preparing...                ########################################### [100%]
 Operating system is CentOS Linux
@@ -35,10 +38,12 @@ as root with your root password.
 
 3. Check if the Webmin service has been started.
 
-<pre>service webmin status
+```
+service webmin status
 ```
 
-<pre>[root@proxy0 /]# service webmin status
+```
+[root@proxy0 /]# service webmin status
 webmin (pid 4878) is running
 ```
 

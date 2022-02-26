@@ -8,7 +8,8 @@ dsq_thread_id:
 ---
 Feedly recently removed its minibar option and it's been a pain adding new feeds since. My work around is to use Google's "[RSS Subscription Extension][1]" and manually add the feeds in. Install the extension. Browse to your site of choice. If the extension finds a valid RSS feed an icon will show up in your URL bar, click on it. Select the "manage" option from the dropdown and "add".  Give it a name and use the URL below. "%s" in the end represents the feed URL and is automatically understood by the extension.
 
-<pre>http://cloud.feedly.com/#subscription%2Ffeed%2F%s 
+```
+http://cloud.feedly.com/#subscription%2Ffeed%2F%s 
 ```
 
 Pics.

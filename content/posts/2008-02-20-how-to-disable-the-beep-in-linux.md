@@ -18,21 +18,24 @@ _**Temporary solution,**_
 
 1. Check if you have the pcspkr module loaded.
 
-<pre>[root@nosebleed ~]# lsmod | grep pcspkr
+```
+[root@nosebleed ~]# lsmod | grep pcspkr
 
 pcspkr                  7105  0
 ```
 
 2. Remove the module. lsmod will return nothing if the module was removed.
 
-<pre>[root@nosebleed ~]# rmmod pcspkr
+```
+[root@nosebleed ~]# rmmod pcspkr
 
 [root@nosebleed ~]# lsmod | grep pcspkr
 ```
 
 3. Restore the module when done.
 
-<pre>[root@nosebleed ~]# modprobe pcspkr
+```
+[root@nosebleed ~]# modprobe pcspkr
 
 [root@nosebleed ~]# lsmod | grep pcspkr
 
@@ -45,19 +48,22 @@ _**Permanent solution,**_
 
 1. add the pcspkr module to the modprobe blacklist file.
 
-<pre>[root@nosebleed ~]# vi /etc/modprobe.d/blacklist
+```
+[root@nosebleed ~]# vi /etc/modprobe.d/blacklist
 ```
 
 Add the lines below to the file.
 
-<pre># pcspkr - turn off pc speaker "BEEP!"
+```
+# pcspkr - turn off pc speaker "BEEP!"
 
 blacklist pcspkr
 ```
 
 2. Reboot, and check if the pcspkr module was loaded. If the blacklist file kicked in then nothing will be returned.
 
-<pre>[root@nosebleed ~]# lsmod | grep pcspkr
+```
+[root@nosebleed ~]# lsmod | grep pcspkr
 ```
 
 This fix works for my CentOS and Ubuntu but not openSUSE as the pcspkr driver is built right into the kernel.

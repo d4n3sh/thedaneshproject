@@ -16,17 +16,20 @@ I was configuring XDMCP for some of my linux boxes today, when I noticed that [g
 
 The howto contained a link to a [script][3] that gave exactly what I needed.
 
-<pre>#!/bin/sh
+```
+#!/bin/sh
 
 #
 
 # $XFree86$
 ```
 
-<pre># The output of this script is displayed in the chooser window.
+```
+# The output of this script is displayed in the chooser window.
 ```
 
-<pre># (instead of "Willing to manage")
+```
+# (instead of "Willing to manage")
 
 load="`uptime|sed -e 's/^.*load[^0-9]*//'`"
 
