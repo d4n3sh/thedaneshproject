@@ -20,7 +20,7 @@ variables:
 testing:
   stage: testing
   script:
-    - apt install git -y
+    - yum install git -y
     - hugo --gc
   artifacts:
     paths:
