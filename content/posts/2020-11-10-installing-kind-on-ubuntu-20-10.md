@@ -8,7 +8,8 @@ KIND == Kubernetes in Docker
 
 I will install the KIND binary into my ~/bin/ directory since that's where I keep all my binaries.
 
-<pre class="wp-block-code"><code>>_ cd ~/.bin
+```
+>_ cd ~/.bin
  
 >_ curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.9.0/kind-linux-amd64
    % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -24,4 +25,5 @@ I will install the KIND binary into my ~/bin/ directory since that's where I kee
  >_ kind version
  kind v0.9.0 go1.15.2 linux/amd64
 
->_ source &lt;(kind completion zsh)</code></pre>
+>_ source &lt;(kind completion zsh)
+```
