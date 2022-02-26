@@ -9,25 +9,25 @@ Go to the release page to get the download link for the latest version of helm. 
 I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
 
 ```
-&gt;_ cd ~/.bin
+>_ cd ~/.bin
 
-&gt;_ wget https://get.helm.sh/helm-v3.4.0-linux-amd64.tar.gz
+>_ wget https://get.helm.sh/helm-v3.4.0-linux-amd64.tar.gz
  --2020-11-06 19:41:28--  https://get.helm.sh/helm-v3.4.0-linux-amd64.tar.gz
  Resolving get.helm.sh (get.helm.sh)… 152.195.19.97, 2606:2800:11f:1cb7:261b:1f9c:2074:3c
  Connecting to get.helm.sh (get.helm.sh)|152.195.19.97|:443… connected.
  HTTP request sent, awaiting response… 200 OK
  Length: 13315267 (13M) [application/x-tar]
  Saving to: ‘helm-v3.4.0-linux-amd64.tar.gz’
- helm-v3.4.0-linux-amd64.tar.gz  100%[======================================================&gt;]  12.70M  77.2MB/s    in 0.2s    
+ helm-v3.4.0-linux-amd64.tar.gz  100%[======================================================>]  12.70M  77.2MB/s    in 0.2s    
  2020-11-06 19:41:29 (77.2 MB/s) - ‘helm-v3.4.0-linux-amd64.tar.gz’ saved [13315267/13315267]
  
-&gt;_ tar -zxvf helm-v3.4.0-linux-amd64.tar.gz
+>_ tar -zxvf helm-v3.4.0-linux-amd64.tar.gz
  linux-amd64/
  linux-amd64/README.md
  linux-amd64/helm
  linux-amd64/LICENSE
  
-&gt;_ ll
+>_ ll
  total 303M
  drwxrwxr-x 11 danesh danesh 4.0K Oct 11 11:27 fzf
  drwxrwxr-x  9 danesh danesh 4.0K Nov  6 19:01 google-cloud-sdk
@@ -38,12 +38,12 @@ I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
  -rwxr-xr-x  1 danesh danesh  82M Sep 30 13:10 terraform
  -rwxr-xr-x  1 danesh danesh  37M Aug 24 18:02 vagrant
 
- &gt;_ cp linux-amd64/helm .
+ >_ cp linux-amd64/helm .
 
- &gt;_ rm -rfv linux-amd64
- &gt;_ rm helm-v3.4.0-linux-amd64.tar.gz
+ >_ rm -rfv linux-amd64
+ >_ rm helm-v3.4.0-linux-amd64.tar.gz
 
- &gt;_ ll
+ >_ ll
  total 330M
  drwxrwxr-x 11 danesh danesh 4.0K Oct 11 11:27 fzf
  drwxrwxr-x  9 danesh danesh 4.0K Nov  6 19:01 google-cloud-sdk
@@ -53,6 +53,6 @@ I prefer the binaries to be in my ~/.bin/ directory as it is already in my PATH
  -rwxr-xr-x  1 danesh danesh  82M Sep 30 13:10 terraform
  -rwxr-xr-x  1 danesh danesh  37M Aug 24 18:02 vagrant
 
-&gt;_ helm version
+>_ helm version
  version.BuildInfo{Version:"v3.4.0", GitCommit:"7090a89efc8a18f3d8178bf47d2462450349a004", GitTreeState:"clean", GoVersion:"go1.14.10"}
 ```

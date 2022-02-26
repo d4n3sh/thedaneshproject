@@ -51,9 +51,9 @@ Once you're bored (like I did) then it's time to get rid of IE, here's how you'l
 
  ``
 
-<pre>danny@pandora:~&gt; rm -rf ~/.ies4linux/
-danny@pandora:~&gt; rm -rf ~/bin/
-danny@pandora:~&gt; rm -rf ~/Desktop/ies4linux-ie6.desktop</pre>
+<pre>danny@pandora:~> rm -rf ~/.ies4linux/
+danny@pandora:~> rm -rf ~/bin/
+danny@pandora:~> rm -rf ~/Desktop/ies4linux-ie6.desktop</pre>
 
  [1]: http://www.winehq.org/
  [2]: http://www.tatanka.com.br/ies4linux/page/Main_Page

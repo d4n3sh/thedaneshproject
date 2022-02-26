@@ -36,7 +36,7 @@ danesh@antman:~$ sudo mkdir /etc/systemd/system/docker.service.d/
 
 danesh@antman:~$ sudo echo "[Unit]
 After=nas-data.mount
-Wants=nas-data.mount" &gt;&gt; /etc/systemd/system/docker.service.d/wait-for-nfs.conf
+Wants=nas-data.mount" >> /etc/systemd/system/docker.service.d/wait-for-nfs.conf
 
 danesh@antman:~$ sudo cat /etc/systemd/system/docker.service.d/wait-for-nfs.conf 
 [sudo] password for danesh: 
