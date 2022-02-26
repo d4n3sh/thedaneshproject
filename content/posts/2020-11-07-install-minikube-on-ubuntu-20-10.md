@@ -6,16 +6,16 @@ date: 2020-11-07T00:33:25+00:00
 ---
 I'm installing minikube on my shiny new Pop!OS 20.10 install which is based on Ubuntu 20.10.
 
-<pre class="wp-block-code"><code>>_lsb_release -a
+```>_lsb_release -a
 No LSB modules are available.
 Distributor ID: Pop
 Description:    Pop!_OS 20.10
 Release:    20.10
-Codename:   groovy</code></pre>
+Codename:   groovy```
 
 I prefer to have my standalone application binaries placed in ~/.bin/ which is already included in my PATH.
 
-<pre class="wp-block-code"><code>&gt;_ cd ~/.bin
+```&gt;_ cd ~/.bin
 &gt;_ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
 Dload  Upload   Total   Spent    Left  Speed
@@ -31,15 +31,15 @@ drwxrwxr-x  9 danesh danesh 4.0K Oct 30 14:29 google-cloud-sdk
 -rwxr-xr-x  1 danesh danesh  82M Sep 30 13:10 terraform
 -rwxr-xr-x  1 danesh danesh  37M Aug 24 18:02 vagrant
 &gt;_ rm minikube-linux-amd64
-</code></pre>
+```
 
 Verify if it's working
 
-<pre class="wp-block-code"><code>&gt;_ cd ~
+```&gt;_ cd ~
 &gt;_ which minikube
 /home/danesh/.bin/minikube
 &gt;_ source &lt;(minikube completion zsh)
 &gt;_ minikube version
 minikube version: v1.14.2
 commit: 2c82918e2347188e21c4e44c8056fc80408bce10
-</code></pre>
+```
