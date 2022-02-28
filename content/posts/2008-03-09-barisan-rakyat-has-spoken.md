@@ -8,7 +8,7 @@ dsq_thread_id:
   - 945091760
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2350/2318737386_3c237720ba.jpg" alt="barisanrakyat2" height="500" width="353" />][1]
+![](http://farm3.static.flickr.com/2350/2318737386_3c237720ba.jpg)
 
 Barisan Rakyat's voice has been heard. BN has been denied it's critical 2/3 majority thus preventing them from making decisions alone moving forward.
 

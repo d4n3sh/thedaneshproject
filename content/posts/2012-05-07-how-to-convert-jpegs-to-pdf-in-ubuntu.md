@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890713445
 
 ---
-[<img loading="lazy" title="words_to_pdf" src="/wp-content/uploads/2012/05/words_to_pdf.png" alt="" width="405" height="355" />][1]
+![](/wp-content/uploads/2012/05/words_to_pdf.png)
 
 Had a few documents to scan to PDF urgently today but to my surprise all the cybercafes around my neighborhood didn't provide scan to PDF service. The best they could do was scan to jpeg. Hmmm...why?
 
@@ -34,4 +34,4 @@ or
 
 ``Did it work for you? Do you have an alternative solution?
 
- [1]: /wp-content/uploads/2012/05/words_to_pdf.png
+ [1]: /wp-content/uploads/2012/05/words_to_pdf.png)

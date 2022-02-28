@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736262
 
 ---
-[<img src="/techblog/wp-content/uploads/2007/02/my-vista-20070203.thumbnail.jpg" alt="my-vista-20070203.jpg" title="my-vista-20070203.jpg" align="left" />][1]Just had my Dell Latitude D610 upgraded to Vista Enterprise. Smooth graphics, good speed, good security (small box pops up each time you do something like install apps or change settings, just like Linux) and the side bar's pretty sweet too.
+![](/techblog/wp-content/uploads/2007/02/my-vista-20070203.thumbnail.jpg)
 
 Even with all the above I still prefer my openSUSE 10.2 with XGL and [Beryl][2], It makes Vista look like a kitten. What did they put into all the source code?
 
@@ -20,7 +20,7 @@ Spent a whole night trying to feagure out the problem.Good news is I manged to f
 
 See the fix on the next page;<!--more-->
 
-[![my-vista-fix-20070203.jpg][5]][6]
+[![my-vista-fix-20070203.jpg)
 
 1. Start -> run -> regedit.exe  
 2. HKEY\_LOCAL\_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{GUID}  
@@ -32,9 +32,9 @@ See the fix on the next page;<!--more-->
 
 [Read the full article at Microsoft][4]
 
- [1]: /techblog/wp-content/uploads/2007/02/my-vista-20070203.jpg "my-vista-20070203.jpg"
+ [1]: /techblog/wp-content/uploads/2007/02/my-vista-20070203.jpg)
  [2]: http://www.beryl-project.org/
  [3]: http://www.ipcop.org/
  [4]: http://support.microsoft.com/kb/928233/en-us
- [5]: /techblog/wp-content/uploads/2007/02/my-vista-fix-20070203.jpg
- [6]: /techblog/wp-content/uploads/2007/02/my-vista-fix-20070203.jpg "my-vista-fix-20070203.jpg"
+ [5]: /techblog/wp-content/uploads/2007/02/my-vista-fix-20070203.jpg)
+ [6]: /techblog/wp-content/uploads/2007/02/my-vista-fix-20070203.jpg)

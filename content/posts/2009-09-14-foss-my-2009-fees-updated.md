@@ -12,7 +12,7 @@ dsq_thread_id:
 ---
 The [FOSS.MY 2009][1] fee structure has been updated. It looks good now, accessible to anyone now.
 
-[<img loading="lazy" class="alignnone size-full wp-image-1760" title="FOSS.my 2009 Registration Overview" src="/wp-content/uploads/2009/09/FOSS.my-2009-Registration-Overview.png" alt="FOSS.my 2009 Registration Overview" width="496" height="180" />][2]
+![](/wp-content/uploads/2009/09/FOSS.my-2009-Registration-Overview.png)
 
 Here's the breakdown of the update structure.
 
@@ -56,5 +56,5 @@ Walk-in Prices (RM 100) **<span style="color: #ff6600;">Used to be RM150</span>*
 Source: [FOSS.MY 2009][3]
 
  [1]: /posts/foss-my-2009-open-for-registration/
- [2]: /wp-content/uploads/2009/09/FOSS.my-2009-Registration-Overview.png
+ [2]: /wp-content/uploads/2009/09/FOSS.my-2009-Registration-Overview.png)
  [3]: http://foss.my/2009/registration-overview/

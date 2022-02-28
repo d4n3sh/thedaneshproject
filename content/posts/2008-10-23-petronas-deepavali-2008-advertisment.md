@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889802220
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3071/2965699959_1e89e0071c.jpg" alt="Petronas_Greetings_deepavali_08" width="500" height="299" />][1]
+![](http://farm4.static.flickr.com/3071/2965699959_1e89e0071c.jpg)
 
 Yet another awesome ad from Petronas.
 

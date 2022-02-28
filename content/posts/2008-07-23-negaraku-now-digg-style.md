@@ -10,7 +10,7 @@ dsq_thread_id:
   - 921502978
 
 ---
-<figure id="attachment_709" aria-describedby="caption-attachment-709" style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-709" title="negaraku-digg-style1" src="/wp-content/uploads/2008/07/negaraku-digg-style1-500x312.png" alt="Negaraku Digg Style" width="500" height="312" srcset="/wp-content/uploads/2008/07/negaraku-digg-style1-500x312.png 500w, /wp-content/uploads/2008/07/negaraku-digg-style1.png 1280w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption id="caption-attachment-709" class="wp-caption-text">Negaraku Digg Style</figcaption></figure>
+<figure id="attachment_709" aria-describedby="caption-attachment-709" style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-709" title="negaraku-digg-style1" src="/wp-content/uploads/2008/07/negaraku-digg-style1-500x312.png)
 
 [Negaraku][2] the local news aggregator I [posted][3] about some time back has gone through it's evolution cycle and now emerged as a [Digg][4] clone.
 
@@ -20,7 +20,7 @@ The original aggregator was slow buggy thus the need to evolve. The new Digg sty
 
 Submissions are still broken up into their own categories like politics, business,tech, politics and a few others. This helps users easily access their information of choice. Each category is also publish via RSS for easy access.Ã‚Â  Another benefit of going Digg style is that high rated submissions always show up first rescuing users from wasting their time combing though useless submissions.
 
-<figure id="attachment_710" aria-describedby="caption-attachment-710" style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-710" title="negaraku-digg-style2" src="/wp-content/uploads/2008/07/negaraku-digg-style2-500x312.png" alt="Negaraku old aggregator" width="500" height="312" srcset="/wp-content/uploads/2008/07/negaraku-digg-style2-500x312.png 500w, /wp-content/uploads/2008/07/negaraku-digg-style2.png 1280w" sizes="(max-width: 500px) 100vw, 500px" />][5]<figcaption id="caption-attachment-710" class="wp-caption-text">Negaraku old aggregator</figcaption></figure>
+<figure id="attachment_710" aria-describedby="caption-attachment-710" style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-710" title="negaraku-digg-style2" src="/wp-content/uploads/2008/07/negaraku-digg-style2-500x312.png)
 
 So what happen to the old aggregator? It's still alive at [news.negaraku.net][6] .
 
@@ -28,9 +28,9 @@ In short I like Negaraku Digg Style. What do you think?
 
 Source: [Negaraku][2] || [news.negaraku.net][6]
 
- [1]: /wp-content/uploads/2008/07/negaraku-digg-style1.png
+ [1]: /wp-content/uploads/2008/07/negaraku-digg-style1.png)
  [2]: http://www.negaraku.net/
  [3]: /posts/negaraku-the-malaysia-news-aggregator/
  [4]: http://www.digg.com/
- [5]: /wp-content/uploads/2008/07/negaraku-digg-style2.png
+ [5]: /wp-content/uploads/2008/07/negaraku-digg-style2.png)
  [6]: http://www.news.negaraku.net/

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1044562382
 
 ---
-<img style="max-width: 800px;" src="/wp-content/uploads/2008/07/ms-asf.jpg" alt="" />
+![](/wp-content/uploads/2008/07/ms-asf.jpg)
 
 Microsoft has announced that it will sponsor ASF "Apache Software Foundation". Yahoo and Google are already on board.
 

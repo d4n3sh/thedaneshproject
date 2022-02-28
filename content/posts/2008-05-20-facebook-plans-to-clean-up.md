@@ -8,7 +8,7 @@ dsq_thread_id:
   - 930980212
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-575" title="Facebook Profile Preview" src="/wp-content/uploads/2008/05/_44668913_facebooknew1_416x3001.jpg" alt="Facebook Profile Preview" width="416" height="300" />][1]
+![](/wp-content/uploads/2008/05/_44668913_facebooknew1_416x3001.jpg)
 
 My Facebook page has become one giant ball of information. Cluttered and confusing with the increasing amount for new applications being shared and circulated. I'm quite sure I'm not alone on this.
 
@@ -18,6 +18,6 @@ Facebook has announced a makeover which is panned for roll out next month. The r
 
 Facebook has also made available an integration guide for developers over at it's wiki.
 
- [1]: /wp-content/uploads/2008/05/_44668913_facebooknew1_416x3001.jpg
+ [1]: /wp-content/uploads/2008/05/_44668913_facebooknew1_416x3001.jpg)
  [2]: http://developers.facebook.com/news.php?blog=1&story=107
  [3]: http://www.facebook.com/FacebookPreviews

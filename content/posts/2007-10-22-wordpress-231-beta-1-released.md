@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737851
 
 ---
-<img loading="lazy" src="http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif" height="112" width="112" />
+![](http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif)
 
 The first maintenance release for WordPress 2.3(Dexter) was released a few days back. [WordPress 2.3.1][1].
 

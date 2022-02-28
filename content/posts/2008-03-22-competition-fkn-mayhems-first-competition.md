@@ -8,13 +8,13 @@ dsq_thread_id:
   - 926510781
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2328/2351596603_cf978614c0_o.jpg" alt="F'kn Mayhem's frist competition" border="0" height="309" width="464" />][1]{.tt-flickr}
+![](http://farm3.static.flickr.com/2328/2351596603_cf978614c0_o.jpg)
 
 F'KN MAYHEM's first official competition just rolled out it's doors.<!--more-->If you into street art then this competition is made for you. Just look at the goodies up for grabs.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3006/2351597263_3ca34285cc.jpg" alt="F'kn Mayhem's frist competition prizes" border="0" height="400" width="500" />][2]{.tt-flickr}
+![](http://farm4.static.flickr.com/3006/2351597263_3ca34285cc.jpg)
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2306/2351676759_913f9f923d_o.jpg" alt="F'kn Mayhem's frist competition prizes" border="0" height="382" width="464" />][3]
+![](http://farm3.static.flickr.com/2306/2351676759_913f9f923d_o.jpg)
 
 How to participate?
 

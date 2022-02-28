@@ -8,7 +8,7 @@ dsq_thread_id:
   - 988153268
 
 ---
-<img loading="lazy" src="http://bp0.blogger.com/_gdoSvBDXsRQ/ReK4Ts6qKDI/AAAAAAAAALs/Pux02JaZKwM/s400/rod.jpg" title="Hei Mr. Frind You Better Watch Your Back" alt="Hei Mr. Frind You Better Watch Your Back" align="left" height="300" width="400" />In the recent years bloggers have slowly gained momentum on the online space and they have been cashing in big time. However many newbies to the blogging scene out there find the concept of making money off blogs still in the grey area. I my self formally a sceptic am now starting to see the potential of making money through blogging. If your content is good and keeps your visitors happy then there is not reason why you should not be rewarded for your work. At least to cover the hosting cost.
+![](http://bp0.blogger.com/_gdoSvBDXsRQ/ReK4Ts6qKDI/AAAAAAAAALs/Pux02JaZKwM/s400/rod.jpg)
 
 I came across _"[Cheques Gallery][1]"_ a few days back. The blog has a good collection of images of cheques and notes from contributors who have been successfully making money online through their blogs or other content. Going through the site and looking at all the various <span style="font-weight: bold; font-style: italic">$$</span> signs or <span style="font-weight: bold; font-style: italic">bling</span> as I call it got me all fired up to start blogging quality content and not just mambo jumbo.
 

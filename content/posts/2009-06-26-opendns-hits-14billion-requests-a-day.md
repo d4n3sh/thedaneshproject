@@ -10,7 +10,7 @@ dsq_thread_id:
   - 897099010
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1552" title="chart_total_alltime_2009_06" src="/wp-content/uploads/2009/06/chart_total_alltime_2009_06-500x344.gif" alt="chart_total_alltime_2009_06" width="500" height="344" srcset="/wp-content/uploads/2009/06/chart_total_alltime_2009_06-500x344.gif 500w, /wp-content/uploads/2009/06/chart_total_alltime_2009_06.gif 560w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/06/chart_total_alltime_2009_06-500x344.gif" alt="chart_total_alltime_2009_06" width="500" height="344" srcset="/wp-content/uploads/2009/06/chart_total_alltime_2009_06-500x344.gif 500w, /wp-content/uploads/2009/06/chart_total_alltime_2009_06.gif 560w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
 The best DNS service on the net, [OpenDNS][2], receives 14 billion DNS request a day now!! Yup, 14 billion hits a day!! At pick time they process about 200,000 hits/sec which is mind blowing.
 
@@ -18,7 +18,7 @@ A new location is planned for Amsterdam in a few months and also Asia hopefully.
 
 The [system status][3] page has also been updated to include DNS requests per day now. See below,
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1553" title="OpenDNS - System" src="/wp-content/uploads/2009/06/OpenDNS-System-500x187.png" alt="OpenDNS - System" width="500" height="187" srcset="/wp-content/uploads/2009/06/OpenDNS-System-500x187.png 500w, /wp-content/uploads/2009/06/OpenDNS-System.png 742w" sizes="(max-width: 500px) 100vw, 500px" />][4]
+![](/wp-content/uploads/2009/06/OpenDNS-System-500x187.png)
 
 I've been on OpenDNS for a long time now. I use it at work, home and while I travel. It's easy, quick and gives me peace of mind to know that my nephew who's 4 does not end up on wrong sites while he's learning the internet.
 
@@ -31,5 +31,5 @@ Source: [OpenDNS Blog][5]
  [1]: /wp-content/uploads/2009/06/chart_total_alltime_2009_06.gif
  [2]: http://opendns.com/
  [3]: http://system.opendns.com/
- [4]: /wp-content/uploads/2009/06/OpenDNS-System.png
+ [4]: /wp-content/uploads/2009/06/OpenDNS-System.png)
  [5]: http://blog.opendns.com/

@@ -18,10 +18,10 @@ This was something Google put together for the holiday season. A way to showcase
 
 Inspired? [Get started][2] on you own collaborative art.
 
-[<img class="alignnone size-full wp-image-1051" title="Collaborative Spreadsheet Art" src="/wp-content/uploads/2008/12/google-doc-holiday.jpg" alt="Collaborative Spreadsheet Art" width="500" srcset="/wp-content/uploads/2008/12/google-doc-holiday.jpg 836w, /wp-content/uploads/2008/12/google-doc-holiday-500x436.jpg 500w" sizes="(max-width: 836px) 100vw, 836px" />][3]
+![](/wp-content/uploads/2008/12/google-doc-holiday.jpg)
 
 Source: [Google Docs][2]
 
  [1]: http://www.google.com/google-d-s/holiday08_bts.html
  [2]: http://www.google.com/google-d-s/holiday08.html
- [3]: /wp-content/uploads/2008/12/google-doc-holiday.jpg
+ [3]: /wp-content/uploads/2008/12/google-doc-holiday.jpg)

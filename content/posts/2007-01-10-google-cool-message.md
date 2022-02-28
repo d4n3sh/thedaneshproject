@@ -8,5 +8,5 @@ dsq_thread_id:
   - 923976429
 
 ---
-<img id="image42" alt="google.jpg" src="/techblog/wp-content/uploads/2007/01/google.jpg" />  
+![](/techblog/wp-content/uploads/2007/01/google.jpg)
 I will use Google before asking dumb questions. I just wished everybody thought the same..

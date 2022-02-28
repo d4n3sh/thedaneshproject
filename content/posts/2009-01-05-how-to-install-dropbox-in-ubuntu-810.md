@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892494682
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1111" title="dropbox_logo" src="/wp-content/uploads/2009/01/dropbox_logo.png" alt="dropbox_logo" width="211" height="54" />
+![](/wp-content/uploads/2009/01/dropbox_logo.png)
 
 [Dropbox][1] is my favorite online storage solution. Here's how to install it on Ubuntu 8.10 Interpid
 

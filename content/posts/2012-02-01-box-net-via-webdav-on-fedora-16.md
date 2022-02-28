@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890154167
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2356" title="boxnet" src="/wp-content/uploads/2012/02/boxnet-450x271.png" alt="" width="450" height="271" srcset="/wp-content/uploads/2012/02/boxnet-450x271.png 450w, /wp-content/uploads/2012/02/boxnet.png 640w" sizes="(max-width: 450px) 100vw, 450px" />  
+![](/wp-content/uploads/2012/02/boxnet-450x271.png)
 I was lucky enough to get a <a title="Current 50GB promotions" href="https://support.box.net/entries/20768867-box-50-gb-promotion-faqs" target="_blank">free 50GB box.net</a> account. 50GB is alot!. However, the catch, individual files can't exceed 100mb each. lol
 
 I mainly use my box.net to hold eBooks for later access on my Laptop and Android devices.

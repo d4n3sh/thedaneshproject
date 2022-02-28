@@ -10,7 +10,7 @@ dsq_thread_id:
   - 897217792
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3170/3118572810_ee59ddf409.jpg" alt="Suse11.1_Box" width="471" height="500" />][1]  
+![](http://farm4.static.flickr.com/3170/3118572810_ee59ddf409.jpg)
 Woo Hoo openSUSE 11.1's out!! [Grab it here][2]
 
 What's new?

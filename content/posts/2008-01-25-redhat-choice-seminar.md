@@ -30,10 +30,10 @@ Malaysia
 
 Time: 1.30pm - 5.00 pm
 
-If you are interested to attend the seminar then<img src="http://img242.imageshack.us/img242/5623/btnregisterek4.jpg" border="0" /> . I'm going.
+If you are interested to attend the seminar then<img src="http://img242.imageshack.us/img242/5623/btnregisterek4.jpg)
 
 Source:  
-[<img src="http://img166.imageshack.us/img166/482/choicelogost8.jpg" border="0" />][2]
+![](http://img166.imageshack.us/img166/482/choicelogost8.jpg)
 
- [1]: http://img186.imageshack.us/img186/2646/banner720nc2.jpg
+ [1]: http://img186.imageshack.us/img186/2646/banner720nc2.jpg)
  [2]: http://www.isthereachoice.com/

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737566
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" align="top" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 The is a new version of Firefox out. Firefox 2.0.07.
 

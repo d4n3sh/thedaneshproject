@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890897652
 
 ---
-<img loading="lazy" class="alignnone" title="P1 WiMAX" src="http://farm4.static.flickr.com/3241/2789548980_1225cbac25.jpg" alt="" width="500" height="252" />
+![](http://farm4.static.flickr.com/3241/2789548980_1225cbac25.jpg)
 
 Drop Streamyx, go [P1 WiMAX][1]...
 

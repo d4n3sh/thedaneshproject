@@ -9,7 +9,7 @@ dsq_thread_id:
   - 893262761
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-610" title="Deluge" src="/wp-content/uploads/2008/06/deluge0591.png" alt="Deluge" width="500" height="370" />][1]
+![](/wp-content/uploads/2008/06/deluge0591.png)
 
 Not been following Deluge for the past few months. I had to fall back to Windows since my damn Exchange server could not work with Linux.
 
@@ -49,5 +49,5 @@ li>Remove file manager from preferences
   * Sync with libtorrent 0.13 release
   * Fix for vista dbus not closing bug
 
- [1]: /wp-content/uploads/2008/06/deluge0591.png
+ [1]: /wp-content/uploads/2008/06/deluge0591.png)
  [2]: http://deluge-torrent.org/downloads.php

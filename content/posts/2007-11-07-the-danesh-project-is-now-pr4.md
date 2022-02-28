@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Woo hoo!! The Danesh Project is now PR4.
 
-[<img src="http://i62.photobucket.com/albums/h100/vwvr9/pr4.png" border="0" />][1]
+![](http://i62.photobucket.com/albums/h100/vwvr9/pr4.png)
 
 Need to check your page rank? [Go here][2].
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737974
 
 ---
-<img loading="lazy" src="http://profile.ak.facebook.com/profile6/121/7/s737288015_2101.jpg" height="75" width="100" />
+![](http://profile.ak.facebook.com/profile6/121/7/s737288015_2101.jpg)
 
 Raja, my buddy for the past 6 years is now part of The Danesh Project. We started off working in the same company for about 4 years and now have moved on to different places but our passion or Linux,open-source and beer keeps the friendship going.
 

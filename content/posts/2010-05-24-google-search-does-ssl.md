@@ -2,13 +2,8 @@
 title: Google search does SSL
 author: Danesh Manoharan
 date: 2010-05-23T17:19:15+00:00
-pvc_views:
-  - 2698
-dsq_thread_id:
-  - 892059768
-
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2145" title="google-ssl-search" src="/wp-content/uploads/2010/05/google-ssl-search-450x238.png" alt="" width="450" height="238" srcset="/wp-content/uploads/2010/05/google-ssl-search-450x238.png 450w, /wp-content/uploads/2010/05/google-ssl-search.png 616w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/05/google-ssl-search-450x238.png)
 
 With online privacy being the main concern for most internet users today, Google has responded to them by introducing SSL support to its search.
 

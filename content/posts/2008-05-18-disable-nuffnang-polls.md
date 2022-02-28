@@ -16,14 +16,14 @@ If you're in the same boat with then the screen shots below might help. A simple
 
 1. On the main main click the green "More" link.
 
-<img class="alignnone" src="http://farm4.static.flickr.com/3172/2500246689_d827ce1be8.jpg" alt="Nuffnang Polls Removal" /> 
+![](http://farm4.static.flickr.com/3172/2500246689_d827ce1be8.jpg)
 
 2. Now click on the green "Blog Manager" link.
 
-<img class="alignnone" src="http://farm3.static.flickr.com/2222/2501076136_b1371d55aa.jpg" alt="Nuffnang Polls Removal" /> 
+![](http://farm3.static.flickr.com/2222/2501076136_b1371d55aa.jpg)
 
 3. Select "No" from the POLLS drop down menu.
 
-<img class="alignnone" src="http://farm4.static.flickr.com/3050/2500246879_0374ccd836.jpg" alt="Nuffnang Polls Removal" />
+![](http://farm4.static.flickr.com/3050/2500246879_0374ccd836.jpg)
 
  [1]: http://www.nuffnang.com.my/blog/2008/04/23/nuffnang-launches-poll/

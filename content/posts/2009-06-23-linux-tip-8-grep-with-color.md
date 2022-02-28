@@ -10,7 +10,7 @@ dsq_thread_id:
   - 896207632
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1530" title="grep-with-color-1" src="/wp-content/uploads/2009/06/grep-with-color-1-500x168.png" alt="grep-with-color-1" width="500" height="168" srcset="/wp-content/uploads/2009/06/grep-with-color-1-500x168.png 500w, /wp-content/uploads/2009/06/grep-with-color-1.png 831w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/06/grep-with-color-1-500x168.png)
 
 If you're running grep on a large file with multipled results, highlighting your results would really easy on your eyes.
 
@@ -24,4 +24,4 @@ Once you've executed the command, run a simple grep to see the highlights in act
 
 Red is the default highlight color. I'll cover setting custom colors in a future post.
 
- [1]: /wp-content/uploads/2009/06/grep-with-color-1.png
+ [1]: /wp-content/uploads/2009/06/grep-with-color-1.png)

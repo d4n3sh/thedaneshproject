@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891835092
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2308/2409529208_000bba88b6.jpg" alt="" width="500" height="245" />
+![](http://farm3.static.flickr.com/2308/2409529208_000bba88b6.jpg)
 
 Finally managed to upgrade to WordPress 2.5Ã‚Â  yesterday.
 

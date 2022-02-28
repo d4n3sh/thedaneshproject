@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890182021
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1953" title="vbox_logo2_gradient" src="/wp-content/uploads/2010/01/vbox_logo2_gradient.png" alt="" width="140" height="180" />
+![](/wp-content/uploads/2010/01/vbox_logo2_gradient.png)
 
 Here's a quick guide to install [VirtualBox][1] 3.1.2 on Fedora 12
 

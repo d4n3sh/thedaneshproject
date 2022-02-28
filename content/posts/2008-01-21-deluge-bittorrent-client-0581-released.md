@@ -8,7 +8,7 @@ dsq_thread_id:
   - 923045070
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2018/2208029527_8cb0eca62c_o.jpg" height="340" width="450" />
+![](http://farm3.static.flickr.com/2018/2208029527_8cb0eca62c_o.jpg)
 
 A new version of Deluge is out.
 

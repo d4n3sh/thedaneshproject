@@ -8,7 +8,7 @@ dsq_thread_id:
   - 913096226
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2238" title="Jules Verne-1830bday-doodle" src="/wp-content/uploads/2011/02/Jules-Verne-1830bday-doodle-450x137.png" alt="" width="450" height="137" srcset="/wp-content/uploads/2011/02/Jules-Verne-1830bday-doodle-450x137.png 450w, /wp-content/uploads/2011/02/Jules-Verne-1830bday-doodle.png 702w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2011/02/Jules-Verne-1830bday-doodle-450x137.png)
 
 This has to be amongst the coolest Google doodles out there. It's to celebrate Jules Verne's 183rd birthday.
 

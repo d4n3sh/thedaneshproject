@@ -8,7 +8,7 @@ dsq_thread_id:
   - 972615407
 
 ---
-<img loading="lazy" src="/techblog/wp-content/uploads/2007/01/skype30thumbnail.png" height="100" width="225" />
+![](/techblog/wp-content/uploads/2007/01/skype30thumbnail.png)
 
 Skype's back now.
 

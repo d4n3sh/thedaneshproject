@@ -8,7 +8,7 @@ dsq_thread_id:
   - 929721044
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Mozilla has released it's latest beta release of Firefox 3. Firefox 3 Beta 3.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736902
 
 ---
-<img src="http://img409.imageshack.us/img409/651/scriptlancevi4.jpg" align="middle" />
+![](http://img409.imageshack.us/img409/651/scriptlancevi4.jpg)
 
 A good resource for freelance web developers.
 

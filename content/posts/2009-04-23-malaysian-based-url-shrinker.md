@@ -12,7 +12,7 @@ dsq_thread_id:
   - 897099811
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1410" title="xsmy-malaysias-very-own-url-shortening-service" src="/wp-content/uploads/2009/04/xsmy-malaysias-very-own-url-shortening-service-500x414.png" alt="xsmy-malaysias-very-own-url-shortening-service" width="500" height="414" srcset="/wp-content/uploads/2009/04/xsmy-malaysias-very-own-url-shortening-service-500x414.png 500w, /wp-content/uploads/2009/04/xsmy-malaysias-very-own-url-shortening-service.png 622w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/04/xsmy-malaysias-very-own-url-shortening-service-500x414.png)
 
 XS.my , Malaysia's very own tinyurl service. The service is provided by [Netizens Media][1].
 

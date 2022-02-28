@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736259
 
 ---
-[<img src="http://wwwimage.cbsnews.com/images/2007/01/30/image2411881g.jpg" align="left" />][1]CBS posted a cool article regarding tattoos in the workplace yesterday.
+![](http://wwwimage.cbsnews.com/images/2007/01/30/image2411881g.jpg)
 
 Research found that 23% of college students have 1-3 tats,51% are pierced beyond the woman's ears and 36% of 18-29 year olds have tats today. WOW!!
 

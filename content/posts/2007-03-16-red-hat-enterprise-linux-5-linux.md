@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737105
 
 ---
-<img src="/wp-content/uploads/2007/03/redhat.png" title="redhat.png" alt="redhat.png" align="left" />[redhat][1] unveiled their latest product, Red Hat Enterprise Linux 5. 2 years in development and loads of new features makes this the Linux distribution to watch for. With server virtualization being the current market trend with companies focusing on lowering IT cost and space requirements, the built in support for virtualization would certainly be a advantage point for redhat. [Read more about RHEL5 virtualization.][2]
+![](/wp-content/uploads/2007/03/redhat.png)
 
 Other key enhancements added cover the kernel, security, packaging, network, desktop, storage and better system management.[Read more about RHEL5 features.][3]
 

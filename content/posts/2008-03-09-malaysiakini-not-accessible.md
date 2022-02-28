@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1021227609
 
 ---
-<img loading="lazy" src="http://122.0.17.30/images/logo_en.gif" height="90" width="222" />
+![](http://122.0.17.30/images/logo_en.gif)
 
 Malaysiakini is currently not accessible.
 

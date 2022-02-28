@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890040175
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1262" title="ubuntu-command-reference-fosswire" src="/wp-content/uploads/2009/02/ubuntu-command-reference-fosswire.png" alt="ubuntu-command-reference-fosswire" width="495" height="639" />][1]
+![](/wp-content/uploads/2009/02/ubuntu-command-reference-fosswire.png)
 
 Another good starter cheat sheet for all you Ubuntu newbies out there. If you missed it, the Linux cheat sheet is also available [here][2].
 

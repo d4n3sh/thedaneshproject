@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893162607
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1660" title="candy.com" src="/wp-content/uploads/2009/07/candy.com-500x426.png" alt="candy.com" width="500" height="426" srcset="/wp-content/uploads/2009/07/candy.com-500x426.png 500w, /wp-content/uploads/2009/07/candy.com.png 963w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/07/candy.com-500x426.png)
 
 Who said common names can't sell?
 
@@ -20,6 +20,6 @@ What does G&J Holdings do? Nothing but candies. A massive selection, from old to
 
 This si something to note. There's no domain too short, too simple, too plain or  too common. If you wait they will come........
 
- [1]: /wp-content/uploads/2009/07/candy.com.png
+ [1]: /wp-content/uploads/2009/07/candy.com.png)
  [2]: http://www.candy.com/
  [3]: http://www.ricksblog.com/my_weblog/2009/07/sweetest-day-in-14-years-many-more-to-come.html

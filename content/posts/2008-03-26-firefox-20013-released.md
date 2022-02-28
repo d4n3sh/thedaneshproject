@@ -8,7 +8,7 @@ dsq_thread_id:
   - 905678412
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Firefox 2.0.0.13 has just been released. It fixes a few security issues.
 

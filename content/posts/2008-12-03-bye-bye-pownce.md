@@ -10,8 +10,8 @@ dsq_thread_id:
   - 896606309
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3009/3079968692_e524b8d1f0_m.jpg" alt="pownce" width="240" height="88" />][1]  
-[<img loading="lazy" src="http://farm4.static.flickr.com/3180/3079968784_754d0f23d1_m.jpg" alt="six_apart_logo" width="240" height="140" />][2]  
+![](http://farm4.static.flickr.com/3009/3079968692_e524b8d1f0_m.jpg)
+![](http://farm4.static.flickr.com/3180/3079968784_754d0f23d1_m.jpg)
 I remember posting about [Pownce][3] some time back. The Django powered, Kevin Rose cofounded micro-blogging service.
 
 It's offically closing it's doors on the 15th of December 2008 as a direct result from a buyout by Six Apart. The blogging platform specialist.

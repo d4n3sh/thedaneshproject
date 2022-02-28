@@ -8,7 +8,7 @@ dsq_thread_id:
   - 963963217
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2175" title="worldcup-2010-twitter" src="/wp-content/uploads/2010/06/worldcup-2010-twitter-450x414.png" alt="" width="450" height="414" srcset="/wp-content/uploads/2010/06/worldcup-2010-twitter-450x414.png 450w, /wp-content/uploads/2010/06/worldcup-2010-twitter.png 993w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/06/worldcup-2010-twitter-450x414.png)
 
 The easiest way to follow the World Cup on Twitter.
 

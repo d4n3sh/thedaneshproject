@@ -8,7 +8,7 @@ pvc_views:
   - 2282
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3187/2920618719_3185fe332d_o.jpg" alt="rajapetra-slashdot" width="400" height="266" />][1]
+![](http://farm4.static.flickr.com/3187/2920618719_3185fe332d_o.jpg)
 
 RPK made it to Slashdot. [Check it out][2].
 

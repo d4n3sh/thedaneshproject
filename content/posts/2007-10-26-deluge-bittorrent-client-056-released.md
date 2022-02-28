@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737456
 
 ---
-<img loading="lazy" src="http://img91.imageshack.us/img91/3434/deluge056hl7.png" border="0" height="206" width="400" />
+![](http://img91.imageshack.us/img91/3434/deluge056hl7.png)
 
 What is [Deluge][1]?
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737484
 
 ---
-[<img src="/wp-content/uploads/2007/07/transformers.jpg" title="transformers.jpg" alt="transformers.jpg" align="left" />][1]WOW!! After waiting my whole life to watch this movie I finally managed to catch it with my nephew today. The plan was to watch it at the IMAX theater in Times Square to experience the whole life size effect but due to bad sits we had to revert to GSC instead.
+![](/wp-content/uploads/2007/07/transformers.jpg)
 
 144minutes of pure entertainment. My eyes were glued to the screen from start to end trying to soak in every bit of detail. The movie was filled with just the right amount for drama, humor and action scenes which get complimented by the excellent graphics.
 
@@ -24,6 +24,6 @@ Awesome movie, that was me and my opiniion being a die hard transformers fand si
 
 [Â IMDB - Transformers Movie][3]
 
- [1]: /wp-content/uploads/2007/07/transformers.jpg "transformers.jpg"
+ [1]: /wp-content/uploads/2007/07/transformers.jpg)
  [2]: http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.transformersmovie.com%2F&ei=ojKJRsjeDMjwiwHRpN3UBg&usg=AFQjCNENEaU7A6Z8dz-iT299u8KyKhVHbg&sig2=dEgYF1-Iy99gpZKt7WVpaQ
  [3]: http://www.google.com/url?sa=t&ct=res&cd=2&url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0418279%2F&ei=ojKJRsjeDMjwiwHRpN3UBg&usg=AFQjCNHIEgKfxC1eAdp4zFofCY7rHfMCgg&sig2=fLgbPMY7R4O_FRY9mMUmyg

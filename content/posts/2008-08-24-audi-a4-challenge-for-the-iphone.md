@@ -10,7 +10,7 @@ dsq_thread_id:
   - 973640775
 
 ---
-<img loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3038/2790408676_6726447de9_o.jpg" alt="" width="300" height="227" />
+![](http://farm4.static.flickr.com/3038/2790408676_6726447de9_o.jpg)
 
 Audi came up with a smart promotional gimmick for it's latest Audi. The company decided to use the iPhone with it's huge userbase as their advertising platform to game as much reach as possible.
 

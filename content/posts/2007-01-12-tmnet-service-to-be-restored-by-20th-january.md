@@ -11,10 +11,10 @@ dsq_thread_id:
 TM Net announced that it's international link will be fully restored by the 20th of January. Currently 50% of the capacity has been restored and traffic going to the US will be restored to 80% by the 12th of January.
 
 **The announcement:**  
-<img alt="tmnet-12-01-2007.png" id="image44" src="/techblog/wp-content/uploads/2007/01/tmnet-12-01-2007.png" /> 
+![](/techblog/wp-content/uploads/2007/01/tmnet-12-01-2007.png" /> 
 
 **My View:** Somehow I'm not convinced by the announcement. To start I've never experience good internet in Malaysia ever. I give them another month or more before everything is back to norm.  
 <!--more-->
 
   
-<img alt="internet-index12-01-2006.jpg" id="image46" src="/techblog/wp-content/uploads/2007/01/internet-index12-01-2006.jpg" />
+![](/techblog/wp-content/uploads/2007/01/internet-index12-01-2006.jpg)

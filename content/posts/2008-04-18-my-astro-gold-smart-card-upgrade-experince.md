@@ -8,12 +8,12 @@ dsq_thread_id:
   - 891016184
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-518" title="Astro" src="/wp-content/uploads/2008/04/header_011.gif" alt="Astro" width="147" height="79" />  
+![](/wp-content/uploads/2008/04/header_011.gif" alt="Astro" width="147" height="79" />  
 Like everything else with Astro, it did not work they way they said it would.
 
 Received my new Astro gold smart card in the mail today. Came home and decided to start the upgrade.
 
-<img loading="lazy" class="alignnone size-full wp-image-519" title="Astro Gold Smart Card" src="/wp-content/uploads/2008/04/imgp4387.jpg" alt="Astro Gold Smart Card" width="168" height="125" /> 
+![](/wp-content/uploads/2008/04/imgp4387.jpg)
 
 The attached manual stated that when the new card was switched out with the old card while viewing a program a dialog box would pop up notifying me of the upgrade. That didn't quite happen.
 

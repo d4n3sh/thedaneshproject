@@ -10,7 +10,7 @@ dsq_thread_id:
   - 903562545
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1266" title="Full Circle Magazine Issue 21" src="/wp-content/uploads/2009/02/fullcircle21.jpg" alt="Full Circle Magazine Issue 21" width="500" height="354" />
+![](/wp-content/uploads/2009/02/fullcircle21.jpg)
 
 The latest issue of "Full Circle Magazine is out. Issue 21.
 

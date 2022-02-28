@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890947961
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2088/2184658461_3712971b96.jpg?v=0" height="261" width="448" />
+![](http://farm3.static.flickr.com/2088/2184658461_3712971b96.jpg)
 
 Abi posted an extensive list of free WiFi hotspots from around Malaysia over at Delirium. The full list available at [Delirium.][1] If you have additional HotSpots which did not make the list, leave a comment and they will get added.
 

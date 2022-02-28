@@ -8,7 +8,7 @@ dsq_thread_id:
   - 942881290
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-545" title="OpenOffice 3 Beta Start Centre" src="/wp-content/uploads/2008/05/2479059430_1c3f051c161.jpg" alt="OpenOffice 3 Beta Start Centre" width="500" height="396" />][1]
+![](/wp-content/uploads/2008/05/2479059430_1c3f051c161.jpg)
 
 OpenOffice.org 3 Beta is out. The Beta is available to all those who wish to test, evaluate and report bugs about the next major release scheduled to be released in September.
 
@@ -25,6 +25,6 @@ OpenOffice.org 3 Beta is currently available for MS-Windows, GNU/Linux, Mac OS X
 
 Source: [OpenOffice.org][3]
 
- [1]: /wp-content/uploads/2008/05/2479059430_1c3f051c161.jpg
+ [1]: /wp-content/uploads/2008/05/2479059430_1c3f051c161.jpg)
  [2]: http://marketing.openoffice.org/3.0/featurelistbeta.html
  [3]: http://www.openoffice.org/

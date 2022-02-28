@@ -10,7 +10,7 @@ dsq_thread_id:
   - 920441623
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-283" title="opensuse-friendly.png" src="/wp-content/uploads/2007/08/opensuse-friendly.png" alt="" width="117" height="100" />][1]
+![](/wp-content/uploads/2007/08/opensuse-friendly.png)
 
 openSUSE 11.1 Beta 1 is now available for download and testing.
 
@@ -28,6 +28,6 @@ Support for SELinux alongside the Novell's AppArmor.
 
 [Read about the other changes][2] while you [download the ISO][3].
 
- [1]: /wp-content/uploads/2007/08/opensuse-friendly.png
+ [1]: /wp-content/uploads/2007/08/opensuse-friendly.png)
  [2]: http://news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/
  [3]: http://download.opensuse.org/distribution/

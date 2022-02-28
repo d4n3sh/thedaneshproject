@@ -8,7 +8,7 @@ dsq_thread_id:
   - 917497733
 
 ---
-<img loading="lazy" src="/wp-content/uploads/2011/02/Adobe-Flash-Player-version-10.2.152.27.png" alt="" title="Adobe-Flash-Player-version-10.2.152.27" width="450" height="197" class="alignnone size-full wp-image-2241" />  
+![](/wp-content/uploads/2011/02/Adobe-Flash-Player-version-10.2.152.27.png)
 Adobe Flash Player 10.2 has been [released][1] and comes with some spanking new features.
 
 It now supports Stage Videos which allows Flash to utilize your machines's hardware acceleration features thus greatly improving performance.

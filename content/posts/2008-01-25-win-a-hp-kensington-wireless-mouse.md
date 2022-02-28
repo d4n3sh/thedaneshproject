@@ -8,7 +8,7 @@ dsq_thread_id:
   - 894558708
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2189/2198827963_01a0ae7b8c.jpg?v=1200571332" height="400" width="500" />
+![](http://farm3.static.flickr.com/2189/2198827963_01a0ae7b8c.jpg)
 
 Stand a chance to win a HP Kensington Wireless Mouse by writing a short story about Delirium.
 

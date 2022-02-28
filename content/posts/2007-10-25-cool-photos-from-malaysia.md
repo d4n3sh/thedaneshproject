@@ -8,12 +8,12 @@ dsq_thread_id:
   - 889737361
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2249/1558668456_ba9501f707_m.jpg" border="0" height="240" width="240" />][1]
+![](http://farm3.static.flickr.com/2249/1558668456_ba9501f707_m.jpg" border="0" height="240" width="240" />][1]
 
 [See more here.  
 ][1] 
 
-[<img loading="lazy" src="http://i62.photobucket.com/albums/h100/vwvr9/kazzie.png" border="0" height="280" width="418" />][2]
+![](http://i62.photobucket.com/albums/h100/vwvr9/kazzie.png)
 
 [See more here.][2]
 

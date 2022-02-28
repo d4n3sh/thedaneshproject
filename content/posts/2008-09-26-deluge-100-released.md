@@ -10,7 +10,7 @@ dsq_thread_id:
   - 894482662
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3181/2889031121_b690c5fbdd.jpg" width="500" height="297" alt="deluge-1.0.0" />][1]
+![](http://farm4.static.flickr.com/3181/2889031121_b690c5fbdd.jpg)
 
 Deluge 1.0.0 codenamed "Sharks Are Bulletproof" is out. It's a complete rewrite from the ground up with a host of new features.
 

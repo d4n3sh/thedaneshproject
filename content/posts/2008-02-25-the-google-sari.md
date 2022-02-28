@@ -8,7 +8,7 @@ dsq_thread_id:
   - 895653629
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2090/2288147103_4c19f01677_m.jpg" height="240" width="159" />  
+![](http://farm3.static.flickr.com/2090/2288147103_4c19f01677_m.jpg)
 [View full size.][1]
 
 [][1]
@@ -19,5 +19,5 @@ The sari seen above actually says Oogle and not Google but the search results th
 
 Hopefully Google doesn't get ideas to start making uniforms for Indian woman now.
 
- [1]: http://farm3.static.flickr.com/2090/2288147103_015a7f6a3c_o.jpg
+ [1]: http://farm3.static.flickr.com/2090/2288147103_015a7f6a3c_o.jpg)
  [2]: http://www.satyapaul.com/

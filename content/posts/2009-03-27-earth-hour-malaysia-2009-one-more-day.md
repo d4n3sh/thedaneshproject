@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891468438
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1327" title="malaysia-earth-hour-2009" src="/wp-content/uploads/2009/03/malaysia-earth-hour-2009-500x279.png" alt="malaysia-earth-hour-2009" width="500" height="279" srcset="/wp-content/uploads/2009/03/malaysia-earth-hour-2009-500x279.png 500w, /wp-content/uploads/2009/03/malaysia-earth-hour-2009.png 678w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/03/malaysia-earth-hour-2009-500x279.png)
 
 [Earth Hour Malaysia 2009][1] is one day away.
 

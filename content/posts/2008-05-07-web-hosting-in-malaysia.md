@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893503874
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-535" title="malaysia button" src="/wp-content/uploads/2008/05/malaysia_button1.jpg" alt="malaysia button" width="106" height="106" />][1]
+![](/wp-content/uploads/2008/05/malaysia_button1.jpg)
 
 I posted [Malaysian Web Hosting][2] some time back. Since then a few new entries came in so I thought it might make sense to republish them for you.
 
@@ -39,7 +39,7 @@ I posted [Malaysian Web Hosting][2] some time back. Since then a few new entries
  23. [Senihost][23]
  24. [Interunix][24]
 
- [1]: /wp-content/uploads/2008/05/malaysia_button1.jpg
+ [1]: /wp-content/uploads/2008/05/malaysia_button1.jpg)
  [2]: /posts/malaysian-web-hosting/
  [3]: http://www.webserver.com.my/
  [4]: http://mercumaya.net/

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1334333514
 
 ---
-[<img src="http://farm4.static.flickr.com/3118/2864948870_e1216e4788_o.jpg" alt="najib-personal-site" width="500" />][1]
+![](http://farm4.static.flickr.com/3118/2864948870_e1216e4788_o.jpg)
 
 Najib launched his personal site yesterday. [Go to his site][2].
 

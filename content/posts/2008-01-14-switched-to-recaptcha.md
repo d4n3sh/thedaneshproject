@@ -8,7 +8,7 @@ dsq_thread_id:
   - 916599114
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2055/2191989334_8441734778_o.png" height="201" width="362" />
+![](http://farm3.static.flickr.com/2055/2191989334_8441734778_o.png)
 
 Switched over from [Math Comment Spam Protection][1] to [reCAPTCHA][2]. Spam has still been coming in despite the Math Comment Spam Protection plugin. I decided to take reCAPTCHA for a spin for a few weeks. Hopefully it helps.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 900355749
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-2436" title="asus-eee-pad-transformer-prime" src="/wp-content/uploads/2012/04/asus-eee-pad-transformer-prime-450x232.jpg" alt="" width="450" height="232" srcset="/wp-content/uploads/2012/04/asus-eee-pad-transformer-prime-450x232.jpg 450w, /wp-content/uploads/2012/04/asus-eee-pad-transformer-prime.jpg 950w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2012/04/asus-eee-pad-transformer-prime-450x232.jpg)
 
 If you own a Transformer Prime then you should already know that the GPS on it sucks! Asus is now planning to release a USB based GPS dongle (GPS Extension Kit) to attention the GPS issues on the Prime .
 
@@ -16,5 +16,5 @@ The news first surfaced on XDA but has since been deleted. However, Asus has of
 
 Source: [All Things D][2]
 
- [1]: /wp-content/uploads/2012/04/asus-eee-pad-transformer-prime.jpg
+ [1]: /wp-content/uploads/2012/04/asus-eee-pad-transformer-prime.jpg)
  [2]: https://allthingsd.com/20120406/confirmed-asus-plans-add-on-to-fix-transformer-primes-gps-issues/

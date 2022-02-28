@@ -8,7 +8,7 @@ dsq_thread_id:
   - 919977728
 
 ---
-[<img src="http://img163.imageshack.us/img163/9537/oraclewikismb1.jpg" border="0" />][1]
+![](http://img163.imageshack.us/img163/9537/oraclewikismb1.jpg)
 
 [Oracle][2] has decided to give more to the Oracle community by starting their first [Oracle Wiki][3]. The Wiki is sponsored by Oracle and will house content from customers, partners and just about anyone who has an interest in Oracle.
 
@@ -18,7 +18,7 @@ Users will be able to create, edit and link to external resource they feel are r
 
 To get started, get an account and start creating your Wiki pages at [Oracle WikiÃ‚Â ][3]
 
- [1]: http://img238.imageshack.us/img238/4895/oraclewikifk8.jpg
+ [1]: http://img238.imageshack.us/img238/4895/oraclewikifk8.jpg)
  [2]: http://oracle.com
  [3]: http://wiki.oracle.com/
  [4]: http://otn.oracle.com

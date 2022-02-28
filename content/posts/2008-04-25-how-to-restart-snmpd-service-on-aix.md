@@ -10,7 +10,7 @@ dsq_needs_sync:
   - 1
 
 ---
-<img loading="lazy" src="/wp-content/uploads/2008/04/aix_logo1.gif" alt="IBM AIX" title="IBM AIX" width="127" height="48" class="alignnone size-medium wp-image-528" />
+![](/wp-content/uploads/2008/04/aix_logo1.gif)
 
 This is how you would restart the snmpd service on AIX. 
 

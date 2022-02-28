@@ -10,7 +10,7 @@ dsq_thread_id:
   - 900406130
 
 ---
-[<img loading="lazy" class="alignnone" title="Googles Goats" src="http://farm4.static.flickr.com/3623/3523924969_07f2dbf85e_o.png" alt="" width="360" height="485" />][1]
+![](http://farm4.static.flickr.com/3623/3523924969_07f2dbf85e_o.png)
 
 Having grass issues at home? Don't want to throw cash away maintaining your lawn?
 
@@ -24,6 +24,6 @@ I'm actually thinkin of getting maybe one goat now to mow my lawn. Actually, the
 
 Source: [Google][3]
 
- [1]: http://farm4.static.flickr.com/3623/3523924969_07f2dbf85e_o.png
+ [1]: http://farm4.static.flickr.com/3623/3523924969_07f2dbf85e_o.png)
  [2]: http://californiagrazing.com/
  [3]: http://googleblog.blogspot.com/2009/05/mowing-with-goats.html

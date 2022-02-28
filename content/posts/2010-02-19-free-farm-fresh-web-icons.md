@@ -8,7 +8,7 @@ dsq_thread_id:
   - 907770509
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1991" title="fatcow.free.icons" src="/wp-content/uploads/2010/02/fatcow.free_.icons_.png" alt="" width="361" height="149" />
+![](/wp-content/uploads/2010/02/fatcow.free_.icons_.png)
 
 FatCow is giving back to community by releasing 1000 awesome icons for free.
 

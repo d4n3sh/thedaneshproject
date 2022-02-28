@@ -12,11 +12,11 @@ dsq_thread_id:
 ---
 Hunting for cheap domains? Make sure to check out [Shinjiru's Merdeka][1] promotion. I'm quite sure they are the cheapest in town now.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1703" title="Shinjiru .MY domian price drop Merdeka Promotion" src="/wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion-500x296.png" alt="Shinjiru .MY domian price drop Merdeka Promotion" width="500" height="296" srcset="/wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion-500x296.png 500w, /wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion.png 654w" sizes="(max-width: 500px) 100vw, 500px" />][2]
+![](/wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion-500x296.png)
 
 Know of a better promotion? Please share.
 
 Source: [Shinjiru][1]
 
  [1]: http://shinjiru.com.my/promotions/merdeka09/domainMerdeka.html
- [2]: /wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion.png
+ [2]: /wp-content/uploads/2009/08/Shinjiru-.MY-domian-price-drop-Merdeka-Promotion.png)

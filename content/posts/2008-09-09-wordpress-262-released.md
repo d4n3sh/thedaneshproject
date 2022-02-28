@@ -8,7 +8,7 @@ pvc_views:
   - 2310
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="" width="125" height="125" />][1]
+![](/wp-content/uploads/2008/08/wordpresslogo.jpg)
 
 Upgraded to [WordPress 2.6.2][2] this morning using the WPAU plugin.
 
@@ -18,6 +18,6 @@ Upgrade if you allow open registration.
 
 Download [WordPress][3] 2.6.2
 
- [1]: /wp-content/uploads/2008/08/wordpresslogo.jpg
+ [1]: /wp-content/uploads/2008/08/wordpresslogo.jpg)
  [2]: http://wordpress.org/development/2008/09/wordpress-262/
  [3]: http://wordpress.org/download/

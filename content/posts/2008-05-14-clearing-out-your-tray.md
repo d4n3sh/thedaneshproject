@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890006463
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-556" title="mcdonalds_logo" src="/wp-content/uploads/2008/05/mcdonalds_logo1.jpg" alt="mcdonalds logo" width="250" height="232" />][1]
+![](/wp-content/uploads/2008/05/mcdonalds_logo1.jpg)
 
 This the third time this week.
 
@@ -26,4 +26,4 @@ I'm sorry if I ofended anyone but this is how I feel, it's anoying to see how ig
 
 It's such a simple act, surely we can do it right? We life in a siviliced world so stop laughing cause the jokes on you!!
 
- [1]: /wp-content/uploads/2008/05/mcdonalds_logo1.jpg
+ [1]: /wp-content/uploads/2008/05/mcdonalds_logo1.jpg)

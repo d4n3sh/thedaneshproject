@@ -8,7 +8,7 @@ dsq_thread_id:
   - 948904018
 
 ---
-<img loading="lazy" src="http://img156.imageshack.us/img156/9283/derfensiobanneryv1.jpg" height="103" width="400" />
+![](http://img156.imageshack.us/img156/9283/derfensiobanneryv1.jpg)
 
 I have been running [Defensio][1] for a week now.
 

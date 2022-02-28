@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889892963
 
 ---
-<img loading="lazy" src="http://img523.imageshack.us/img523/975/startupbeepsoz2.gif" align="middle" height="263" width="196" />
+![](http://img523.imageshack.us/img523/975/startupbeepsoz2.gif)
 
 If you are like me then you must hate the "BEEP!" that comes along with Linux. Turning it off in KDE or Gnome is easy but what if you are on the virtual console? Here's how you get rid of the "BEEP!" temporarily or permanently.
 

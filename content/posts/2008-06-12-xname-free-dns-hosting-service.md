@@ -8,7 +8,7 @@ dsq_thread_id:
   - 895106133
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-606" title="XName free DNS hosting" src="/wp-content/uploads/2008/06/xnamebanner1.png" alt="XName free DNS hosting" width="468" height="60" />][1]
+![](/wp-content/uploads/2008/06/xnamebanner1.png)
 
 Stumbled upon a free DNS hosting service today. XName provides free DNS to all and in return only expects a donation if you like the service. However, if you plan to use XName for commercial purpose then a donation is mandatory.
 
@@ -18,4 +18,4 @@ I'm currently working on a mini ISP setup for a client myself. The primary DNS s
 
 I'll tell you how it goes.
 
- [1]: /wp-content/uploads/2008/06/xnamebanner1.png
+ [1]: /wp-content/uploads/2008/06/xnamebanner1.png)

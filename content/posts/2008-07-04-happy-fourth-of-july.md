@@ -8,10 +8,10 @@ pvc_views:
   - 2497
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-658" title="4thjuly2008" src="/wp-content/uploads/2008/07/4thjuly2008.png" alt="4thjuly2008" width="500" height="541" />][1]
+![](/wp-content/uploads/2008/07/4thjuly2008.png)
 
 A shoutout to all my American friends.
 
 HAPPY FOURTH OF JULY, HAVE A GOOD ONE!!
 
- [1]: /wp-content/uploads/2008/07/4thjuly2008.png
+ [1]: /wp-content/uploads/2008/07/4thjuly2008.png)

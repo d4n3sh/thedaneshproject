@@ -10,7 +10,7 @@ dsq_thread_id:
   - 916908281
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1296" title="salary-guide-malaysia-2008-screenshot" src="/wp-content/uploads/2009/03/salary-guide-malaysia-2008-screeshot.png" alt="salary-guide-malaysia-2008-screenshot" width="471" height="645" />][1]
+![](/wp-content/uploads/2009/03/salary-guide-malaysia-2008-screeshot.png)
 
 Stumbled onto this a few days back. Thought it might come in handy for you too 😀
 

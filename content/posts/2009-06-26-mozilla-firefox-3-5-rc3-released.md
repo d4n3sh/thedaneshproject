@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893856503
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1562" title="Firefox 3.5" src="/wp-content/uploads/2009/06/firefoxWordMarkHorizontal.png" alt="Firefox 3.5" width="500" height="140" />][1]
+![](/wp-content/uploads/2009/06/firefoxWordMarkHorizontal.png)
 
 Mozilla's Firefox 3.5 RC3 is out. [Download Firefox RC3][2]
 
@@ -28,7 +28,7 @@ Take release candidate for a spin, you'll realize it's much faster compared to t
 
 Source: [Mozilla Developer Center][5]
 
- [1]: /wp-content/uploads/2009/06/firefoxWordMarkHorizontal.png
+ [1]: /wp-content/uploads/2009/06/firefoxWordMarkHorizontal.png)
  [2]: http://www.mozilla.com/en-US/firefox/all-rc.html
  [3]: http://www.mozilla.com/en-US/firefox/video/firefox-3.5.html
  [4]: https://wiki.mozilla.org/Firefox3.5/Demos

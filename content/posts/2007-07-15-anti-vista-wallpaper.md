@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737090
 
 ---
-<img loading="lazy" src="http://tn3-2.deviantart.com/fs18/300W/i/2007/195/b/4/Windows_and_its_Many_colors_by_emoryu21.jpg" height="188" width="300" />
+![](http://tn3-2.deviantart.com/fs18/300W/i/2007/195/b/4/Windows_and_its_Many_colors_by_emoryu21.jpg)
 
 Stumbled upon this cool wallpaper while browsing through deviantart. I is the handy work of [emoryu21][1].
 

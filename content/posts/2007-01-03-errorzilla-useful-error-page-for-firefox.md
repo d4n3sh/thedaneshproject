@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1040572743
 
 ---
-<img src="/techblog/wp-content/uploads/2007/01/errorzilla.jpg" alt="ErrorZilla" id="image29" />
+![](/techblog/wp-content/uploads/2007/01/errorzilla.jpg)
 
 ErrorZilla is a firefox extension that replaces the default error pages with a custom one. With a few extra buttons added it quite easily became one of my must have extensions.
 

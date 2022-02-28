@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893476447
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1145" title="deluge-bittorrent-client 1.1.0" src="/wp-content/uploads/2009/01/deluge-bittorrent-client_110-500x352.png" alt="deluge-bittorrent-client 1.1.0" width="500" height="352" srcset="/wp-content/uploads/2009/01/deluge-bittorrent-client_110-500x352.png 500w, /wp-content/uploads/2009/01/deluge-bittorrent-client_110.png 851w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/01/deluge-bittorrent-client_110-500x352.png)
 
 Deluge 1.1.0 is out.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890497529
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-620" title="firefox-search-engine-plugins" src="/wp-content/uploads/2008/06/firefox-search-engine-plugins.png" alt="firefox-search-engine-plugins" width="352" height="266" />][1]
+![](/wp-content/uploads/2008/06/firefox-search-engine-plugins.png)
 
 How many search engines plugine do you have added to your Firefox? I have the defaults as Google seems to be the only one I need.
 
@@ -18,6 +18,6 @@ Currently YouTube is on top with the most downloads. Followed by Dictionary.com,
 
 The [Mycroft][2] project has a list of the top 25 most popular search engine plugins. [Browse the list][3].
 
- [1]: /wp-content/uploads/2008/06/firefox-search-engine-plugins.png
+ [1]: /wp-content/uploads/2008/06/firefox-search-engine-plugins.png)
  [2]: http://mycroft.mozdev.org/
  [3]: http://mycroft.mozdev.org/dlstats.html

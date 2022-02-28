@@ -10,7 +10,7 @@ dsq_thread_id:
   - 904159889
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1227" title="pdfreadersorg-get-a-free-software-pdf-reader" src="/wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-499x499.png" alt="pdfreadersorg-get-a-free-software-pdf-reader" width="499" height="499" srcset="/wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-499x499.png 499w, /wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-150x150.png 150w, /wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader.png 807w" sizes="(max-width: 499px) 100vw, 499px" />
+![](/wp-content/uploads/2009/02/pdfreadersorg-get-a-free-software-pdf-reader-499x499.png)
 
 PDFreaders.org is the latest project from "The [Fellowship][1] of the [Free Software Foundation Europe (FSFE)][2]".
 
@@ -22,7 +22,7 @@ The project currently publishes a list for free PDF readers which are open stand
 
 Also, remember to spread to love with the PDFreaders.org buttons.
 
-<a href="http://pdfreaders.org/" target="_blank"><img loading="lazy" src="http://pdfreaders.org/graphics/pdfreaders-four-freedoms.png" border="0" alt="pdfreaders.org" width="155" height="33" /></a>
+<a href="http://pdfreaders.org/" target="_blank"><img loading="lazy" src="http://pdfreaders.org/graphics/pdfreaders-four-freedoms.png)
 
 Source: [PDFreaders.org][3]
 

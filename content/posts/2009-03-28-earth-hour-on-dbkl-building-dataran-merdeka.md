@@ -10,9 +10,9 @@ dsq_thread_id:
   - 921440606
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1336" title="3391172886_63e3f565de" src="/wp-content/uploads/2009/03/3391172886_63e3f565de.jpg" alt="3391172886_63e3f565de" width="336" height="448" />
+![](/wp-content/uploads/2009/03/3391172886_63e3f565de.jpg)
 
-<img loading="lazy" class="alignnone size-full wp-image-1335" title="3390360929_4cf173e14e" src="/wp-content/uploads/2009/03/3390360929_4cf173e14e.jpg" alt="3390360929_4cf173e14e" width="336" height="448" /> 
+![](/wp-content/uploads/2009/03/3390360929_4cf173e14e.jpg)
 
 Pretty cool ha, [Earth Hour Malaysia 2009][1] being projected onto the DBKL building down by Dataran Merdeka.
 

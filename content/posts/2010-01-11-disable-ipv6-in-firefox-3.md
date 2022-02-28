@@ -16,10 +16,10 @@ Here are the steps to turn off IPv6 support in Firefox 3 and above.
 
 2. Key in "network.dns.disableIPv6"  into the filter bar and hit enter.
 
-<img loading="lazy" class="alignnone size-medium wp-image-1945" title="snapshot1" src="/wp-content/uploads/2010/01/snapshot1-450x115.png" alt="" width="450" height="115" srcset="/wp-content/uploads/2010/01/snapshot1-450x115.png 450w, /wp-content/uploads/2010/01/snapshot1-1024x262.png 1024w, /wp-content/uploads/2010/01/snapshot1.png 1070w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/01/snapshot1-450x115.png)
 
 3. Right click on the line that read "network.dns.disableIPv6" and select the "Toggle" option. This will switch the value from "false" to "true"
 
-<img loading="lazy" class="alignnone size-medium wp-image-1945" title="snapshot1" src="/wp-content/uploads/2010/01/snapshot1-450x115.png" alt="" width="450" height="115" srcset="/wp-content/uploads/2010/01/snapshot1-450x115.png 450w, /wp-content/uploads/2010/01/snapshot1-1024x262.png 1024w, /wp-content/uploads/2010/01/snapshot1.png 1070w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/01/snapshot1-450x115.png)
 
 4. Restart the browser and enjoy the improvement.

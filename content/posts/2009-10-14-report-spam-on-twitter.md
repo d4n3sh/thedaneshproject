@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891373594
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1786" title="Twitter-Report-Spam" src="/wp-content/uploads/2009/10/Twitter-Report-Spam.png" alt="Twitter-Report-Spam" width="277" height="126" />][1]
+![](/wp-content/uploads/2009/10/Twitter-Report-Spam.png)
 
 @spam was how twitter initial kept track of those pesky spammers. Now, they launched the official "report spam" feature.
 
@@ -22,5 +22,5 @@ This is good, I've been getting spammed like there's no tomorrow. Can't wait to 
 
 Source: [Twitter Help][2]
 
- [1]: /wp-content/uploads/2009/10/Twitter-Report-Spam.png
+ [1]: /wp-content/uploads/2009/10/Twitter-Report-Spam.png)
  [2]: http://help.twitter.com/forums/26810/entries/64986

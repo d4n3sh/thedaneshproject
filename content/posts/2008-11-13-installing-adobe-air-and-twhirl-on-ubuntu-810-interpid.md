@@ -34,19 +34,19 @@ That's it! you now have twhirl installed.
 
 Screen shots from the install process.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3057/3026919861_cec1b8b7c7_o.png" alt="Adobe-AIR-1" width="480" height="392" />][3]
+![](http://farm4.static.flickr.com/3057/3026919861_cec1b8b7c7_o.png)
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3217/3026919867_3ef97dee65.jpg" alt="Adobe-AIR-2" width="500" height="313" />][4]
+![](http://farm4.static.flickr.com/3217/3026919867_3ef97dee65.jpg" alt="Adobe-AIR-2" width="500" height="313" />][4]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3278/3026919871_2149e29015.jpg" alt="Adobe-AIR-3" width="500" height="313" />][5]
+![](http://farm4.static.flickr.com/3278/3026919871_2149e29015.jpg" alt="Adobe-AIR-3" width="500" height="313" />][5]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3292/3026919875_40eb19f4e9_o.png" alt="Adobe-AIR-4" width="480" height="364" />][6]
+![](http://farm4.static.flickr.com/3292/3026919875_40eb19f4e9_o.png)
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3196/3026919879_75a9a51b8a.jpg" alt="Adobe-AIR-5" width="500" height="313" />][7]
+![](http://farm4.static.flickr.com/3196/3026919879_75a9a51b8a.jpg" alt="Adobe-AIR-5" width="500" height="313" />][7]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3248/3026919889_e8650d307c.jpg" alt="Adobe-AIR-6" width="500" height="313" />][8]
+![](http://farm4.static.flickr.com/3248/3026919889_e8650d307c.jpg" alt="Adobe-AIR-6" width="500" height="313" />][8]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3225/3027759598_31c6e03105.jpg" alt="Adobe-AIR-7" width="500" height="313" />][9]
+![](http://farm4.static.flickr.com/3225/3027759598_31c6e03105.jpg" alt="Adobe-AIR-7" width="500" height="313" />][9]
 
  [1]: https://addons.mozilla.org/en-US/firefox/addon/5081
  [2]: http://www.twhirl.org/

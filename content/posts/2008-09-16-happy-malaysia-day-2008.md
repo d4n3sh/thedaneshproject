@@ -10,7 +10,7 @@ dsq_thread_id:
   - 946391087
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3190/2860931523_9e1852f58b_o.jpg" alt="Happy Malaysia Day" width="272" height="313" />][1]
+![](http://farm4.static.flickr.com/3190/2860931523_9e1852f58b_o.jpg)
 
 HAPPY [MALAYSIA DAY][2]
 

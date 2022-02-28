@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1020150893
 
 ---
-<img loading="lazy" src="http://i.dell.com/images/global/corporate/executives/dell1_72_index.jpg" align="left" height="125" width="100" />Michael Dell is back in as the CEO for DELL on request of his board members. Mr. Dell will be replacing Kevin Rollins who was the previous CEO and still a close friend of Mr. Dell.  
+![](http://i.dell.com/images/global/corporate/executives/dell1_72_index.jpg)
 Read the original announcement here.
 
 **My thoughts;**

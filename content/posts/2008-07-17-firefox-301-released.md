@@ -10,7 +10,7 @@ dsq_thread_id:
   - 922548757
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-687" title="firefox-logo" src="/wp-content/uploads/2008/07/firefox-logo.png" alt="" width="305" height="150" />][1]
+![](/wp-content/uploads/2008/07/firefox-logo.png)
 
 Firefox 3.0.1 is out. This is the first update for Firefox 3 which was released not too long ago. ItÃ‚Â  covers security, stability and bug fixes.
 
@@ -47,4 +47,4 @@ Firefox 3.0.1 is out. This is the first update for Firefox 3 which was released 
       <p>
         <a href="http://en-us.www.mozilla.com/en-US/firefox/3.0.1/releasenotes/index.html">Download Firefox 3.0.1 now</a>. Remember, Firefox 2 will only be available till December 2008.</div> </div> </div>
 
- [1]: /wp-content/uploads/2008/07/firefox-logo.png
+ [1]: /wp-content/uploads/2008/07/firefox-logo.png)

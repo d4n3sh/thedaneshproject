@@ -10,11 +10,11 @@ dsq_thread_id:
   - 916192051
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3296/3054439977_07306ea6a7.jpg" alt="gmail themes" width="500" height="305" />][1]
+![](http://farm4.static.flickr.com/3296/3054439977_07306ea6a7.jpg)
 
 Google's Gmail finally has support for themes. There are currently 31 themes to choose from. My favorite is the Ninja theme seen the in the screen shot.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3012/3054439829_42fdfe3c2c.jpg" alt="gmail themes" width="500" height="305" />][2]
+![](http://farm4.static.flickr.com/3012/3054439829_42fdfe3c2c.jpg)
 
 To see your themes in action simply go to your [settings][3] page and select your desired theme from the themes tab.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1047503177
 
 ---
-<img loading="lazy" src="/wp-content/uploads/2007/02/wp-20-square-button.gif" align="left" height="112" width="112" />
+![](/wp-content/uploads/2007/02/wp-20-square-button.gif)
 
 WordPress 2.3 Beta 1 released is available for testing now.
 

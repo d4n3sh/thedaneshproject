@@ -10,7 +10,7 @@ dsq_thread_id:
   - 916644099
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1776" title="gt5" src="/wp-content/uploads/2009/09/gt5-500x283.png" alt="gt5" width="500" height="283" srcset="/wp-content/uploads/2009/09/gt5-500x283.png 500w, /wp-content/uploads/2009/09/gt5.png 600w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/09/gt5-500x283.png)
 
 The latest installment to my favorite driving simulator of all time, Grand Turismo 5 will not be out till March 2010.
 
@@ -20,5 +20,5 @@ The [announcement][2] was made at the Tokyo Game Show.
 
 Sigh....
 
- [1]: /wp-content/uploads/2009/09/gt5.png
+ [1]: /wp-content/uploads/2009/09/gt5.png)
  [2]: http://www.joystiq.com/2009/09/24/tgs-2009-gran-turismo-5-coming-to-japan-in-march/

@@ -10,13 +10,13 @@ dsq_thread_id:
   - 930739643
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3249/2901325980_d601bb14e4.jpg" alt="Beneath Your Skin" width="500" height="400" />][1]
+![](http://farm4.static.flickr.com/3249/2901325980_d601bb14e4.jpg)
 
 [Alan's][2] got a new T out on DBH. If you like the design then [vote][3] to see it on a T soon.
 
 I voted and I love the purple.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3159/2901326044_33b6ac5b6f.jpg" alt="Beneath Your Skin" width="500" height="400" />][4]
+![](http://farm4.static.flickr.com/3159/2901326044_33b6ac5b6f.jpg)
 
 source: [DBH][3] || [Alan Bernard][2]
 

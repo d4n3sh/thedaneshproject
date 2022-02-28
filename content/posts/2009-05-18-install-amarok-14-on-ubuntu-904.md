@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890828845
 
 ---
-<img loading="lazy" class="alignnone" title="Amarok Logo" src="http://farm4.static.flickr.com/3337/3538709803_e69c07498a_t.jpg" alt="" width="100" height="100" />
+![](http://farm4.static.flickr.com/3337/3538709803_e69c07498a_t.jpg)
 
 Been using Jaunty since it came out. Loving the speed, simplicity and estatics!!
 

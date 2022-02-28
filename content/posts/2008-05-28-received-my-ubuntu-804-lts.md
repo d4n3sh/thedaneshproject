@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891039836
 
 ---
-<img class="alignnone" src="http://farm3.static.flickr.com/2153/2528506606_f14f7cf814.jpg" alt="Ubuntu 8.10 LTS Hardy Heron" />
+![](http://farm3.static.flickr.com/2153/2528506606_f14f7cf814.jpg)
 
 Received my Ubuntu 8.04 LTS Hardy Heron cds in the mail today.
 

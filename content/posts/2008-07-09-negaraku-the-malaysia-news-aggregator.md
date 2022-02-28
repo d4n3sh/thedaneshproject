@@ -10,7 +10,7 @@ dsq_thread_id:
   - 904176243
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-664" title="Negaraku! - The Malaysia News Aggregator" src="/wp-content/uploads/2008/07/negaraku.png" alt="Negaraku! - The Malaysia News Aggregator" width="500" height="246" />][1]
+![](/wp-content/uploads/2008/07/negaraku.png)
 
 Malaysia has been busy with it's politicians since the recent elections. Murder trials, sexual harassment, misconduct in law enforcement and the list goes on.
 
@@ -22,6 +22,6 @@ Today I found Negaraku, a Malaysian news aggregator. Put together by [noktahhita
 
 Check it out: [Negaraku! - The Malaysia News Aggregator][3]
 
- [1]: /wp-content/uploads/2008/07/negaraku.png
+ [1]: /wp-content/uploads/2008/07/negaraku.png)
  [2]: http://www.noktahhitam.com/negaraku-the-malaysian-news-aggregator.html
  [3]: http://negaraku.net/

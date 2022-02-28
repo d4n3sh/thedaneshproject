@@ -8,7 +8,7 @@ dsq_thread_id:
   - 892737963
 
 ---
-[<img loading="lazy" class="size-full wp-image-2207 alignnone" title="LPI-Logo" src="/wp-content/uploads/2010/10/LPI-Logo.jpg" alt="" width="135" height="135" srcset="/wp-content/uploads/2010/10/LPI-Logo.jpg 225w, /wp-content/uploads/2010/10/LPI-Logo-150x150.jpg 150w" sizes="(max-width: 135px) 100vw, 135px" />][1]
+![](/wp-content/uploads/2010/10/LPI-Logo.jpg)
 
 For those thinking of doing their LPI 101 & 102, I-World is running a course next month.
 
@@ -38,5 +38,5 @@ Contact: Cammy - 017-6872686 , cammy@i-world-technology.com
 
 [Grab the Brochure][2].
 
- [1]: /wp-content/uploads/2010/10/LPI-Logo.jpg
+ [1]: /wp-content/uploads/2010/10/LPI-Logo.jpg)
  [2]: /wp-content/uploads/2010/10/I-WORLD-Linux-LPI-101-102.pdf

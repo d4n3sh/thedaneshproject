@@ -8,7 +8,7 @@ dsq_thread_id:
   - 914570273
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2262/2328065253_3ee512fbee_o.jpg" height="357" width="450" />
+![](http://farm3.static.flickr.com/2262/2328065253_3ee512fbee_o.jpg)
 
 I am facing the same [annoying beep][1] issue which I experienced on my Linux notebook before on my XP machine now.
 

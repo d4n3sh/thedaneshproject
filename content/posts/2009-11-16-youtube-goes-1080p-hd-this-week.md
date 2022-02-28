@@ -8,7 +8,7 @@ dsq_thread_id:
   - 896664504
 
 ---
-[<img class="alignnone" title="1080p sample" src="http://lh6.ggpht.com/_0uuFi1arkJE/SvyloXtQUwI/AAAAAAAAARI/_sKxO-q-hsE/s800/hd-1080p%20jpg.jpg" alt="" width="500" />][1]
+![](http://lh6.ggpht.com/_0uuFi1arkJE/SvyloXtQUwI/AAAAAAAAARI/_sKxO-q-hsE/s800/hd-1080p%2.jpg)
 
 YouTube [announced][2] that it's rolling out support for 1080p HD format this week. Up till now YouTube only went up to 720p but now it's going further with 1080p.
 
@@ -18,7 +18,7 @@ Like many other Malaysians I'm not too excited about this. We here still don't h
 
 Watch [ [THIS VIDEO][3] or [THIS VIDEO][4]] to get a taste of 1080p on YouTube.
 
- [1]: http://lh6.ggpht.com/_0uuFi1arkJE/SvyloXtQUwI/AAAAAAAAARI/_sKxO-q-hsE/s800/hd-1080p%20jpg.jpg
+ [1]: http://lh6.ggpht.com/_0uuFi1arkJE/SvyloXtQUwI/AAAAAAAAARI/_sKxO-q-hsE/s800/hd-1080p%2.jpg)
  [2]: http://youtube-global.blogspot.com/2009/11/1080p-hd-comes-to-youtube.html
  [3]: http://www.youtube.com/watch?v=DUM1284TqFc
  [4]: http://www.youtube.com/watch?v=5f-MYl-HzNw

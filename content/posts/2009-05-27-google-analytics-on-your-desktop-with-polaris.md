@@ -10,7 +10,7 @@ dsq_thread_id:
   - 931831767
 
 ---
-<figure id="attachment_1484" aria-describedby="caption-attachment-1484" style="width: 441px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1484" title="polaris" src="/wp-content/uploads/2009/05/polaris.png" alt="Polaris Daskboard" width="441" height="250" />][1]<figcaption id="caption-attachment-1484" class="wp-caption-text">Polaris Daskboard</figcaption></figure>
+<figure id="attachment_1484" aria-describedby="caption-attachment-1484" style="width: 441px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1484" title="polaris" src="/wp-content/uploads/2009/05/polaris.png)
 
 Polaris brings Google Analytics to your desktop. The desktop widget  Adobe AIR powered making it cross-platform.
 
@@ -18,11 +18,11 @@ The basic "free" widget allows you to monitor one site. If you need more, you co
 
 The default view is the dashboard with an overview of the genaral stats. Visits, page views, etc...
 
-<figure id="attachment_1485" aria-describedby="caption-attachment-1485" style="width: 440px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1485" title="polaris-date" src="/wp-content/uploads/2009/05/polaris-date.png" alt="Polaris Date" width="440" height="250" />][2]<figcaption id="caption-attachment-1485" class="wp-caption-text">Polaris Date</figcaption></figure>
+<figure id="attachment_1485" aria-describedby="caption-attachment-1485" style="width: 440px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1485" title="polaris-date" src="/wp-content/uploads/2009/05/polaris-date.png)
 
 You can  select a date range for the stats you want to view by using the simple drag interface.
 
-<figure id="attachment_1486" aria-describedby="caption-attachment-1486" style="width: 441px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1486" title="polaris-stats" src="/wp-content/uploads/2009/05/polaris-stats.png" alt="Polaris Stats" width="441" height="250" />][3]<figcaption id="caption-attachment-1486" class="wp-caption-text">Polaris Stats</figcaption></figure>
+<figure id="attachment_1486" aria-describedby="caption-attachment-1486" style="width: 441px" class="wp-caption alignnone">[<img loading="lazy" class="size-full wp-image-1486" title="polaris-stats" src="/wp-content/uploads/2009/05/polaris-stats.png)
 
 More stats are available as seen in the screenshot above.
 
@@ -30,6 +30,6 @@ Take it for a spin, I think you'll like it.
 
 Source: Polaris
 
- [1]: /wp-content/uploads/2009/05/polaris.png
- [2]: /wp-content/uploads/2009/05/polaris-date.png
- [3]: /wp-content/uploads/2009/05/polaris-stats.png
+ [1]: /wp-content/uploads/2009/05/polaris.png)
+ [2]: /wp-content/uploads/2009/05/polaris-date.png)
+ [3]: /wp-content/uploads/2009/05/polaris-stats.png)

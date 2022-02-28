@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890612061
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="" width="125" height="125" />][1]
+![](/wp-content/uploads/2008/08/wordpresslogo.jpg)
 
 I use the **is_home()** conditional tag to control when my ads show up. I prefer to only have my ads show up when single posts are viewed. Helps keep my home page looking clean and relevant.
 
@@ -34,4 +34,4 @@ If you use static pages for your home instead, then **replace is_home()** with *
 
 Try it out, drop me a note if you need help.
 
- [1]: /wp-content/uploads/2008/08/wordpresslogo.jpg
+ [1]: /wp-content/uploads/2008/08/wordpresslogo.jpg)

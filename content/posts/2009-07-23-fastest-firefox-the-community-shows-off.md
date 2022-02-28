@@ -8,7 +8,7 @@ pvc_views:
   - 2413
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1668" title="background-fastest" src="/wp-content/uploads/2009/07/background-fastest.png" alt="background-fastest" width="349" height="291" />][1]
+![](/wp-content/uploads/2009/07/background-fastest.png)
 
 [youtube]http://www.youtube.com/watch?v=LTFpAL7Rfww&feature=player_embedded[/youtube]
 
@@ -22,7 +22,7 @@ The world's fastest benjo player, [Todd Taylor.][7] [Watch the Video][8]
 
 The world's fastest talking female, [FranCapo][9]. She was the lady in main video doing the intro.
 
- [1]: /wp-content/uploads/2009/07/background-fastest.png
+ [1]: /wp-content/uploads/2009/07/background-fastest.png)
  [2]: http://www.fastestfirefox.com/
  [3]: http://www.fastestclapper.com/
  [4]: http://www.mozilla.com/en-US/firefox/video?video=fastest-clapper

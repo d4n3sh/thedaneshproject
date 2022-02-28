@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1010769886
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3131/2922974637_984b4d85ec_o.jpg" alt="Ole Tange on the OpenMoko Mobile Phone" width="562" height="800" />][1]
+![](http://farm4.static.flickr.com/3131/2922974637_984b4d85ec_o.jpg)
 
 I'm going, are you?
 

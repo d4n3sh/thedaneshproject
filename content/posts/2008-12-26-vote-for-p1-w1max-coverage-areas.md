@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891034600
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3259/3135319315_729961faf6.jpg" alt="P1 W1MAX" width="500" height="281" />][1]
+![](http://farm4.static.flickr.com/3259/3135319315_729961faf6.jpg)
 
 P1 has a new marketing strategy out. Instead of planning where to "P1 W1MAX" enable, they are asking their users to vote for the next "P1 W1MAX" coverage areas. the current top 10;
 

@@ -14,7 +14,7 @@ dsq_thread_id:
   - 889811726
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-745" title="iWorld" src="/wp-content/uploads/2008/08/r-500x159.jpg" alt="" width="500" height="159" srcset="/wp-content/uploads/2008/08/r-500x159.jpg 500w, /wp-content/uploads/2008/08/r.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2008/08/r-500x159.jpg)
 
 Couple of my pals were asking today about buying the latest iPhone 3G here in Malaysia.
 

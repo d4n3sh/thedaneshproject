@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889835945
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-2432" title="The-Food-panda-540x405" src="/wp-content/uploads/2012/04/The-Food-panda-540x405-450x337.png" alt="" width="450" height="337" srcset="/wp-content/uploads/2012/04/The-Food-panda-540x405-450x337.png 450w, /wp-content/uploads/2012/04/The-Food-panda-540x405.png 540w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2012/04/The-Food-panda-540x405-450x337.png)
 
 I've always hoped for an independent delivery service here in Malaysia. There's tones of  good food around but no easy way to get them to us. That's all about to change now, hopefully.
 
@@ -31,7 +31,7 @@ Source : [FoodPanda][3] || [Blog][4] || [Twitter][5] || [Facebook ][6]
 
  
 
- [1]: /wp-content/uploads/2012/04/The-Food-panda-540x405.png
+ [1]: /wp-content/uploads/2012/04/The-Food-panda-540x405.png)
  [2]: mailto:
  [3]: http://www.foodpanda.my
  [4]: http://blog.foodpanda.com/

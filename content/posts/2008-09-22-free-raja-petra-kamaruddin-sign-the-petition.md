@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1028511696
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-947" title="free-rpk" src="/wp-content/uploads/2008/09/free-rpk.jpg" alt="" width="270" height="400" />][1]
+![](/wp-content/uploads/2008/09/free-rpk.jpg)
 
 The dude speaks for us, he speaks about the truths that others don't want to get into. It's time we showed our gratitute.
 
@@ -20,6 +20,6 @@ There's a petition to the PM which needs your attention. It's currently standing
 
 Source: [Politickler][3]
 
- [1]: /wp-content/uploads/2008/09/free-rpk.jpg
+ [1]: /wp-content/uploads/2008/09/free-rpk.jpg)
  [2]: http://www.petitiononline.com/isa1234/petition.html
  [3]: http://politickler.com/posts/lets-get-rpk-out-of-isa-now/

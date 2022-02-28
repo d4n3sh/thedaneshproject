@@ -16,8 +16,8 @@ dsq_thread_id:
 
 4. Select the desired "Currency Conversion" and you're done.
 
-<img loading="lazy" class="alignnone size-medium wp-image-2004" title="Aviary shop-ebay-com-my Picture 1" src="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1-450x196.png" alt="" width="450" height="196" srcset="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1-450x196.png 450w, /wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1.png 545w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-1-450x196.png)
 
-<img loading="lazy" class="alignnone size-medium wp-image-2005" title="Aviary shop-ebay-com-my Picture 2" src="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-2-450x218.png" alt="" width="450" height="218" srcset="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-2-450x218.png 450w, /wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-2.png 616w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-2-450x218.png)
 
-<img loading="lazy" class="alignnone size-medium wp-image-2003" title="Aviary shop-ebay-com-my Picture 3" src="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-3-450x216.png" alt="" width="450" height="216" srcset="/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-3-450x216.png 450w, /wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-3.png 616w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/02/Aviary-shop-ebay-com-my-Picture-3-450x216.png)

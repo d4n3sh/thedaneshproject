@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890170232
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2162" title="what does your email say about you" src="/wp-content/uploads/2010/06/theoatmeal.com-2010-6-1-22-14-450x647.png" alt="" width="450" height="647" srcset="/wp-content/uploads/2010/06/theoatmeal.com-2010-6-1-22-14-450x647.png 450w, /wp-content/uploads/2010/06/theoatmeal.com-2010-6-1-22-14.png 698w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/06/theoatmeal.com-2010-6-1-22-14-450x647.png)
 
 Weirdly, this is quite true. Which category do you fall into? I,m on @own-domain and @gmail 😀
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 918208501
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2418/2336636833_abbb36c0e7.jpg" alt="hulu" border="0" height="292" width="500" />][1]
+![](http://farm3.static.flickr.com/2418/2336636833_abbb36c0e7.jpg)
 
 After bout 5 months of invite only beta testings [hulu][2] has opened it's doors to the public earlier this month.
 
@@ -16,7 +16,7 @@ hulu is an online video streaming service but unlike [youtube][3] and other vide
 
 The current lineup already includes Family Guy, 30 Rock, The Office, House, The Simpsons, Terminator: The Sarah Connor Chronicles, Friday Night Lights, TV classics, from Arrested Development and Firefly to Buffy the Vampire Slayer, Miami Vice, Roswell and many more. The movie lineup includes full-length movies from The Usual Suspects, Ice Age, and Point Break to Some Like It Hot, In Her Shoes, and Me, Myself and Irene, as well as hundred of clips from classic movies such as Aliens, Die Hard, Little Miss Sunshine, Napoleon. The list keeps growing so choices will eventually be infinite.<!--more-->
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2400/2337527014_1d04a1b73d.jpg" alt="library" border="0" height="178" width="500" />][4]
+![](http://farm3.static.flickr.com/2400/2337527014_1d04a1b73d.jpg)
 
 Currently hulu is only servicing the US. All other regions and countries will have to wait. Workarounds like using proxy servers and overseas vpn tunnels have been said to work but I haven't personally tested them yet.
 

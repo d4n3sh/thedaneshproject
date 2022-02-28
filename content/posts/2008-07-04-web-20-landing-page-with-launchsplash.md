@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893312174
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-654" title="launchsplash" src="/wp-content/uploads/2008/07/launchsplash-500x294.png" alt="launchsplash" width="500" height="294" srcset="/wp-content/uploads/2008/07/launchsplash-500x294.png 500w, /wp-content/uploads/2008/07/launchsplash.png 1021w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2008/07/launchsplash-500x294.png)
 
 Bought a domain but don't have the time for a cool landing page. Landing pages are like really cool movie teasers, they create excitement and curiosity around the movie and pull in the crowd. The movie might have sucked but you ended up paying for it anyway.
 
@@ -20,12 +20,12 @@ LaunchSplash provides free web 2.0 landing pages for your domains. RSS feeds and
 
 <!--more-->
 
-[<img loading="lazy" class="alignnone size-medium wp-image-655" title="launchsplashdemo" src="/wp-content/uploads/2008/07/launchsplashdemo-500x294.png" alt="launchsplashdemo" width="500" height="294" srcset="/wp-content/uploads/2008/07/launchsplashdemo-500x294.png 500w, /wp-content/uploads/2008/07/launchsplashdemo.png 1021w" sizes="(max-width: 500px) 100vw, 500px" />][2]
+![](/wp-content/uploads/2008/07/launchsplashdemo-500x294.png)
 
 Getting the landing page up is simple. Sign up for an account, fill in your site description and summary and finally from your DNS registrar's control panel have your DNS point to LaunchSplash's DNS servers.
 
 Pretty cool service, save time and effort. [Give it a spin][3].
 
- [1]: /wp-content/uploads/2008/07/launchsplash.png
- [2]: /wp-content/uploads/2008/07/launchsplashdemo.png
+ [1]: /wp-content/uploads/2008/07/launchsplash.png)
+ [2]: /wp-content/uploads/2008/07/launchsplashdemo.png)
  [3]: http://www.launchsplash.com

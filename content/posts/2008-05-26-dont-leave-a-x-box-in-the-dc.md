@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1306794650
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-586" title="tuxracer" src="/wp-content/uploads/2008/05/tuxracer11.jpg" alt="tuxracer" width="352" height="288" />][1]
+![](/wp-content/uploads/2008/05/tuxracer11.jpg)
 
 When forced to work within a limited budget you are normally forced to come up with alternative cost saving solutions. This was the case for a University which desided to use a Linux powered X-Box to host it's students web projects.
 
@@ -22,5 +22,5 @@ Getting Linux onto your X-Box
 
 Source: [WindowsITPRO][2]
 
- [1]: /wp-content/uploads/2008/05/tuxracer11.jpg
+ [1]: /wp-content/uploads/2008/05/tuxracer11.jpg)
  [2]: http://windowsitpro.com/article/articleid/50428/the-website-is-down-because-someone-removed-the-x-box.html

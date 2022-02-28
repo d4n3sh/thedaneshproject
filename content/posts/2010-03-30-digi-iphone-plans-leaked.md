@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890696318
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2023" title="DIGI-iphone" src="/wp-content/uploads/2010/03/DIGI-iphone.jpg" alt="" width="400" height="600" />
+![](/wp-content/uploads/2010/03/DIGI-iphone.jpg)
 
 Guess you already know that DIGI's bringing in the [iPhone][1] now.
 
@@ -20,19 +20,19 @@ Anyways, here are the plans.
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Chart_.jpg'><img width="150" height="150" src="/wp-content/uploads/2010/03/DIGI-iphone.Chart_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Chart_.jpg)
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Form_.1.jpg'><img width="150" height="150" src="/wp-content/uploads/2010/03/DIGI-iphone.Form_.1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Form_.1.jpg)
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Form_.2.jpg'><img width="150" height="150" src="/wp-content/uploads/2010/03/DIGI-iphone.Form_.2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+    <a href='/wp-content/uploads/2010/03/DIGI-iphone.Form_.2.jpg)
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='/wp-content/uploads/2010/03/DIGI-iphone.jpg'><img width="150" height="150" src="/wp-content/uploads/2010/03/DIGI-iphone-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+    <a href='/wp-content/uploads/2010/03/DIGI-iphone.jpg)
   </div></figure>
 </div>
 

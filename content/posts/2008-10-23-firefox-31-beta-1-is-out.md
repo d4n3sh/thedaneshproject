@@ -10,7 +10,7 @@ dsq_thread_id:
   - 904501550
 
 ---
-<figure id="attachment_577" aria-describedby="caption-attachment-577" style="width: 192px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-577" title="Firefox" src="/wp-content/uploads/2008/05/firefoxlogopi91.png" alt="Firefox" width="192" height="192" srcset="/wp-content/uploads/2008/05/firefoxlogopi91.png 192w, /wp-content/uploads/2008/05/firefoxlogopi91-150x150.png 150w" sizes="(max-width: 192px) 100vw, 192px" />][1]<figcaption id="caption-attachment-577" class="wp-caption-text">Firefox</figcaption></figure>
+<figure id="attachment_577" aria-describedby="caption-attachment-577" style="width: 192px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-577" title="Firefox" src="/wp-content/uploads/2008/05/firefoxlogopi91.png)
 
 Firefox 3.1 beta 1 is out.
 
@@ -28,7 +28,7 @@ What's new?
 
 Besides most of my extensions not working Firefox 3.1 Beta 1 seems to be pretty stable.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3155/2965354131_67b4977e33.jpg" alt="Firefox-3.1-Beta-1" width="500" height="313" />][3]
+![](http://farm4.static.flickr.com/3155/2965354131_67b4977e33.jpg" alt="Firefox-3.1-Beta-1" width="500" height="313" />][3]
 
 [Download Firefox 3.1 Beta 1][4] or if you prefer the [nightly builds][5].
 
@@ -36,7 +36,7 @@ Besides most of my extensions not working Firefox 3.1 Beta 1 seems to be pretty 
 
 Source: [Mozilla Dev][6]
 
- [1]: /wp-content/uploads/2008/05/firefoxlogopi91.png
+ [1]: /wp-content/uploads/2008/05/firefoxlogopi91.png)
  [2]: http://developer.mozilla.org/web-tech/2008/10/14/firefox-31-beta-1-an-overview-of-features-for-web-developers
  [3]: http://www.flickr.com/photos/dannyportal/2965354131/ "Firefox-3.1-Beta-1 by Danesh Manoharan, on Flickr"
  [4]: http://www.mozilla.com/en-US/firefox/all-beta.html

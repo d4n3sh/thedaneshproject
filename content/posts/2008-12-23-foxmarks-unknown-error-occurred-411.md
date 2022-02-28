@@ -14,12 +14,12 @@ dsq_thread_id:
 
 Recently it's being acting up with a "unknown error occurred (411)"Â  error during setup. The workaround fortunately is quite simple.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3090/3130353505_8ff4eb7f5d.jpg" alt="Foxmarks-error" width="500" height="281" />][2]
+![](http://farm4.static.flickr.com/3090/3130353505_8ff4eb7f5d.jpg)
 
 1. Go to Tools -> Foxmarks -> Foxmarks Settings -> Advanced  
 2. Change encryption to "Encrypt All".
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3124/3130353501_cef3692233.jpg" alt="foxmarks-error2" width="500" height="281" />][3]
+![](http://farm4.static.flickr.com/3124/3130353501_cef3692233.jpg)
 
 That's it.
 

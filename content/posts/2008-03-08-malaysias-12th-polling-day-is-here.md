@@ -8,7 +8,7 @@ dsq_thread_id:
   - 901135920
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2209/2317063760_478a8a0133_o.jpg" height="356" width="450" />
+![](http://farm3.static.flickr.com/2209/2317063760_478a8a0133_o.jpg)
 
 Tomorrow is the 12th general election polling day for Malaysia. Malaysians will be rushing to the nearest polling stations by the millions to carry out their responsibility as a citizen.
 

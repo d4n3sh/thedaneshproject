@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889858480
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1806" title="msn-butterfly-logo-1" src="/wp-content/uploads/2009/10/msn-butterfly-logo-1-450x204.jpg" alt="msn-butterfly-logo-1" width="450" height="204" srcset="/wp-content/uploads/2009/10/msn-butterfly-logo-1-450x204.jpg 450w, /wp-content/uploads/2009/10/msn-butterfly-logo-1.jpg 600w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/10/msn-butterfly-logo-1-450x204.jpg)
 
 It seems that there's a new MSN butterfly on it's way. This could only mean that Microsoft's MSN could be getting a face lift or a touch-up soon.
 
@@ -16,9 +16,9 @@ The new butterfly's super simple and has a strong web 2.0 feel to it. So far I'v
 
 I actually feel that the logo's not bad looking, it might be simple but only time with tell if the butterfly flies or crashes.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1807" title="msn-butterfly-logo-2" src="/wp-content/uploads/2009/10/msn-butterfly-logo-2-450x339.jpg" alt="msn-butterfly-logo-2" width="450" height="339" srcset="/wp-content/uploads/2009/10/msn-butterfly-logo-2-450x339.jpg 450w, /wp-content/uploads/2009/10/msn-butterfly-logo-2.jpg 472w" sizes="(max-width: 450px) 100vw, 450px" />][2]
+![](/wp-content/uploads/2009/10/msn-butterfly-logo-2-450x339.jpg)
 
 What do you think of the new butterfly?
 
- [1]: /wp-content/uploads/2009/10/msn-butterfly-logo-1.jpg
- [2]: /wp-content/uploads/2009/10/msn-butterfly-logo-2.jpg
+ [1]: /wp-content/uploads/2009/10/msn-butterfly-logo-1.jpg)
+ [2]: /wp-content/uploads/2009/10/msn-butterfly-logo-2.jpg)

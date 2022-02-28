@@ -16,7 +16,7 @@ Other new features include a image gallery, faster load times, gravatar support,
 
 There's a screencast of 2.5 rc2 available for you to get a glimpse of what in 2.5. [Watch it here][1].
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2399/2364830043_455117cb61.jpg" alt="wp25" border="0" height="281" width="500" />][2]
+![](http://farm3.static.flickr.com/2399/2364830043_455117cb61.jpg)
 
 Looking good eh?
 

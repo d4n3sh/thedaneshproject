@@ -10,7 +10,7 @@ dsq_thread_id:
   - 968477233
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1185" title="serverfreak-header" src="/wp-content/uploads/2009/01/serverfreak-header.gif" alt="serverfreak-header" width="376" height="112" />
+![](/wp-content/uploads/2009/01/serverfreak-header.gif)
 
 I'm moving to a new hosting provider. Yup, again and this time for a good reason.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 972007579
 
 ---
-<img loading="lazy" class="alignnone" title="Facebook Logo" src="http://farm4.static.flickr.com/3079/3181786764_0523985172.jpg" alt="" width="500" height="188" />
+![](http://farm4.static.flickr.com/3079/3181786764_0523985172.jpg)
 
 This just in, [Facebook][1] has reached 150 million users world wide.
 

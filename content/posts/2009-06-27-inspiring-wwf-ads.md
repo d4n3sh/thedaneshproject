@@ -10,11 +10,11 @@ dsq_thread_id:
   - 890099405
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1557" title="wwf1" src="/wp-content/uploads/2009/06/wwf1.jpg" alt="wwf1" width="500" height="358" />][1]
+![](/wp-content/uploads/2009/06/wwf1.jpg)
 
-[<img loading="lazy" class="alignnone size-full wp-image-1558" title="wwf3" src="/wp-content/uploads/2009/06/wwf3.jpg" alt="wwf3" width="357" height="500" />][2]
+![](/wp-content/uploads/2009/06/wwf3.jpg)
 
-[<img loading="lazy" class="alignnone size-full wp-image-1559" title="wwf12" src="/wp-content/uploads/2009/06/wwf12.jpg" alt="wwf12" width="500" height="344" />][3]
+![](/wp-content/uploads/2009/06/wwf12.jpg)
 
 Those are just a few of the inspiring ads from WWF to bring awareness to us about what we are doing wrong. I got them from [Abinesh][4] and [DeWebTimes][5].
 
@@ -24,8 +24,8 @@ There's only one earth, our home. Make sure you take good care of her and her ch
 
 If predictions are right, by 2015 shit will hit the fan and we will price for 50 years of ignorance.
 
- [1]: /wp-content/uploads/2009/06/wwf1.jpg
- [2]: /wp-content/uploads/2009/06/wwf3.jpg
- [3]: /wp-content/uploads/2009/06/wwf12.jpg
+ [1]: /wp-content/uploads/2009/06/wwf1.jpg)
+ [2]: /wp-content/uploads/2009/06/wwf3.jpg)
+ [3]: /wp-content/uploads/2009/06/wwf12.jpg)
  [4]: http://www.abinesh.com/delirium/posts/creative-wwf-ads/
  [5]: http://www.dewebtimes.com/100-extremely-inspiring-and-creative-advertisements-from-wwf/

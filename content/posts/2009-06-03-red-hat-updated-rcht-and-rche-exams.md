@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892680775
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-97" title="redhat.png" src="/wp-content/uploads/2007/03/redhat.png" alt="redhat.png" width="96" height="31" />][1]
+![](/wp-content/uploads/2007/03/redhat.png)
 
 Thinking about getting your RHCT/RHCE certification soon? read up.
 
@@ -24,5 +24,5 @@ Been thinkning of renewing my RHCE from RHEL 4 to RHEL 5. Know any good training
 
 Source: [Red Hat][2]
 
- [1]: /wp-content/uploads/2007/03/redhat.png
+ [1]: /wp-content/uploads/2007/03/redhat.png)
  [2]: http://www.redhat.com/certification/faq/

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 937638591
 
 ---
-<img loading="lazy" src="http://farm4.static.flickr.com/3191/2392375922_88b3850f8b.jpg" height="212" width="500" />
+![](http://farm4.static.flickr.com/3191/2392375922_88b3850f8b.jpg)
 
 Can't believe I'm 2 versions back. Not been torrentting much the past weeks thanks to work.
 

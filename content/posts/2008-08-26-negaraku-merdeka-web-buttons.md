@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1244522680
 
 ---
-<img loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3259/2794704873_e395fee426.jpg" alt="" width="500" height="270" />
+![](http://farm4.static.flickr.com/3259/2794704873_e395fee426.jpg)
 
 Our 51st Merdeka is around the corner but somehow no one seems to be in the mood for celebration. I guess with all the nonsense going on in our political system today who has the time for Merdeka.
 

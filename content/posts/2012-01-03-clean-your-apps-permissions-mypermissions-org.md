@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890886675
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2340" title="mypermissions" src="/wp-content/uploads/2012/01/mypermissions.png" alt="" width="350" height="346" />
+![](/wp-content/uploads/2012/01/mypermissions.png)
 
 I always find it hard to remember which apps have access to my social networks.
 

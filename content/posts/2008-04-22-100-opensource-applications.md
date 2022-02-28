@@ -12,7 +12,7 @@ dsq_thread_id:
 
 The list comes in handy for those new to Linux. Moving to Linux has never been easy for Windows users. The major reason being applications. Hopefully the list will make that transition smoother ans give them a reason not to go back to Windows 🙂
 
-<img loading="lazy" class="alignnone size-full wp-image-522" title="Linux Penguin" src="/wp-content/uploads/2008/04/2432112387_6fdaab615a_m1.jpg" alt="Linux Penguin" width="218" height="240" /> 
+![](/wp-content/uploads/2008/04/2432112387_6fdaab615a_m1.jpg)
 
 My favorites will always be Linux, MySQL and PHP.
 

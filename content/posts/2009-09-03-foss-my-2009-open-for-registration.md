@@ -10,7 +10,7 @@ dsq_thread_id:
   - 901520810
 
 ---
-[][1][<img loading="lazy" class="alignnone size-full wp-image-1748" title="fossmy-logo" src="/wp-content/uploads/2009/09/fossmy-logo.png" alt="fossmy-logo" width="247" height="78" />][2]
+[][1][<img loading="lazy" class="alignnone size-full wp-image-1748" title="fossmy-logo" src="/wp-content/uploads/2009/09/fossmy-logo.png)
 
 [FOSS.my 2009][1] is back and is coming your way this 24th and 25th of October .
 
@@ -109,7 +109,7 @@ Make sure to stay up to date with FOSS.my 2009 through either channels shown bel
 [FOSS.my 2009 on Twitter][7]
 
  [1]: http://foss.my/2009/
- [2]: /wp-content/uploads/2009/09/fossmy-logo.png
+ [2]: /wp-content/uploads/2009/09/fossmy-logo.png)
  [3]: http://foss.my/2009/schedule/
  [4]: http://foss.my/2009/registration-overview/
  [5]: http://foss.my

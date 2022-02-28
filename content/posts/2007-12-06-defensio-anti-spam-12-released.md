@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737037
 
 ---
-<img loading="lazy" src="http://img156.imageshack.us/img156/9283/derfensiobanneryv1.jpg" height="103" width="400" />
+![](http://img156.imageshack.us/img156/9283/derfensiobanneryv1.jpg)
 
 The latest update for the Defensio Anti Spam WordPress was released today.
 

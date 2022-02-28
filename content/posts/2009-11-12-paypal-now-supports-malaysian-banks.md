@@ -8,7 +8,7 @@ dsq_thread_id:
   - 895415713
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1836" title="paypal-logo1" src="/wp-content/uploads/2009/11/paypal-logo1.jpg" alt="paypal-logo1" width="212" height="65" />][1]
+![](/wp-content/uploads/2009/11/paypal-logo1.jpg)
 
 Good news!! PayPal now does Malaysia.
 
@@ -73,7 +73,7 @@ Linking your local bank account to PayPal is done over [MEPS][2] and the process
   </div>
 </div>
 
- [1]: /wp-content/uploads/2009/11/paypal-logo1.jpg
+ [1]: /wp-content/uploads/2009/11/paypal-logo1.jpg)
  [2]: http://www.meps.com.my/
  [3]: http://www.liewcf.com/archives/2009/11/how-to-withdraw-paypal-money-malaysia-bank-accounts/
  [4]: http://www.webshaper.com.my/blog/index.php/how-to-link-paypal-to-malaysia-bank-account/

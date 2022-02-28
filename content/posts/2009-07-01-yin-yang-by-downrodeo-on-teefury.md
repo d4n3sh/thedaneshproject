@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892145614
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1592" title="top_yinyang" src="/wp-content/uploads/2009/07/top_yinyang-500x312.jpg" alt="top_yinyang" width="500" height="312" srcset="/wp-content/uploads/2009/07/top_yinyang-500x312.jpg 500w, /wp-content/uploads/2009/07/top_yinyang.jpg 640w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/07/top_yinyang-500x312.jpg)
 
 [Alan's][2] got a new shirt out on [TeeFury][3] titled Yin Yang.
 
@@ -22,6 +22,6 @@ It's goes on sale today and will be for only 24 hours. The TEE will only run you
 
 [Grab one!!][3] I am!!
 
- [1]: /wp-content/uploads/2009/07/top_yinyang.jpg
+ [1]: /wp-content/uploads/2009/07/top_yinyang.jpg)
  [2]: http://alanbernard.com/
  [3]: http://www.teefury.com/

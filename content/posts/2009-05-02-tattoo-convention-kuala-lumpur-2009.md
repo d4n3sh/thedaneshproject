@@ -18,7 +18,7 @@ Here's what you can look forward to. Loads of international artists, loads of lo
 
 It's a few months away so don't forget to mark your calendar.
 
-<img loading="lazy" class="alignnone" title="Tattoo Convention Kuala Lumpur 2009" src="http://farm4.static.flickr.com/3591/3493305976_6164a914e6.jpg" alt="" width="353" height="500" /> 
+![](http://farm4.static.flickr.com/3591/3493305976_6164a914e6.jpg)
 
 Source: Tattoo Convention Kuala Lumpur 2009
 

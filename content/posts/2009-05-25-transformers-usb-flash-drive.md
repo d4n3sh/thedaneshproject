@@ -10,7 +10,7 @@ dsq_thread_id:
   - 915639625
 
 ---
-[<img class="alignnone" title="Transformers USB Flash Drive" src="http://media.s3image.com/tak10927dc0.jpg" alt="" width="500" />][1]
+![](http://media.s3image.com/tak10927dc0.jpg)
 
 This is something all transformers fans should have.
 
@@ -22,5 +22,5 @@ Besides price, it's still an awesome looking flash drive.
 
 Source: [BIGBADTOYSTORE][2]
 
- [1]: http://media.s3image.com/tak10927dc0.jpg
+ [1]: http://media.s3image.com/tak10927dc0.jpg)
  [2]: http://www.bigbadtoystore.com/bbts/product.aspx?product=TAK10927&mode=retail&picture=out

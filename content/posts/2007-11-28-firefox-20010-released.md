@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737401
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Firefox 2.0.0.10 has been released. This is a security update which fixes the issues listed below.
 

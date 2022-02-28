@@ -8,7 +8,7 @@ dsq_thread_id:
   - 998454519
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="" width="125" height="125" />
+![](/wp-content/uploads/2008/08/wordpresslogo.jpg)
 
 There's a new security patch out which fixes an exploit that allows  registered users to view trashed posts. The vulnerability was reported by [Thomas Mackenzie][1], a security Enthusiast.
 

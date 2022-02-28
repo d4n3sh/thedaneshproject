@@ -10,8 +10,8 @@ dsq_thread_id:
 ---
 Love monopoly? Love the MAC? If your answer is yes then you'll love MACOPOLY, the Apple version of the popular board game Monopoly.
 
-[<img class="alignnone" title="Macopoly" src="http://img94.imageshack.us/img94/759/macopoly.jpg" alt="" width="450" />][1]
+![](http://img94.imageshack.us/img94/759/macopoly.jpg)
 
 Click on the image to view in full size.
 
- [1]: http://img94.imageshack.us/img94/759/macopoly.jpg
+ [1]: http://img94.imageshack.us/img94/759/macopoly.jpg)

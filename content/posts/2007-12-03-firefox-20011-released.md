@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737799
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 A new update for Firefox was released just 4 days after the 2.0.0.10 update was made available to the public. The latest update 2.0.0.11 fixes a few compatibulity issues that showed up after upgrading to 20.0.0.10. Nothing serious, justÃ‚Â  minor extension issues and website compatibility issues.  
 Make sure you have the latest version. This will happen automatically but if it does not then get the latest version [here][1].

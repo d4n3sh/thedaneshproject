@@ -6,7 +6,7 @@ pvc_views:
   - 2033
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1814" title="Ubuntu_9.10" src="/wp-content/uploads/2009/11/Ubuntu_9.10-450x149.png" alt="Ubuntu_9.10" width="450" height="149" srcset="/wp-content/uploads/2009/11/Ubuntu_9.10-450x149.png 450w, /wp-content/uploads/2009/11/Ubuntu_9.10.png 911w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/11/Ubuntu_9.10-450x149.png)
 
 Ubuntu 9.10 codenamed "Karmic Koala" was released 2 days back.
 
@@ -18,11 +18,11 @@ Grab a copy from a local Malaysian mirror listed below or from the official [dow
 
 [ByteCraft][5]
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1813" title="kubuntu-9.10released" src="/wp-content/uploads/2009/11/kubuntu-9.10released-450x89.png" alt="kubuntu-9.10released" width="450" height="89" srcset="/wp-content/uploads/2009/11/kubuntu-9.10released-450x89.png 450w, /wp-content/uploads/2009/11/kubuntu-9.10released.png 849w" sizes="(max-width: 450px) 100vw, 450px" />][6]
+![](/wp-content/uploads/2009/11/kubuntu-9.10released-450x89.png)
 
 alternatively if you're a Kubuntu user, grab your copy [here][6].
 
- [1]: /wp-content/uploads/2009/11/Ubuntu_9.10.png
+ [1]: /wp-content/uploads/2009/11/Ubuntu_9.10.png)
  [2]: http://www.ubuntu.com/getubuntu/download
  [3]: http://mirror.oscc.org.my/ubuntu-releases/9.10/
  [4]: http://ubuntu.mmu.edu.my/ubuntu-cd/9.10/

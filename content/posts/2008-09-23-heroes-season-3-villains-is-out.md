@@ -10,7 +10,7 @@ dsq_thread_id:
   - 916393295
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3003/2881041777_4dabbd91f9.jpg" alt="Heroes - Season 3 Villains [Promo] - Banner" width="500" height="379" />][1]
+![](http://farm4.static.flickr.com/3003/2881041777_4dabbd91f9.jpg)
 
 Heroes Season 3: Villains is finally here. Been waiting awhile for this now. [Get the torrent][2].
 

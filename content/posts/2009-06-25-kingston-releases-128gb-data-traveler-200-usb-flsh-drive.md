@@ -10,7 +10,7 @@ dsq_thread_id:
   - 907016089
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1549" title="kingston-datatraveler-200" src="/wp-content/uploads/2009/06/kingston-datatraveler-200.jpg" alt="kingston-datatraveler-200" width="400" height="330" />][1]
+![](/wp-content/uploads/2009/06/kingston-datatraveler-200.jpg)
 
 Kingston's rolled out a new flash drive, the [**_Data Traveler 200_**][2].
 
@@ -22,5 +22,5 @@ What do you think?
 
 [Product Home][2]
 
- [1]: /wp-content/uploads/2009/06/kingston-datatraveler-200.jpg
+ [1]: /wp-content/uploads/2009/06/kingston-datatraveler-200.jpg)
  [2]: http://www.kingston.com/flash/dt200.asp

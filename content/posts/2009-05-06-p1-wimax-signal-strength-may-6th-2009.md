@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889733728
 
 ---
-[<img loading="lazy" class="alignnone" title="P1W1MAX Signal" src="http://farm4.static.flickr.com/3644/3505167778_7102762ac8.jpg" alt="" width="500" height="364" />][1]
+![](http://farm4.static.flickr.com/3644/3505167778_7102762ac8.jpg)
 
 My P1W1MAX signal strenght. Pretty pethatic!!
 
@@ -26,10 +26,10 @@ Take a look at the signal map below, my house is smack middle in the pocket(belo
 
 It's weird how the base stations are deployed here. According to P1 more base statioins are coming up soon in the area so hopefully I'll see some improvements.
 
-[<img loading="lazy" class="alignnone" title="P1W1MAX Signal Map" src="http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg" alt="" width="500" height="335" />][2]
+![](http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg)
 
 Are you on P1 W1MAX too? What's ya signal strength?  [Need the modem login?][3]
 
- [1]: http://farm4.static.flickr.com/3644/3505167778_7102762ac8.jpg
- [2]: http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg
+ [1]: http://farm4.static.flickr.com/3644/3505167778_7102762ac8.jpg)
+ [2]: http://farm4.static.flickr.com/3125/3505193896_5b493a5ec1.jpg)
  [3]: /posts/p1-w1max-ds300-modem-admin-password-revealed/

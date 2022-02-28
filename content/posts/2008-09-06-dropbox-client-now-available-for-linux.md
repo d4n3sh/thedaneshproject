@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889726622
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-878" title="dropbox-asci" src="/wp-content/uploads/2008/09/dropbox-asci.png" alt="" width="291" height="89" />][1]
+![](/wp-content/uploads/2008/09/dropbox-asci.png)
 
 [][1]The folks at [dropbox][2]Ã‚Â released the much anticipated Linux client yesterday. Currently it's designed as a nautilus extension. Support for Konqueror should be available soon.
 
@@ -46,5 +46,5 @@ or
 `  
 `root#> ./dropboxd`
 
- [1]: /wp-content/uploads/2008/09/dropbox-asci.png
+ [1]: /wp-content/uploads/2008/09/dropbox-asci.png)
  [2]: http://getdropbox.com

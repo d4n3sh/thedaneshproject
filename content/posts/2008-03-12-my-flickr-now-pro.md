@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 I finally decided to go ahead and upgrade my Flickr account from basic(free) to pro.
 
-<img loading="lazy" src="http://farm3.static.flickr.com/2047/2328153839_80c4345304.jpg?v=1205323413" height="375" width="500" /> 
+![](http://farm3.static.flickr.com/2047/2328153839_80c4345304.jpg)
 
 Cost me USD24.95 but was worth every penny. Unlimited space/sets/bandwidth/etc... and now since Picnik has also gone free it just made sense to dump my other image hosting sites and consolidate everything into Flickr moving forward.
 

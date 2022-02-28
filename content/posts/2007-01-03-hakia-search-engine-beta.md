@@ -8,7 +8,7 @@ dsq_thread_id:
   - 931942694
 
 ---
-<img id="image24" alt="hakia" src="/techblog/wp-content/uploads/2007/01/hakia.jpg" />A new "meaning-based search engine".
+![](/techblog/wp-content/uploads/2007/01/hakia.jpg)
 
 That's what hakia is. No more indexing as we do it today. hakia works more like the human brain "Cognition".  
 hakia's scheduled it's full launch in 2007.

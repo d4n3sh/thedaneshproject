@@ -8,7 +8,7 @@ dsq_thread_id:
   - 913251590
 
 ---
-<img class="alignnone" src="http://farm3.static.flickr.com/2012/2524352558_c05c17cce5_o.jpg" alt="Twitter" />
+![](http://farm3.static.flickr.com/2012/2524352558_c05c17cce5_o.jpg)
 
 Know someone who's never heard of [twitter][1]? I don't.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 901134946
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2351/2366440960_968e167a84.jpg" alt="torrentspy" border="0" height="368" width="500" />][1]
+![](http://farm3.static.flickr.com/2351/2366440960_968e167a84.jpg)
 
 Torrentpy, once the most popular torrent site on the net has finally decided to shut it's doors and pack up permanently. Why? Well as usual MPAA is the culprit, 2 years of battling the the MPAA proved to be too much for Justin Bundell, the fonder of Torrentspy.
 

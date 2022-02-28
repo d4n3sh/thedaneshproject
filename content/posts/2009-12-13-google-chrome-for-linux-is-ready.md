@@ -29,10 +29,10 @@ Google Chrome for Linux is finally out!! It's in BETA for now so expect to run i
 
 Google Chrome for Linux come is .deb for Ubuntu/Debian and .rpm for Fedora and OpenSUSE. [Download Google Chrome for Linux Now!!][1].
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1888" title="Google Chrome For Linux" src="/wp-content/uploads/2009/12/Google-Chrome-For-Linux-450x437.png" alt="Google Chrome For Linux" width="450" height="437" srcset="/wp-content/uploads/2009/12/Google-Chrome-For-Linux-450x437.png 450w, /wp-content/uploads/2009/12/Google-Chrome-For-Linux-1024x996.png 1024w, /wp-content/uploads/2009/12/Google-Chrome-For-Linux.png 1264w" sizes="(max-width: 450px) 100vw, 450px" />][2]
+![](/wp-content/uploads/2009/12/Google-Chrome-For-Linux-450x437.png)
 
 Source: [Google Chrome][3]
 
  [1]: http://www.google.com/chrome?hl=en&platform=linux&brand=CHFK
- [2]: /wp-content/uploads/2009/12/Google-Chrome-For-Linux.png
+ [2]: /wp-content/uploads/2009/12/Google-Chrome-For-Linux.png)
  [3]: http://www.google.com/chrome/intl/en/w00t.html

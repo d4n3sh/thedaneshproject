@@ -24,7 +24,7 @@ I found 2 possible solutions. [PassPack][3] and [Clipperz][4] .
 
 [PassPack][3] has been around for some time now(Dec 2006). It is feature packed,secure and I love the simple,functional and clean interface. The learning curve needed to get used to [PassPack][3] is almost 0 to none.
 
-[![passkey_demo.gif][5]][6]
+[![passkey_demo.gif)
 
 **Some of the features that stand out to me are;**
 
@@ -38,7 +38,7 @@ I found 2 possible solutions. [PassPack][3] and [Clipperz][4] .
 
 I have using [PassPack][3] for a few days now and it's awesome!!
 
-<img loading="lazy" src="http://passpack.files.wordpress.com/2007/04/passpackbutton_180x60.gif" title="https://www.passpack.com/" alt="https://www.passpack.com/" height="60" width="180" /> 
+![](http://passpack.files.wordpress.com/2007/04/passpackbutton_180x60.gif)
 
 <u><strong>Clipperz</strong></u>
 
@@ -93,8 +93,8 @@ Clipperz and PassPack : Online password storage is still a fear
  [2]: http://www.google.com/tools/firefox/browsersync/
  [3]: https://www.passpack.com
  [4]: https://www.clipperz.com
- [5]: /wp-content/uploads/2007/07/passkey_demo.gif
- [6]: /wp-content/uploads/2007/07/passkey_demo.gif "passkey_demo.gif"
+ [5]: /wp-content/uploads/2007/07/passkey_demo.gif)
+ [6]: /wp-content/uploads/2007/07/passkey_demo.gif)
  [7]: /wp-content/uploads/2007/07/clipperz_screenshot.png
  [8]: /wp-content/uploads/2007/07/clipperz_screenshot.png "clipperz_screenshot.png"
  [9]: http://ajaxian.com/archives/clipperz-crypto-library-and-online-password-manager

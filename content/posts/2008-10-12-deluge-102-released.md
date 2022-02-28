@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893262989
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3074/2931191393_d9eb5c92c3.jpg" alt="deluge1.0.2" width="500" height="302" />][1]
+![](http://farm4.static.flickr.com/3074/2931191393_d9eb5c92c3.jpg)
 
 Deluge 1.0.2 is out. This is an important bug fix release for Deluge 1.0.0. Many bug fixes and stability improvements have gone into it.
 

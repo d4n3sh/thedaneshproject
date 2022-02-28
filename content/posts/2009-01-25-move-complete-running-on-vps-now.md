@@ -10,7 +10,7 @@ dsq_thread_id:
   - 998413204
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1185" title="serverfreak-header" src="/wp-content/uploads/2009/01/serverfreak-header.gif" alt="serverfreak-header" width="376" height="112" />
+![](/wp-content/uploads/2009/01/serverfreak-header.gif)
 
 Completed my move to [ServerFreak's VPS][1] this morning.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737244
 
 ---
-<img loading="lazy" src="/techblog/wp-content/uploads/2007/01/skype30thumbnail.png" title="skype" alt="skype" height="100" width="225" />
+![](/techblog/wp-content/uploads/2007/01/skype30thumbnail.png)
 
 I've been having trouble with skype for the past few hours. I can log in to skype, make a call but when I key in my meeting number it does not go through. I keep getting errors saying "no key was entered". The DMTF tones are not going through. Sigh... I had to go back to my land line with no headphones or speaker phone capabilities.
 

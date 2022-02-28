@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891521614
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-629" title="deluge" src="/wp-content/uploads/2008/06/deluge.png" alt="deluge" width="500" height="397" />][1]
+![](/wp-content/uploads/2008/06/deluge.png)
 
 Check is the Deluge package is available.  
 `pandora:~ # zypper se deluge`
@@ -40,4 +40,4 @@ Downloading package deluge-0.5.9.1-0.pm.1.i586 (16/16), 1.9 M (6.6 M unpacked)
 Downloading: deluge-0.5.9.1-0.pm.1.i586.rpm [done (17.1 K/s)]  
 Installing: deluge-0.5.9.1-0.pm.1 [done]
 
- [1]: /wp-content/uploads/2008/06/deluge.png
+ [1]: /wp-content/uploads/2008/06/deluge.png)

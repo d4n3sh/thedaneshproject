@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1007710585
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-996" title="fossmy-logo" src="/wp-content/uploads/2008/10/fossmy-logo.png" alt="" width="243" height="74" />][1]
+![](/wp-content/uploads/2008/10/fossmy-logo.png)
 
 Payment options for FOSS.my 2008 are out.
 
@@ -32,5 +32,5 @@ with your Student ID
 
 Source: [FOSS.my 2008][2]
 
- [1]: /wp-content/uploads/2008/10/fossmy-logo.png
+ [1]: /wp-content/uploads/2008/10/fossmy-logo.png)
  [2]: http://foss.my/register/

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 904915485
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1692" title="PC_Fair_2009_logo(small)" src="/wp-content/uploads/2009/07/PC_Fair_2009_logosmall.jpg" alt="PC_Fair_2009_logo(small)" width="185" height="53" />][1]
+![](/wp-content/uploads/2009/07/PC_Fair_2009_logosmall.jpg)
 
 The PIKOM PC Fair is in town again. Might be dropping by on Saturday to shop for a Mini. Not for me.
 
@@ -70,5 +70,5 @@ The PIKOM PC Fair is in town again. Might be dropping by on Saturday to shop for
 
 Source: [PIKOM][2]
 
- [1]: /wp-content/uploads/2009/07/PC_Fair_2009_logosmall.jpg
+ [1]: /wp-content/uploads/2009/07/PC_Fair_2009_logosmall.jpg)
  [2]: http://pikom.org.my/cms/General.asp?whichfile=PC+Fair+InfoCentre&ProductID=22461&CatID=12

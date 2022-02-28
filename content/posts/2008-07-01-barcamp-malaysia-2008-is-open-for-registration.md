@@ -10,7 +10,7 @@ dsq_thread_id:
   - 934473914
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-641" title="barcamp-banner" src="/wp-content/uploads/2008/07/barcamp-banner.png" alt="barcamp-banner" width="450" height="142" />
+![](/wp-content/uploads/2008/07/barcamp-banner.png)
 
 BarCamp Malaysia 2008 is officially open for registrations. There are 150 seats available for now so make sure to secure a place for yourself. [Register here][1].
 

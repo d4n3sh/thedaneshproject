@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1694942473
 
 ---
-<img loading="lazy" src="http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif" height="112" width="112" />
+![](http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif)
 
 I finally upgraded to WordPress version 2.3.2.
 

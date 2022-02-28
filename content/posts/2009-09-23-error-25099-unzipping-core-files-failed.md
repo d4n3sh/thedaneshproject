@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890078315
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1769" title="error-25099" src="/wp-content/uploads/2009/09/error-25099-500x666.png" alt="error-25099" width="500" height="666" srcset="/wp-content/uploads/2009/09/error-25099-500x666.png 500w, /wp-content/uploads/2009/09/error-25099.png 518w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2009/09/error-25099-500x666.png)
 
 Been getting this error every time I try to update my Java.
 
@@ -22,4 +22,4 @@ Here's the workaround.
 
 3. Run the installer again. Should complete.
 
- [1]: /wp-content/uploads/2009/09/error-25099.png
+ [1]: /wp-content/uploads/2009/09/error-25099.png)

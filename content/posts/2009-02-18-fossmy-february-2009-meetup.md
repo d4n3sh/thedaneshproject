@@ -18,7 +18,7 @@ If your limited processing power is preventing you from running full virtualized
 The talk will cover the basics of setting up and running jailed environments on FreeBSD.
 
 **Presenter;**  
-<img loading="lazy" class="alignnone size-full wp-image-1283" title="khairil-yusof" src="/wp-content/uploads/2009/02/khairil-yusof.jpeg" alt="khairil-yusof" width="200" height="133" /> 
+![](/wp-content/uploads/2009/02/khairil-yusof.jpeg)
 
  [Khairil Yusof][1] from [Inigo Tech][2].
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892324367
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1352" title="streamyx_outage_05april2009" src="/wp-content/uploads/2009/04/streamyx_outage_05april2009-499x324.png" alt="streamyx_outage_05april2009" width="499" height="324" srcset="/wp-content/uploads/2009/04/streamyx_outage_05april2009-499x324.png 499w, /wp-content/uploads/2009/04/streamyx_outage_05april2009.png 734w" sizes="(max-width: 499px) 100vw, 499px" />
+![](/wp-content/uploads/2009/04/streamyx_outage_05april2009-499x324.png)
 
 Bet your Streamyx has been slow the past few days.
 

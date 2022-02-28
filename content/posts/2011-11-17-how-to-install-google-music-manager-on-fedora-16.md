@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889900534
 
 ---
-<img loading="lazy" class="alignnone size-thumbnail wp-image-2323" title="Google-Music-Icon" src="/wp-content/uploads/2011/11/Google-Music-Icon-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2011/11/Google-Music-Icon-150x150.png 150w, /wp-content/uploads/2011/11/Google-Music-Icon.png 256w" sizes="(max-width: 150px) 100vw, 150px" />
+![](/wp-content/uploads/2011/11/Google-Music-Icon-150x150.png)
 
 I've been using Google's Music locker / streaming service for awhile now. You get to upload 20,000 tracks and getting them on is a breeze with Google's Music Manager. I'm running Fedora 16 now and here's I got Google Music Manager running on it.
 

@@ -11,4 +11,4 @@ dsq_thread_id:
 Alan had come up with a few new design for his T's and a whole new page to go with them.
 
 Check them out at;  
-<img loading="lazy" src="http://alanbernard.com/mischief/wp-content/themes/alanx/images/foliage.gif" height="158" width="474" />
+![](http://alanbernard.com/mischief/wp-content/themes/alanx/images/foliage.gif)

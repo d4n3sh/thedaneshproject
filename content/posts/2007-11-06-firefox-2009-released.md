@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1002663263
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Firefox 2.0.0.9 was released today. 2.0.0.9 is a stability release to attention some bugs that surfaced after the recent security update 2.0.0.8. Fixes for this release as quoted from Mozilla below,
 

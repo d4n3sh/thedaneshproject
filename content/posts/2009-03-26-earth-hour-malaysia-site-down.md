@@ -10,7 +10,7 @@ dsq_thread_id:
   - 933678535
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1324" title="earthhour1" src="/wp-content/uploads/2009/03/earthhour1.jpg" alt="earthhour1" width="350" height="342" />
+![](/wp-content/uploads/2009/03/earthhour1.jpg)
 
 The Earth Hour Malaysia portal / website [earthhour.org.my][1] is currently unreachable.
 

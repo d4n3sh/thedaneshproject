@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889791754
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1376" title="0903-p1_ds300_unlocked" src="/wp-content/uploads/2009/04/0903-p1_ds300_unlocked.jpg" alt="0903-p1_ds300_unlocked" width="390" height="364" />
+![](/wp-content/uploads/2009/04/0903-p1_ds300_unlocked.jpg)
 
 For those on P1 W1MAX and not being able to fully utilize your modem, you're in luck!
 
@@ -92,6 +92,6 @@ Source: <http://www.soyacincau.com/><!--more-->
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/posts/p1-w1max-ds300-modem-admin-password-revealed/0903-p1_ds300_unlocked/'><img width="150" height="150" src="/wp-content/uploads/2009/04/0903-p1_ds300_unlocked-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+    <a href='/posts/p1-w1max-ds300-modem-admin-password-revealed/0903-p1_ds300_unlocked/'><img width="150" height="150" src="/wp-content/uploads/2009/04/0903-p1_ds300_unlocked-150x150.jpg)
   </div></figure>
 </div>

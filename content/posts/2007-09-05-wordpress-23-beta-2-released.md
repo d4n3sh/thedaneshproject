@@ -6,7 +6,7 @@ pvc_views:
   - 3045
 
 ---
-<img loading="lazy" src="/wp-content/uploads/2007/02/wp-20-square-button.gif" height="112" width="112" />
+![](/wp-content/uploads/2007/02/wp-20-square-button.gif)
 
 WordPress 2.3 Beta 2 was released yesterday.
 

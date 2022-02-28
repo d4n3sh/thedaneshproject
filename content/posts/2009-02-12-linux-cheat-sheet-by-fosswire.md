@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890888272
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1258" title="unix-linux-command-reference-fosswire" src="/wp-content/uploads/2009/02/unix-linux-command-reference-fosswire.png" alt="unix-linux-command-reference-fosswire" width="460" height="595" />][1]
+![](/wp-content/uploads/2009/02/unix-linux-command-reference-fosswire.png)
 
 Here's a good Linux cheat sheet to get you started in Linux. Thanks to [FOSSwire][2] for coming up with it.
 

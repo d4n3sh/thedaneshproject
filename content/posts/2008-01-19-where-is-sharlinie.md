@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890505129
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2353/2196795357_ffb7fb70d9.jpg?v=0" height="491" width="300" />
+![](http://farm3.static.flickr.com/2353/2196795357_ffb7fb70d9.jpg)
 
 Yet another innocent soul is falls victim to sick perverts. If there were a god, please please spare this innocent soul from being added to the statistics. Please........
 

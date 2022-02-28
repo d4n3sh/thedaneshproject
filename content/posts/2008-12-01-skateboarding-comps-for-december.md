@@ -18,11 +18,11 @@ There are 2 comps scheduled for December. One by VANS and the other by Putrajaya
 
 [VANS KING OF GAP][1]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3208/3074068360_e722f653c2.jpg" alt="VANS KING OF GAP" width="407" height="500" />][2]
+![](http://farm4.static.flickr.com/3208/3074068360_e722f653c2.jpg)
 
 [PutraJaya Extreme Games Challenge][3]
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3166/3073231595_27009c39ab.jpg" alt="PutraJaya Extreme Games Challenge" width="354" height="500" />][4]
+![](http://farm4.static.flickr.com/3166/3073231595_27009c39ab.jpg)
 
 Source: [SkateMalaysia][5]
 

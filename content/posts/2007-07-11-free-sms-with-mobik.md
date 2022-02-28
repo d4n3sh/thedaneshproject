@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890244936
 
 ---
-[<img loading="lazy" src="/wp-content/uploads/2007/07/mobik.jpg" title="mobik.jpg" alt="mobik.jpg" border="0" height="265" width="445" />][1]
+![](/wp-content/uploads/2007/07/mobik.jpg)
 
 What is Mobik?
 
@@ -24,6 +24,6 @@ Sources:
 
 [WingLoon.com][3]
 
- [1]: /wp-content/uploads/2007/07/mobik.jpg "mobik.jpg"
+ [1]: /wp-content/uploads/2007/07/mobik.jpg)
  [2]: http://www.mobik.com
  [3]: http://wingloon.com/2007/07/09/send-unlimited-free-sms-with-mobik/

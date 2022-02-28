@@ -13,7 +13,7 @@ dsq_thread_id:
 The Danesh Project 2D Code. Works well on my e71 running [NeoReader][1].
 
 Go ahead, install [NeoReader][1] and scan the image below. You should be redirected to  .  
-[<img loading="lazy" src="http://farm4.static.flickr.com/3253/2983098939_546853b8d7_o.jpg" alt="The Danesh Project 2D Code" width="144" height="144" />][2]  
+![](http://farm4.static.flickr.com/3253/2983098939_546853b8d7_o.jpg)
 Get yours now!!
 
  [1]: http://www.neoreader.com

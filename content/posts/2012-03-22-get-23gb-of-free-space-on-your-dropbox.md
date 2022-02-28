@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890156808
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-2423" title="DropBox-Logo" src="/wp-content/uploads/2012/03/DropBox-Logo-450x152.png" alt="" width="450" height="152" srcset="/wp-content/uploads/2012/03/DropBox-Logo-450x152.png 450w, /wp-content/uploads/2012/03/DropBox-Logo.png 590w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2012/03/DropBox-Logo-450x152.png)
 
 Here's how to get an extra 23GB added to your DropBox account.
 
@@ -30,7 +30,7 @@ Thanks [theos0o][5] for this great gift. 😀
 
 Source: [XDA-Dev][5] | [Redmond Pie][6]
 
- [1]: /wp-content/uploads/2012/03/DropBox-Logo.png
+ [1]: /wp-content/uploads/2012/03/DropBox-Logo.png)
  [2]: http://api.viglink.com/api/click?format=go&drKey=1359&loc=http%3A%2F%2Fforum.xda-developers.com%2Fshowthread.php%3Ft%3D1551118&v=1&libid=1332408026407&out=http%3A%2F%2Fdl.dropbox.com%2Fu%2F36747826%2Fandroid%2520apps%2FDropbox_23GB_S4_v2_theos0o.apk&ref=http%3A%2F%2Freaditlaterlist.com%2Funread&title=%5BMOD%5D%5BAPP%5DDropbox%2B23GB%20free%20AND%20GooglePlayStoreV3.5.15%20with%20CompatibilitY%20issue%20fixed%20-%20xda-developers&txt=http%3A%2F%2Fdl.dropbox.com%2Fu%2F36747826%2Fand...v2_theos0o.apk&jsonp=vglnk_jsonp_13324084329601
  [3]: http://www.mediafire.com/?15msg5ur36cwe39
  [4]: https://play.google.com/store/apps/details?id=com.dropbox.android

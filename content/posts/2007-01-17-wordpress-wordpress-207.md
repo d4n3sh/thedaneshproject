@@ -8,7 +8,7 @@ dsq_thread_id:
   - 915200329
 
 ---
-<img src="/techblog/wp-content/uploads/2007/01/wp-20-square-button.gif" alt="wp-20-square-button.gif" id="image50" />WordPress 2.0.7 has been realease to address a few security issue that showed up in 2.0.6. Everyone running 2.0.6 or lower are adviced to get this upgrade ASAP.
+![](/techblog/wp-content/uploads/2007/01/wp-20-square-button.gif)
 
 **Change Log**
 

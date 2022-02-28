@@ -8,7 +8,7 @@ dsq_thread_id:
   - 892043007
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-568" title="Fedora 9 \&quot;Sulphur\&quot;" src="/wp-content/uploads/2008/05/f9launch1-500x166.png" alt="Fedora 9 \&quot;Sulphur\&quot;" width="500" height="166" srcset="/wp-content/uploads/2008/05/f9launch1-500x166.png 500w, /wp-content/uploads/2008/05/f9launch1.png 600w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2008/05/f9launch1-500x166.png)
 
 Good news to all [Fedora][2] fans. Fedora 9 codenamed "[Sulphur][3]" is out.
 
@@ -18,7 +18,7 @@ Feel like taking the new Fedora 9 "Sulphur" for a spin? Well, you could grab the
 
 Source: [Fedora Project][6]
 
- [1]: /wp-content/uploads/2008/05/f9launch1.png
+ [1]: /wp-content/uploads/2008/05/f9launch1.png)
  [2]: http://fedoraproject.org/wiki/Overview
  [3]: http://fedoraproject.org/wiki/Releases/Names
  [4]: http://fedoraproject.org/wiki/Releases/9/ReleaseSummary

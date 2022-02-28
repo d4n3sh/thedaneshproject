@@ -8,7 +8,7 @@ dsq_thread_id:
   - 893908093
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1885" title="Google Public DNS" src="/wp-content/uploads/2009/12/Google-Public-DNS-449x140.png" alt="Google Public DNS" width="449" height="140" srcset="/wp-content/uploads/2009/12/Google-Public-DNS-449x140.png 449w, /wp-content/uploads/2009/12/Google-Public-DNS.png 786w" sizes="(max-width: 449px) 100vw, 449px" />][1]
+![](/wp-content/uploads/2009/12/Google-Public-DNS-449x140.png)
 
 Google today introduced their latest offering. "Google Public DNS".
 
@@ -29,7 +29,7 @@ Talk about Google taking over the world. At first they only knew what you were 
 
 Source: [Google Public DNS][6] | [Blog@Google Code][7]
 
- [1]: /wp-content/uploads/2009/12/Google-Public-DNS.png
+ [1]: /wp-content/uploads/2009/12/Google-Public-DNS.png)
  [2]: http://www.opendns.com/
  [3]: http://www.manu-j.com/blog/opendns-alternative-google-dns-rocks/403/
  [4]: http://code.google.com/speed/public-dns/docs/using.html

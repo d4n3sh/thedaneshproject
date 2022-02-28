@@ -10,7 +10,7 @@ dsq_thread_id:
   - 895963435
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1663" title="launchpad-logo-and-name" src="/wp-content/uploads/2009/07/launchpad-logo-and-name.png" alt="launchpad-logo-and-name" width="246" height="53" />][1]
+![](/wp-content/uploads/2009/07/launchpad-logo-and-name.png)
 
 This surely comes as good news to all Ubuntu fans out there. [Canonical][2] today made Launchpad open source under the GPLv3 license. [As promised][3].
 
@@ -26,7 +26,7 @@ Follow the Launchpad community on IRC in channel [#launchpad-dev][6] on irc.free
 
 Source: [Canonical][2] | [Ubuntu][8]
 
- [1]: /wp-content/uploads/2009/07/launchpad-logo-and-name.png
+ [1]: /wp-content/uploads/2009/07/launchpad-logo-and-name.png)
  [2]: http://blog.canonical.com/?p=192
  [3]: http://arstechnica.com/open-source/news/2008/07/mark-shuttleworth-launchpad-to-be-open-source-in-12-months.ars
  [4]: https://help.launchpad.net/Packaging/PPA

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 928373222
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3067/2889678430_ef486ea030.jpg" alt="Election-2008-on-Twitter" width="500" height="254" />][1]
+![](http://farm4.static.flickr.com/3067/2889678430_ef486ea030.jpg)
 
 Now you have one source of all your 2008 presidential election twits.
 

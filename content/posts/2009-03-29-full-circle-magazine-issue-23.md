@@ -10,7 +10,7 @@ dsq_thread_id:
   - 900698335
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1339" title="issue23_en" src="/wp-content/uploads/2009/03/issue23_en.png" alt="issue23_en" width="424" height="300" />
+![](/wp-content/uploads/2009/03/issue23_en.png)
 
 Full Circle Magazine Issue 23 is out.
 

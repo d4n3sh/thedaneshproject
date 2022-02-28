@@ -6,7 +6,7 @@ pvc_views:
   - 2326
 
 ---
-[<img src="http://static.flickr.com/2196/2343608692_54d9889e91_m.jpg" alt="sled_10" border="0" />][1][<img src="http://static.flickr.com/2204/2342780663_fceddae949_m.jpg" alt="hp-logo" border="0" />][2]
+![](http://static.flickr.com/2204/2342780663_fceddae949_m.jpg)
 
 HP is planning to roll out a few of it's Notebooks and Desktops preloaded with Novell's Enterprise Desktop 10 (SLED10). Dell had the head start with it's offering of machines preloaded with Ubuntu and recently also preloaded with SLED10.
 

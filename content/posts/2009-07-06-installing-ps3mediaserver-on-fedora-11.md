@@ -30,8 +30,8 @@ PS3mediaserver is Java based and getting it set-up is a breeze. Here's how,
 
 That's it, turn on your ps3 and start enjoying your new media server.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-1597" title="Screenshot-Java PS3 Media Server v1.10.5" src="/wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5-499x365.png" alt="Screenshot-Java PS3 Media Server v1.10.5" width="499" height="365" srcset="/wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5-499x365.png 499w, /wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5.png 994w" sizes="(max-width: 499px) 100vw, 499px" />][3]
+![](/wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5-499x365.png)
 
  [1]: http://code.google.com/p/ps3mediaserver/
  [2]: http://code.google.com/p/ps3mediaserver/downloads/list
- [3]: /wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5.png
+ [3]: /wp-content/uploads/2009/07/Screenshot-Java-PS3-Media-Server-v1.10.5.png)

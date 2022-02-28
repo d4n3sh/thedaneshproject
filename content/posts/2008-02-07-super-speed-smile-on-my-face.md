@@ -12,14 +12,14 @@ I'm working late tonight. Been in the office since morning and I desperately nee
 
 Thought I'll share this picture with you since it's the only thing keeping me motivated to work late nowadays. Speed = smile on Danny's face. 😀
 
-[<img src="http://img135.imageshack.us/img135/5156/delugespeedssn2.jpg" border="0" />][1]
+![](http://img135.imageshack.us/img135/5156/delugespeedssn2.jpg)
 
 Update: 12:52am
 
 Just crashed my Netgear WGR614 router with the new speed 🙂
 
-<img loading="lazy" src="http://img292.imageshack.us/img292/6465/delugespeedncp0.jpg" border="0" height="186" width="450" /> 
+![](http://img292.imageshack.us/img292/6465/delugespeedncp0.jpg)
 
 Streamyx!! This is what happens when you deprive us of bandwidth.
 
- [1]: http://img135.imageshack.us/img135/1403/delugespeedyc1.jpg
+ [1]: http://img135.imageshack.us/img135/1403/delugespeedyc1.jpg)

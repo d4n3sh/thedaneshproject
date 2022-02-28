@@ -8,7 +8,7 @@ pvc_views:
   - 2450
 
 ---
-<img style="max-width: 800px;" src="/wp-content/uploads/2008/08/posonline.jpg" alt="" width="500" />
+![](/wp-content/uploads/2008/08/posonline.jpg)
 
 Pos Malaysia has the solution. You are now able to cash our your fuel [rebate][1] online through their online portal. [posonline][2]
 

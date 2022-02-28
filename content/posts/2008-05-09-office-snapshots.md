@@ -8,7 +8,7 @@ dsq_thread_id:
   - 904196426
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-543" title="Googleplex" src="/wp-content/uploads/2008/05/gp5-500x357.jpg" alt="Googleplex" width="500" height="357" srcset="/wp-content/uploads/2008/05/gp5-500x357.jpg 500w, /wp-content/uploads/2008/05/gp5.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2008/05/gp5-500x357.jpg)
 
 That's the famous Googleplex. A place many dream to work at.
 
@@ -20,5 +20,5 @@ If you need a glimpse of what these offices look like, [Office Snapshots][2] has
 
 Trust me, after looking at them. What we have in Malaysia feels like a factory. Seriously.
 
- [1]: /wp-content/uploads/2008/05/gp5.jpg
+ [1]: /wp-content/uploads/2008/05/gp5.jpg)
  [2]: http://www.officesnapshots.com

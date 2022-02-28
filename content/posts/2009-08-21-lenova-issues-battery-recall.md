@@ -10,7 +10,7 @@ dsq_thread_id:
   - 894003941
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1725" title="lt_lenovo_thinkpad_dead-battery" src="/wp-content/uploads/2009/08/lt_lenovo_thinkpad_dead-battery.jpg" alt="lt_lenovo_thinkpad_dead-battery" width="480" height="310" />][1]
+![](/wp-content/uploads/2009/08/lt_lenovo_thinkpad_dead-battery.jpg)
 
 Almost all corporate users today use notebooks at work. The "Lenovo ThinkPad" is a favorite choice. Why? I don't know. I at my work place we are all on Lenovo ThinkPads.
 
@@ -20,7 +20,7 @@ To check if your battery falls into the bad battery list, head on over to Lenovo
 
 Source: [LowYat][4]
 
- [1]: /wp-content/uploads/2009/08/lt_lenovo_thinkpad_dead-battery.jpg
+ [1]: /wp-content/uploads/2009/08/lt_lenovo_thinkpad_dead-battery.jpg)
  [2]: http://download.lenovo.com/lenovo/content/batt/082009/LandingPage.html?lang=en
  [3]: http://download.lenovo.com/lenovo/content/batt/LenovoBatteryDiagnosticTool.exe
  [4]: http://www.lowyat.net/v2/home/index.php

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1219828303
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Mozilla has release a new version of the popular Firefox web browser. Version 2.0.0.12.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 939161567
 
 ---
-<img class="alignnone size-full wp-image-1344" title="mozilla-firefox-308-release-notes_123846379261/wp-admin/post-new.php#0" src="/wp-content/uploads/2009/03/mozilla-firefox-308-release-notes_1238463792610.png" alt="mozilla-firefox-308-release-notes_123846379261/wp-admin/post-new.php#0" width="500" />
+![](/wp-content/uploads/2009/03/mozilla-firefox-308-release-notes_1238463792610.png)
 
 Mozilla has released a new version for Firefox. Version 3.0.8.
 

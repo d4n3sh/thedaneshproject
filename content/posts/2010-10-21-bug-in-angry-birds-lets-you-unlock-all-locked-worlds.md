@@ -8,7 +8,7 @@ dsq_thread_id:
   - 892667752
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2212" title="angrybirds-450x235" src="/wp-content/uploads/2010/10/angrybirds-450x2351.jpg" alt="" width="450" height="235" />
+![](/wp-content/uploads/2010/10/angrybirds-450x2351.jpg)
 
 The guys behind Angry Birds for Android decided to include a small easter egg / trick that unlocked all the locked worlds.
 

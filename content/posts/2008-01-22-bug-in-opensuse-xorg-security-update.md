@@ -36,7 +36,7 @@ EndSection
 
 3. Download and install the Beta fix xorg-server [7.2-143.10] from Novell from here. This one worked best for me.
 
-<img loading="lazy" src="http://farm3.static.flickr.com/2085/2211346047_76d47bd0f3.jpg" height="269" width="450" /> 
+![](http://farm3.static.flickr.com/2085/2211346047_76d47bd0f3.jpg)
 
 Source: [Novell Bugzilla][1] SUSE Beta
 

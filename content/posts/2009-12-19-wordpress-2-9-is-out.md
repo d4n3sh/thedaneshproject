@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1112557855
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="" width="125" height="125" />
+![](/wp-content/uploads/2008/08/wordpresslogo.jpg)
 
 Just finished updating to WordPress 2.6 today. Here's a few features which caught my extension.
 

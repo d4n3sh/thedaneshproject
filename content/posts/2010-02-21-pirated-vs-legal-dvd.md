@@ -16,4 +16,4 @@ Which do you prefer?
 
 The pic below speaks for itself.
 
-<img loading="lazy" class="alignnone size-medium wp-image-2000" title="pirated.DVD" src="/wp-content/uploads/2010/02/pirated.DVD_-450x464.jpg" alt="" width="450" height="464" srcset="/wp-content/uploads/2010/02/pirated.DVD_-450x464.jpg 450w, /wp-content/uploads/2010/02/pirated.DVD_.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/02/pirated.DVD_-450x464.jpg)

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 893887521
 
 ---
-[<img src="http://img246.imageshack.us/img246/7597/2194883053452247df25oscb8.jpg" border="0" />][1]
+![](http://img246.imageshack.us/img246/7597/2194883053452247df25oscb8.jpg)
 
 Get Mooving Movable Art 2008 will be held at Palate Pallete, Bukit Bintang, Kuala Lumpur on the 2nd of March .
 
@@ -27,6 +27,6 @@ For more info visit http://afm.vox.com/
 
 Source: [Delirium][3]
 
- [1]: http://img172.imageshack.us/img172/1720/2194883053452247df25ohl9.jpg
+ [1]: http://img172.imageshack.us/img172/1720/2194883053452247df25ohl9.jpg)
  [2]: http://alanbernard.com/mayhem/blog/get-moooving-movable-art-2008/
  [3]: http://www.abinesh.com/delirium/posts/alanbernardcom/

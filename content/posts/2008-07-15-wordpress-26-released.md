@@ -18,7 +18,7 @@ WordPress 2. 6 (Tyner) is out with some new improvements.
 
 2. Google Gears :: My fav, you get a local cache for your WordPress. Speedier access and the possibility of new and better feature moving forward.
 
-<figure id="attachment_675" aria-describedby="caption-attachment-675" style="width: 492px" class="wp-caption alignnone">[<img loading="lazy" src="/wp-content/uploads/2008/07/wp26-gears.png" alt="WordPress 2.6 with Google Gears" title="wp26-gears" width="492" height="337" class="size-medium wp-image-675" />][1]<figcaption id="caption-attachment-675" class="wp-caption-text">WordPress 2.6 with Google Gears</figcaption></figure>
+<figure id="attachment_675" aria-describedby="caption-attachment-675" style="width: 492px" class="wp-caption alignnone">[<img loading="lazy" src="/wp-content/uploads/2008/07/wp26-gears.png)
 
 3. Theme Previews :: Now you get to preview your theme without enabling it.  
 <!--more-->
@@ -48,7 +48,7 @@ Those were the major additions, now for the smaller stuff.
 
 Source: [WordPress][9]
 
- [1]: /wp-content/uploads/2008/07/wp26-gears.png
+ [1]: /wp-content/uploads/2008/07/wp26-gears.png)
  [2]: http://politicalticker.blogs.cnn.com/
  [3]: http://en.wikipedia.org/wiki/Secure_Sockets_Layer
  [4]: http://trac.wordpress.org/query?status=closed&milestone=2.6

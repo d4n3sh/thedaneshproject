@@ -30,8 +30,8 @@ For 64 bit
 
 Done!!
 
-[<img class="alignnone" src="http://farm4.static.flickr.com/3006/2803064334_a402a17595_o.png" alt="" width="500" />][3]
+![](http://farm4.static.flickr.com/3006/2803064334_a402a17595_o.png)
 
  [1]: http://earth.google.com/
  [2]: http://www.google.com/linuxrepositories/index.html
- [3]: http://farm4.static.flickr.com/3006/2803064334_a402a17595_o.png
+ [3]: http://farm4.static.flickr.com/3006/2803064334_a402a17595_o.png)

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 897163289
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1745" title="windows-7-logo" src="/wp-content/uploads/2009/09/windows-7-logo.jpg" alt="windows-7-logo" width="180" height="149" />][1]
+![](/wp-content/uploads/2009/09/windows-7-logo.jpg)
 
 Wanna take Windows 7 for a spin?
 
@@ -22,5 +22,5 @@ Download it, try it and tell me what ya think?
 
 The ISO is 2.24GB so it's gonna take some time to download.
 
- [1]: /wp-content/uploads/2009/09/windows-7-logo.jpg
+ [1]: /wp-content/uploads/2009/09/windows-7-logo.jpg)
  [2]: http://technet.microsoft.com/en-us/evalcenter/cc442495.aspx?ITPID=sprblog

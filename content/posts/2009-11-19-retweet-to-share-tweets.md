@@ -8,11 +8,11 @@ dsq_thread_id:
   - 1022984735
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1870" title="twitter-rt" src="/wp-content/uploads/2009/11/twitter-rt-450x145.png" alt="twitter-rt" width="450" height="145" srcset="/wp-content/uploads/2009/11/twitter-rt-450x145.png 450w, /wp-content/uploads/2009/11/twitter-rt.png 782w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/11/twitter-rt-450x145.png)
 
 Looks like I'm gonna be testing  Twitter's new "Retweet" feature. Received the above when I logged in to Twitter today.
 
 Source: [Blog @ Twitter][2]
 
- [1]: /wp-content/uploads/2009/11/twitter-rt.png
+ [1]: /wp-content/uploads/2009/11/twitter-rt.png)
  [2]: http://blog.twitter.com/2009/08/project-retweet-phase-one.html

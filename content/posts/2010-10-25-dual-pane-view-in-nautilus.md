@@ -12,6 +12,6 @@ The Gnome file manager Nautilus  has a cool dual pane view which makes moving/c
 
 KDE does it slightly different. when you right click on a file you are be able to move/copy files to any location on the system . It also remembers you recently use destinations to save you time on your next move/copy.
 
-<img loading="lazy" class="alignnone size-medium wp-image-2216" title="Nautilus-Dual-Pane" src="/wp-content/uploads/2010/10/Nautilus-Dual-Pane-450x332.png" alt="" width="450" height="332" srcset="/wp-content/uploads/2010/10/Nautilus-Dual-Pane-450x332.png 450w, /wp-content/uploads/2010/10/Nautilus-Dual-Pane.png 921w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/10/Nautilus-Dual-Pane-450x332.png)
 
-<img loading="lazy" class="alignnone size-full wp-image-2217" title="Nautilus-Dual-Pane-Menu" src="/wp-content/uploads/2010/10/Nautilus-Dual-Pane-Menu.png" alt="" width="312" height="294" />
+![](/wp-content/uploads/2010/10/Nautilus-Dual-Pane-Menu.png)

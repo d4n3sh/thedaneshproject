@@ -8,7 +8,7 @@ dsq_thread_id:
   - 890054577
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-514" title="ImageShack Torrent Service" src="/wp-content/uploads/2008/04/2411002202_301166be4f1.jpg" alt="ImageShack Torrent Service" width="500" height="349" srcset="/wp-content/uploads/2008/04/2411002202_301166be4f1.jpg 500w, /wp-content/uploads/2008/04/2411002202_301166be4f1-300x209.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2008/04/2411002202_301166be4f1.jpg)
 
 Tired of being throttled by your ISP? Here's some hope,
 
@@ -26,7 +26,7 @@ It's not a new idea but what's cool is ImageShack is providing the service for f
 
 I tried it yesterday with a few torrents. The speed was way better then what I normally got at home. The completed files also downloaded at pretty decent speeds. Bye bye ISP throttling.
 
-<img loading="lazy" class="alignnone size-full wp-image-515" title="ImageShack Torrent Service" src="/wp-content/uploads/2008/04/2417764783_bd2d69d44d1.jpg" alt="ImageShack Torrent Service" width="500" height="479" srcset="/wp-content/uploads/2008/04/2417764783_bd2d69d44d1.jpg 500w, /wp-content/uploads/2008/04/2417764783_bd2d69d44d1-300x287.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> 
+![](/wp-content/uploads/2008/04/2417764783_bd2d69d44d1.jpg)
 
 It's a good service so make sure to give it a spin. It's still in Beta so you can expect more in the future. Tell me what you think.
 

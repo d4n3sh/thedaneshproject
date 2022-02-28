@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1936809342
 
 ---
-<img loading="lazy" src="/wp-content/uploads/2007/02/wp-20-square-button.gif" height="112" width="112" />
+![](/wp-content/uploads/2007/02/wp-20-square-button.gif)
 
 WordPress 2.3 Beta 3 released a few hours ago. This will be the final beta before the first release candidate is released next Monday 17th September 2007.
 

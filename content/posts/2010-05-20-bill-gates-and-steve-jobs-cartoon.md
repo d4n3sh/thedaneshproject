@@ -10,9 +10,9 @@ dsq_thread_id:
 ---
 Bill and Steve, what else would they talk about?
 
-<img loading="lazy" class="alignnone size-medium wp-image-2130" title="bill-and-steve-1" src="/wp-content/uploads/2010/05/bill-and-steve-1-450x846.jpg" alt="" width="450" height="846" srcset="/wp-content/uploads/2010/05/bill-and-steve-1-450x846.jpg 450w, /wp-content/uploads/2010/05/bill-and-steve-1.jpg 466w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/05/bill-and-steve-1-450x846.jpg)
 
-<img loading="lazy" class="alignnone size-medium wp-image-2131" title="bill-and-steve-2" src="/wp-content/uploads/2010/05/bill-and-steve-2-450x846.jpg" alt="" width="450" height="846" srcset="/wp-content/uploads/2010/05/bill-and-steve-2-450x846.jpg 450w, /wp-content/uploads/2010/05/bill-and-steve-2.jpg 466w" sizes="(max-width: 450px) 100vw, 450px" /> 
+![](/wp-content/uploads/2010/05/bill-and-steve-2-450x846.jpg)
 
 via [Geekologie][1]
 

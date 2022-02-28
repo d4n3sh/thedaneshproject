@@ -8,7 +8,7 @@ dsq_thread_id:
   - 894329705
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1907" title="mac-studio-launch-19dec2009" src="/wp-content/uploads/2009/12/mac-studio-launch-19dec2009-450x293.png" alt="mac-studio-launch-19dec2009" width="450" height="293" srcset="/wp-content/uploads/2009/12/mac-studio-launch-19dec2009-450x293.png 450w, /wp-content/uploads/2009/12/mac-studio-launch-19dec2009-1024x667.png 1024w, /wp-content/uploads/2009/12/mac-studio-launch-19dec2009.png 1030w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/12/mac-studio-launch-19dec2009-450x293.png)
 
 There's a new Mac Studio opening up in Bangsar Village and the grand opening's tomorrow. The first 100 guest to show up stand to get an iPod Nano.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891190488
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2135" title="htc_desire_2" src="/wp-content/uploads/2010/05/htc_desire_2.jpg" alt="" width="316" height="500" />
+![](/wp-content/uploads/2010/05/htc_desire_2.jpg)
 
 Finally, HTC's Desire is coming to Malaysia. It's scheduled to be released on the 27th May 2010. The official telco will be [Maxis][1].
 

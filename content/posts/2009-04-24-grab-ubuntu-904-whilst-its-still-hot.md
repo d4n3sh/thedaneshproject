@@ -10,7 +10,7 @@ dsq_thread_id:
   - 923009422
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1415" title="ubuntulogo" src="/wp-content/uploads/2009/04/ubuntulogo-500x130.png" alt="ubuntulogo" width="500" height="130" srcset="/wp-content/uploads/2009/04/ubuntulogo-500x130.png 500w, /wp-content/uploads/2009/04/ubuntulogo-1024x266.png 1024w, /wp-content/uploads/2009/04/ubuntulogo.png 1501w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/04/ubuntulogo-500x130.png)
 
 Bet you already know that Ubuntu 9.04 got released today. If you didn't,then [go here][1].
 

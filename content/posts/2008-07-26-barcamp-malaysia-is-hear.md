@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1075595710
 
 ---
-<img loading="lazy" class="alignnone" src="/wp-content/uploads/2008/07/barcamp-banner.png" alt="" width="450" height="142" />
+![](/wp-content/uploads/2008/07/barcamp-banner.png)
 
 BarCamp's in a few hours. It's gonna be my first. The Google Android session is what I'm going for first.
 

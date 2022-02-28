@@ -8,7 +8,7 @@ dsq_thread_id:
   - 927150877
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1874" title="chromeos-hard" src="/wp-content/uploads/2009/11/chromeos-hard-450x304.jpg" alt="chromeos-hard" width="450" height="304" srcset="/wp-content/uploads/2009/11/chromeos-hard-450x304.jpg 450w, /wp-content/uploads/2009/11/chromeos-hard.jpg 543w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/11/chromeos-hard-450x304.jpg)
 
 <!--more-->What is Google Chrome OS?
 
@@ -26,6 +26,6 @@ Reality check though, they might just be taking over the world!!
 
 Source: [mattcutts][3]
 
- [1]: /wp-content/uploads/2009/11/chromeos-hard.jpg
+ [1]: /wp-content/uploads/2009/11/chromeos-hard.jpg)
  [2]: http://www.google.com/intl/en/press/annc/20091119_chrome_os_webcast.html
  [3]: http://www.mattcutts.com/blog/google-chrome-os/

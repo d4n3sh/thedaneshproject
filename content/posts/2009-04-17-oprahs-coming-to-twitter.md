@@ -10,7 +10,7 @@ dsq_thread_id:
   - 924728039
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1396" title="oprah-winfrey-oprah-on-twitter_1239961003941" src="/wp-content/uploads/2009/04/oprah-winfrey-oprah-on-twitter_1239961003941-500x262.png" alt="oprah-winfrey-oprah-on-twitter_1239961003941" width="500" height="262" srcset="/wp-content/uploads/2009/04/oprah-winfrey-oprah-on-twitter_1239961003941-500x262.png 500w, /wp-content/uploads/2009/04/oprah-winfrey-oprah-on-twitter_1239961003941.png 1024w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/04/oprah-winfrey-oprah-on-twitter_1239961003941-500x262.png)
 
 Twitter's gonna be overwhelmed by traffic today. Oprah's coming to Twitter!!
 

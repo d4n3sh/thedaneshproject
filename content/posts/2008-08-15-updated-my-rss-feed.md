@@ -10,7 +10,7 @@ dsq_thread_id:
   - 910674424
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-787" title="rss_icon" src="/wp-content/uploads/2008/08/rss_icon.jpg" alt="" width="403" height="366" />][1]
+![](/wp-content/uploads/2008/08/rss_icon.jpg)
 
 Please be informed that my RSS feed has changed. The feed's now available at <http://feedproxy.google.com/TheDaneshProjectFeed>
 

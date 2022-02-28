@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891148093
 
 ---
-<img loading="lazy" src="http://modblog.bmezine.com/wp-content/uploads/200702111004-pix1.jpg" height="500" width="600" />
+![](http://modblog.bmezine.com/wp-content/uploads/200702111004-pix1.jpg)
 
 Skin provided by _[Cale][1]_ and inked by Rain at Alternative Arts in Denver, CO.
 

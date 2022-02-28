@@ -8,7 +8,7 @@ pvc_views:
   - 5262
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1626" title="Gmail out of beta" src="/wp-content/uploads/2009/07/Gmail-out-of-beta.png" alt="Gmail out of beta" width="320" height="168" />][1]
+![](/wp-content/uploads/2009/07/Gmail-out-of-beta.png)
 
 Google's finally out of BETA. Yup, no more "BETA" in the their logos.
 
@@ -26,4 +26,4 @@ Question;
 
 Was this done to combat the bad global economy? I don't know, what ya think?
 
- [1]: /wp-content/uploads/2009/07/Gmail-out-of-beta.png
+ [1]: /wp-content/uploads/2009/07/Gmail-out-of-beta.png)

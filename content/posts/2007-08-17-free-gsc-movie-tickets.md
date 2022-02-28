@@ -16,9 +16,9 @@ Please note that the promotion is only valid for movies marked with an asterisk(
 
 [See the list of (*) movies here.][1]
 
-[<img src="/wp-content/uploads/2007/08/gsc-promotion.jpg" title="GSC coupon" alt="GSC coupon" width="400" />][2]
+![](/wp-content/uploads/2007/08/gsc-promotion.jpg)
 
 I planning to catch all 3 movies over the weekend with my sister since it will only cost me RM30. **Ratatouille**, **Disturbia** and **Rush Hour 3**
 
  [1]: http://www.gsc.com.my/RD/offers2.asp?search=funbreak07
- [2]: /wp-content/uploads/2007/08/gsc-promotion.jpg "GSC coupon"
+ [2]: /wp-content/uploads/2007/08/gsc-promotion.jpg)

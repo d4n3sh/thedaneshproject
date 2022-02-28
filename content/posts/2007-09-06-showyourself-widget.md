@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1004937745
 
 ---
-![showyourself_v11.png][1]
+![showyourself_v11.png)
 
 ShowYourself is a widget for for websites that displays all the web 2.0 sites or any social networks you belong to. For example Friendster, MySpace, YouTube, etc.....
 
@@ -20,13 +20,13 @@ Generate your own ShowYourself widget using the simple template and copy the res
 
 Screenshot of the widget available on the next page. <!--more-->
 
-[<img src="/wp-content/uploads/2007/09/showyourself.png" title="showyourself.png" alt="showyourself.png" border="0" width="400" />][4]
+![](/wp-content/uploads/2007/09/showyourself.png)
 
 Comments about the widget?
 
 Source : [ShowYourself][3]
 
- [1]: /wp-content/uploads/2007/09/showyourself_v11.png
+ [1]: /wp-content/uploads/2007/09/showyourself_v11.png)
  [2]: http://wink.com
  [3]: http://www.dbachrach.com/showyourself/
- [4]: /wp-content/uploads/2007/09/showyourself.png
+ [4]: /wp-content/uploads/2007/09/showyourself.png)

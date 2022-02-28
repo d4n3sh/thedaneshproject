@@ -8,7 +8,7 @@ dsq_thread_id:
   - 966547258
 
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2280/2504751549_fbbf0a5b43.jpg" alt="friend_connect_illustration" width="499" height="500" />][1]
+![](http://farm3.static.flickr.com/2280/2504751549_fbbf0a5b43.jpg)
 
 Google joins the Social Network boom by introducing it's latest work, [Google Friend Connect][2]. The basic idea behind the new service is to socialize any website looking to be socialized.
 

@@ -8,11 +8,11 @@ dsq_thread_id:
   - 980544989
 
 ---
-[<img border="0" src="http://static.flickr.com/2379/2345397694_c6c319bef1_m.jpg" alt="Firefox bites IE" />][1]
+![](http://static.flickr.com/2379/2345397694_c6c319bef1_m.jpg)
 
 Firefox 3 Beta 4 is out and it's beating Microsoft's IE7 in the memory consumption arena.
 
-As browsers improve so do their hunger for memory but to what limit is the question. The competition will eventually boil down to which browser uses the least amount of memory to accomplish the general requirements of a browser. Currently Firefox 3 has managed to beat Firefox 2 and IE7 by working around the 100MB mark after loading and unloading 30 random web pages. The graph below will speak for itself, at peak (30 pages) IE7 was consuming around 500MB while Firefox 2 hovered around 280MB and Firefox 3 steadily working around 200MB. [<img border="0" src="http://static.flickr.com/2130/2344570169_1db87c2cd2.jpg" alt="Firefox memory consumption graph" />][2]
+As browsers improve so do their hunger for memory but to what limit is the question. The competition will eventually boil down to which browser uses the least amount of memory to accomplish the general requirements of a browser. Currently Firefox 3 has managed to beat Firefox 2 and IE7 by working around the 100MB mark after loading and unloading 30 random web pages. The graph below will speak for itself, at peak (30 pages) IE7 was consuming around 500MB while Firefox 2 hovered around 280MB and Firefox 3 steadily working around 200MB. [<img border="0" src="http://static.flickr.com/2130/2344570169_1db87c2cd2.jpg)
 
 IE8 is said to attention the memory issue but till then it's looks like the road is clear for Firefox 3.
 

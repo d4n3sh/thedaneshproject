@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Wal-Mart have decided to drop the "Green gPC" Linux based low cost desktops from it's stores. However the gPC will still be available through [walmart.com][1]
 
-<img src="/wp-content/uploads/2008/03/01computer190.jpg" alt="gPC" align="right" /> 
+![](/wp-content/uploads/2008/03/01computer190.jpg)
 
 "_This really wasn't what our customers were looking for_," said Wal-Mart Stores Inc. spokeswoman Melissa O'Brien.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 4658381442
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-781" title="WordPress" src="/wp-content/uploads/2008/08/wordpresslogo.jpg" alt="WordPress" width="125" height="125" />
+![](/wp-content/uploads/2008/08/wordpresslogo.jpg)
 
 WordPress 2.7.1 is out. The release comes with [68 fixes][1].
 

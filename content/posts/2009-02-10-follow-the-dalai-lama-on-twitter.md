@@ -10,7 +10,7 @@ dsq_thread_id:
   - 922467068
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1248" title="dalailama" src="/wp-content/uploads/2009/02/dalailama.jpg" alt="dalailama" width="204" height="320" />
+![](/wp-content/uploads/2009/02/dalailama.jpg)
 
 You can now follow "His Holiness, The 14th Dalai Lama Of Tibet" on twitter.
 

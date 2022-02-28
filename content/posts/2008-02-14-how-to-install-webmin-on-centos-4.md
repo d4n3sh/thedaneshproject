@@ -51,8 +51,8 @@ That's it, you can now login using your _**root**_ id at https://localhost:10000
 
 <!--more-->
 
-[<img src="http://img89.imageshack.us/img89/4585/webmin1sgb5.png" border="0" />][3]
+![](http://img89.imageshack.us/img89/4585/webmin1sgb5.png)
 
  [1]: http://www.webmin.com/index.html
  [2]: http://www.webmin.com/download.html
- [3]: http://img89.imageshack.us/img89/9980/webmin1bb9.png
+ [3]: http://img89.imageshack.us/img89/9980/webmin1bb9.png)

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737076
 
 ---
-<img loading="lazy" src="http://img230.imageshack.us/img230/4551/firefoxlogopi9.png" height="192" width="192" />
+![](http://img230.imageshack.us/img230/4551/firefoxlogopi9.png)
 
 Firefox 2.0.0.8 has been released. 2.0.0.8 is a security patch so make sure your firefox browser is up2date.
 

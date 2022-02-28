@@ -10,9 +10,9 @@ dsq_thread_id:
   - 896915942
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-660" title="Deluge BitTorrent Client 0.5.9.3" src="/wp-content/uploads/2008/07/deluge-0593-500x295.png" alt="Deluge BitTorrent Client 0.5.9.3" width="500" height="295" srcset="/wp-content/uploads/2008/07/deluge-0593-500x295.png 500w, /wp-content/uploads/2008/07/deluge-0593.png 1017w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2008/07/deluge-0593-500x295.png)
 
 Deluge BitTorrent Client 0.5.9.3 is out. Get it [here][2] or if you're in openSUSE simply run " `zypper up deluge` " , " `zypper in deluge` ".
 
- [1]: /wp-content/uploads/2008/07/deluge-0593.png
+ [1]: /wp-content/uploads/2008/07/deluge-0593.png)
  [2]: http://deluge-torrent.org/downloads.php

@@ -2,13 +2,10 @@
 title: Google Chrome extensions crashing in Fedora 15
 author: Danesh Manoharan
 date: 2011-05-30T03:43:53+00:00
-pvc_views:
-  - 5917
-dsq_thread_id:
-  - 899000758
-
+tags:
+- linux
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-2271" title="chrome-error-f15" src="/wp-content/uploads/2011/05/chrome-error-f15-450x106.png" alt="" width="450" height="106" srcset="/wp-content/uploads/2011/05/chrome-error-f15-450x106.png 450w, /wp-content/uploads/2011/05/chrome-error-f15.png 767w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2011/05/chrome-error-f15-450x106.png)
 
 Many have been complaining of their chrome extensions crashing in Fedora 15. In my case it was LastPass and Xmarks.
 

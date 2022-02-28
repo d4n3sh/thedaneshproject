@@ -10,7 +10,7 @@ dsq_thread_id:
   - 894698778
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1148" title="gscrot064" src="/wp-content/uploads/2009/01/gscrot064-500x400.png" alt="gscrot064" width="500" height="400" srcset="/wp-content/uploads/2009/01/gscrot064-500x400.png 500w, /wp-content/uploads/2009/01/gscrot064.png 669w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/01/gscrot064-500x400.png)
 
 Update [Â  Feb 16 2009 ] - [GScrot has been renamed to Shutter][1].
 

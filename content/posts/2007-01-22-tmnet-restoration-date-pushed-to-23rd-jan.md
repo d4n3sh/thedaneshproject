@@ -8,7 +8,7 @@ dsq_thread_id:
   - 908261333
 
 ---
-<img align="left" alt="tmnet-logo.png" id="image60" title="tmnet-logo.png" src="/techblog/wp-content/uploads/2007/01/tmnet-logo.png" />Not the 20th but the 23rd now. Tmnet made an announcement stating that due to bad wheather the restoration work is taking longer to cmplete. The new date for full restoration is now said to be the 23rd of Jan which is tomorrow. Let's wait and see....
+![](/techblog/wp-content/uploads/2007/01/tmnet-logo.png)
 
 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify">
   <span style="font-size: 10pt; font-family: Verdana">"Telekom Malaysia Berhad (TM) would like to announce that its Internet services, which are experiencing some degradation in performance due to the international link outage caused by the earthquake off Taiwan on December 26<sup>th</sup>, 2006, has already recovered more than 80 per cent bandwidth capacity for its Internet traffic to-date. </span>

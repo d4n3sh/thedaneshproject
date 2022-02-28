@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890839428
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1519" title="BFM-car-sticker" src="/wp-content/uploads/2009/06/BFM-car-sticker.jpg" alt="BFM-car-sticker" width="362" height="109" />][1]
+![](/wp-content/uploads/2009/06/BFM-car-sticker.jpg)
 
 Need a new bumber sticker? BFM has a cool one out which says "BRIBE-FREE MALAYSIAN".
 
@@ -26,7 +26,7 @@ Source: [Abinesh][5]
   </h1>
 </div>
 
- [1]: /wp-content/uploads/2009/06/BFM-car-sticker.jpg
+ [1]: /wp-content/uploads/2009/06/BFM-car-sticker.jpg)
  [2]: http://www.bfm.my/
  [3]: http://www.bfm.my/276.html
  [4]: http://dictionary.reference.com/browse/hypocrite

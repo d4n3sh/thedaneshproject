@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1024960055
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-883" title="Google Turns 10" src="/wp-content/uploads/2008/09/google-10.png" alt="" width="400" height="145" />][1]
+![](/wp-content/uploads/2008/09/google-10.png)
 
 Google turns 10 today. I never realized 10 years passed so quick.
 
@@ -24,7 +24,7 @@ I love Google for one reason, every product from them has always been clean and 
 
 Scenario: 10 years from now, chances are Google will be everywhere and in everything. What happens if google suddenly get plugged out, "POOF" gone? What do you think would happen?
 
- [1]: /wp-content/uploads/2008/09/google-10.png
+ [1]: /wp-content/uploads/2008/09/google-10.png)
  [2]: http://en.wikipedia.org/wiki/Googleplex
  [3]: http://web.archive.org/web/19981111183552/google.stanford.edu
  [4]: http://www.google.com/chrome

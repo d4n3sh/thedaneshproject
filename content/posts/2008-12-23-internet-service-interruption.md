@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889867390
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1083" title="internet-interruption-map" src="/wp-content/uploads/2008/12/internet-interruption-map.gif" alt="internet-interruption-map" width="466" height="245" />
+![](/wp-content/uploads/2008/12/internet-interruption-map.gif)
 
 This from TM,
 

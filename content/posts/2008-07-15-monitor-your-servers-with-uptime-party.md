@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891077382
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-671" title="uptimeparty" src="/wp-content/uploads/2008/07/uptimeparty.png" alt="" width="500" height="313" />][1]
+![](/wp-content/uploads/2008/07/uptimeparty.png)
 
 [Uptime Party][2] is new web service to monitor your servers and their services. The service went public about 2 weeks back.
 
@@ -18,7 +18,7 @@ Services currently monitored are Web, Ping, SMTP, POP3, IMAP, FTP and SSH. Serve
 
 <!--more-->
 
-[<img loading="lazy" class="alignnone size-medium wp-image-673" title="uptimeparty2" src="/wp-content/uploads/2008/07/uptimeparty2.png" alt="" width="500" height="257" />][3]
+![](/wp-content/uploads/2008/07/uptimeparty2.png)
 
 The monitoring service is free for 1 server, anything more and you'll need to pay.
 
@@ -26,7 +26,7 @@ The monitoring service is free for 1 server, anything more and you'll need to pa
   * 5 servers for $4.99/month, checked every 30 minutes
   * 1 server for free, checked every 60 minutes
 
-[<img loading="lazy" class="alignnone size-medium wp-image-672" title="uptimeparty1" src="/wp-content/uploads/2008/07/uptimeparty1.png" alt="" width="500" height="254" />][4]
+![](/wp-content/uploads/2008/07/uptimeparty1.png)
 
 I had a short mail interview with the guys behind Uptime Party, here what they had to say about the service.
 
@@ -38,7 +38,7 @@ I had a short mail interview with the guys behind Uptime Party, here what they h
 
 Source: [Uptime Party][2]
 
- [1]: /wp-content/uploads/2008/07/uptimeparty.png
+ [1]: /wp-content/uploads/2008/07/uptimeparty.png)
  [2]: http://www.uptimeparty.com
- [3]: /wp-content/uploads/2008/07/uptimeparty2.png
- [4]: /wp-content/uploads/2008/07/uptimeparty1.png
+ [3]: /wp-content/uploads/2008/07/uptimeparty2.png)
+ [4]: /wp-content/uploads/2008/07/uptimeparty1.png)

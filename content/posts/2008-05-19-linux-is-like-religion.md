@@ -8,7 +8,7 @@ dsq_thread_id:
   - 929298482
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-572" title="linuxolution" src="/wp-content/uploads/2008/05/linuxolution1-500x191.png" alt="linuxolution" width="500" height="191" srcset="/wp-content/uploads/2008/05/linuxolution1-500x191.png 500w, /wp-content/uploads/2008/05/linuxolution1.png 680w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![](/wp-content/uploads/2008/05/linuxolution1-500x191.png)
 
 Linux to me is like religion. Even though I am not religious but I feel that Linux in some way is like religion. It's free, goes by many different names, it's changes over time to suit needs but ultimately it's personal.
 
@@ -18,5 +18,5 @@ I love openSUSE, my hardcore Linux friends love Debian and BSD. Many others love
 
 Source: [Zoitz][2]
 
- [1]: /wp-content/uploads/2008/05/linuxolution1.png
+ [1]: /wp-content/uploads/2008/05/linuxolution1.png)
  [2]: http://www.zoitz.com/archives/35

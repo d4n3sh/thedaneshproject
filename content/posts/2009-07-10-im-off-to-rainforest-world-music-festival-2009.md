@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893437805
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1635" title="rwmf-2009" src="/wp-content/uploads/2009/07/rwmf-2009.jpg" alt="rwmf-2009" width="500" height="606" />][1]
+![](/wp-content/uploads/2009/07/rwmf-2009.jpg)
 
 In da morning I'm flying off to Kuching for the 2009 Rainforest World Music Festival. [More on the event][2].
 
@@ -20,5 +20,5 @@ Beers, good music, jungle. I'm home!! 😀
 
 See ya next week
 
- [1]: /wp-content/uploads/2009/07/rwmf-2009.jpg
+ [1]: /wp-content/uploads/2009/07/rwmf-2009.jpg)
  [2]: http://www.rainforestmusic-borneo.com/web/en/chairman_message.html

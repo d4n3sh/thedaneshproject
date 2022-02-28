@@ -10,7 +10,7 @@ dsq_thread_id:
   - 932887124
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1320" title="ie8_logo" src="/wp-content/uploads/2009/03/ie8_logo.gif" alt="ie8_logo" width="191" height="30" />
+![](/wp-content/uploads/2009/03/ie8_logo.gif)
 
 For those of  you who use IE, IE 8 final is out and ready for download.
 

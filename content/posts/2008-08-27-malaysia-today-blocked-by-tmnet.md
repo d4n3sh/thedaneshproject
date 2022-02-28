@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893572713
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-854" title="malaysia-today-blocked" src="/wp-content/uploads/2008/08/malaysia-today-blocked.png" alt="" width="355" height="286" />][1]
+![](/wp-content/uploads/2008/08/malaysia-today-blocked.png)
 
 # [Malaysia Today][2] blocked by TMNET. Use
 
@@ -26,7 +26,7 @@ If you're on streamyx and usingÃ‚Â  TMNET dns servers (202.188.0.133/202.18
 
 Streamyx DNS servers are resolving malaysia-today.net to "127.0.0.1" .Ã‚Â  See screenshot
 
-[<img loading="lazy" class="alignnone size-medium wp-image-853" title="malaysia-today-blocked-dns" src="/wp-content/uploads/2008/08/malaysia-today-blocked-dns-500x398.png" alt="" width="500" height="398" srcset="/wp-content/uploads/2008/08/malaysia-today-blocked-dns-500x398.png 500w, /wp-content/uploads/2008/08/malaysia-today-blocked-dns.png 752w" sizes="(max-width: 500px) 100vw, 500px" />][3]
+![](/wp-content/uploads/2008/08/malaysia-today-blocked-dns-500x398.png)
 
 [openDNS][4] (208.67.222.222 / 208.67.220.220) and other DNS servers got it right so use them to get onto [Malaysia-Today][2] .
 
@@ -34,7 +34,7 @@ Again, the alternative URI
 
 # <span style="text-decoration: underline;"><span style="text-decoration: underline;">http://mt.harapanmalaysia.com/2008/</span></span>
 
- [1]: /wp-content/uploads/2008/08/malaysia-today-blocked.png
+ [1]: /wp-content/uploads/2008/08/malaysia-today-blocked.png)
  [2]: http://www.malaysia-today.net/2008/
- [3]: /wp-content/uploads/2008/08/malaysia-today-blocked-dns.png
+ [3]: /wp-content/uploads/2008/08/malaysia-today-blocked-dns.png)
  [4]: http://www.opendns.com/

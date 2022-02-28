@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 They make a sweet couple don't you think?
 
-<img loading="lazy" src="http://modblog.bmezine.com/wp-content/uploads/200703011934-pix1.jpg" height="435" width="550" /> 
+![](http://modblog.bmezine.com/wp-content/uploads/200703011934-pix1.jpg)
 
 Source: [ModBlog - Body modification and ritual blog sponsored by BMEzine.com][1]
 

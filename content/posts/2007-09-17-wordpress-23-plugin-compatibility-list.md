@@ -8,7 +8,7 @@ dsq_thread_id:
   - 913835655
 
 ---
-<img loading="lazy" src="http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif" align="left" height="112" width="112" />
+![](http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif)
 
 WordPress 2.3 Release Candidate 1 will be released later today. Since I'm in Malaysia where it's 13 hours ahead of the US, I will have to wait till tomorrow to read the official announcement.
 

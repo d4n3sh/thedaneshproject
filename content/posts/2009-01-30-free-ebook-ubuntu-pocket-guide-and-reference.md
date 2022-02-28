@@ -10,7 +10,7 @@ dsq_thread_id:
   - 899895505
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1214" title="ubuntu pocket guide and reference" src="/wp-content/uploads/2009/01/ubuntu-pocket-guide-and-reference-500x763.png" alt="ubuntu pocket guide and reference" width="500" height="763" srcset="/wp-content/uploads/2009/01/ubuntu-pocket-guide-and-reference-500x763.png 500w, /wp-content/uploads/2009/01/ubuntu-pocket-guide-and-reference.png 614w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/01/ubuntu-pocket-guide-and-reference-500x763.png)
 
 Ubuntu Pocket Guide and Reference by Keir Thomas.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 904409948
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1858" title="chrome-feedly-1" src="/wp-content/uploads/2009/11/chrome-feedly-1-450x352.png" alt="chrome-feedly-1" width="450" height="352" srcset="/wp-content/uploads/2009/11/chrome-feedly-1-450x352.png 450w, /wp-content/uploads/2009/11/chrome-feedly-1-1024x801.png 1024w, /wp-content/uploads/2009/11/chrome-feedly-1.png 1094w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/11/chrome-feedly-1-450x352.png)
 
 Based on popular demand the people at Feedly have released Feedly for Chorme. Getting it install is easy, here's how.
 
@@ -22,7 +22,7 @@ Follow [@feedly_chrome][6] on Twitter to stay up to date with the Feedly for Chr
 
 Source: [Blog@Feedly][7]
 
- [1]: /wp-content/uploads/2009/11/chrome-feedly-1.png
+ [1]: /wp-content/uploads/2009/11/chrome-feedly-1.png)
  [2]: http://www.google.com/chrome/eula.html?extra=devchannel
  [3]: http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac
  [4]: http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_deb

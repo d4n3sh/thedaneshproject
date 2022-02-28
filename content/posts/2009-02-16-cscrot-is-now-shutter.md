@@ -10,7 +10,7 @@ dsq_thread_id:
   - 894620628
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1271" title="shutter_192x192" src="/wp-content/uploads/2009/02/shutter_192x192.png" alt="shutter_192x192" width="192" height="192" srcset="/wp-content/uploads/2009/02/shutter_192x192.png 192w, /wp-content/uploads/2009/02/shutter_192x192-150x150.png 150w" sizes="(max-width: 192px) 100vw, 192px" />
+![](/wp-content/uploads/2009/02/shutter_192x192.png)
 
 [GScrot][1] is a powerful screen capture tool for Linux. The project went through a re-branding exercise earlier this month and now takes on a new, more appropriate name, "Shutter".
 

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 907155936
 
 ---
-<img loading="lazy" src="http://farm3.static.flickr.com/2152/2321184420_204a05586a_o.jpg" height="485" width="380" />
+![](http://farm3.static.flickr.com/2152/2321184420_204a05586a_o.jpg)
 
 Should Badawi (Pak Lah) resign as Malaysia's prime minister? So far there has been no signs of that happening as Badawi stated that he has no intention to resign.
 

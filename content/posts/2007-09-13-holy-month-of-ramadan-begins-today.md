@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736664
 
 ---
-<img loading="lazy" src="http://img389.imageshack.us/img389/9236/puasa3sa.jpg" height="300" width="400" />
+![](http://img389.imageshack.us/img389/9236/puasa3sa.jpg)
 
 Muslims around the world begin fasting today as it marks the beginning of the Holy month of Ramadan. Fasting is not easy task, it takes motivation, determination, faith and willpower. I have never fasted for more then a day. Maybe I'll try it with my Muslim pals this time.
 

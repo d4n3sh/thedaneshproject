@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891663950
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3116/3095791492_ec593d6054.jpg" alt="Screenshot-Find IT jobs on jobs.lowyat.net - Mozilla Firefox" width="500" height="412" />][1]
+![](http://farm4.static.flickr.com/3116/3095791492_ec593d6054.jpg)
 
 lowyat.net does jobs now. The service is just building momentum so the number job postings are minimum. Being one of the most popular site and forum around it's not gonna be hard to get the ball rolling.
 

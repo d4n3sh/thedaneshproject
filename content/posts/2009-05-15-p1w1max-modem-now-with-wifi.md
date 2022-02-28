@@ -10,7 +10,7 @@ dsq_thread_id:
   - 891034180
 
 ---
-[<img loading="lazy" class="alignnone" title="p1w1max  wifi modem" src="http://farm3.static.flickr.com/2306/3530686269_d8d679e3ef.jpg" alt="" width="500" height="232" />][1]
+![](http://farm3.static.flickr.com/2306/3530686269_d8d679e3ef.jpg)
 
 [P1][2] rolled out a new WIMAX modem (DV 230) this week.
 
@@ -24,9 +24,9 @@ I don't know anyone using the new modem yet. Are you?
 
 Check out the [plans][3] for the new WIFI modem.
 
-[<img loading="lazy" class="alignnone" title="p1w1max wifi modem plans" src="http://farm3.static.flickr.com/2277/3530694575_4ccf6992cc.jpg" alt="" width="499" height="500" />][4]
+![](http://farm3.static.flickr.com/2277/3530694575_4ccf6992cc.jpg)
 
- [1]: http://farm3.static.flickr.com/2306/3530686269_d8d679e3ef.jpg
+ [1]: http://farm3.static.flickr.com/2306/3530686269_d8d679e3ef.jpg)
  [2]: http://www.p1.com.my
  [3]: http://www.p1.com.my/wimax/packages_ref.aspx
- [4]: http://farm3.static.flickr.com/2277/3530694575_4ccf6992cc.jpg
+ [4]: http://farm3.static.flickr.com/2277/3530694575_4ccf6992cc.jpg)

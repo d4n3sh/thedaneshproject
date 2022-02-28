@@ -22,7 +22,7 @@ New structure : _**/posts/%postname%/**_
 
 What happens to all the incoming links from other sites? Fixed that by using the [permalink-redirect][3] plug in by [Scott Yang][4]. See screenshot below.
 
-[<img src="/wp-content/uploads/2007/08/permalink-redirect.jpg" title="permalink redirect" alt="permalink redirect" width="500" />][5]
+![](/wp-content/uploads/2007/08/permalink-redirect.jpg)
 
 The plug in was initially installed to help add a trailing slash "/" to all my posts url(s) and also redirect all www.thedaneshproject.com to thedaneshproject.com. This was to help improve the accuracy of traffic tracking through [Google Analytics][6] and [Google Webmaster][7]. Now it is playing a larger role by making my permalink changes transparent to all incoming links which may be pointing to my old structure. A sample of what it is doing,
 
@@ -32,11 +32,11 @@ That's it, now I'll have to wait and if anything broke.
 
 If you need any help applying the same changes to your WP blog please leave a comment or get in touch with me though the [Contact Me][8] form and I'll be glad to help.
 
- [1]: /wp-content/uploads/2007/08/permalink-structure.jpg
- [2]: /wp-content/uploads/2007/08/permalink-structure.jpg "permalink structure"
+ [1]: /wp-content/uploads/2007/08/permalink-structure.jpg)
+ [2]: /wp-content/uploads/2007/08/permalink-structure.jpg)
  [3]: http://fucoder.com/code/permalink-redirect/
  [4]: http://scott.yang.id.au/
- [5]: /wp-content/uploads/2007/08/permalink-redirect.jpg "permalink redirect"
+ [5]: /wp-content/uploads/2007/08/permalink-redirect.jpg)
  [6]: http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.google.com%2Fanalytics%2F&ei=X4zIRrXoM5COgAPl7bDPBg&usg=AFQjCNFz3Lrd3h9xlat60IUur_H8rmADdw&sig2=ZXTu2Sb2qxBUXQztQD0f5Q
  [7]: http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.google.com%2Fwebmasters%2F&ei=c4zIRsKtBpXWgQOo8vXoBg&usg=AFQjCNHRdsvJbOWLCqMoLtM0kUyTiNOzdw&sig2=W4zAuqv-I55JYnfEIWrsUA
  [8]: /contact-me/

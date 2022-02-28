@@ -8,7 +8,7 @@ dsq_thread_id:
   - 892770394
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1976" title="You.Tube.Disco" src="/wp-content/uploads/2010/01/You.Tube_.Disco_-450x347.png" alt="" width="450" height="347" srcset="/wp-content/uploads/2010/01/You.Tube_.Disco_-450x347.png 450w, /wp-content/uploads/2010/01/You.Tube_.Disco_.png 981w" sizes="(max-width: 450px) 100vw, 450px" />
+![](/wp-content/uploads/2010/01/You.Tube_.Disco_-450x347.png)
 
 Cool feature from YouTube. I think the service is called "DISCO", short for  "YouTube Music Discovery Project and Playlist Creation Tool".
 

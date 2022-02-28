@@ -10,7 +10,7 @@ dsq_thread_id:
   - 890055213
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1279" title="Ubuntu Tweak 0.4.5" src="/wp-content/uploads/2009/02/ubuntu-tweak-045-500x338.png" alt="Ubuntu Tweak 0.4.5" width="500" height="338" srcset="/wp-content/uploads/2009/02/ubuntu-tweak-045-500x338.png 500w, /wp-content/uploads/2009/02/ubuntu-tweak-045.png 748w" sizes="(max-width: 500px) 100vw, 500px" />  
+![](/wp-content/uploads/2009/02/ubuntu-tweak-045-500x338.png)
 Ubuntu Tweak 0.4.5 is out.
 
 Ubuntu Tweak is an application to help users easily configure their Ubuntu installation. From installing new software to cleaning up junk, Ubuntu Tweak doesÂ  it all. Ubuntu Tweak is open source and distributed under the GPL license.

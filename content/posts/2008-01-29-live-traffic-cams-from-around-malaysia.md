@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889812531
 
 ---
-[<img src="http://img301.imageshack.us/img301/2456/jgspotsxl0.jpg" border="0" />][1]
+![](http://img301.imageshack.us/img301/2456/jgspotsxl0.jpg)
 
 The weather these past weeks has been dreadful. Rain, sun, scorching sun then followed rain again. I had to throw out quite a few plans.
 
@@ -20,5 +20,5 @@ Thanks to JGSpot I'm still the the office.
 
 Source: [JGSpot][2]
 
- [1]: http://img301.imageshack.us/img301/3782/jgspotcu4.jpg
+ [1]: http://img301.imageshack.us/img301/3782/jgspotcu4.jpg)
  [2]: http://jgspot.com/index.php

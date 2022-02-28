@@ -8,7 +8,7 @@ dsq_thread_id:
   - 999797507
 
 ---
-<img loading="lazy" src="http://i62.photobucket.com/albums/h100/vwvr9/pajamabanner.jpg" height="95" width="450" />
+![](http://i62.photobucket.com/albums/h100/vwvr9/pajamabanner.jpg)
 
 Happy 1st birthday Nuffnang.
 

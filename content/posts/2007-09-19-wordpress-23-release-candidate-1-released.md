@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737408
 
 ---
-<img loading="lazy" align="left" width="112" src="http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif" height="112" />WordPress 2.3 Release Candidate 1 is now availble for download.
+![](http://img212.imageshack.us/img212/1458/wp20squarebuttonhm5.gif)
 
 This will be the only release candidate before the final release before the 2.3 final release scheduled for 24th September 2007.
 

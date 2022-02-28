@@ -8,7 +8,7 @@ dsq_thread_id:
   - 891414566
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1896" title="astro.byond" src="/wp-content/uploads/2009/12/astro.byond_-450x306.png" alt="astro.byond" width="450" height="306" srcset="/wp-content/uploads/2009/12/astro.byond_-450x306.png 450w, /wp-content/uploads/2009/12/astro.byond_.png 644w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/12/astro.byond_-450x306.png)
 
 <!--more-->
 
@@ -38,5 +38,5 @@ Something to remember, if you live in an apartment with a centralized Astro dis
 
 Source: [Astro B.yond][2]
 
- [1]: /wp-content/uploads/2009/12/astro.byond_.png
+ [1]: /wp-content/uploads/2009/12/astro.byond_.png)
  [2]: http://www.astro.com.my/byond/index.asp

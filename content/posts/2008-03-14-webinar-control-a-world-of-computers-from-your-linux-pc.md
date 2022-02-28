@@ -8,7 +8,7 @@ dsq_thread_id:
   - 931910345
 
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3050/2331774897_ce37b9fba6_o.jpg" alt="Webinar: Control a World of Computers From Your Linux PC" border="0" height="200" width="450" />][1]
+![](http://farm4.static.flickr.com/3050/2331774897_ce37b9fba6_o.jpg)
 
 A new O'Reilly webinar is coming soon.
 

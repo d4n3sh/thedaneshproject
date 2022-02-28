@@ -10,7 +10,7 @@ dsq_thread_id:
   - 889897678
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1313" title="earth-hour-malaysia-2009" src="/wp-content/uploads/2009/03/earth-hour-malaysia-2009-500x370.png" alt="earth-hour-malaysia-2009" width="500" height="370" srcset="/wp-content/uploads/2009/03/earth-hour-malaysia-2009-500x370.png 500w, /wp-content/uploads/2009/03/earth-hour-malaysia-2009.png 563w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/03/earth-hour-malaysia-2009-500x370.png)
 
 500 Megawatts or 14 million fluorescent bulbs at 40 watt each. That's what [Earth Hour Malaysia 2009][1] managed to save according to [TheStar][2]. Yes TNB lost some money, but do they really need it?
 

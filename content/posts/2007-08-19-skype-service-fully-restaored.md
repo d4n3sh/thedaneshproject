@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889737480
 
 ---
-<img loading="lazy" src="/techblog/wp-content/uploads/2007/01/skype30thumbnail.png" height="100" width="225" />
+![](/techblog/wp-content/uploads/2007/01/skype30thumbnail.png)
 
 Skype service has been fully restored after 2 days of outage due to problems with the login system.
 

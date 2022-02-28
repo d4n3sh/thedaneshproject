@@ -8,7 +8,7 @@ dsq_thread_id:
   - 931898361
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-2148" title="Christoph Niemann" src="/wp-content/uploads/2010/05/Christoph-Niemann.png" alt="" width="400" height="397" srcset="/wp-content/uploads/2010/05/Christoph-Niemann.png 400w, /wp-content/uploads/2010/05/Christoph-Niemann-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+![](/wp-content/uploads/2010/05/Christoph-Niemann.png)
 
 Google, today released a new stable release of it's popular web browser Google Chrome packed with all the beta goodies we have come to love. To add to the excitement, this will also be the first stable release of the browser for the [Linux][1] and [Mac][2] platforms.
 

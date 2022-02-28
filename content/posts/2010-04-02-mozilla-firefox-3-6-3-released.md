@@ -8,7 +8,7 @@ dsq_thread_id:
   - 917402377
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-687" title="firefox-logo" src="/wp-content/uploads/2008/07/firefox-logo.png" alt="" width="305" height="150" />
+![](/wp-content/uploads/2008/07/firefox-logo.png)
 
 Mozilla today released Firefox 3.6.3. It's a security fix so make sure you get updated ASAP
 

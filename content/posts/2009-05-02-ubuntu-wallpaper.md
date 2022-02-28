@@ -16,8 +16,8 @@ Hong Kiat published a good selection of Ubuntu Wallpapers a few days back. The s
 
 Quite sure took them some time to put the collection together.  [Check it out.][1]
 
-<img loading="lazy" class="alignnone size-full wp-image-1435" title="ubuntu_wallpaper_11" src="/wp-content/uploads/2009/05/ubuntu_wallpaper_11.jpg" alt="ubuntu_wallpaper_11" width="500" height="375" /> 
+![](/wp-content/uploads/2009/05/ubuntu_wallpaper_11.jpg)
 
-<img loading="lazy" class="alignnone size-full wp-image-1434" title="3d_ubuntu_10" src="/wp-content/uploads/2009/05/3d_ubuntu_10.jpg" alt="3d_ubuntu_10" width="500" height="312" />
+![](/wp-content/uploads/2009/05/3d_ubuntu_10.jpg)
 
  [1]: http://www.hongkiat.com/blog/60-most-execellent-ubuntu-wallpapers/

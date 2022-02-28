@@ -10,7 +10,7 @@ dsq_thread_id:
   - 988153310
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-816" title="apple-iphone-3g-singtel" src="/wp-content/uploads/2008/08/apple-iphone-3g-singtel.jpg" alt="" width="489" height="279" />][1]
+![](/wp-content/uploads/2008/08/apple-iphone-3g-singtel.jpg)
 
 iPhone 3G is coming to Singapore.
 
@@ -22,7 +22,7 @@ Was thinking of getting myself an iPhone 3G but the plan has since changed with 
 
 Source: [I.Z. Reloaded][5]
 
- [1]: /wp-content/uploads/2008/08/apple-iphone-3g-singtel.jpg
+ [1]: /wp-content/uploads/2008/08/apple-iphone-3g-singtel.jpg)
  [2]: http://izreloaded.blogspot.com/2008/08/exclusive-singtel-iphone-updates.html
  [3]: http://home.singtel.com/customer_service/cust_serv_locateus_iphone3g.asp
  [4]: http://home.singtel.com/singtel/index.html#iphone

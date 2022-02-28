@@ -8,7 +8,7 @@ dsq_thread_id:
   - 920541175
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-1831" title="IE-4" src="/wp-content/uploads/2009/11/IE-4-450x223.jpg" alt="IE-4" width="450" height="223" srcset="/wp-content/uploads/2009/11/IE-4-450x223.jpg 450w, /wp-content/uploads/2009/11/IE-4.jpg 480w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+![](/wp-content/uploads/2009/11/IE-4-450x223.jpg)
 
 This is so true!!
 
@@ -18,5 +18,5 @@ IE is only use to browse my local Intranet aka "sharepoint" and to download my e
 
 Source: [TheNextWeb][2]
 
- [1]: /wp-content/uploads/2009/11/IE-4.jpg
+ [1]: /wp-content/uploads/2009/11/IE-4.jpg)
  [2]: http://thenextweb.com/shareables/2009/11/04/reasons-internet-explorer/

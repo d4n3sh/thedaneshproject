@@ -8,7 +8,7 @@ dsq_thread_id:
   - 912005653
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1922" title="simple-tags-wp2.9-error" src="/wp-content/uploads/2009/12/simple-tags-wp2.9-error.png" alt="" width="395" height="129" />  
+![](/wp-content/uploads/2009/12/simple-tags-wp2.9-error.png)
 Upgraded to WordPress 2.9 and your simple tags plugin stopped working? Here's a quick fix till the [author][1] releases a new version.
 
 `// Check version.<br />

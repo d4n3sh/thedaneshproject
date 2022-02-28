@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 Looks like the [FTTH][1] ( Fiber To The Home ) in Malaysia ball is rolling again. There are reports of Maxis and TM enrolling testers in Bangsar and Sri Hartamas to carry out beta testing.
 
-[<img loading="lazy" class="alignnone size-full wp-image-1851" title="623119038" src="/wp-content/uploads/2009/11/623119038.png" alt="623119038" width="300" height="135" />][2]
+![](/wp-content/uploads/2009/11/623119038.png)
 
 This what Alan Tan who's currently [beta testing the Maxis FTTH][3] is getting. WOW! .... Sigh... I want, I want.
 
@@ -23,7 +23,7 @@ TM is the backbone, they have the money which gave them some advantage before bu
 Source: [Alan Tan][3] | [Fain][5]
 
  [1]: http://en.wikipedia.org/wiki/Fiber_to_the_x
- [2]: /wp-content/uploads/2009/11/623119038.png
+ [2]: /wp-content/uploads/2009/11/623119038.png)
  [3]: http://asia.cnet.com/blogs/poptech-for-you/post.htm?id=63014886&scid=hm_bl
  [4]: /posts/youtube-goes-1080p-hd-this-week/
  [5]: http://fainonline.blogspot.com/

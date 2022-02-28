@@ -10,7 +10,7 @@ dsq_thread_id:
   - 931640639
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1103" title="2009-hny" src="/wp-content/uploads/2009/01/2009-hny.png" alt="2009-hny" width="468" height="180" />
+![](/wp-content/uploads/2009/01/2009-hny.png)
 
 Happy new year. I'm 3 days behind, talk about a good start.
 

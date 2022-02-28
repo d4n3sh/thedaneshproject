@@ -2,13 +2,10 @@
 title: Picasa Web Albums now 1GB
 author: Danesh Manoharan
 date: 2007-05-19T11:25:09+00:00
-pvc_views:
-  - 1996
-dsq_thread_id:
-  - 889737041
-
+tags:
+- google
 ---
-[<img src="/wp-content/uploads/2007/05/picasa-web1.png" title="picasa-web1.png" alt="picasa-web1.png" align="right" />][1]I was uploading some pictures to my picasa web album this morning and realized somthing new. I have 1GB of storage now, I used to only have 100MB a week back. This is sweet!!
+![](/wp-content/uploads/2007/05/picasa-web1.png)
 
 If you need more storage you will need to pay and I have the price list. See below.
 
@@ -21,6 +18,6 @@ If you need more storage you will need to pay and I have the price list. See bel
 
 [Picasa Web Albums][3]
 
- [1]: /wp-content/uploads/2007/05/picasa-web1.png "picasa-web1.png"
- [2]: http://picasaweb.google.com/lh/upgradeStorage
- [3]: http://picasaweb.google.com
+[1]: /wp-content/uploads/2007/05/picasa-web1.png)  
+[2]: http://picasaweb.google.com/lh/upgradeStorage  
+[3]: http://picasaweb.google.com  

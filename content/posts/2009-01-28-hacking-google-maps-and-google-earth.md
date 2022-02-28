@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893135953
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1202" title="hacking-googlemaps-googleearth-extremetech-martin" src="/wp-content/uploads/2009/01/hacking-googlemaps-googleearth-extremetech-martin.jpg" alt="hacking-googlemaps-googleearth-extremetech-martin" width="395" height="500" />
+![](/wp-content/uploads/2009/01/hacking-googlemaps-googleearth-extremetech-martin.jpg)
 
 Picked up a new book over the weekend. [Hacking Google Maps and Google Earth][1] by Martin C. Brown. ISBN:0471790095
 

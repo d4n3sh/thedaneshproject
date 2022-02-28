@@ -10,7 +10,7 @@ dsq_thread_id:
   - 892420874
 
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-1153" title="adobe-air-15" src="/wp-content/uploads/2009/01/adobe-air-15-500x206.png" alt="adobe-air-15" width="500" height="206" srcset="/wp-content/uploads/2009/01/adobe-air-15-500x206.png 500w, /wp-content/uploads/2009/01/adobe-air-15-1024x422.png 1024w, /wp-content/uploads/2009/01/adobe-air-15.png 1415w" sizes="(max-width: 500px) 100vw, 500px" />
+![](/wp-content/uploads/2009/01/adobe-air-15-500x206.png)
 
 1. Download Adobe AIR 1.5 at <http://get.adobe.com/air/> or use the [direct Link][1] .
 
