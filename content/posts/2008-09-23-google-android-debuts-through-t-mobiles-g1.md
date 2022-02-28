@@ -10,7 +10,7 @@ dsq_thread_id:
   - 967064573
 
 ---
-<figure id="attachment_964" aria-describedby="caption-attachment-964" style="width: 226px" class="wp-caption alignnone"><img loading="lazy" class="size-medium wp-image-964" title="T-Mobile G1" src="/wp-content/uploads/2008/09/tmobile-g1.jpg" alt="T-Mobile G1" width="226" height="282" /><figcaption id="caption-attachment-964" class="wp-caption-text">T-Mobile G1</figcaption></figure>
+![T-Mobile G1](/wp-content/uploads/2008/09/tmobile-g1.jpg "T-Mobile G1")
 
 T-Mobile today officially announed it new smart phone G1 which is powered by Google Android. Watch the webcast
 

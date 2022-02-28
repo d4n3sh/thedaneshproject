@@ -2,13 +2,6 @@
 title: WordPress 2.6 Released
 author: Danesh Manoharan
 date: 2008-07-15T14:14:31+00:00
-robotsmeta:
-  - index,follow
-pvc_views:
-  - 3351
-dsq_thread_id:
-  - 1166476704
-
 ---
 WordPress 2. 6 (Tyner) is out with some new improvements.
 
@@ -16,9 +9,9 @@ WordPress 2. 6 (Tyner) is out with some new improvements.
 
 2. A new Press This! button. :: Directly post from any site you are on. Plus support to automatically detect media files from sites like YouTube and Flickr.
 
-2. Google Gears :: My fav, you get a local cache for your WordPress. Speedier access and the possibility of new and better feature moving forward.
+3. Google Gears :: My fav, you get a local cache for your WordPress. Speedier access and the possibility of new and better feature moving forward.
 
-<figure id="attachment_675" aria-describedby="caption-attachment-675" style="width: 492px" class="wp-caption alignnone">[<img loading="lazy" src="/wp-content/uploads/2008/07/wp26-gears.png)
+![](/wp-content/uploads/2008/07/wp26-gears.png)
 
 3. Theme Previews :: Now you get to preview your theme without enabling it.  
 <!--more-->

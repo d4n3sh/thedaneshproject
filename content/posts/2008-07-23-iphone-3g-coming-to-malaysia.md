@@ -10,7 +10,7 @@ dsq_thread_id:
   - 925861145
 
 ---
-<figure style="width: 500px" class="wp-caption alignnone"><img loading="lazy" title="iPhone 3G" src="/wp-content/uploads/2008/06/iphone3g.png" alt="iPhone 3G" width="500" height="205" /><figcaption class="wp-caption-text">iPhone 3G</figcaption></figure>
+![iPhone 3G](/wp-content/uploads/2008/06/iphone3g.png)
 
 This might be old news but ya, Maxis is bringing in the iPhone 3G.
 

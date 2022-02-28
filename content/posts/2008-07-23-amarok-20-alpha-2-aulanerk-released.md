@@ -10,7 +10,7 @@ dsq_thread_id:
   - 893002203
 
 ---
-<figure style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" title="Amarok 2.0 Alpha 2 (Aulanerk)" src="http://farm4.static.flickr.com/3203/2693579466_b36d174f7b.jpg" alt="Amarok 2.0 Alpha 2 (Aulanerk)" width="500" height="301" />][1]<figcaption class="wp-caption-text">Amarok 2.0 Alpha 2 (Aulanerk)</figcaption></figure>
+![alt="Amarok 2.0 Alpha 2](http://farm4.static.flickr.com/3203/2693579466_b36d174f7b.jpg)
 
 Heads up Amarok fans.
 

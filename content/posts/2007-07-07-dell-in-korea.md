@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736655
 
 ---
-Â <img loading="lazy" src="http://farm2.static.flickr.com/1167/744842281_25ba5da269.jpg?v=0" height="375" width="500" />
+![](http://farm2.static.flickr.com/1167/744842281_25ba5da269.jpg?v=0)
 
 [More pictures here.][1] 
 

@@ -18,21 +18,21 @@ My recommendation for future events would be to make them more interactive. Some
 
 Bloggers I met;
 
-  * May Ong
-  * [Jason][3]
-  * [AndyMervinGeorge][4]
-  * [HuayPhing][5]
-  * [Shaunng][6]
-  * [Devince][7]
-  * [Wilzc][8]
-  * [Ivan][9]
-  * [Angelic Kelz][10]
+* May Ong
+* [Jason][3]
+* [AndyMervinGeorge][4]
+* [HuayPhing][5]
+* [Shaunng][6]
+* [Devince][7]
+* [Wilzc][8]
+* [Ivan][9]
+* [Angelic Kelz][10]
 
 <span class="title6"></span><!--more-->
 
 ![](http://farm3.static.flickr.com/2076/2191095184_a2c49d7160.jpg)
 
-![][11]![][12]![][13]![][14]<img loading="lazy" src="http://farm3.static.flickr.com/2345/2191095746_1babbbe6ca.jpg)
+![](http://farm3.static.flickr.com/2345/2191095746_1babbbe6ca.jpg)
 
  [1]: http://wingloon.com/
  [2]: http://www.abinesh.com/delirium/

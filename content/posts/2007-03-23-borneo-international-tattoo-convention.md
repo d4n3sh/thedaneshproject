@@ -8,7 +8,7 @@ dsq_thread_id:
   - 889736463
 
 ---
-[<img loading="lazy" src="http://www.borneotattooconvention.com/sibu/images/frontpage-1.gif" height="350" width="500" />][1]
+![](http://www.borneotattooconvention.com/sibu/images/frontpage-1.gif)
 
 [Borneo International Tattoo Convention][1]
 

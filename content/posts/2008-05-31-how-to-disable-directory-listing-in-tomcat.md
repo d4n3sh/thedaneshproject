@@ -2,13 +2,8 @@
 title: How to disable directory listing in Tomcat
 author: Danesh Manoharan
 date: 2008-05-30T19:27:47+00:00
-pvc_views:
-  - 10744
-dsq_thread_id:
-  - 891264922
-
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-591" title="tomcat" src="/wp-content/uploads/2008/05/tomcat1.gif" alt="tomcat" width="130" height="92" />][1]
+![tomcat](/wp-content/uploads/2008/05/tomcat1.gif "tomcat")
 
 This is how you turn off directory list for yr Tomcat server.
 

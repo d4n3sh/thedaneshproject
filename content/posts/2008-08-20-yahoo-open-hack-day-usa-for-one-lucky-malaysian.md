@@ -2,15 +2,8 @@
 title: Yahoo! Open Hack Day (USA) for one lucky Malaysian
 author: Danesh Manoharan
 date: 2008-08-19T17:58:17+00:00
-robotsmeta:
-  - index,follow
-pvc_views:
-  - 5556
-dsq_thread_id:
-  - 895932716
-
 ---
-<figure id="attachment_809" aria-describedby="caption-attachment-809" style="width: 500px" class="wp-caption alignnone">[<img loading="lazy" class="size-medium wp-image-809" title="Yahoo HQ, SunnyVale, CA" src="/wp-content/uploads/2008/08/yahoo-sunnyvale-500x333.jpg" alt="Yahoo HQ, SunnyVale, CA" width="500" height="333" srcset="/wp-content/uploads/2008/08/yahoo-sunnyvale-500x333.jpg 500w, /wp-content/uploads/2008/08/yahoo-sunnyvale.jpg 610w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption id="caption-attachment-809" class="wp-caption-text">Yahoo HQ, SunnyVale, CA</figcaption></figure>
+![Yahoo HQ, SunnyVale, CA](/wp-content/uploads/2008/08/yahoo-sunnyvale-500x333.jpg "Yahoo HQ, SunnyVale, CA")
 
 Yahoo! Open Hack Day (USA) is scheduled for 12th-13th September 2008 and one lucky Malaysian stands a chance to participate in the event which will be held at Yahoo's HQ in Sunnyvale, CA. All paid for by Yahoo.
 

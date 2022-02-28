@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1675085718
 
 ---
-<a href="http://thestar.com.my/news/story.asp?file=/2009/6/23/nation/4175387&sec=nation" target="_blank"><img loading="lazy" class="alignnone size-medium wp-image-1542" title="tranmission" src="/wp-content/uploads/2009/06/tranmission-500x440.jpg" alt="tranmission" width="500" height="440" srcset="/wp-content/uploads/2009/06/tranmission-500x440.jpg 500w, /wp-content/uploads/2009/06/tranmission.jpg 589w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+[![tranmission](/wp-content/uploads/2009/06/tranmission-500x440.jpg "tranmission")](http://thestar.com.my/news/story.asp?file=/2009/6/23/nation/4175387&sec=nation)
 
 [SRJKC Jalan Davidson][1] , [SRK Assunta 2][2] and [Cempaka International School][3] have all been ordered to close for a week or more following confirmed cases of the [H1N1 flu (swine flu)][4] amongst their students.
 
