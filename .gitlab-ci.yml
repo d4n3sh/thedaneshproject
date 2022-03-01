@@ -21,7 +21,7 @@ testing:
   stage: testing
   script:
     - apk add --no-cache git
-    - hugo --gc
+    - hugo --minify --gc -v
   artifacts:
     paths:
       - public
