@@ -4,8 +4,8 @@ description: "Two quick ways to obtain the EOS version running on a Arista switc
 date: 2022-02-24T15:31:26-06:00
 draft: false
 tags:
-- networking
 - howto
+- arista
 cover:
     image: "Arista_Logo.png"
     alt: "Arista Logo"
