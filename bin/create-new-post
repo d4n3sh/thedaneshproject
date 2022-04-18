@@ -24,3 +24,5 @@ echo "Executing: hugo new --kind post posts/${date}-${post_title}"
 hugo new --kind post "posts/${date}-${post_title}"
 
 vim "content/posts/${date}-${post_title}/index.md"
+
+# ❯ sed -e 's/^title: \"[0-9][0-9][0-9][0-9] [0-9][0-9] [0-9][0-9] '/'title: "'/g index.md

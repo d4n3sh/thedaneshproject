@@ -14,6 +14,7 @@ images:
 tags:
 - 
 type: post
+lastmod: {{ .Date }}
 draft: true
 ---
 
