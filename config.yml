@@ -108,6 +108,8 @@ params:
       url: "https://open.spotify.com/user/danesh.manoharan"
     - name: email
       url: "mailto:hello@thedaneshproject.com?subject=Hello"
+    - name: rss
+      url: "/index.xml"
 
   # analytics:
   #   google:
