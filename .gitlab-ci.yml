@@ -12,7 +12,7 @@ stages:
 include:
 - template: Security/SAST.gitlab-ci.yml
 
-image: registry.gitlab.com/pages/hugo/hugo:0.92.2
+image: registry.gitlab.com/pages/hugo/hugo:0.105.0
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
