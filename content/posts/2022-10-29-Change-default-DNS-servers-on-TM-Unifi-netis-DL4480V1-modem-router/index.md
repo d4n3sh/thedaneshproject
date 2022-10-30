@@ -49,10 +49,10 @@ IPv6
 ### Steps
 
 1. Log on to the router at `192.168.1.1`. http://192.168.1.1/
-2. Login is `tmadmin` and password is `Adm@[last 4 characcter in the mac address]`
-3. Navigate to "Service" -> "DNS Server" page.
-4. Change "Domain Name Server Assignment" to "Manual".
+2. Login is `tmadmin` and password is `Adm@[last 4 characters in the mac address]`
+3. Navigate to the "Service" -> "DNS Server" page.
+4. Change "Domain Name Server Assignment" option to "Manual".
 5. Update the Domain Name Server [1..3] fields with the new DNS servers.
-6. Navigate to "Service" -> "DHCP" page.
-7. Update "DNS Option" tp "Use DNS Relay".
+6. Navigate to the "Service" -> "DHCP" page.
+7. Update "DNS Option" to "Use DNS Relay".
 8. Apply your changes and reboot the router.
