@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+git submodule summary
+git submodule update --remote --merge
