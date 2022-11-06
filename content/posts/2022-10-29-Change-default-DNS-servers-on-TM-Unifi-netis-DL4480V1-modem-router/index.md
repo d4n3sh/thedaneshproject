@@ -17,7 +17,6 @@ tags:
 - malaysia
 - dns
 - howto
-type: post
 lastmod: 2022-10-29T19:21:45+08:00
 draft: false
 ---
