@@ -16,7 +16,6 @@ tags:
 - vagrant
 - macos
 - ventura
-type: post
 lastmod: 2022-11-05T23:32:22+08:00
 draft: false
 ---
