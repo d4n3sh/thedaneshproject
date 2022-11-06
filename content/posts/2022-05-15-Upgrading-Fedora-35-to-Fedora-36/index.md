@@ -15,7 +15,6 @@ tags:
 - howto
 - fedora
 - linux
-type: post
 lastmod: 2022-05-15T13:25:48-05:00
 draft: false
 ---
