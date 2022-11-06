@@ -1,5 +1,5 @@
 ---
-baseURL: "https://thedaneshproject.com/"
+baseURL: "/"
 title: The Danesh Project
 paginate: 5
 theme: PaperMod
