@@ -1,6 +1,6 @@
 ---
 author: "Danesh Manoharan"
-title: "2022 12 06 Disabling Google Analytics on Tdp"
+title: "Disabling Google Analytics on Tdp"
 date: 2022-12-06T11:12:01+08:00
 description: "" # Post description, shows up below title
 cover:

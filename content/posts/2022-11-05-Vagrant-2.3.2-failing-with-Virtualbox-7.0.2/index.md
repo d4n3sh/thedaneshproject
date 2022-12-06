@@ -1,6 +1,6 @@
 ---
 author: "Danesh Manoharan"
-title: "2022 11 05 Vagrant 2.3.2 Failing With Virtualbox 7.0.2"
+title: "Vagrant 2.3.2 Failing With Virtualbox 7.0.2"
 date: 2022-11-05T23:32:22+08:00
 description: "Vagrant can't create a host-only private network on Virtualbox 7, use intnet instead." # Post description, shows up below title
 cover:
