@@ -11,7 +11,7 @@ buildExpired: false
 relativeURLs: true
 enableGitInfo: true
 
-googleAnalytics: G-6L9QBHWEKX
+#googleAnalytics: G-6L9QBHWEKX
 
 outputs:
   home:
